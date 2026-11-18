@@ -1,0 +1,14 @@
+{
+  "source": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\data\\input\\mobility\\openalex_mobility_rates\\author_year_primary_location.parquet",
+  "audit_1pct_authors": {
+    "author_year_keys": 1415804,
+    "duplicate_keys": 0.0,
+    "maximum_rows": 1
+  },
+  "mapping": {
+    "rows": 141134179,
+    "mapped_rows": 139218395.0
+  },
+  "mass": "Distinct author-year pairs at harmonized annual primary-affiliation city, divided by seven; primary-location activity, not population or all employed scientists.",
+  "distance": "Fixed 1998-2004 primary-author-activity-weighted origin-country centroid to actual destination-city coordinates; approximate source-country distance."
+}

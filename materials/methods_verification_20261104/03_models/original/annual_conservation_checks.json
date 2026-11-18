@@ -1,0 +1,3194 @@
+[
+  {
+    "country": "CN",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CN",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CN",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CN",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CN",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CN",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "US",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JP",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IN",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GB",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IT",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ES",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ID",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RU",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CA",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AU",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NL",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PL",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MX",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CH",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PK",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PT",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DK",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IL",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MY",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EG",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NG",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "FI",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "ZA",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UA",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CZ",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NO",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CO",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HU",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AT",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VN",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TH",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BD",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SA",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CL",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TN",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MA",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RO",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "NZ",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "DZ",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "RS",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "HR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SK",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PH",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "GH",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "KE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BG",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "SI",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LK",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CU",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CM",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "JO",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "TZ",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "VE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "UG",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "LT",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "EE",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "PR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "CR",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "BY",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MW",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "IS",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "AM",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 1,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 2,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 3,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 4,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 5,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  },
+  {
+    "country": "MT",
+    "p": 6,
+    "annual_events_reconcile_to_period": true,
+    "origin_totals_preserved": true,
+    "total_city_strength_preserved": true
+  }
+]

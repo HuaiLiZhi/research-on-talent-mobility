@@ -1,0 +1,111 @@
+{
+  "window": "2013-2023",
+  "cohort": "2012-2018 entries, first domestic continuation within 5 years, publication-observable through entry+5",
+  "target_events": 319402,
+  "all_domestic_events_in_76_countries": 9339789,
+  "pooled_fraction": 0.034197988841075534,
+  "summaries": [
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "metric": "target_event_fraction",
+      "median": 0.03840913555072208,
+      "CI_low": 0.034549800083061216,
+      "CI_high": 0.04570660679050146,
+      "positive": 59,
+      "negative": 0
+    },
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "metric": "Gini_difference_pp",
+      "median": 0.002667095379238482,
+      "CI_low": -0.00023155015576037385,
+      "CI_high": 0.005839425176690227,
+      "positive": 36,
+      "negative": 23
+    },
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "metric": "HHI_relative_difference_pct",
+      "median": 0.02414109932260544,
+      "CI_low": 0.0035196315535168665,
+      "CI_high": 0.059509507178678867,
+      "positive": 37,
+      "negative": 22
+    },
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "metric": "mean_annual_Gini_difference_pp",
+      "median": 0.0019454424329591222,
+      "CI_low": -0.005752578618462517,
+      "CI_high": 0.005819240238987126,
+      "positive": 34,
+      "negative": 25
+    },
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "metric": "mean_annual_HHI_relative_difference_pct",
+      "median": 0.017458046000360584,
+      "CI_low": -0.013910873888312025,
+      "CI_high": 0.05927443481416353,
+      "positive": 34,
+      "negative": 25
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "metric": "target_event_fraction",
+      "median": 0.040925501515697335,
+      "CI_low": 0.03438629448879995,
+      "CI_high": 0.04926290323695848,
+      "positive": 44,
+      "negative": 0
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "metric": "Gini_difference_pp",
+      "median": 0.0029718711374693285,
+      "CI_low": 8.496407915004056e-05,
+      "CI_high": 0.005986395804347135,
+      "positive": 29,
+      "negative": 15
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "metric": "HHI_relative_difference_pct",
+      "median": 0.03244301433653618,
+      "CI_low": -0.006392573882063601,
+      "CI_high": 0.06778991780369559,
+      "positive": 28,
+      "negative": 16
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "metric": "mean_annual_Gini_difference_pp",
+      "median": 0.0026071711200301917,
+      "CI_low": -0.002655145547885757,
+      "CI_high": 0.00823223315577644,
+      "positive": 27,
+      "negative": 17
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "metric": "mean_annual_HHI_relative_difference_pct",
+      "median": 0.023626367127870855,
+      "CI_low": -0.009708082418727589,
+      "CI_high": 0.0736205258759433,
+      "positive": 27,
+      "negative": 17
+    }
+  ],
+  "reference": "Pooled target-plus-other matched risk sets, independent finite draws per stratum. Replace target destination counts, preserve origins and country-year totals. Exact expected HHI includes count variance. Gini is evaluated on expected margins, not expectation over random Gini.",
+  "interpretation": "Model-based/conditional reference contrast, not causal attributable fraction. Other international-related domestic moves, later domestic steps and unobserved entries are outside the target definition."
+}

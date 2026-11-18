@@ -1,0 +1,38 @@
+[
+  {
+    "reference": "main",
+    "role_sizes": {
+      "Dlow_Rlow": 49,
+      "Dlow_Rhigh": 17,
+      "Dhigh_Rlow": 6,
+      "Dhigh_Rhigh": 4
+    },
+    "same_as_main": 76,
+    "countries": 76,
+    "ARI": 1.0
+  },
+  {
+    "reference": "country_equal",
+    "role_sizes": {
+      "Dlow_Rhigh": 26,
+      "Dlow_Rlow": 21,
+      "Dhigh_Rlow": 16,
+      "Dhigh_Rhigh": 13
+    },
+    "same_as_main": 45,
+    "countries": 76,
+    "ARI": 0.16541304072627774
+  },
+  {
+    "reference": "reference_without_US_CN",
+    "role_sizes": {
+      "Dlow_Rhigh": 33,
+      "Dlow_Rlow": 26,
+      "Dhigh_Rlow": 11,
+      "Dhigh_Rhigh": 6
+    },
+    "same_as_main": 52,
+    "countries": 76,
+    "ARI": 0.2589348839295298
+  }
+]

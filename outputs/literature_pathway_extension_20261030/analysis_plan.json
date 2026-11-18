@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-30",
+  "status": "bounded exploratory extension after reading the previous network/pathway report",
+  "prior_results": "Earlier aggregate national groupings, city entry ordering, community participation and gateway mixing were already tested; do not present them as new tests or hide their weak adjusted results.",
+  "literature_questions": [
+    "Does country-level recruitment describe the subsequent trajectory of the same researchers?",
+    "Do domestic onward moves broaden the arrival distribution while preserving a hierarchical selection of destinations?"
+  ],
+  "source": "canonical cleaned aggregates for domestic destination risk sets; an explicitly identified microdata subset reconstructed from consecutive observed primary affiliations for individual sequences",
+  "sample": "existing76 countries, first recorded confirmed international entry into each destination country in2012-2018; no nationality or permanent residence claims",
+  "primary_extension_1": "Split the next international move into return to the immediately preceding origin country vs onward move to a third country. Retain domestic next move, no recorded intercity change, and unresolved next move as separate categories.",
+  "primary_extension_2": "For domestic redistributors, classify destinations by whether they were established during1998-2011 and compare log early domestic city-strength changes with same-origin/same-move-year ordinary domestic flows.",
+  "replications": [
+    "three- and five-year follow-up",
+    "observed next-transition gap restricted to1 or2 years",
+    "split entry cohorts2012-2014 and2015-2018",
+    "alternative country minimum cohort counts100 and500"
+  ],
+  "inference": "country as analysis unit for cross-country comparisons; adjusted benchmark contrasts, country bootstrap and exact country sign tests; Holm across paired pre-defined benchmark metrics; descriptive route proportions not causal effects",
+  "classification": "Do not force number of country types. First inspect directly interpretable route profiles and their sensitivity. Relative path proportions are behavioral profiles, not discovered natural types.",
+  "limitations": [
+    "Microdata are a strict unambiguous geographic-match subset of canonical events",
+    "Further publication follow-up selects observable careers",
+    "Return to previous country is not nationality-based home return",
+    "City flow-strength hierarchy is not academic prestige",
+    "Ordinary domestic references are not field/career-stage matched"
+  ],
+  "manuscript_modified": false,
+  "seed": 20261030
+}

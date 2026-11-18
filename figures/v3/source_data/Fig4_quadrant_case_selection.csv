@@ -1,0 +1,5 @@
+﻿panel,quadrant,country,country_name,total_domestic_events,quadrant_country_count,normalized_equivalent_cities_slope_pp,Gini_slope_pp,selection_rule
+b,1,IN,India,816830.0,2,0.011779566647078864,0.0009504340775730452,"Largest cumulative domestic event count within this quadrant, 1998-2025"
+c,2,US,United States,4475816.0,63,-0.03426869678316899,0.04436902738304431,"Largest cumulative domestic event count within this quadrant, 1998-2025"
+d,3,CN,China,5057217.0,9,-0.005780688373319472,-0.0025278110562695646,"Largest cumulative domestic event count within this quadrant, 1998-2025"
+e,4,BR,Brazil,565304.0,2,0.10496109109110943,-0.16759728329134055,"Largest cumulative domestic event count within this quadrant, 1998-2025"

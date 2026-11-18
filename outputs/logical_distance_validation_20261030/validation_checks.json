@@ -1,0 +1,23 @@
+{
+  "fields": 26,
+  "no_individual_records_read": true,
+  "fits_max_gradient": 1.2482506620669784e-06,
+  "international_choice_pairs": 6504150,
+  "international_features_finite": true,
+  "international_distance_range": [
+    0.0005133748054504395,
+    1.1542576551437378
+  ],
+  "international_positive_choice_totals": true,
+  "domestic_choice_pairs": 3069435,
+  "domestic_features_finite": true,
+  "domestic_distance_range": [
+    0.0,
+    1.303259015083313
+  ],
+  "domestic_positive_choice_totals": true,
+  "bilateral_exclusion_formula_max_error": 2.220446049250313e-16,
+  "formula_test_pairs": 993,
+  "passed": true,
+  "script_sha256": "c92867f0b34a07d78fc36a630f131b2df2a9ea8ac66b080f1d4808e7930fc8bd"
+}

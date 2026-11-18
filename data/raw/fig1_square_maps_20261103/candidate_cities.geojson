@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1796236,
+        "name": "Shanghai",
+        "selected_primary_location": true,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45806,
+          31.22222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1816670,
+        "name": "Beijing",
+        "selected_primary_location": false,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1815286,
+        "name": "Chengdu",
+        "selected_primary_location": false,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06667,
+          30.66667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1790630,
+        "name": "Xi'an",
+        "selected_primary_location": false,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.92861,
+          34.25833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1809858,
+        "name": "Guangzhou",
+        "selected_primary_location": false,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25,
+          23.11667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geonameid": 1791247,
+        "name": "Wuhan",
+        "selected_primary_location": false,
+        "role": "Illustrative candidate location, not a measured author record"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26667,
+          30.58333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "sources": [
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_shanghai_real_maps_20261103\\manifest.json",
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_square_maps_20261103\\manifest.json",
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_map_context_20261103\\manifest.json"
+  ],
+  "synthetic_geographic_geometry": false,
+  "street_map_displayed": false,
+  "place_names_displayed": false,
+  "panels": {
+    "primary_affiliation": {
+      "rect_mm": [
+        47.532467532467535,
+        34.285714285714285,
+        17.92207792207792,
+        17.92207792207792
+      ],
+      "rect_design_units": [
+        61.0,
+        44.0,
+        23.0,
+        23.0
+      ],
+      "bounds_wgs84": [
+        65.0,
+        4.0,
+        144.0,
+        68.7
+      ],
+      "highlighted_feature_bounds_wgs84": [
+        73.60608328100005,
+        18.17207570000005,
+        134.740415954,
+        53.57096340100003
+      ],
+      "projection": "Local equirectangular, standard latitude 35 degrees; equal aspect",
+      "candidate_city_count": 6,
+      "selected_city_count": 1,
+      "selected_city_color": "#7AB656",
+      "other_candidate_city_color": "#CC7C71",
+      "point_coordinates_sourced": true,
+      "selection_is_illustrative": true,
+      "surrounding_map_visible": true,
+      "background_feature_count": 28
+    },
+    "city_harmonization": {
+      "rect_mm": [
+        47.532467532467535,
+        10.129870129870131,
+        17.92207792207792,
+        17.92207792207792
+      ],
+      "rect_design_units": [
+        61.0,
+        13.0,
+        23.0,
+        23.0
+      ],
+      "bounds_wgs84": [
+        120.15,
+        30.2,
+        122.75,
+        32.4
+      ],
+      "highlighted_feature_bounds_wgs84": [
+        120.85201709980936,
+        30.690569620791393,
+        122.00715979958511,
+        31.866060099693925
+      ],
+      "projection": "Local equirectangular, standard latitude 31.2 degrees; equal aspect",
+      "parent_city_color": "#7AB656",
+      "district_color": "#CC7C71",
+      "district_outside_parent_area": 0.0,
+      "surrounding_map_visible": true,
+      "background_feature_count": 69
+    }
+  }
+}

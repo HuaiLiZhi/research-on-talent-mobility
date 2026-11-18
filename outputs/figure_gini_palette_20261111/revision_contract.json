@@ -1,0 +1,16 @@
+{
+  "backend": "Python / Matplotlib",
+  "Fig2b": {
+    "metric": "Annual Gini, same 147 countries over 1998–2023; source-specific 1998=100",
+    "colours": "BRIDGE #CC7C71 red; Scopus #7E99F4 blue, same as the adjacent observed/predicted series",
+    "style": "Solid curves with circles, established linewidths and marker edges; thinner blue trace keeps both close curves visible."
+  },
+  "Fig4b": {
+    "country_points": "Exact frozen T1–T4 membership and palette, same as Fig4c; counts 15/14/24/23",
+    "fit": "Unchanged unweighted OLS; grey #59616A, linewidth 1.3 pt, same as Fig4c",
+    "median_cross": "Unchanged separate medians at 50.0% and 8.7%; yellow #E5BC5E matches Fig2 median markers",
+    "observations": "All 76 exact unjittered country positions retained"
+  },
+  "FigS2": "HHI annual comparison replaces supplementary Gini after the metric swap; both indices remain shown.",
+  "preservation": "All other panels, fits, source rows and group assignments unchanged."
+}

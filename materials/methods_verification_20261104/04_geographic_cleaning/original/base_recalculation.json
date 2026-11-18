@@ -1,0 +1,27 @@
+{
+  "master": "data\\processed\\mobility_city_harmonized_20261020\\count_mobility_flow_annual_clean.parquet",
+  "master_sha256": "98108d42120b1eb34712b1b049bf04a324510da6dbbabdeb14c8aa9e14117540",
+  "tier": "top100pct",
+  "years": [
+    1998,
+    2025
+  ],
+  "rows": 15797873,
+  "total_events": 29703224,
+  "totals": {
+    "international": 11529374,
+    "domestic_intercity": 18173850
+  },
+  "invalid_rows": 0,
+  "changed_key_count_records_from_previous": 0,
+  "city_unit": "Stable cleaned city identifiers",
+  "outputs": {
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\country_annual_margins.csv": "9dc31518f73b2ee8f21301b0c14771bc7ee04f02ad865696758a5bdc62f532f8",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\domestic_city_margins.csv": "bccf01d644eb30bee760b39a0b58669ae481755b64ad7ef021b6dc5e77025f43",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\domestic_city_metrics.csv": "32b4b2f9efb5c97e81eda3b066e0d39f054d91bf160c69983acd8ad910451818",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\domestic_country_city_counts.csv": "5e0284daf1047add4fcb2326d89fda6ab531601d43a7c774bab95634984b9363",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\flow_top100.parquet": "46eb86e73e0d20db619bb15b4b130d940c3cb14eaacfcb65d539054099ea5265",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\international_city_margins.csv": "97cb6ebceae17922a0838de654eadaa0754997df41933703b0283b3f23557c40",
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\international_city_metrics.csv": "0ef2d7effa8f61200ed489b56272f7302fe3bbe463472a9cf3977b026fda1846"
+  }
+}

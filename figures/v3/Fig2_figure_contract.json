@@ -1,0 +1,54 @@
+{
+  "figure": "Fig2",
+  "version": "v3",
+  "backend": "Python matplotlib",
+  "question": "How do country-level long-term mobility and coverage growth differ across the established Q1–Q4 groups?",
+  "archetype": "Four upper panels and two matched scatter-with-regression panels",
+  "panels": {
+    "a-d": "Preserve current data and physical geometry",
+    "e": "One point per country:annual international mobility growth rate versus annual international partner-country coverage growth rate",
+    "f": "One point per country:annual domestic mobility growth rate versus annual domestic city coverage growth rate"
+  },
+  "country_sample": "All76 countries;19 per fixed Fig3/Fig4/Fig5 group;each point summarizes all28 annual observations",
+  "axes": {
+    "x": "Annual mobility growth rate (%/year),estimated from the full28-year log-linear series",
+    "y": "Annual coverage growth rate (%/year),estimated from the full28-year log-linear series"
+  },
+  "reference_style": "Larger group-coloured circles,light group regions and dashed outlines computed from the actual data;pooled grey OLS fit and95% confidence band",
+  "uncertainty": "HC3-robust confidence band for pooled76-country growth association. Coloured ellipses are descriptive central dispersion regions,not confidence intervals;each encloses the13 countries nearest the group median in covariance-scaled distance.",
+  "export": {
+    "width_mm": 180,
+    "height_pt": 313,
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ],
+    "dpi": 600,
+    "minimum_text_pt": 8,
+    "alignment_tolerance_pt": 1.5
+  },
+  "preserve": [
+    "v4",
+    "selected manuscript and figures",
+    "upper a–d"
+  ],
+  "qa": "Verify all annual raw data,304 country growth rates,152 rendered country points,exact quartiles,colours,8 data-based ellipses and their13/19 coverage,2 independent HC3 fits,unchanged upper panels,glyphs,alignment and collisions",
+  "binning": "No histograms in e or f",
+  "insets": "None",
+  "snapshot_years": [
+    1998,
+    2007,
+    2016,
+    2025
+  ],
+  "layout": {
+    "all_six_main_plot_heights_pt": 95,
+    "lower_plot_width_pt": 202,
+    "upper_plot_width_pt": 88,
+    "upper_visual_geometry_preserved": true
+  },
+  "style_adaptation": "Large translucent red/blue circles with same-colour borders,thick straight OLS lines,translucent95% confidence bands,boxed axes,white background,no connecting observations",
+  "normalization": "Full-series log-linear slopes converted to annual percentage growth;no endpoint-only comparison or spatial jitter",
+  "axis_style": "Match a-d:only left/bottom0.6pt black spines;2.4pt ticks,width0.55pt,pad2.5pt;shared pale#E1E4E8 major/midpoint grids0.35pt,alpha0.85,clear of legend text"
+}

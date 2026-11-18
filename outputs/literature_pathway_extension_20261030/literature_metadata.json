@@ -1,0 +1,110 @@
+[
+  {
+    "doi": "10.1038/s41586-022-05222-x",
+    "title": "Quantifying hierarchy and dynamics in US faculty hiring and retention",
+    "authors": [
+      "K. Hunter Wapman",
+      "Sam Zhang",
+      "Aaron Clauset",
+      "Daniel B. Larremore"
+    ],
+    "journal": "Nature",
+    "year": 2022,
+    "volume": "610",
+    "page": "120-127",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1038/srep04770",
+    "title": "Career on the Move: Geography, Stratification and Scientific Impact",
+    "authors": [
+      "Pierre Deville",
+      "Dashun Wang",
+      "Roberta Sinatra",
+      "Chaoming Song",
+      "Vincent D. Blondel",
+      "Albert-László Barabási"
+    ],
+    "journal": "Scientific Reports",
+    "year": 2014,
+    "volume": "4",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1126/sciadv.1400005",
+    "title": "Systematic inequality and hierarchy in faculty hiring networks",
+    "authors": [
+      "Aaron Clauset",
+      "Samuel Arbesman",
+      "Daniel B. Larremore"
+    ],
+    "journal": "Science Advances",
+    "year": 2015,
+    "volume": "1",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1177/01979183251384588",
+    "title": "The Diffusion of International Migration in Cities and Rural Areas of Developing Countries",
+    "authors": [
+      "Mathias Lerch",
+      "Dorothee Beckendorff",
+      "Wenxiu Du"
+    ],
+    "journal": "International Migration Review",
+    "year": 2025,
+    "volume": null,
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1080/1369183x.2026.2694607",
+    "title": "Interlinkages between internal and international migration across the settlement hierarchy in developing countries",
+    "authors": [
+      "Mathias Lerch",
+      "Wenxiu Du",
+      "Dorothee Beckendorff"
+    ],
+    "journal": "Journal of Ethnic and Migration Studies",
+    "year": 2026,
+    "volume": null,
+    "page": "1-24",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1080/00324728.2023.2231913",
+    "title": "Linking internal and international migration over the life course: A sequence analysis of individual migration trajectories in Europe",
+    "authors": [
+      "Aude Bernard",
+      "Sergi Vidal"
+    ],
+    "journal": "Population Studies",
+    "year": 2023,
+    "volume": "77",
+    "page": "515-537",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1007/s41109-020-00279-x",
+    "title": "The mobility network of scientists: analyzing temporal correlations in scientific careers",
+    "authors": [
+      "Giacomo Vaccario",
+      "Luca Verginer",
+      "Frank Schweitzer"
+    ],
+    "journal": "Applied Network Science",
+    "year": 2020,
+    "volume": "5",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  }
+]

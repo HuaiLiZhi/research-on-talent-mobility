@@ -1,0 +1,26 @@
+{
+  "status": "Additional exploratory checks after obtaining descriptive role profiles; no threshold optimization",
+  "reference_sensitivity": [
+    "equal-country mean path proportions excluding focal country",
+    "record-weighted reference excluding focal country and theUS/CNreference contributions; target data retained"
+  ],
+  "cohort_link": "early2012-2014 role axes vs late2015-2018 conditional hierarchy deviations, separate arrival cohorts with overlapping calendar observation periods",
+  "predictors": [
+    "early domestic next-move proportion",
+    "early previous-source return among next international moves"
+  ],
+  "outcomes": [
+    "late excess log early flow-strength destination",
+    "late excess upward-move fraction",
+    "late excess established-city fraction"
+  ],
+  "baseline": [
+    "log mean early domestic city count",
+    "mean early domestic Gini",
+    "same hierarchy deviation among earlier entrant cohort",
+    "log earlier cohort resolved arrivals"
+  ],
+  "minimum": "at least100 matched domestic redistributors in each cohort, at least200 resolved arrivals and100 next international moves in early cohort",
+  "multiplicity": "Holm across six added continuous predictor coefficients; no interaction or outcome-based group selection",
+  "purpose": "check whether roles provide more than labels for flow composition; absence of additional association will be retained"
+}

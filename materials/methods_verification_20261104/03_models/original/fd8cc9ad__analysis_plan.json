@@ -1,0 +1,23 @@
+{
+  "status": "Exploratory plan saved before the present diagnostics and simulations; follows earlier international-feature exploration.",
+  "question": "Does foreign-city correspondence add information beyond fixed international margins, and how does the fitted term alter domestic city strength distributions under identical origin totals?",
+  "conditioning": "Observed origin-city/country/four-year-period totals supplied. Only already declared city risk sets; remaining flows held observed.",
+  "randomization": {
+    "repetitions": 100,
+    "construction": "Within each directed origin-country/destination-country block, randomly rematch integer event stubs. Preserve each city outgoing flow to each country and each city incoming flow from each country exactly. Geographic country-pair constraints retained. Distinct city degree and city-pair history are not preserved.",
+    "test": "On later-period lag networks only, replace two-step feature in the already fitted actual-network model; do not refit or perturb domestic history, mass, geography or field predictors. This is a correspondence-disruption diagnostic, not an optimally refitted null competitor or causal experiment."
+  },
+  "simulation": {
+    "repetitions": 200,
+    "construction": "For each observed origin group, draw multinomial counts over the same candidate destinations with fixed actual event total. Compare baseline and baseline+two-step, add unmodeled observed edges unchanged. Compute combined domestic city inflow+outflow strength on the union of candidate and observed city nodes, including zeros.",
+    "scope": "Two held-out four-year periods, not annual1998-2025 trend attribution. Finite integer events prevent treating every tiny predicted probability as an observed active city.",
+    "metrics": "Gini on common city opportunity pool, HHI, and a positive-strength-only Gini sensitivity. Per-country differences average the two periods and simulations."
+  },
+  "uncertainty": "Country-bootstrap4000 pointwise intervals for paired country summaries; randomization percentiles describe randomization variation; simulations do not create independent countries.",
+  "scope_limits": [
+    "No independent fresh holdout; same later years used in previous explorations.",
+    "International network is observational and shared across countries.",
+    "No same-person multi-step paths inferred."
+  ],
+  "manuscript_modified": false
+}

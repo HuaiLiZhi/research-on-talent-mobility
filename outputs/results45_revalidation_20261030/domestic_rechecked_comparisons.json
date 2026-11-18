@@ -1,0 +1,34 @@
+[
+  {
+    "base": "D0_mass_accessibility",
+    "added": "D1_domestic_history",
+    "countries": 76,
+    "improved": 72,
+    "median_loss_reduction": 0.02999502375634977,
+    "loss_CI": [
+      0.023116646347474346,
+      0.03965128805970308
+    ],
+    "median_CPC_gain": 0.050050146535276285,
+    "CPC_CI": [
+      0.03740050156504365,
+      0.061003170379071436
+    ]
+  },
+  {
+    "base": "D1_domestic_history",
+    "added": "D2_international_history",
+    "countries": 76,
+    "improved": 38,
+    "median_loss_reduction": 9.515231260470713e-06,
+    "loss_CI": [
+      -0.0002663005124508011,
+      0.0003049553725444909
+    ],
+    "median_CPC_gain": 0.0009180629396141615,
+    "CPC_CI": [
+      -0.00021312200804185058,
+      0.001560130781433744
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "prior_all_domain_reference_reproduced": true,
+  "balanced_country_count": 35,
+  "domain_assignment": "Recorded field at next domestic move, exactly matching the existing risk sets.",
+  "conditional_reference": "Independent finite hypergeometric draws within matched risk sets, which can overlap; no global label permutation or causal identification."
+}

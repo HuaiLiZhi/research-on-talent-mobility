@@ -1,0 +1,93 @@
+{
+  "provider": "GeoNames",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_readme": "https://download.geonames.org/export/dump/readme.txt",
+  "files": [
+    {
+      "name": "admin1CodesASCII.txt",
+      "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "bytes": 151583,
+      "sha256": "b577baa3476bbe94f0454545e517e1835401d79c5b1105c8e02cf1d4a505e8ec",
+      "http_headers": {
+        "Date": "Tue, 20 Oct 2026 03:21:33 GMT",
+        "Server": "Apache/2.4.37 (centos) mod_jk/1.2.48 OpenSSL/1.1.1k",
+        "Last-Modified": "Tue, 20 Oct 2026 01:55:50 GMT",
+        "ETag": "\"2501f-65e3bee16f39d\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "151583",
+        "Connection": "close",
+        "Content-Type": "text/plain; charset=utf-8"
+      },
+      "downloaded_utc": "2026-10-20T03:21:34.702387+00:00"
+    },
+    {
+      "name": "hierarchy.zip",
+      "url": "https://download.geonames.org/export/dump/hierarchy.zip",
+      "bytes": 2072611,
+      "sha256": "59ce65d153885d99900666a3ad1ab8f1e505dd86fa884c4031617a51a9ef5a90",
+      "http_headers": {
+        "Date": "Tue, 20 Oct 2026 03:21:33 GMT",
+        "Server": "Apache/2.4.37 (centos) mod_jk/1.2.48 OpenSSL/1.1.1k",
+        "Last-Modified": "Tue, 20 Oct 2026 02:01:19 GMT",
+        "ETag": "\"1fa023-65e3c01a8babe\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "2072611",
+        "Connection": "close",
+        "Content-Type": "application/zip"
+      },
+      "downloaded_utc": "2026-10-20T03:21:36.628767+00:00"
+    },
+    {
+      "name": "readme.txt",
+      "url": "https://download.geonames.org/export/dump/readme.txt",
+      "bytes": 8843,
+      "sha256": "b1957379b6c1242c700c98ac9a8aa0a09f56c3c0a50ee72175527005f48ef2c5",
+      "http_headers": {
+        "Date": "Tue, 20 Oct 2026 03:21:38 GMT",
+        "Server": "Apache/2.4.37 (centos) mod_jk/1.2.48 OpenSSL/1.1.1k",
+        "Last-Modified": "Tue, 20 Oct 2026 01:46:02 GMT",
+        "ETag": "\"228b-65e3bcb04ab8c\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "8843",
+        "Connection": "close",
+        "Content-Type": "text/plain; charset=utf-8"
+      },
+      "downloaded_utc": "2026-10-20T03:21:39.241029+00:00"
+    },
+    {
+      "name": "admin2Codes.txt",
+      "url": "https://download.geonames.org/export/dump/admin2Codes.txt",
+      "bytes": 2366323,
+      "sha256": "985b37390cad51f51b03897e503748db5acddfd9442438532cfab1ac9fd1cbcd",
+      "http_headers": {
+        "Date": "Tue, 20 Oct 2026 03:21:36 GMT",
+        "Server": "Apache/2.4.37 (centos) mod_jk/1.2.48 OpenSSL/1.1.1k",
+        "Last-Modified": "Tue, 20 Oct 2026 01:55:50 GMT",
+        "ETag": "\"241b73-65e3bee16f39d\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "2366323",
+        "Connection": "close",
+        "Content-Type": "text/plain; charset=utf-8"
+      },
+      "downloaded_utc": "2026-10-20T03:21:41.105864+00:00"
+    },
+    {
+      "name": "allCountries.zip",
+      "url": "https://download.geonames.org/export/dump/allCountries.zip",
+      "bytes": 422148854,
+      "sha256": "54dfc7dbf603ddb72c5db50b5d755b36b467878e3eac23082be693fa9d0f95ce",
+      "http_headers": {
+        "Date": "Tue, 20 Oct 2026 03:21:33 GMT",
+        "Server": "Apache/2.4.37 (centos) mod_jk/1.2.48 OpenSSL/1.1.1k",
+        "Last-Modified": "Tue, 20 Oct 2026 01:55:50 GMT",
+        "ETag": "\"19297af6-65e3bee16ebcd\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "422148854",
+        "Connection": "close",
+        "Content-Type": "application/zip"
+      },
+      "downloaded_utc": "2026-10-20T03:23:54.073011+00:00"
+    }
+  ]
+}

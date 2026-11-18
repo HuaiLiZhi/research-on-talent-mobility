@@ -1,0 +1,44 @@
+{
+  "route_totals_reproduced": true,
+  "countries": 76,
+  "paired_HHI_countries": 59,
+  "paired_HHI_records": 318585,
+  "sum_next_foreign_routes": 928801,
+  "exact_HHI_expectation_check": {
+    "enumerated_mean": 0.5555555555555556,
+    "analytic_mean": 0.5555555555555556,
+    "combinations": 9,
+    "passed": true
+  },
+  "source_raw_change_discrepancy_retained": 314,
+  "manuscript_modified": false,
+  "scripts": {
+    "extend_individual_pathways_20261030.py": "39250953b158e07c56472042a5a7a82ed40a61686015c8916ead9261d1f4bcb0",
+    "profile_mobility_roles_20261030.py": "896cd0aad432cb90393fb933e697520152efa23eb06c407b6152cd92b77bdff9",
+    "validate_pathway_role_profiles_20261030.py": "6c16ad097e69e9e4fd329ae73c6ad50c7430de983559e2b438110837fe82a95f",
+    "validate_fully_matched_hhi_20261030.py": "d9609796b45700f5d5f448551e8c527ad257d5d23e0b78baf0f66ff09d2be0d4",
+    "check_redistribution_pattern_stability_20261030.py": "1eed5fa1a324d87f3e340d0743ccc2d8ec654b0b7965a6a7dbd7e4cf4fd7dff0"
+  },
+  "redistribution_type_stability": [
+    {
+      "minimum_records": 100,
+      "countries": 52,
+      "same_pattern": 23,
+      "same_fraction": 0.4423076923076923,
+      "ARI": 0.05309645075067487
+    },
+    {
+      "minimum_records": 500,
+      "countries": 28,
+      "same_pattern": 16,
+      "same_fraction": 0.5714285714285714,
+      "ARI": 0.11443907357433053
+    }
+  ],
+  "conditional_reference_design_audit": {
+    "issue": "Matching strata include a required_last_year threshold. Some other-domestic records can appear in more than one threshold-defined reference risk set.",
+    "correction": "The exactHHI computation defines independent finite draws within each conditional risk set. It is not a single globally consistent label permutation across mutually disjoint strata, and it is not a randomized-treatment null.",
+    "numerical_expectation": "Unchanged and verified relative to the explicitly independent-stratum resampling design.",
+    "reporting": "Use conditional matched resampling reference, avoid claims of a global exact permutation test or causal effect."
+  }
+}

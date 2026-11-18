@@ -1,0 +1,183 @@
+{
+  "figure": "Fig2",
+  "version": "v4",
+  "question": "How did recorded international and domestic intercity event volumes expand alongside geographic connectivity?",
+  "claim": "Event volume and positive directed-route counts increased, while mean events per positive route also increased across the four periods.",
+  "archetype": "asymmetric mixed-modality figure",
+  "backend": "python",
+  "panels": {
+    "a": "Observed global international events versus a reference holding baseline mean events per positive country-pair route constant.",
+    "b": "Four source-country coverage distributions connected by shape-preserving monotone cubic interpolation in log10 threshold space. Preserve all 215 original integer thresholds and empirical percentages per year exactly; show no extra markers.",
+    "c": "Observed global domestic intercity events versus a reference holding baseline mean events per positive city-pair route constant.",
+    "d": "Keep all original domestic source-city threshold values and connecting solid lines on a logarithmic threshold axis with integer power-of-ten ticks and no decimal labels.",
+    "e": "One equal-sized point per unique domestic destination city, grouped by country and coloured by first positive domestic inflow recorded in the study window."
+  },
+  "reference": "F_ref(t) = [F(t0) / L(t0)] * L(t), with t0 the first year and L the number of positive directed routes. This is a descriptive benchmark, not a database-coverage correction or causal counterfactual.",
+  "encoding": "Observed a/c counts: bold red 2-pt lines and 4.5-pt annual dots. References: blue lines and 4.5-pt annual dots. No shading. All d curves use solid lines, with colour identifying year.",
+  "data_integrity": "Retain every cleaned event, country, city and empirical threshold. b interpolates only between the existing exact empirical values; no extrapolation, averaging, statistical refit or change in source data. d data unchanged.",
+  "export": {
+    "width_mm": 180,
+    "height_mm": 130.5277778,
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ],
+    "profiles": [
+      "manuscript",
+      "journal"
+    ],
+    "font": "Helvetica",
+    "glyph_floor_pt": 5,
+    "alignment_tolerance_pt": 1.5,
+    "collision_failures_allowed": 0
+  },
+  "background_grid": {
+    "style": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid"
+    },
+    "intermediate": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid",
+      "per_major_interval": 1
+    },
+    "placement": "Continue both the major-tick intervals and their midpoint guides beyond the outermost labelled ticks, stopping at plot limits. Use display-space intervals on logarithmic axes.",
+    "text_clearance_pt": 2.4,
+    "primary_axes_only": true,
+    "preserve_data_and_layout": true,
+    "legend_footprints_clear": true,
+    "complete_plot_boundaries": false,
+    "extend_intermediate_spacing_to_edges": true,
+    "preserve_ticks_limits_data_and_layout": true,
+    "boundary_text_policy": "No added perimeter. Keep all interior grid guides clear of text and legend footprints.",
+    "extend_major_spacing_to_edges": true,
+    "boundary_rule": "No added perimeter; continue regular interior major and midpoint grids up to plot limits."
+  },
+  "curve_display": {
+    "b": {
+      "method": "PCHIP interpolation in log10(source threshold)",
+      "all_observed_values_exact": true,
+      "years": 4,
+      "original_points_per_year": 215,
+      "monotone": true,
+      "range_percent": [
+        0,
+        100
+      ],
+      "extrapolation": false,
+      "dense_grid": 1601,
+      "xscale": "log",
+      "ticks": [
+        1,
+        10,
+        100
+      ]
+    },
+    "d": {
+      "method": "Straight segments between original integer thresholds",
+      "xlim": [
+        0,
+        888.16
+      ],
+      "xscale": "log",
+      "ticks": [
+        1,
+        10,
+        100
+      ]
+    },
+    "purpose": "Display-only curve smoothing and axis whitespace; no mobility counts, fractions, ranking or weighting changes"
+  },
+  "city_entry": {
+    "unit": "one cleaned destination city ID within country",
+    "countries": 76,
+    "cities": 12218,
+    "cohorts": [
+      "1998",
+      "1999-2007",
+      "2008-2016",
+      "2017-2025"
+    ],
+    "cohort_counts": [
+      5326,
+      4164,
+      1710,
+      1018
+    ],
+    "inclusion": "Any positive domestic inflow in 1998-2025; same fixed76-country sample",
+    "all_cities_retained": true,
+    "positions": "Irregular country groups within six continental enclosures; chronological centre-to-edge city display; no geographic distance interpretation",
+    "marker_size": "Constant across every city and country",
+    "legend_labels": [
+      "1998",
+      "2007",
+      "2016",
+      "2025"
+    ]
+  },
+  "layout_revision": "2026-10-27: six coloured dashed continental contours with direct names; all cities/countries, year palette, chronological ordering, a-d and native180mm canvas retained",
+  "reference_style": {
+    "paper": "Murray et al. PNAS 2023, doi:10.1073/pnas.2305414120",
+    "figure": "Fig2A; organic, unbounded country-labelled point islands",
+    "reuse": "Style only, no source artwork copied; positions are display grouping, no UMAP or similarity claim",
+    "unit": "one unique cleaned city",
+    "cohorts": "Membership unchanged; four endpoint year labels 1998,2007,2016,2025",
+    "label_e": "Lower to second-row header; separate from upper x-axis titles",
+    "preserved": "All 12218 cities,76 countries,a-d data and layout,180x130.528mm"
+  },
+  "arrangement_revision": {
+    "request": "Scatter country groups irregularly; newer first-inflow records closer to each group edge",
+    "countries": "Fixed76; random display anchors, no row/column or size-based positional order",
+    "cities": "All12218 unique city IDs; one point per city; no change to observed first_year or cohorts",
+    "within_country": "Order first_year increasingly along normalized centre-to-irregular-edge distance; no geographic-periphery interpretation",
+    "preserve": "a-d,year palette,four endpoint labels,e header position,180x130.528mm canvas",
+    "backend": "Python matplotlib; deterministic display-only random seed",
+    "qa": "Verify full city identity/cohort mapping, chronological radial order, no text/point overlaps, native dimensions, upper raster equality"
+  },
+  "continent_revision": {
+    "request": "Group countries by continent, coloured dashed enclosures with continent names beside them; no extra continent legend",
+    "categories": [
+      "North America",
+      "South America",
+      "Europe",
+      "Asia",
+      "Africa",
+      "Oceania"
+    ],
+    "preserve": "All76 countries and12218 city IDs; four entry-cohort colours; chronological centre-to-edge encoding; a-d and native180mm dimensions",
+    "positions": "Irregular display placements within separated continental groups; outlines enclose all country points and labels",
+    "border_style": "Six distinct colours, dashed and unfilled; direct continent labels",
+    "no_legend": "No additional continent legend; retain existing four-year colour key",
+    "qa": "Check continent membership, hull enclosure, group separation, unique city and cohort mapping, radial ordering, text/stroke clearance, unchanged upper panels"
+  },
+  "continent_colour_revision": {
+    "scope": "Only darken the six continental dashed-outline colours; preserve year dots, text, positions, line widths, data and native dimensions",
+    "palette": {
+      "North America": "#285B69",
+      "South America": "#A25249",
+      "Europe": "#4C68CA",
+      "Asia": "#4F8336",
+      "Africa": "#94712E",
+      "Oceania": "#555F69"
+    }
+  },
+  "point_colour_revision": {
+    "scope": "Only panel e city points and corresponding four-year point legend",
+    "transform": "Multiply original RGB channels by0.82, round; alpha from0.9 to1.0",
+    "preserve": "All coordinates, point sizes, city/country/cohort memberships, continent outlines/names, upper a-d and native dimensions",
+    "backend": "Python matplotlib",
+    "qa": "Fresh glyph/collision/alignment audits; compare all source-data bytes and upper raster against backup",
+    "actual_colours": {
+      "1998": "#677DC8",
+      "2007": "#A7665D",
+      "2016": "#649547",
+      "2025": "#A5864B"
+    },
+    "alpha": 1.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "pooled_margin_groups_checked": 8379,
+  "all_indices_independently_recomputed": true,
+  "max_absolute_numeric_error": 5.684341886080802e-14,
+  "common_countries": 45,
+  "all_domains_national_deconcentration": true,
+  "all_domains_domestic_relative_concentration": true,
+  "domain_specific_cohort_sensitivity_same_signs": true,
+  "no_p_values_or_causal_claims": true,
+  "all_cleaned_events_reconciled": 29703224.0
+}

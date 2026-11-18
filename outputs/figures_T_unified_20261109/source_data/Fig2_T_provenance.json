@@ -1,0 +1,88 @@
+{
+  "countries": 76,
+  "country_years": 2128,
+  "years": [
+    1998,
+    2025
+  ],
+  "group_cuts_pct_per_year": [
+    -1.306275622469295,
+    0.0,
+    3.309193363508075
+  ],
+  "countries_per_group": [
+    15,
+    14,
+    24,
+    23
+  ],
+  "grouping": "Sign of fitted international-share growth, followed by median within each sign group; ties to T1 or T3",
+  "labels": [
+    "Faster decline",
+    "Slower decline",
+    "Slower growth",
+    "Faster growth"
+  ],
+  "source_membership": "outputs\\results_network_revision_20261030\\artwork\\source_data\\trajectory_membership.csv",
+  "source_membership_sha256": "078b64eef0852ba95346cbb8920a05a1c53f68b3bbd90ea6938815904a9294b3",
+  "domestic_country_values_source": "Previous frozen 76-country full-period domestic Gini trends",
+  "domestic_country_values_source_sha256": "b96202a4c835914b5f332369a268cd10384924abeb7776b0c1329466549f3779",
+  "kde_bandwidth": 1.684396310138036,
+  "kde_policy": "Same fixed absolute Gaussian bandwidth and 401-point grid in every group; each country equally weighted within its new group",
+  "histogram_bins_unchanged": 22,
+  "all_country_values_retained": true,
+  "groups": [
+    {
+      "group": 1,
+      "countries": 15,
+      "international_rate_min": -4.113760831458058,
+      "international_rate_max": -1.306275622469295,
+      "gini_trend_median": 0.6638602193269791,
+      "gini_trend_mean": 0.7851788391453206,
+      "gini_trend_q25": 0.08018350195247895,
+      "gini_trend_q75": 1.2300927208717316,
+      "gini_increasing": 11,
+      "gini_decreasing": 4,
+      "country_codes": "BG CA CH DE FI FR GB HU IL JP MA NL NZ SE SK"
+    },
+    {
+      "group": 2,
+      "countries": 14,
+      "international_rate_min": -1.153029713879016,
+      "international_rate_max": -0.0141221099960054,
+      "gini_trend_median": 1.2127338429769363,
+      "gini_trend_mean": 1.5497308475175682,
+      "gini_trend_q25": 0.5268173869251666,
+      "gini_trend_q75": 2.8916356336142828,
+      "gini_increasing": 13,
+      "gini_decreasing": 1,
+      "country_codes": "AT AU BE BY CZ DK GR IT PL RS RU US VE ZA"
+    },
+    {
+      "group": 3,
+      "countries": 24,
+      "international_rate_min": 0.1908249898208666,
+      "international_rate_max": 3.309193363508075,
+      "gini_trend_median": 2.609785915973172,
+      "gini_trend_mean": 4.014758053945983,
+      "gini_trend_q25": 0.6857212025550701,
+      "gini_trend_q75": 5.189663678807786,
+      "gini_increasing": 19,
+      "gini_decreasing": 5,
+      "country_codes": "AR BR CL CM CN CU EE ES HR IE IS KE KR LT MT MX NO PR RO SI TH TN TZ UA"
+    },
+    {
+      "group": 4,
+      "countries": 23,
+      "international_rate_min": 3.3886880410719646,
+      "international_rate_max": 11.00152075375537,
+      "gini_trend_median": 7.178179621642796,
+      "gini_trend_mean": 7.610826699908719,
+      "gini_trend_q25": 3.1261258041898152,
+      "gini_trend_q75": 10.842435680236644,
+      "gini_increasing": 22,
+      "gini_decreasing": 1,
+      "country_codes": "AE AM BD CO CR DZ EG GH ID IN IR JO LK MW MY NG PH PK PT SA TR UG VN"
+    }
+  ]
+}

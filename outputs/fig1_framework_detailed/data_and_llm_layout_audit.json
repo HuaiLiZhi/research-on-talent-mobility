@@ -1,0 +1,69 @@
+{
+  "used_attribute_families": {
+    "Identifiers": [
+      "work identifier",
+      "author identifier",
+      "institution identifier"
+    ],
+    "Time": [
+      "publication year",
+      "event year"
+    ],
+    "Geography": [
+      "country",
+      "region",
+      "city",
+      "coordinates",
+      "stable city identifier"
+    ],
+    "Affiliations": [
+      "affiliation institution",
+      "distinct affiliated works"
+    ],
+    "Discipline": [
+      "work field",
+      "author primary field"
+    ],
+    "Flows": [
+      "origin",
+      "destination",
+      "flow count",
+      "event classification"
+    ]
+  },
+  "attribute_source": "outputs/paper_final/methods.tex; source linkage and flow construction",
+  "numeric_quantities_displayed": false,
+  "table_columns": "Illustrative attribute groups, not literal field counts",
+  "data_panel_text": [
+    "Data",
+    "Works",
+    "Authors",
+    "Institutions",
+    "Fields",
+    "Identifiers",
+    "Time",
+    "Geography",
+    "Affiliations",
+    "Discipline",
+    "Flows",
+    "Extracted Data"
+  ],
+  "data_panel_width_mm": 37.40259740259741,
+  "bridge_width_mm": 116.88311688311688,
+  "llm_inside_bridge": true,
+  "processing_heading": "Data Processing",
+  "llm_scope": "City identity resolution and merging only",
+  "primary_affiliation_selection": "Deterministic publication-count rule",
+  "map_orientation": "Vertical",
+  "map_side_mm": 17.92207792207792,
+  "map_gap_mm": 6.233766233766234,
+  "map_captions": [
+    "Primary Affiliation Selection",
+    "City Merging (LLM)"
+  ],
+  "nonselected_affiliation_cities_red": true,
+  "map_operations_parallel": true,
+  "between_map_arrows": 0,
+  "input_arrow_stops_at_llm_boundary": true,
+  "legacy_trajectory_and_event_glyphs_replaced_by_data_overview": true
+}

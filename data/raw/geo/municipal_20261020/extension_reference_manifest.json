@@ -1,0 +1,541 @@
+[
+  {
+    "file": "gb_CHN_ADM2.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2_simplified.geojson",
+    "reference": {
+      "boundaryID": "CHN-ADM2-17275852",
+      "boundaryName": "China",
+      "boundaryISO": "CHN",
+      "boundaryYearRepresented": "2017",
+      "boundaryType": "ADM2",
+      "boundaryCanonical": "County Level",
+      "boundarySource": "National Administration of Surveying, Mapping and Geoinformation of China, Revolutionary GIS",
+      "boundaryLicense": "Open Data Commons Public Domain Dedication and License (PDDL) v1.0",
+      "licenseDetail": "revolutionarygis.wordpress.com/2017/04/11/china-shapefile-data/",
+      "licenseSource": "revolutionarygis.wordpress.com/2014/01/18/china-prefecture-shapefile-and-china-province-shapefile/",
+      "boundarySourceURL": "github.com/justinelliotmeyers/-1_400-/blob/master/%E4%B8%AD%E5%9B%BD%E5%8E%BF%E7%95%8C.shp",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "Eastern Asia",
+      "worldBankIncomeGroup": "Upper-middle-income Countries",
+      "admUnitCount": "2391",
+      "meanVertices": "66.0",
+      "minVertices": "6",
+      "maxVertices": "624",
+      "meanPerimeterLengthKM": "301.7719129227894",
+      "minPerimeterLengthKM": "24.72178145341725",
+      "maxPerimeterLengthKM": "3014.139447512775",
+      "meanAreaSqKM": "3960.94933452176",
+      "minAreaSqKM": "22.18066805291908",
+      "maxAreaSqKM": "197223.14589666863",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2_simplified.geojson"
+    },
+    "sha256": "8c7dfa8e40842f9162453d9b0b614276a48bf635559ba371c7982cb288e7b303",
+    "features": 2391,
+    "sample": [
+      {
+        "shapeName": "Mohexian",
+        "shapeISO": "",
+        "shapeID": "17275852B82946568901730",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Tahexian",
+        "shapeISO": "",
+        "shapeID": "17275852B26831530446211",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Geergunyouqi",
+        "shapeISO": "",
+        "shapeID": "17275852B65388914557323",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Humaxian",
+        "shapeISO": "",
+        "shapeID": "17275852B14150721831180",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM2"
+      }
+    ]
+  },
+  {
+    "file": "gb_CHN_ADM3.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3_simplified.geojson",
+    "reference": {
+      "boundaryID": "CHN-ADM3-62558664",
+      "boundaryName": "China",
+      "boundaryISO": "CHN",
+      "boundaryYearRepresented": "2017",
+      "boundaryType": "ADM3",
+      "boundaryCanonical": "County, City",
+      "boundarySource": "Lee Beryman, OpenStreetMap",
+      "boundaryLicense": "Open Data Commons Open Database License 1.0",
+      "licenseDetail": "Open Data Commons Open Database License 1.0",
+      "licenseSource": "www.openstreetmap.org/copyright",
+      "boundarySourceURL": "wambachers-osm.website/boundaries/",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "Eastern Asia",
+      "worldBankIncomeGroup": "Upper-middle-income Countries",
+      "admUnitCount": "2867",
+      "meanVertices": "686.0",
+      "minVertices": "13",
+      "maxVertices": "12033",
+      "meanPerimeterLengthKM": "325.7621646165027",
+      "minPerimeterLengthKM": "10.681921331287583",
+      "maxPerimeterLengthKM": "3293.238835621697",
+      "meanAreaSqKM": "3300.965499888889",
+      "minAreaSqKM": "3.065411592033493",
+      "maxAreaSqKM": "198329.1373019805",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3_simplified.geojson"
+    },
+    "sha256": "ea64fe24f193e319ce48895f229a5b3f46d2a60f3f3df67e6172ab037e4cc8fd",
+    "features": 2864,
+    "sample": [
+      {
+        "shapeName": "Luzhai County",
+        "shapeISO": "",
+        "shapeID": "62558664B54494607263506",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM3"
+      },
+      {
+        "shapeName": "Fengnan District",
+        "shapeISO": "",
+        "shapeID": "62558664B67620620210469",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM3"
+      },
+      {
+        "shapeName": "Funing County",
+        "shapeISO": "",
+        "shapeID": "62558664B49289767842634",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM3"
+      },
+      {
+        "shapeName": "Hongxing District",
+        "shapeISO": "",
+        "shapeID": "62558664B29551905418573",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM3"
+      }
+    ]
+  },
+  {
+    "file": "gb_CHN_ADM1.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1_simplified.geojson",
+    "reference": {
+      "boundaryID": "CHN-ADM1-43563684",
+      "boundaryName": "China",
+      "boundaryISO": "CHN",
+      "boundaryYearRepresented": "2019",
+      "boundaryType": "ADM1",
+      "boundaryCanonical": "People’s Republic of China",
+      "boundarySource": "geoBoundaries, Wikimedia Commons",
+      "boundaryLicense": "Public Domain",
+      "licenseDetail": "nan",
+      "licenseSource": "commons.wikimedia.org/wiki/File",
+      "boundarySourceURL": "commons.wikimedia.org/wiki/File",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "Eastern Asia",
+      "worldBankIncomeGroup": "Upper-middle-income Countries",
+      "admUnitCount": "34",
+      "meanVertices": "173.0",
+      "minVertices": "5",
+      "maxVertices": "393",
+      "meanPerimeterLengthKM": "3213.6324581799413",
+      "minPerimeterLengthKM": "42.85624653558879",
+      "maxPerimeterLengthKM": "12112.770576204795",
+      "meanAreaSqKM": "279093.7455887184",
+      "minAreaSqKM": "96.08712126422836",
+      "maxAreaSqKM": "1624826.8947916185",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1_simplified.geojson"
+    },
+    "sha256": "bc4afc7eacf4351ae5b3ae7a612327987ce1123cb5deb8574fb49107091c6623",
+    "features": 34,
+    "sample": [
+      {
+        "shapeName": "Hainan Province",
+        "shapeISO": "CHN",
+        "shapeID": "43563684B67556328368055",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Taiwan Province",
+        "shapeISO": "CHN",
+        "shapeID": "43563684B32372453033755",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Guangxi Zhuang Autonomous Region",
+        "shapeISO": "CHN",
+        "shapeID": "43563684B59914390554750",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Fujian Province",
+        "shapeISO": "CHN",
+        "shapeID": "43563684B30737817496648",
+        "shapeGroup": "CHN",
+        "shapeType": "ADM1"
+      }
+    ]
+  },
+  {
+    "file": "gb_NZL_ADM2.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2_simplified.geojson",
+    "reference": {
+      "boundaryID": "NZL-ADM2-76426892",
+      "boundaryName": "New Zealand",
+      "boundaryISO": "NZL",
+      "boundaryYearRepresented": "2021",
+      "boundaryType": "ADM2",
+      "boundaryCanonical": "Territorial Authorities",
+      "boundarySource": "Stats NZ",
+      "boundaryLicense": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "licenseDetail": "nan",
+      "licenseSource": "datafinder.stats.govt.nz/layer/105153-territorial-authority-2021-generalised/",
+      "boundarySourceURL": "datafinder.stats.govt.nz/layer/105153-territorial-authority-2021-generalised/",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Oceania",
+      "UNSDG-region": "Australia/New Zealand",
+      "UNSDG-subregion": "Australia/New Zealand",
+      "worldBankIncomeGroup": "High-income Countries",
+      "admUnitCount": "88",
+      "meanVertices": "12218.0",
+      "minVertices": "294",
+      "maxVertices": "115025",
+      "meanPerimeterLengthKM": "508.3910639140941",
+      "minPerimeterLengthKM": "25.706495441948125",
+      "maxPerimeterLengthKM": "4338.061087729423",
+      "meanAreaSqKM": "3044.474806572327",
+      "minAreaSqKM": "18.721838253676097",
+      "maxAreaSqKM": "30103.272132393977",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2_simplified.geojson"
+    },
+    "sha256": "137f95bb411c47b9d77ef37ddfc1b032acfd8a621ee00ff673ffe164bb1a216a",
+    "features": 88,
+    "sample": [
+      {
+        "shapeName": "Far North District",
+        "shapeISO": "",
+        "shapeID": "76426892B75799514296056",
+        "shapeGroup": "NZL",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Whangarei District",
+        "shapeISO": "",
+        "shapeID": "76426892B88537535922351",
+        "shapeGroup": "NZL",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Kaipara District",
+        "shapeISO": "",
+        "shapeID": "76426892B63494088345666",
+        "shapeGroup": "NZL",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Thames-Coromandel District",
+        "shapeISO": "",
+        "shapeID": "76426892B50034078290765",
+        "shapeGroup": "NZL",
+        "shapeType": "ADM2"
+      }
+    ]
+  },
+  {
+    "file": "gb_IDN_ADM2.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2_simplified.geojson",
+    "reference": {
+      "boundaryID": "IDN-ADM2-22746128",
+      "boundaryName": "Indonesia",
+      "boundaryISO": "IDN",
+      "boundaryYearRepresented": "2020",
+      "boundaryType": "ADM2",
+      "boundaryCanonical": "regency, city",
+      "boundarySource": "Badan Pusat Statistik (BPS - Statistics Indonesia), World Food Programme, OCHA ROAP",
+      "boundaryLicense": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+      "licenseDetail": "nan",
+      "licenseSource": "data.humdata.org/dataset/indonesia-administrative-boundary-polygons-lines-and-places-levels-0-4b",
+      "boundarySourceURL": "data.humdata.org/dataset/indonesia-administrative-boundary-polygons-lines-and-places-levels-0-4b",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "South-Eastern Asia",
+      "worldBankIncomeGroup": "Lower-middle-income Countries",
+      "admUnitCount": "519",
+      "meanVertices": "7366.0",
+      "minVertices": "172",
+      "maxVertices": "216482",
+      "meanPerimeterLengthKM": "436.9705237671862",
+      "minPerimeterLengthKM": "20.92232602875445",
+      "maxPerimeterLengthKM": "3634.138024399851",
+      "meanAreaSqKM": "3643.688352591525",
+      "minAreaSqKM": "10.783104526832211",
+      "maxAreaSqKM": "44014.03200064065",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2_simplified.geojson"
+    },
+    "sha256": "146653d488331086ddc43d159a261b01ea6dd08c7ed422e34a9886c3c690430c",
+    "features": 519,
+    "sample": [
+      {
+        "shapeName": "Aceh Barat",
+        "shapeISO": "",
+        "shapeID": "22746128B65593111718524",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Aceh Barat Daya",
+        "shapeISO": "",
+        "shapeID": "22746128B227561513795",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Aceh Besar",
+        "shapeISO": "",
+        "shapeID": "22746128B90547447297479",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM2"
+      },
+      {
+        "shapeName": "Aceh Jaya",
+        "shapeISO": "",
+        "shapeID": "22746128B21424895456858",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM2"
+      }
+    ]
+  },
+  {
+    "file": "gb_IDN_ADM1.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1_simplified.geojson",
+    "reference": {
+      "boundaryID": "IDN-ADM1-65028918",
+      "boundaryName": "Indonesia",
+      "boundaryISO": "IDN",
+      "boundaryYearRepresented": "2017",
+      "boundaryType": "ADM1",
+      "boundaryCanonical": "Unknown",
+      "boundarySource": "OpenStreetMap, Wambacher",
+      "boundaryLicense": "Open Data Commons Open Database License 1.0",
+      "licenseDetail": "Open Data Commons Open Database License 1.0",
+      "licenseSource": "www.openstreetmap.org/copyright",
+      "boundarySourceURL": "wambachers-osm.website/boundaries/",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "South-Eastern Asia",
+      "worldBankIncomeGroup": "Lower-middle-income Countries",
+      "admUnitCount": "34",
+      "meanVertices": "15674.0",
+      "minVertices": "2079",
+      "maxVertices": "55165",
+      "meanPerimeterLengthKM": "3028.795612787885",
+      "minPerimeterLengthKM": "217.30526458417395",
+      "maxPerimeterLengthKM": "9008.30143740425",
+      "meanAreaSqKM": "55592.12108359943",
+      "minAreaSqKM": "648.3546168210809",
+      "maxAreaSqKM": "315905.2418546028",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM1/geoBoundaries-IDN-ADM1_simplified.geojson"
+    },
+    "sha256": "5a6be3d1484166132751fe535dd164e1491e657f2d38dced177f067a7bc00d8f",
+    "features": 34,
+    "sample": [
+      {
+        "shapeName": "Bali",
+        "shapeISO": "ID-BA",
+        "shapeID": "65028918B6690755070061",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "West Nusa Tenggara",
+        "shapeISO": "ID-NB",
+        "shapeID": "65028918B98829509874887",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Banten",
+        "shapeISO": "ID-BT",
+        "shapeID": "65028918B99918739720671",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Central Java",
+        "shapeISO": "ID-JT",
+        "shapeID": "65028918B13838862025135",
+        "shapeGroup": "IDN",
+        "shapeType": "ADM1"
+      }
+    ]
+  },
+  {
+    "file": "gb_RUS_ADM1.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1_simplified.geojson",
+    "reference": {
+      "boundaryID": "RUS-ADM1-28173009",
+      "boundaryName": "Russian Federation",
+      "boundaryISO": "RUS",
+      "boundaryYearRepresented": "2017",
+      "boundaryType": "ADM1",
+      "boundaryCanonical": "Unknown",
+      "boundarySource": "OpenStreetMap, Wambacher",
+      "boundaryLicense": "Open Data Commons Open Database License 1.0",
+      "licenseDetail": "Open Data Commons Open Database License 1.0",
+      "licenseSource": "www.openstreetmap.org/copyright",
+      "boundarySourceURL": "wambachers-osm.website/boundaries/",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Europe",
+      "UNSDG-region": "Europe and Northern America",
+      "UNSDG-subregion": "Eastern Europe",
+      "worldBankIncomeGroup": "Upper-middle-income Countries",
+      "admUnitCount": "83",
+      "meanVertices": "24910.0",
+      "minVertices": "912",
+      "maxVertices": "227194",
+      "meanPerimeterLengthKM": "6846.1940956487215",
+      "minPerimeterLengthKM": "525.4896702683117",
+      "maxPerimeterLengthKM": "72755.11859596052",
+      "meanAreaSqKM": "203738.58175174077",
+      "minAreaSqKM": "1440.8769606438254",
+      "maxAreaSqKM": "3069596.454597766",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM1/geoBoundaries-RUS-ADM1_simplified.geojson"
+    },
+    "sha256": "47179a0b1f30097226bc057921e674d83a9ac9e2a44023e687351355cdb7fc1b",
+    "features": 83,
+    "sample": [
+      {
+        "shapeName": "Altai Krai",
+        "shapeISO": "RU-ALT",
+        "shapeID": "28173009B80457268982215",
+        "shapeGroup": "RUS",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Republic of Mordovia",
+        "shapeISO": "RU-MO",
+        "shapeID": "28173009B16834140201491",
+        "shapeGroup": "RUS",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Tula Oblast",
+        "shapeISO": "RU-TUL",
+        "shapeID": "28173009B42082792489997",
+        "shapeGroup": "RUS",
+        "shapeType": "ADM1"
+      },
+      {
+        "shapeName": "Kurgan Oblast",
+        "shapeISO": "RU-KGN",
+        "shapeID": "28173009B71296032393878",
+        "shapeGroup": "RUS",
+        "shapeType": "ADM1"
+      }
+    ]
+  },
+  {
+    "file": "gb_SGP_ADM0.geojson",
+    "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0_simplified.geojson",
+    "reference": {
+      "boundaryID": "SGP-ADM0-21272760",
+      "boundaryName": "Singapore",
+      "boundaryISO": "SGP",
+      "boundaryYearRepresented": "2016",
+      "boundaryType": "ADM0",
+      "boundaryCanonical": "Unknown",
+      "boundarySource": "Urban Redevelopment Authority, derived from ADM 3",
+      "boundaryLicense": "Open Data Commons Open Database License 1.0",
+      "licenseDetail": "Link to license terms of use https",
+      "licenseSource": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea",
+      "boundarySourceURL": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea",
+      "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+      "buildDate": "Dec 12, 2023",
+      "Continent": "Asia",
+      "UNSDG-region": "Eastern and South-Eastern Asia",
+      "UNSDG-subregion": "South-Eastern Asia",
+      "worldBankIncomeGroup": "High-income Countries",
+      "admUnitCount": "1",
+      "meanVertices": "8081.0",
+      "minVertices": "8081",
+      "maxVertices": "8081",
+      "meanPerimeterLengthKM": "464.26355832203456",
+      "minPerimeterLengthKM": "464.26355832203456",
+      "maxPerimeterLengthKM": "464.26355832203456",
+      "meanAreaSqKM": "724.2749814174942",
+      "minAreaSqKM": "724.2749814174942",
+      "maxAreaSqKM": "724.2749814174942",
+      "staticDownloadLink": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0-all.zip",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0.geojson",
+      "tjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0.topojson",
+      "imagePreview": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0-PREVIEW.png",
+      "simplifiedGeometryGeoJSON": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM0/geoBoundaries-SGP-ADM0_simplified.geojson"
+    },
+    "sha256": "ab19b8908053182bb17ebae6f7d944ea76445119ad13a5b36e011f4436288295",
+    "features": 1,
+    "sample": [
+      {
+        "shapeName": "Singapore",
+        "shapeISO": "SGP",
+        "shapeID": "21272760B53444952688840",
+        "shapeGroup": "SGP",
+        "shapeType": "ADM0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "canonical_total": 29703224,
+  "all_six_gravity_models_converged": true,
+  "max_gradient": 1.617065145424148e-06,
+  "unpenalized_city_effects": "Initial fits did not converge; excluded and replaced by fixed weak L2 city-intercept sensitivity (penalty 10). No outcomes selected using this change.",
+  "matched_same_cohort_total": 319402,
+  "micro_raw_unreconciled_difference": 314,
+  "Shapley_identity_passed": true,
+  "rarefaction_raw_joint_count_reproduced": 63,
+  "rarefaction_200_joint_count": 18,
+  "rarefaction_high_volume_joint_count": 4,
+  "finite_sample_HHI_toy_check": {
+    "enumerated": 0.36666666666666664,
+    "analytic": 0.36666666666666664,
+    "passed": true
+  },
+  "artifact_scope": "Aggregates and local scripts only. Manuscript, final figures and canonical data were not edited.",
+  "model_scopes": "New true-distance gravity selected training top100 foreign origin cities and retained 46.10% of test inflows; older broad models use approximate source-country centres.",
+  "scripts": {
+    "fit_cross_scale_gravity_20261030.py": "a49a0afc2e20454a267d3317430d8f2a6d60b7d92d61167cf770d20103ae14d5",
+    "report_cross_scale_validation_20261030.py": "2be51fb11b50f418270c357309ef05df7989925e81ecdc89fedaed633a0778f4",
+    "validate_cross_scale_continuation_20261030.py": "73c07046635223d1f6ab37c48e42f9aa86d24008f7a7e789d5f13217b526921c",
+    "validate_cross_scale_mechanisms_20261030.py": "2a209fc2819fa562831c990df4adbc3c548ca993f703951cc724abc271077397"
+  }
+}

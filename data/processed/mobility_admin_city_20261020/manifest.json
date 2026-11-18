@@ -1,0 +1,551 @@
+{
+  "created_utc": "2026-10-20T07:12:15.680286+00:00",
+  "years": [
+    1998,
+    2025
+  ],
+  "crosswalk_sha256": "82fbc8acb64bc9166f8495a64be8aa3e58173d981d4b929ae2414ce611d84150",
+  "source_datasets": [
+    {
+      "dataset": "annual",
+      "source_ledger": "data\\processed\\mobility_city_harmonized_20261020\\audit\\full_event_ledger_annual.parquet",
+      "source_sha256": "a4a1c0805d9c9913a4a9c2609cee348e4a145b390bf60fb66e77cd38b888809b",
+      "crosswalk_sha256": "82fbc8acb64bc9166f8495a64be8aa3e58173d981d4b929ae2414ce611d84150",
+      "all_tiers_exactly_conserved": true,
+      "original_totals": [
+        {
+          "tier": "top100pct",
+          "events": 30335569.0,
+          "original_rows": 16474134
+        },
+        {
+          "tier": "top10pct",
+          "events": 1196177.0,
+          "original_rows": 962059
+        },
+        {
+          "tier": "top20pct",
+          "events": 2549385.0,
+          "original_rows": 1896025
+        },
+        {
+          "tier": "top2pct",
+          "events": 206234.0,
+          "original_rows": 185455
+        },
+        {
+          "tier": "top50pct",
+          "events": 6444158.0,
+          "original_rows": 4261393
+        }
+      ],
+      "classification": [
+        {
+          "tier": "top100pct",
+          "event_status": "domestic_intercity",
+          "events": 14177531.0,
+          "ledger_rows": 5716274
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "international",
+          "events": 7608421.0,
+          "ledger_rows": 5724939
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "needs_municipal_review",
+          "events": 7825254.0,
+          "ledger_rows": 4616024
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "outside_municipal_city",
+          "events": 571351.0,
+          "ledger_rows": 332937
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "within_same_municipality",
+          "events": 153012.0,
+          "ledger_rows": 44025
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "domestic_intercity",
+          "events": 591271.0,
+          "ledger_rows": 421551
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "international",
+          "events": 328486.0,
+          "ledger_rows": 311404
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "needs_municipal_review",
+          "events": 223336.0,
+          "ledger_rows": 189554
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "outside_municipal_city",
+          "events": 44469.0,
+          "ledger_rows": 34410
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "within_same_municipality",
+          "events": 8615.0,
+          "ledger_rows": 4663
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "domestic_intercity",
+          "events": 1263615.0,
+          "ledger_rows": 798084
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "international",
+          "events": 689108.0,
+          "ledger_rows": 634106
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "needs_municipal_review",
+          "events": 494870.0,
+          "ledger_rows": 392424
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "outside_municipal_city",
+          "events": 84639.0,
+          "ledger_rows": 61743
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "within_same_municipality",
+          "events": 17153.0,
+          "ledger_rows": 8003
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "domestic_intercity",
+          "events": 99906.0,
+          "ledger_rows": 84660
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "international",
+          "events": 57817.0,
+          "ledger_rows": 56451
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "needs_municipal_review",
+          "events": 36052.0,
+          "ledger_rows": 33956
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "outside_municipal_city",
+          "events": 10828.0,
+          "ledger_rows": 9198
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "within_same_municipality",
+          "events": 1631.0,
+          "ledger_rows": 1168
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "domestic_intercity",
+          "events": 3177063.0,
+          "ledger_rows": 1682044
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "international",
+          "events": 1699765.0,
+          "ledger_rows": 1477287
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "needs_municipal_review",
+          "events": 1346864.0,
+          "ledger_rows": 959900
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "outside_municipal_city",
+          "events": 181090.0,
+          "ledger_rows": 120036
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "within_same_municipality",
+          "events": 39376.0,
+          "ledger_rows": 15247
+        }
+      ],
+      "output_file": "mobility_annual_admin_city_verified.parquet",
+      "output_sha256": "f57f5b930cd42ed1df538cf72e1047208a4b9f6413e7aebada886404a1f544b7"
+    },
+    {
+      "dataset": "career",
+      "source_ledger": "data\\processed\\mobility_city_harmonized_20261020\\audit\\full_event_ledger_career.parquet",
+      "source_sha256": "958787acd057965c3a7a8e01ebadb1644c4d5e2de5e3c283503ded0fbd6e318b",
+      "crosswalk_sha256": "82fbc8acb64bc9166f8495a64be8aa3e58173d981d4b929ae2414ce611d84150",
+      "all_tiers_exactly_conserved": true,
+      "original_totals": [
+        {
+          "tier": "top100pct",
+          "events": 30335569.0,
+          "original_rows": 16474134
+        },
+        {
+          "tier": "top10pct",
+          "events": 993231.0,
+          "original_rows": 825333
+        },
+        {
+          "tier": "top20pct",
+          "events": 2067893.0,
+          "original_rows": 1595776
+        },
+        {
+          "tier": "top2pct",
+          "events": 190382.0,
+          "original_rows": 172947
+        },
+        {
+          "tier": "top50pct",
+          "events": 5454931.0,
+          "original_rows": 3711354
+        }
+      ],
+      "classification": [
+        {
+          "tier": "top100pct",
+          "event_status": "domestic_intercity",
+          "events": 14177531.0,
+          "ledger_rows": 5728610
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "international",
+          "events": 7608421.0,
+          "ledger_rows": 5731748
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "needs_municipal_review",
+          "events": 7825254.0,
+          "ledger_rows": 4636580
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "outside_municipal_city",
+          "events": 571351.0,
+          "ledger_rows": 333027
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "within_same_municipality",
+          "events": 153012.0,
+          "ledger_rows": 44169
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "domestic_intercity",
+          "events": 485434.0,
+          "ledger_rows": 367516
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "international",
+          "events": 277157.0,
+          "ledger_rows": 266094
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "needs_municipal_review",
+          "events": 184535.0,
+          "ledger_rows": 156923
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "outside_municipal_city",
+          "events": 38478.0,
+          "ledger_rows": 30607
+        },
+        {
+          "tier": "top10pct",
+          "event_status": "within_same_municipality",
+          "events": 7627.0,
+          "ledger_rows": 4193
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "domestic_intercity",
+          "events": 1019669.0,
+          "ledger_rows": 690308
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "international",
+          "events": 562630.0,
+          "ledger_rows": 526871
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "needs_municipal_review",
+          "events": 401120.0,
+          "ledger_rows": 318738
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "outside_municipal_city",
+          "events": 69848.0,
+          "ledger_rows": 52731
+        },
+        {
+          "tier": "top20pct",
+          "event_status": "within_same_municipality",
+          "events": 14626.0,
+          "ledger_rows": 7128
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "domestic_intercity",
+          "events": 91513.0,
+          "ledger_rows": 78947
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "international",
+          "events": 53848.0,
+          "ledger_rows": 52951
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "needs_municipal_review",
+          "events": 32293.0,
+          "ledger_rows": 30467
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "outside_municipal_city",
+          "events": 10993.0,
+          "ledger_rows": 9403
+        },
+        {
+          "tier": "top2pct",
+          "event_status": "within_same_municipality",
+          "events": 1735.0,
+          "ledger_rows": 1179
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "domestic_intercity",
+          "events": 2684664.0,
+          "ledger_rows": 1500341
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "international",
+          "events": 1441086.0,
+          "ledger_rows": 1272990
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "needs_municipal_review",
+          "events": 1137648.0,
+          "ledger_rows": 816424
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "outside_municipal_city",
+          "events": 157539.0,
+          "ledger_rows": 107830
+        },
+        {
+          "tier": "top50pct",
+          "event_status": "within_same_municipality",
+          "events": 33994.0,
+          "ledger_rows": 13769
+        }
+      ],
+      "output_file": "mobility_career_admin_city_verified.parquet",
+      "output_sha256": "f34e11d549d262788bd0b5a6e09eb08ab0fceac02f492983e2e7ac8ad83ddd7a"
+    },
+    {
+      "dataset": "baseline",
+      "source_ledger": "data\\processed\\mobility_city_harmonized_20261020\\audit\\full_event_ledger_baseline.parquet",
+      "source_sha256": "2f37bff86aef4e5002f797f43caade8c9510f042e31e883ddf2ab81ed7a4c58d",
+      "crosswalk_sha256": "82fbc8acb64bc9166f8495a64be8aa3e58173d981d4b929ae2414ce611d84150",
+      "all_tiers_exactly_conserved": true,
+      "original_totals": [
+        {
+          "tier": "top100pct",
+          "events": 30335569.0,
+          "original_rows": 16471205
+        }
+      ],
+      "classification": [
+        {
+          "tier": "top100pct",
+          "event_status": "domestic_intercity",
+          "events": 14179125.0,
+          "ledger_rows": 5728796
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "international",
+          "events": 7608937.0,
+          "ledger_rows": 5730846
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "needs_municipal_review",
+          "events": 7822711.0,
+          "ledger_rows": 4634159
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "outside_municipal_city",
+          "events": 571363.0,
+          "ledger_rows": 333071
+        },
+        {
+          "tier": "top100pct",
+          "event_status": "within_same_municipality",
+          "events": 153433.0,
+          "ledger_rows": 44333
+        }
+      ],
+      "output_file": "mobility_baseline_admin_city_verified.parquet",
+      "output_sha256": "69ea7856a566401951b2d8fe6bd78992c61916cbbc77119658fec9794aee04c5"
+    }
+  ],
+  "crosswalk_summary": {
+    "raw_place_instances": 16484,
+    "verified_place_instances": 11693,
+    "verified_nonmunicipal_place_instances": 194,
+    "verified_municipalities": 9498,
+    "reference_countries": [
+      "AL",
+      "AM",
+      "AO",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BJ",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "DZ",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FM",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "GT",
+      "HN",
+      "HR",
+      "HU",
+      "ID",
+      "IE",
+      "IN",
+      "IS",
+      "IT",
+      "JP",
+      "KM",
+      "KR",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MG",
+      "MK",
+      "ML",
+      "MT",
+      "MX",
+      "NE",
+      "NG",
+      "NL",
+      "NO",
+      "NP",
+      "NZ",
+      "PH",
+      "PL",
+      "PR",
+      "PT",
+      "RO",
+      "RS",
+      "RU",
+      "SE",
+      "SG",
+      "SI",
+      "SK",
+      "US",
+      "UY",
+      "VE",
+      "ZA"
+    ],
+    "identity_corrections": 593,
+    "review_reasons": {
+      "point_not_in_verified_municipality_or_ambiguous_boundary": 738,
+      "municipal_boundary_source_not_verified": 2422,
+      "place_identity_or_coordinate_unresolved": 764,
+      "source_and_original_point_cross_municipal_boundary": 635,
+      "map_coordinate_offset_or_city_boundary_requires_review": 16,
+      "source_administrative_unit_coarser_than_municipality": 12,
+      "coarse_london_label_requires_institution_address": 6,
+      "coarse_tokyo_label_requires_institution_address": 4,
+      "verified_unincorporated_census_designated_place": 194
+    },
+    "administrative_definition": "An independently governed municipality/city or documented municipal equivalent; internal non-independent wards are dissolved",
+    "complete_global_verification": false,
+    "global_completion_rule": "Cannot claim complete while any source identity, official municipal level, boundary membership, or coarse city label remains unresolved"
+  },
+  "complete_global_verification": false,
+  "ready_as_complete_global_city_dataset": false,
+  "scope": "Verified administrative municipalities only; unresolved places and events retained separately. This is a coverage-limited strict subset, not an automatic replacement for complete global city analyses.",
+  "country_scope": "Country flows are provided separately for recognised country-code pairs and are not restricted to the municipal subset.",
+  "source_preservation": "Earlier cleaned data, raw data and all figures remain untouched",
+  "files": {
+    "mobility_annual_admin_city_verified.parquet": {
+      "bytes": 368585372,
+      "sha256": "f57f5b930cd42ed1df538cf72e1047208a4b9f6413e7aebada886404a1f544b7"
+    },
+    "mobility_baseline_admin_city_verified.parquet": {
+      "bytes": 249547432,
+      "sha256": "69ea7856a566401951b2d8fe6bd78992c61916cbbc77119658fec9794aee04c5"
+    },
+    "mobility_career_admin_city_verified.parquet": {
+      "bytes": 350068919,
+      "sha256": "f34e11d549d262788bd0b5a6e09eb08ab0fceac02f492983e2e7ac8ad83ddd7a"
+    }
+  }
+}

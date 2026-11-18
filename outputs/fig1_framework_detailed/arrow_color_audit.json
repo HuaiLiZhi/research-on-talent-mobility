@@ -1,0 +1,15 @@
+{
+  "arrow_count": 46,
+  "data_processing_arrow_count": 9,
+  "data_processing_arrows_black": true,
+  "bridge_arrow_colors": [
+    "#7E99F4",
+    "#7AB656",
+    "#A88A44",
+    "#000000"
+  ],
+  "bridge_original_blue_green_restored": true,
+  "disciplinary_information_enters_model": true,
+  "disciplinary_direct_input_from_event_records": true,
+  "shaft_head_colors_match": true
+}

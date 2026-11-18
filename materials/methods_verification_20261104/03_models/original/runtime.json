@@ -1,0 +1,18 @@
+{
+  "features": [
+    "log_lag_mass",
+    "log_geographic_distance",
+    "log1p_lag_destination_inflow",
+    "log1p_lag_pair_flow",
+    "disciplinary_distance",
+    "international_partner_distance",
+    "latent_partner_distance",
+    "missing_field_profile",
+    "missing_partner_profile"
+  ],
+  "script_sha256": "c92867f0b34a07d78fc36a630f131b2df2a9ea8ac66b080f1d4808e7930fc8bd",
+  "numpy": "2.5.4",
+  "pandas": "3.0.1",
+  "duckdb": "1.5.6",
+  "no_individual_records_read": true
+}

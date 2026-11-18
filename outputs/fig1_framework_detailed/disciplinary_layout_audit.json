@@ -1,0 +1,99 @@
+{
+  "direct_input_from": "Harmonized locations and field-tagged mobility event records",
+  "direct_input_path_mm": [
+    [
+      69.35064935064935,
+      31.16883116883117
+    ],
+    [
+      70.9090909090909,
+      31.16883116883117
+    ]
+  ],
+  "input_stops_at_module_boundary": true,
+  "other_inputs": [
+    "International mobility",
+    "Domestic mobility"
+  ],
+  "output": "Discipline feature row -> Gravity model",
+  "four_domains": [
+    {
+      "domain": "Physical",
+      "symbol": "Atom",
+      "color": "#7E99F4",
+      "center_mm": [
+        75.5844155844156,
+        30.77922077922078
+      ],
+      "label_anchor_mm": [
+        75.5844155844156,
+        27.42857142857143
+      ],
+      "cell_rect_mm": [
+        71.2987012987013,
+        26.103896103896105,
+        8.571428571428571,
+        6.467532467532468
+      ]
+    },
+    {
+      "domain": "Life",
+      "symbol": "DNA",
+      "color": "#7AB656",
+      "center_mm": [
+        85.32467532467533,
+        30.77922077922078
+      ],
+      "label_anchor_mm": [
+        85.32467532467533,
+        27.42857142857143
+      ],
+      "cell_rect_mm": [
+        81.03896103896105,
+        26.103896103896105,
+        8.571428571428571,
+        6.467532467532468
+      ]
+    },
+    {
+      "domain": "Health",
+      "symbol": "Heart and pulse",
+      "color": "#CC7C71",
+      "center_mm": [
+        95.06493506493507,
+        30.77922077922078
+      ],
+      "label_anchor_mm": [
+        95.06493506493507,
+        27.42857142857143
+      ],
+      "cell_rect_mm": [
+        90.77922077922078,
+        26.103896103896105,
+        8.571428571428571,
+        6.467532467532468
+      ]
+    },
+    {
+      "domain": "Social",
+      "symbol": "People",
+      "color": "#A88A44",
+      "center_mm": [
+        104.80519480519482,
+        30.77922077922078
+      ],
+      "label_anchor_mm": [
+        104.80519480519482,
+        27.42857142857143
+      ],
+      "cell_rect_mm": [
+        100.51948051948052,
+        26.103896103896105,
+        8.571428571428571,
+        6.467532467532468
+      ]
+    }
+  ],
+  "uniform_center_spacing_mm": 9.740259740259742,
+  "label_baseline_aligned": true
+}

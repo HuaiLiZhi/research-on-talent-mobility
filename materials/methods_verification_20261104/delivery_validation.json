@@ -1,0 +1,22 @@
+{
+  "index_entries": 236,
+  "unique_source_files": 196,
+  "categories": {
+    "fixed": 8,
+    "rarefaction": 12,
+    "model": 74,
+    "clean": 72,
+    "samples": 26,
+    "enhancement": 44
+  },
+  "entries_with_included_snapshots": 203,
+  "entries_with_large_local_paths_only": 33,
+  "snapshot_hash_checks": 203,
+  "snapshot_hash_mismatches": 0,
+  "portable_report_links_rewritten": 410,
+  "portable_report_links_checked": 423,
+  "research_analyses_rerun": false,
+  "manuscript_unchanged": true,
+  "concrete_credentials_detected": 0,
+  "scope": "Only consolidated Methods-verification materials; other workspace edits excluded"
+}

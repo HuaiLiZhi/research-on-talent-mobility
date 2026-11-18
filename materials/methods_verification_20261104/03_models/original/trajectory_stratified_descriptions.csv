@@ -1,0 +1,7 @@
+grouping,group,countries,countries_better,median_deviance_reduction_pct,median_CPC_gain
+trajectory,declining_share,29,24,7.689075007646262,0.0107600390516942
+trajectory,gaining_share,47,32,1.9271444636008828,0.0029220996874922
+nested_display_group,T1,15,12,6.272167294687203,0.0078735975564659
+nested_display_group,T2,14,12,8.337065098815572,0.0155436109512692
+nested_display_group,T3,24,18,3.4807005443673766,0.0034866725974862503
+nested_display_group,T4,23,14,0.901678383468396,0.002600653262601

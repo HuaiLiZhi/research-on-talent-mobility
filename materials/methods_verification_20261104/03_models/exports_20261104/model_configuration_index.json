@@ -1,0 +1,618 @@
+{
+  "source": "existing plan/fits and source code; no refitting",
+  "train": "2002-2013",
+  "validation": "2014-2017",
+  "evaluation": "2018-2025",
+  "model_configs": {
+    "B_history_field": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4
+    ],
+    "P_partner_country": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      5
+    ],
+    "G_international_gateway": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10
+    ],
+    "R_foreign_city_reach": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      11,
+      12
+    ],
+    "C_international_centrality": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      13,
+      14
+    ],
+    "S_shared_foreign_cities": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      15,
+      16
+    ],
+    "T_foreign_two_step": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      17
+    ],
+    "A_all_international_signals": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "feature_construction": {
+    "gateway": "Separate destination international inbound and outbound event counts.",
+    "reach": "Separate numbers of distinct foreign origin and destination cities.",
+    "centrality": "Directed weighted PageRank of international network and its reverse; damping0.85, uniform teleportation, no tuning.",
+    "shared_cities": "Separate incoming/outgoing TF-IDF foreign-city profiles, compared by cosine; more specific than shared partner countries.",
+    "two_step": "W @ row_normalize(W), restricted to domestic source/destination pairs. All intermediate nodes are foreign. Counts are network pathways, not the same individuals taking two moves.",
+    "all": "All nine new international features jointly, report alongside individual hypotheses."
+  },
+  "optimizer": {
+    "method": "L-BFGS-B",
+    "maxiter": 300,
+    "gtol": 1e-07,
+    "ftol": 1e-12,
+    "penalty": null,
+    "source": "scripts/reports/validate_logical_distance_20261030.py:fit"
+  },
+  "fitted_models": {
+    "B_history_field": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4
+      ],
+      "gradient": 2.9242286395288197e-08,
+      "iterations": 37,
+      "beta": [
+        0.857322513305138,
+        -0.2906375695421038,
+        0.3151606016068079,
+        0.4110384560298509,
+        -0.1024548226115332,
+        -0.13943051530157674,
+        -0.18976990509557823
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169
+      ]
+    },
+    "P_partner_country": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        5
+      ],
+      "gradient": 3.493787348457511e-07,
+      "iterations": 36,
+      "beta": [
+        0.8406272577257378,
+        -0.2901063834714863,
+        0.3148137886791435,
+        0.41094807511404025,
+        -0.10321272395247218,
+        -0.11753074476552193,
+        -0.18657380937818102,
+        -0.05138583146937316
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        0.5688720358854029
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        0.34246039427444963
+      ]
+    },
+    "G_international_gateway": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        9,
+        10
+      ],
+      "gradient": 2.2823256182278456e-07,
+      "iterations": 48,
+      "beta": [
+        0.998777911526835,
+        -0.2911820394860728,
+        0.31403599162656937,
+        0.4167306346040191,
+        -0.09851405433476644,
+        -0.12545617856968672,
+        -0.18363001028257617,
+        0.038652355238752704,
+        -0.15504684760556864
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        1.9028816215005315,
+        1.857126482043016
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        1.875597964812931,
+        1.8826570030744303
+      ]
+    },
+    "R_foreign_city_reach": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        11,
+        12
+      ],
+      "gradient": 7.360779893522684e-07,
+      "iterations": 56,
+      "beta": [
+        0.8086081109165187,
+        -0.2914520247528866,
+        0.31192907803412,
+        0.41112555579669624,
+        -0.10405249996184794,
+        -0.13001900233978722,
+        -0.1906904813688302,
+        0.1744086989465443,
+        -0.12363340068778175
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        1.7633735152158263,
+        1.7196172490853283
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        1.6686019553004492,
+        1.6764692701601216
+      ]
+    },
+    "C_international_centrality": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        13,
+        14
+      ],
+      "gradient": 2.1160193422378043e-07,
+      "iterations": 63,
+      "beta": [
+        1.0009034835942388,
+        -0.28393053651544436,
+        0.3306938493943536,
+        0.427905786935039,
+        -0.09865033514043668,
+        -0.08448711563126053,
+        -0.1737189837628013,
+        -0.06118674247558378,
+        -0.04055005132982731
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        -0.8882119603801625,
+        -0.9060786793094054
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        0.9623013179474356,
+        0.9644786685688446
+      ]
+    },
+    "S_shared_foreign_cities": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        15,
+        16
+      ],
+      "gradient": 4.902637883220408e-07,
+      "iterations": 35,
+      "beta": [
+        0.9003572854239825,
+        -0.276064578063404,
+        0.32412953431526187,
+        0.43604598751458185,
+        -0.10095896365539986,
+        -0.12439178409353673,
+        -0.20172904541572942,
+        -0.06913942855429465,
+        -0.03300197431329271
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        0.08619986713566667,
+        0.08971888813060065
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        0.1387420840616,
+        0.14012267993145913
+      ]
+    },
+    "T_foreign_two_step": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        17
+      ],
+      "gradient": 1.8829098075477473e-06,
+      "iterations": 37,
+      "beta": [
+        0.8500861061382207,
+        -0.249771971228832,
+        0.3723648273058456,
+        0.4748314933760489,
+        -0.1065034000600225,
+        -0.08837893203585101,
+        -0.16985735434831037,
+        -0.08236748335746025
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        0.07470761369366588
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        0.28934833548975364
+      ]
+    },
+    "A_all_international_signals": {
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        4,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "gradient": 1.4412856663001058e-06,
+      "iterations": 236,
+      "beta": [
+        0.8860566136209341,
+        -0.24991240551039187,
+        0.35862037522209733,
+        0.4798396851654127,
+        -0.10507357028957415,
+        -0.10441292328112199,
+        -0.18135549258247896,
+        -0.05586908425925275,
+        -0.29574590570094805,
+        0.18251381004018583,
+        0.05588158540309016,
+        -0.001165077976987772,
+        0.10323328279670034,
+        -0.0312288998471054,
+        -0.02662075531589864,
+        -0.07505656449392917
+      ],
+      "mean": [
+        2.2585177113477783,
+        6.227136533391925,
+        2.3439284874318287,
+        0.26322895049862877,
+        0.004720837821396481,
+        0.18908675123758922,
+        0.48355751276066633,
+        1.9028816215005315,
+        1.857126482043016,
+        1.7633735152158263,
+        1.7196172490853283,
+        -0.8882119603801625,
+        -0.9060786793094054,
+        0.08619986713566667,
+        0.08971888813060065,
+        0.07470761369366588
+      ],
+      "scale": [
+        2.4554878137619935,
+        1.267959415255468,
+        1.9899187608998166,
+        0.7241776063113362,
+        0.0685459810029775,
+        0.39157751690310727,
+        0.2912908193848169,
+        1.875597964812931,
+        1.8826570030744303,
+        1.6686019553004492,
+        1.6764692701601216,
+        0.9623013179474356,
+        0.9644786685688446,
+        0.1387420840616,
+        0.14012267993145913,
+        0.28934833548975364
+      ]
+    }
+  },
+  "annual_reconstruction": {
+    "question": "Compare observed annual domestic city indices with conditional reconstructed indices, using the saved reference and user-requested international model.",
+    "international_model": "A_all_international_signals",
+    "selection": "User-requested full-model display, not re-selection using annual index errors.",
+    "years": [
+      2002,
+      2025
+    ],
+    "countries": 76,
+    "no_interpolation": true,
+    "no_refitting": true,
+    "predictors": "Use the same preceding-four-year-block features and candidate destinations as the saved design; hold these fixed within each target block.",
+    "conditioning": "Each year supplies its own actual origin totals within candidate cells. All other domestic flows remain observed.",
+    "city_pool": "Within each country-year use the union of observed city endpoints and the corresponding candidate destinations, retaining zero strengths for Gini in all series.",
+    "aggregation": "Each annual curve is the median of the same 76 countries. Annual calculations use expected city strengths, not the earlier multinomial replicate means.",
+    "inference": "2002-2013 overlaps model fitting; 2014-2017 validation; 2018-2025 temporal evaluation already explored. Not an unconditional forecast.",
+    "gap": "No pre-study lag network is available for 1998-2001; do not manufacture modeled values for those years."
+  },
+  "seed_statements": [
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_event_rarefaction_20261030.py",
+      "line": 24,
+      "text": "seed=common.SEED+7+(11 if REPS!=50 else 0)"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_event_rarefaction_20261030.py",
+      "line": 32,
+      "text": "limits=['Equal recorded event counts do not correct all publication coverage differences.','City identities and possible location support can still differ across years.','This conditions on the number of observed events rather than treating it as a cause.'],seed=seed))"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_event_rarefaction_20261030.py",
+      "line": 33,
+      "text": "rng=np.random.default_rng(seed);c=duckdb.connect()"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_event_rarefaction_20261030.py",
+      "line": 67,
+      "text": "r=pd.DataFrame(trends);summ=[];rng=np.random.default_rng(common.SEED)"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\complete_network_section_20261030.py",
+      "line": 20,
+      "text": "RANDOMIZATIONS=100;SIMULATIONS=200;SEED=20261030"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\complete_network_section_20261030.py",
+      "line": 85,
+      "text": "rng=np.random.default_rng(SEED+910);rows=[];audits=[]"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\complete_network_section_20261030.py",
+      "line": 116,
+      "text": "actual_minus_null_country_bootstrap_CI=bootstrap_ci(per.actual_minus_randomized_pct,np.random.default_rng(SEED)),"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\complete_network_section_20261030.py",
+      "line": 126,
+      "text": "results=[];samples=[];audit=[];rng=np.random.default_rng(SEED+117)"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_international_signals_20261030.py",
+      "line": 50,
+      "text": "SEED = 20261030"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_international_signals_20261030.py",
+      "line": 225,
+      "text": "rng=np.random.default_rng(SEED)"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_aggregate_alternatives_20261030.py",
+      "line": 23,
+      "text": "SEED=20261030"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_aggregate_alternatives_20261030.py",
+      "line": 35,
+      "text": "train=[1,2,3],validation=[4],test=[5,6],seed=SEED,"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_aggregate_alternatives_20261030.py",
+      "line": 180,
+      "text": "summary=[];contrasts=[];rng=np.random.default_rng(SEED)"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_cross_scale_mechanisms_20261030.py",
+      "line": 20,
+      "text": "SEED = 20261030"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_cross_scale_mechanisms_20261030.py",
+      "line": 37,
+      "text": "js('analysis_plan.json', dict(date='2026-10-30', status='exploratory; recorded before new model results', seed=SEED,"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_cross_scale_mechanisms_20261030.py",
+      "line": 189,
+      "text": "rng=np.random.default_rng(SEED);sh=[]"
+    },
+    {
+      "source_file": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\validate_cross_scale_mechanisms_20261030.py",
+      "line": 197,
+      "text": "summary=[];rng=np.random.default_rng(SEED)"
+    }
+  ]
+}

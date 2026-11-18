@@ -1,0 +1,72 @@
+{
+  "status": "Secondary checks declared after primary signals were evaluated.",
+  "trigger": "Foreign two-step signal had larger allocation gains but a negative coefficient, also negative in the full model.",
+  "questions": [
+    "Does it add information after international destination volume, reach and directed centrality?",
+    "Does it add information after all other new international signals?",
+    "Does it add information after the previously tested partner-country distance?"
+  ],
+  "configs": {
+    "N_international_node_controls": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "NT_node_plus_two_step": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      17
+    ],
+    "A_without_two_step": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "PT_partner_plus_two_step": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      5,
+      17
+    ]
+  },
+  "criteria": "Report all contrasts in validation, early/late test and pooled later periods; no sign-constrained refit or preferred-sign selection.",
+  "interpretation": "Negative fitted coefficient is retained and reported. It is not a finding that international connectivity promotes domestic flows or identifies individual circulation."
+}

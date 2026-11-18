@@ -1,0 +1,240 @@
+[
+  {
+    "name": "render_Fig2",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\plot_fig2.py",
+    "returncode": 0,
+    "seconds": 11.77,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\render_Fig2.txt"
+  },
+  {
+    "name": "render_Fig3",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\plot_fig3.py",
+    "returncode": 0,
+    "seconds": 3.27,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\render_Fig3.txt"
+  },
+  {
+    "name": "render_Fig4",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\plot_fig4.py",
+    "returncode": 0,
+    "seconds": 7.22,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\render_Fig4.txt"
+  },
+  {
+    "name": "prepare_Fig5",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\prepare_fig5.py",
+    "returncode": 0,
+    "seconds": 3.61,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\prepare_Fig5.txt"
+  },
+  {
+    "name": "render_Fig5",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\plot_fig5.py",
+    "returncode": 0,
+    "seconds": 6.5,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\render_Fig5.txt"
+  },
+  {
+    "name": "prepare_fields",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\prepare_fig6.py",
+    "returncode": 0,
+    "seconds": 3.92,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\prepare_fields.txt"
+  },
+  {
+    "name": "prepare_domains",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\scripts\\reports\\analyze_disciplinary_domains_20261022.py",
+    "returncode": 0,
+    "seconds": 3.98,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\prepare_domains.txt"
+  },
+  {
+    "name": "render_Fig6",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v4\\plot_fig6.py",
+    "returncode": 0,
+    "seconds": 3.47,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\render_Fig6.txt"
+  },
+  {
+    "name": "Fig2_source_preflight",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\validate_figure.py",
+    "returncode": 0,
+    "seconds": 0.2,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig2_source_preflight.txt"
+  },
+  {
+    "name": "Fig2_pdf_text",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_pdf_text.py",
+    "returncode": 0,
+    "seconds": 0.06,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig2_pdf_text.txt"
+  },
+  {
+    "name": "Fig2_collisions",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_figure_collisions.py",
+    "returncode": 0,
+    "seconds": 0.75,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig2_collisions.txt"
+  },
+  {
+    "name": "Fig3_source_preflight",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\validate_figure.py",
+    "returncode": 0,
+    "seconds": 0.14,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig3_source_preflight.txt"
+  },
+  {
+    "name": "Fig3_pdf_text",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_pdf_text.py",
+    "returncode": 0,
+    "seconds": 0.06,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig3_pdf_text.txt"
+  },
+  {
+    "name": "Fig3_collisions",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_figure_collisions.py",
+    "returncode": 0,
+    "seconds": 0.5,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig3_collisions.txt"
+  },
+  {
+    "name": "Fig4_source_preflight",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\validate_figure.py",
+    "returncode": 0,
+    "seconds": 0.14,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig4_source_preflight.txt"
+  },
+  {
+    "name": "Fig4_pdf_text",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_pdf_text.py",
+    "returncode": 0,
+    "seconds": 0.08,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig4_pdf_text.txt"
+  },
+  {
+    "name": "Fig4_collisions",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_figure_collisions.py",
+    "returncode": 0,
+    "seconds": 0.25,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig4_collisions.txt"
+  },
+  {
+    "name": "Fig5_source_preflight",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\validate_figure.py",
+    "returncode": 0,
+    "seconds": 0.14,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig5_source_preflight.txt"
+  },
+  {
+    "name": "Fig5_pdf_text",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_pdf_text.py",
+    "returncode": 0,
+    "seconds": 0.06,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig5_pdf_text.txt"
+  },
+  {
+    "name": "Fig5_collisions",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_figure_collisions.py",
+    "returncode": 0,
+    "seconds": 0.3,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig5_collisions.txt"
+  },
+  {
+    "name": "Fig6_source_preflight",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\validate_figure.py",
+    "returncode": 0,
+    "seconds": 0.11,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig6_source_preflight.txt"
+  },
+  {
+    "name": "Fig6_pdf_text",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_pdf_text.py",
+    "returncode": 0,
+    "seconds": 0.08,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig6_pdf_text.txt"
+  },
+  {
+    "name": "Fig6_collisions",
+    "script": "C:\\Users\\a1487\\.codex\\skills\\nature-figure\\scripts\\audit_figure_collisions.py",
+    "returncode": 0,
+    "seconds": 0.23,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\Fig6_collisions.txt"
+  },
+  {
+    "name": "verify_Fig2",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig2_cleaned.py",
+    "returncode": 1,
+    "seconds": 1.38,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig2.txt"
+  },
+  {
+    "name": "verify_Fig2",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig2_cleaned.py",
+    "returncode": 0,
+    "seconds": 1.45,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig2.txt"
+  },
+  {
+    "name": "verify_Fig3",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig3.py",
+    "returncode": 0,
+    "seconds": 0.7,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig3.txt"
+  },
+  {
+    "name": "verify_Fig4",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig4.py",
+    "returncode": 0,
+    "seconds": 0.94,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig4.txt"
+  },
+  {
+    "name": "verify_Fig5_combined",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig5_combined.py",
+    "returncode": 1,
+    "seconds": 1.91,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig5_combined.txt"
+  },
+  {
+    "name": "verify_Fig5_combined",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig5_combined.py",
+    "returncode": 1,
+    "seconds": 2.0,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig5_combined.txt"
+  },
+  {
+    "name": "verify_Fig5_combined",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig5_combined.py",
+    "returncode": 0,
+    "seconds": 4.69,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig5_combined.txt"
+  },
+  {
+    "name": "verify_Fig5_groups",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v3\\verify_fig5_stratified.py",
+    "returncode": 0,
+    "seconds": 1.34,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig5_groups.txt"
+  },
+  {
+    "name": "verify_Fig6",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\figures\\v4\\verify_fig6.py",
+    "returncode": 0,
+    "seconds": 3.94,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_Fig6.txt"
+  },
+  {
+    "name": "verify_fixed_cities",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\prism_fig2_5_20261023\\QA\\results_20261023\\verify_combined_cities.py",
+    "returncode": 0,
+    "seconds": 0.89,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_fixed_cities.txt"
+  },
+  {
+    "name": "verify_cross_figure",
+    "script": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\prism_fig2_5_20261023\\QA\\audit_cleaned_data_20261023.py",
+    "returncode": 0,
+    "seconds": 2.88,
+    "log": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757\\logs\\verify_cross_figure.txt"
+  }
+]

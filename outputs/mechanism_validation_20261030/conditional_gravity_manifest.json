@@ -1,0 +1,20 @@
+{
+  "script_sha256": "a49a0afc2e20454a267d3317430d8f2a6d60b7d92d61167cf770d20103ae14d5",
+  "numpy": "2.5.4",
+  "fit_weighting": "Each destination country has equal total training weight; within country event-weighted likelihood.",
+  "train": "2005-2018",
+  "test": "2019-2025",
+  "all_zero_destinations": "Included within candidate city lists. Only source-country/destination-country/period groups with positive totals enter conditional likelihood.",
+  "mass_lag": "Previous seven-year-period mean distinct primary-affiliation author-years; lagged candidates exclude cities without prior verified stock.",
+  "domain_interaction_prediction": {
+    "common_countries": 45,
+    "median_gain_domain_specific_vs_shared": -0.0001775425876449077,
+    "country_bootstrap_CI": [
+      -0.0002636589240484488,
+      -0.00010596246041016943
+    ]
+  },
+  "causal_interpretation": false,
+  "city_fixed_effects": false,
+  "source_distance_approximation": true
+}

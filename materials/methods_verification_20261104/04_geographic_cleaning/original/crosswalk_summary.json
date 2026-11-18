@@ -1,0 +1,33 @@
+{
+  "raw_place_instances": 16484,
+  "unique_cleaned_city_ids": 14820,
+  "match_methods": {
+    "original_id_name_coordinate_country_repair": 1080,
+    "unmatched": 614,
+    "original_geonames_id": 14711,
+    "same_country_name_coordinate": 70,
+    "official_us_polygon_identity": 9
+  },
+  "merge_rules": {
+    "retain_identified_place": 9560,
+    "country_municipality_admin_codes": 1894,
+    "official_us_place_polygon": 4059,
+    "retain_for_review": 614,
+    "china_direct_municipality": 24,
+    "geonames_explicit_subcity_parent": 208,
+    "administrative_name_to_city_seat": 102,
+    "documented_city_component": 5,
+    "china_city_administrative_name": 7,
+    "china_verified_urban_district": 11
+  },
+  "review_reasons": {
+    "place_identity_unresolved": 614,
+    "administrative_feature_needs_city_review": 148,
+    "subcity_parent_unresolved": 17,
+    "historical_or_government_feature": 9,
+    "coordinate_conflict_over_100km": 401,
+    "country_conflict_needs_review": 1
+  },
+  "country_corrections": 1082,
+  "analysis_ready_place_instances": 15294
+}

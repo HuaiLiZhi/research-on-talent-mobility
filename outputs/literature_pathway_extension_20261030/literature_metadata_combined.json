@@ -1,0 +1,355 @@
+[
+  {
+    "doi": "10.1038/nature03288",
+    "status": "verified_Crossref",
+    "title": "Functional cartography of complex metabolic networks",
+    "authors": [
+      "Roger Guimerà",
+      "Luís A. Nunes Amaral"
+    ],
+    "container": "Nature",
+    "year": 2005,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/nature03288",
+    "page": "895-900",
+    "volume": "433"
+  },
+  {
+    "doi": "10.1073/pnas.1116502109",
+    "status": "verified_Crossref",
+    "title": "Structural diversity in social contagion",
+    "authors": [
+      "Johan Ugander",
+      "Lars Backstrom",
+      "Cameron Marlow",
+      "Jon Kleinberg"
+    ],
+    "container": "Proceedings of the National Academy of Sciences",
+    "year": 2012,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1073/pnas.1116502109",
+    "page": "5962-5966",
+    "volume": "109"
+  },
+  {
+    "doi": "10.1038/s41586-022-04996-4",
+    "status": "verified_Crossref",
+    "title": "Social capital I: measurement and associations with economic mobility",
+    "authors": [
+      "Raj Chetty",
+      "Matthew O. Jackson",
+      "Theresa Kuchler",
+      "Johannes Stroebel",
+      "Nathaniel Hendren",
+      "Robert B. Fluegge",
+      "Sara Gong",
+      "Federico Gonzalez",
+      "Armelle Grondin",
+      "Matthew Jacob",
+      "Drew Johnston",
+      "Martin Koenen",
+      "Eduardo Laguna-Muggenburg",
+      "Florian Mudekereza",
+      "Tom Rutter",
+      "Nicolaj Thor",
+      "Wilbur Townsend",
+      "Ruby Zhang",
+      "Mike Bailey",
+      "Pablo Barberá",
+      "Monica Bhole",
+      "Nils Wernerfelt"
+    ],
+    "container": "Nature",
+    "year": 2022,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41586-022-04996-4",
+    "page": "108-121",
+    "volume": "608"
+  },
+  {
+    "doi": "10.1038/s41586-022-04997-3",
+    "status": "verified_Crossref",
+    "title": "Social capital II: determinants of economic connectedness",
+    "authors": [
+      "Raj Chetty",
+      "Matthew O. Jackson",
+      "Theresa Kuchler",
+      "Johannes Stroebel",
+      "Nathaniel Hendren",
+      "Robert B. Fluegge",
+      "Sara Gong",
+      "Federico Gonzalez",
+      "Armelle Grondin",
+      "Matthew Jacob",
+      "Drew Johnston",
+      "Martin Koenen",
+      "Eduardo Laguna-Muggenburg",
+      "Florian Mudekereza",
+      "Tom Rutter",
+      "Nicolaj Thor",
+      "Wilbur Townsend",
+      "Ruby Zhang",
+      "Mike Bailey",
+      "Pablo Barberá",
+      "Monica Bhole",
+      "Nils Wernerfelt"
+    ],
+    "container": "Nature",
+    "year": 2022,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41586-022-04997-3",
+    "page": "122-134",
+    "volume": "608"
+  },
+  {
+    "doi": "10.1007/s41109-020-00276-0",
+    "status": "verified_Crossref",
+    "title": "Cities and countries in the global scientist mobility network",
+    "authors": [
+      "Luca Verginer",
+      "Massimo Riccaboni"
+    ],
+    "container": "Applied Network Science",
+    "year": 2020,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s41109-020-00276-0",
+    "page": null,
+    "volume": "5"
+  },
+  {
+    "doi": "10.1016/j.respol.2020.104127",
+    "status": "verified_Crossref",
+    "title": "Talent goes to global cities: The world network of scientists’ mobility",
+    "authors": [
+      "Luca Verginer",
+      "Massimo Riccaboni"
+    ],
+    "container": "Research Policy",
+    "year": 2021,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.respol.2020.104127",
+    "page": "104127",
+    "volume": "50"
+  },
+  {
+    "doi": "10.1016/j.habitatint.2025.103481",
+    "status": "verified_Crossref",
+    "title": "Unveiling the core-periphery dynamics and driving factors of intercity scientific mobility in China",
+    "authors": [
+      "Ying Na",
+      "Xintao Liu"
+    ],
+    "container": "Habitat International",
+    "year": 2025,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.habitatint.2025.103481",
+    "page": "103481",
+    "volume": "163"
+  },
+  {
+    "doi": "10.1073/pnas.2424521122",
+    "status": "verified_Crossref",
+    "title": "Global subnational estimates of migration of scientists reveal large disparities in internal and international flows",
+    "authors": [
+      "Aliakbar Akbaritabar",
+      "Maciej J. Dańko",
+      "Xinyi Zhao",
+      "Emilio Zagheni"
+    ],
+    "container": "Proceedings of the National Academy of Sciences",
+    "year": 2025,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1073/pnas.2424521122",
+    "page": null,
+    "volume": "122"
+  },
+  {
+    "doi": "10.4054/MPIDR-WP-2026-018",
+    "status": "verified_Crossref",
+    "title": "Global sequencing of researcher migration reveals factors associated with disparities in subnational patterns of brain gain and drain",
+    "authors": [
+      "Hannah Slocombe",
+      "Francisco Rowe",
+      "Aliakbar Akbaritabar"
+    ],
+    "container": "",
+    "year": 2026,
+    "type": "report",
+    "url": "https://doi.org/10.4054/mpidr-wp-2026-018",
+    "page": null,
+    "volume": null
+  },
+  {
+    "doi": "10.18235/0005541",
+    "status": "verified_Crossref",
+    "title": "Connecting the Dots: The Role of Internationally Mobile Scientists in Linking Nonmobile with Foreign Scientists",
+    "authors": [
+      "Rodrigo Ito",
+      "Diego Chavarro",
+      "Tommaso Ciarli",
+      "Robin Cowan",
+      "Fabiana Visentin"
+    ],
+    "container": "",
+    "year": 2024,
+    "type": "report",
+    "url": "https://doi.org/10.18235/0005541",
+    "page": null,
+    "volume": null
+  },
+  {
+    "doi": "10.1126/science.abl4476",
+    "status": "verified_Crossref",
+    "title": "A causal test of the strength of weak ties",
+    "authors": [
+      "Karthik Rajkumar",
+      "Guillaume Saint-Jacques",
+      "Iavor Bojinov",
+      "Erik Brynjolfsson",
+      "Sinan Aral"
+    ],
+    "container": "Science",
+    "year": 2022,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1126/science.abl4476",
+    "page": "1304-1310",
+    "volume": "377"
+  },
+  {
+    "doi": "10.1038/s41562-026-02489-2",
+    "status": "verified_Crossref",
+    "title": "The growing concentration of national influence in global science",
+    "authors": [
+      "Charles J. Gomez"
+    ],
+    "container": "Nature Human Behaviour",
+    "year": 2026,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41562-026-02489-2",
+    "page": "1645-1661",
+    "volume": "10"
+  },
+  {
+    "doi": "10.1007/s41109-020-00279-x",
+    "title": "The mobility network of scientists: analyzing temporal correlations in scientific careers",
+    "authors": [
+      "Giacomo Vaccario",
+      "Luca Verginer",
+      "Frank Schweitzer"
+    ],
+    "journal": "Applied Network Science",
+    "year": 2020,
+    "volume": "5",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1080/00324728.2023.2231913",
+    "title": "Linking internal and international migration over the life course: A sequence analysis of individual migration trajectories in Europe",
+    "authors": [
+      "Aude Bernard",
+      "Sergi Vidal"
+    ],
+    "journal": "Population Studies",
+    "year": 2023,
+    "volume": "77",
+    "page": "515-537",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1038/s41467-022-33527-y",
+    "status": "verified_Crossref",
+    "title": "Spatial structure of city population growth",
+    "authors": [
+      "Sandro M. Reia",
+      "P. Suresh C. Rao",
+      "Marc Barthelemy",
+      "Satish V. Ukkusuri"
+    ],
+    "container": "Nature Communications",
+    "year": 2022,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41467-022-33527-y"
+  },
+  {
+    "doi": "10.1080/1369183x.2026.2694607",
+    "title": "Interlinkages between internal and international migration across the settlement hierarchy in developing countries",
+    "authors": [
+      "Mathias Lerch",
+      "Wenxiu Du",
+      "Dorothee Beckendorff"
+    ],
+    "journal": "Journal of Ethnic and Migration Studies",
+    "year": 2026,
+    "volume": null,
+    "page": "1-24",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1038/s41586-022-05222-x",
+    "title": "Quantifying hierarchy and dynamics in US faculty hiring and retention",
+    "authors": [
+      "K. Hunter Wapman",
+      "Sam Zhang",
+      "Aaron Clauset",
+      "Daniel B. Larremore"
+    ],
+    "journal": "Nature",
+    "year": 2022,
+    "volume": "610",
+    "page": "120-127",
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1038/srep04770",
+    "title": "Career on the Move: Geography, Stratification and Scientific Impact",
+    "authors": [
+      "Pierre Deville",
+      "Dashun Wang",
+      "Roberta Sinatra",
+      "Chaoming Song",
+      "Vincent D. Blondel",
+      "Albert-László Barabási"
+    ],
+    "journal": "Scientific Reports",
+    "year": 2014,
+    "volume": "4",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1126/sciadv.1400005",
+    "title": "Systematic inequality and hierarchy in faculty hiring networks",
+    "authors": [
+      "Aaron Clauset",
+      "Samuel Arbesman",
+      "Daniel B. Larremore"
+    ],
+    "journal": "Science Advances",
+    "year": 2015,
+    "volume": "1",
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  },
+  {
+    "doi": "10.1177/01979183251384588",
+    "title": "The Diffusion of International Migration in Cities and Rural Areas of Developing Countries",
+    "authors": [
+      "Mathias Lerch",
+      "Dorothee Beckendorff",
+      "Wenxiu Du"
+    ],
+    "journal": "International Migration Review",
+    "year": 2025,
+    "volume": null,
+    "page": null,
+    "type": "journal-article",
+    "status": "Crossref_verified"
+  }
+]

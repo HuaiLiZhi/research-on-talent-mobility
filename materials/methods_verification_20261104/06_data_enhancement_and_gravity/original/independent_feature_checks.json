@@ -1,0 +1,302 @@
+{
+  "checks": 42,
+  "max_absolute_error": 2.358178647909881e-07,
+  "formulas": "Direct grouped-count sums, independently computed dictionary-aligned cosine and explicit sum over foreign intermediate cities.",
+  "input": "Aggregate city-period OD records only.",
+  "records": [
+    {
+      "p": 1,
+      "row": 129003,
+      "max_absolute_error": 3.007078253070006e-08,
+      "origin": "us_census2024:2407125",
+      "destination": "us_census2024:2608300"
+    },
+    {
+      "p": 1,
+      "row": 172961,
+      "max_absolute_error": 1.9834087483516782e-08,
+      "origin": "us_census2024:3918000",
+      "destination": "us_census2024:1262775"
+    },
+    {
+      "p": 1,
+      "row": 1259946,
+      "max_absolute_error": 8.339842638704908e-08,
+      "origin": "gn:6453974",
+      "destination": "gn:6444069"
+    },
+    {
+      "p": 1,
+      "row": 1279475,
+      "max_absolute_error": 3.9668174967033565e-08,
+      "origin": "gn:6613166",
+      "destination": "gn:6455401"
+    },
+    {
+      "p": 1,
+      "row": 1519234,
+      "max_absolute_error": 4.157282962324871e-08,
+      "origin": "gn:6559169",
+      "destination": "gn:6557591"
+    },
+    {
+      "p": 1,
+      "row": 1755060,
+      "max_absolute_error": 8.615658186883479e-08,
+      "origin": "gn:2638864",
+      "destination": "gn:2639928"
+    },
+    {
+      "p": 1,
+      "row": 2288437,
+      "max_absolute_error": 1.904654323148236e-09,
+      "origin": "gn:6166142",
+      "destination": "gn:5906267"
+    },
+    {
+      "p": 2,
+      "row": 365879,
+      "max_absolute_error": 9.639327691601807e-08,
+      "origin": "us_census2024:1225175",
+      "destination": "us_census2024:2108902"
+    },
+    {
+      "p": 2,
+      "row": 382629,
+      "max_absolute_error": 6.335275237745464e-08,
+      "origin": "us_census2024:0618100",
+      "destination": "us_census2024:2425050"
+    },
+    {
+      "p": 2,
+      "row": 1415888,
+      "max_absolute_error": 0.0,
+      "origin": "gn:1277333",
+      "destination": "gn:1279323"
+    },
+    {
+      "p": 2,
+      "row": 1423856,
+      "max_absolute_error": 2.358178647909881e-07,
+      "origin": "gn:1279259",
+      "destination": "gn:1267995"
+    },
+    {
+      "p": 2,
+      "row": 1793684,
+      "max_absolute_error": 7.013180303161448e-08,
+      "origin": "gn:2639996",
+      "destination": "gn:2647878"
+    },
+    {
+      "p": 2,
+      "row": 2693830,
+      "max_absolute_error": 0.0,
+      "origin": "gn:2619856",
+      "destination": "gn:2621258"
+    },
+    {
+      "p": 2,
+      "row": 2738454,
+      "max_absolute_error": 1.936297984173052e-07,
+      "origin": "gn:2325330",
+      "destination": "gn:2339354"
+    },
+    {
+      "p": 3,
+      "row": 469520,
+      "max_absolute_error": 5.288679516546324e-08,
+      "origin": "us_census2024:5363000",
+      "destination": "us_census2024:0686972"
+    },
+    {
+      "p": 3,
+      "row": 527175,
+      "max_absolute_error": 4.28635155147461e-09,
+      "origin": "us_census2024:0952000",
+      "destination": "gn:4556802"
+    },
+    {
+      "p": 3,
+      "row": 1307807,
+      "max_absolute_error": 6.822714881948855e-08,
+      "origin": "gn:6441375",
+      "destination": "gn:6438526"
+    },
+    {
+      "p": 3,
+      "row": 1437292,
+      "max_absolute_error": 8.339842638704908e-08,
+      "origin": "gn:1273865",
+      "destination": "gn:1344377"
+    },
+    {
+      "p": 3,
+      "row": 2123111,
+      "max_absolute_error": 3.9668174967033565e-08,
+      "origin": "gn:1841598",
+      "destination": "gn:1839873"
+    },
+    {
+      "p": 3,
+      "row": 2206061,
+      "max_absolute_error": 0.0,
+      "origin": "gn:6295587",
+      "destination": "gn:1646170"
+    },
+    {
+      "p": 3,
+      "row": 2741525,
+      "max_absolute_error": 1.0601885813699141e-07,
+      "origin": "gn:2347283",
+      "destination": "gn:2328684"
+    },
+    {
+      "p": 4,
+      "row": 673191,
+      "max_absolute_error": 8.339842638704908e-08,
+      "origin": "us_census2024:5548000",
+      "destination": "us_census2024:2031100"
+    },
+    {
+      "p": 4,
+      "row": 742547,
+      "max_absolute_error": 3.007078253070006e-08,
+      "origin": "us_census2024:4815976",
+      "destination": "us_census2024:2179482"
+    },
+    {
+      "p": 4,
+      "row": 1205292,
+      "max_absolute_error": 3.809308646296472e-09,
+      "origin": "gn:1926099",
+      "destination": "gn:2112343"
+    },
+    {
+      "p": 4,
+      "row": 1455515,
+      "max_absolute_error": 3.9668174967033565e-08,
+      "origin": "gn:1269743",
+      "destination": "gn:1260173"
+    },
+    {
+      "p": 4,
+      "row": 1648393,
+      "max_absolute_error": 8.339842638704908e-08,
+      "origin": "gn:6554815",
+      "destination": "gn:6547540"
+    },
+    {
+      "p": 4,
+      "row": 2450684,
+      "max_absolute_error": 3.809308646296472e-09,
+      "origin": "gn:2747351",
+      "destination": "gn:2753996"
+    },
+    {
+      "p": 4,
+      "row": 2495235,
+      "max_absolute_error": 1.9834087483516782e-08,
+      "origin": "gn:776069",
+      "destination": "gn:3097872"
+    },
+    {
+      "p": 5,
+      "row": 70479,
+      "max_absolute_error": 1.5344059534072585e-07,
+      "origin": "gn:1815577",
+      "destination": "gn:1787824"
+    },
+    {
+      "p": 5,
+      "row": 781945,
+      "max_absolute_error": 1.904654323148236e-09,
+      "origin": "us_census2024:2507000",
+      "destination": "us_census2024:3745100"
+    },
+    {
+      "p": 5,
+      "row": 863526,
+      "max_absolute_error": 0.0,
+      "origin": "us_census2024:3601000",
+      "destination": "us_census2024:3631643"
+    },
+    {
+      "p": 5,
+      "row": 1229289,
+      "max_absolute_error": 4.990487001421684e-08,
+      "origin": "gn:1849876",
+      "destination": "gn:1858858"
+    },
+    {
+      "p": 5,
+      "row": 1889137,
+      "max_absolute_error": 3.9668174967033565e-08,
+      "origin": "gn:2652221",
+      "destination": "gn:2641581"
+    },
+    {
+      "p": 5,
+      "row": 1898156,
+      "max_absolute_error": 1.9834087483516782e-08,
+      "origin": "gn:2643567",
+      "destination": "gn:2634801"
+    },
+    {
+      "p": 5,
+      "row": 2529709,
+      "max_absolute_error": 3.1975436520781386e-08,
+      "origin": "gn:3832899",
+      "destination": "gn:3436230"
+    },
+    {
+      "p": 6,
+      "row": 91849,
+      "max_absolute_error": 5.288679516546324e-08,
+      "origin": "gn:1804430",
+      "destination": "gn:8053612"
+    },
+    {
+      "p": 6,
+      "row": 1027300,
+      "max_absolute_error": 4.558076360794416e-09,
+      "origin": "us_census2024:5548000",
+      "destination": "us_census2024:3653660"
+    },
+    {
+      "p": 6,
+      "row": 1028825,
+      "max_absolute_error": 3.1975436520781386e-08,
+      "origin": "us_census2024:3918000",
+      "destination": "us_census2024:0546580"
+    },
+    {
+      "p": 6,
+      "row": 1257067,
+      "max_absolute_error": 8.339842638704908e-08,
+      "origin": "gn:1856717",
+      "destination": "gn:11611224"
+    },
+    {
+      "p": 6,
+      "row": 1920123,
+      "max_absolute_error": 3.1975436520781386e-08,
+      "origin": "gn:2644688",
+      "destination": "gn:2643825"
+    },
+    {
+      "p": 6,
+      "row": 2422835,
+      "max_absolute_error": 3.809308646296472e-09,
+      "origin": "gn:2155472",
+      "destination": "gn:2164837"
+    },
+    {
+      "p": 6,
+      "row": 2927642,
+      "max_absolute_error": 6.822714881948855e-08,
+      "origin": "gn:3671916",
+      "destination": "gn:3666645"
+    }
+  ]
+}

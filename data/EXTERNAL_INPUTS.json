@@ -1,0 +1,237 @@
+[
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/count_mobility_flow_annual_clean.csv",
+    "bytes": 4279253909,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/count_mobility_flow_annual_clean.parquet",
+    "bytes": 515853034,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/count_mobility_flow_career_clean.csv",
+    "bytes": 4101096809,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/count_mobility_flow_career_clean.parquet",
+    "bytes": 492313975,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/mobility_flow_by_field_city_clean.csv",
+    "bytes": 2939940792,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/mobility_flow_by_field_city_clean.parquet",
+    "bytes": 359579872,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/analysis/flow_top100.parquet",
+    "bytes": 338096185,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/analysis/international_city_margins.csv",
+    "bytes": 21592428,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/mobility/openalex/count_mobility_flow_annual.csv",
+    "bytes": 4839881270,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/mobility/openalex/count_mobility_flow_annual_city_entity_all.csv",
+    "bytes": 1849997069,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/mobility/openalex/count_mobility_flow_career.csv",
+    "bytes": 4643083541,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/mobility/openalex/mobility_flow_by_field_clean.csv",
+    "bytes": 3181822944,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/logical_distance_validation_20261030/domestic_od_period.parquet",
+    "bytes": 11359277,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/cross_scale_mechanism_validation_20261030/international_city_od_period.parquet",
+    "bytes": 24407274,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/literature_network_validation_20261029/domestic_od_year.parquet",
+    "bytes": 20908939,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/mobility/openalex_mobility_rates/author_year_primary_location.parquet",
+    "bytes": 4240561103,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/input/stock/count_stock_city_field_year_annual.csv",
+    "bytes": 1843339629,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/us_census_places_2024/cb_2024_us_place_500k.zip",
+    "bytes": 22957701,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_CAN_ADM3.geojson",
+    "bytes": 28924424,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_CHL_ADM3.geojson",
+    "bytes": 10859002,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_CHN_ADM3.geojson",
+    "bytes": 34557636,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_COL_ADM2.geojson",
+    "bytes": 10603608,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_IDN_ADM2.geojson",
+    "bytes": 11002896,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/GB_LAD2024.geojson",
+    "bytes": 19699506,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_MEX_ADM2.geojson",
+    "bytes": 17217528,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/gb_ROU_ADM2.geojson",
+    "bytes": 10169381,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "results/figure_revision_20261015/unified_country_scope/data/domestic_city_margins.csv",
+    "bytes": 16899225,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/literature_pathway_extension_20261030/full_matching_other_destination_counts.parquet",
+    "bytes": 18347616,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/logical_distance_validation_20261030/domestic_design.npz",
+    "bytes": 55028593,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "outputs/international_signal_validation_20261030/international_features.npz",
+    "bytes": 36986395,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/mobility_annual_admin_city_verified.parquet",
+    "bytes": 368585372,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/mobility_baseline_admin_city_verified.parquet",
+    "bytes": 249547432,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/mobility_career_admin_city_verified.parquet",
+    "bytes": 350068919,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/analysis/domestic_city_margins.csv",
+    "bytes": 23039514,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/analysis/flow_top100.parquet",
+    "bytes": 232289811,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_admin_city_20261020/analysis/international_city_margins.csv",
+    "bytes": 20299679,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/annual_vs_baseline_od_differences.csv",
+    "bytes": 110470553,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/full_event_ledger_annual.parquet",
+    "bytes": 646338104,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/full_event_ledger_baseline.parquet",
+    "bytes": 455177573,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/full_event_ledger_career.parquet",
+    "bytes": 619058950,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/needs_review_events_annual.parquet",
+    "bytes": 10299445,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/top100_event_ledger_annual.parquet",
+    "bytes": 455438692,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/top100_event_ledger_baseline.parquet",
+    "bytes": 455214607,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/processed/mobility_city_harmonized_20261020/audit/top100_event_ledger_career.parquet",
+    "bytes": 455717637,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/geonames_20261020/reference.duckdb",
+    "bytes": 790900736,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/extension/IE_LA2024.geojson",
+    "bytes": 10107869,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  },
+  {
+    "path": "data/raw/geo/municipal_20261020/extension/NZ_TA2025.geojson",
+    "bytes": 98806856,
+    "status": "external input; regenerate with retained preprocessing and analysis scripts"
+  }
+]

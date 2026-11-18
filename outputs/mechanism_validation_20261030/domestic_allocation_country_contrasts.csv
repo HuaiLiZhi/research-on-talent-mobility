@@ -1,0 +1,513 @@
+domain,country,base_model,new_model,log_loss_reduction,CPC_gain
+All,CN,D0_mass_accessibility,D1_domestic_history,0.07606373367172159,0.09397813611799133
+All,US,D0_mass_accessibility,D1_domestic_history,0.0921963254391347,0.1096566157624217
+All,JP,D0_mass_accessibility,D1_domestic_history,0.10913033884666046,0.08547180883806016
+All,FR,D0_mass_accessibility,D1_domestic_history,0.11899118524202601,0.12002255040378795
+All,IN,D0_mass_accessibility,D1_domestic_history,0.03759978021131971,0.05838395141237673
+All,DE,D0_mass_accessibility,D1_domestic_history,0.048874723307578805,0.07540668630216718
+All,GB,D0_mass_accessibility,D1_domestic_history,0.04929441842366167,0.06616766081672754
+All,BR,D0_mass_accessibility,D1_domestic_history,0.03940527350974676,0.05378462887629076
+All,IT,D0_mass_accessibility,D1_domestic_history,0.06667581917402599,0.08824814576881557
+All,KR,D0_mass_accessibility,D1_domestic_history,0.02281474497000424,0.034841229531583195
+All,ES,D0_mass_accessibility,D1_domestic_history,0.05481262635945949,0.08882165386305918
+All,ID,D0_mass_accessibility,D1_domestic_history,0.03154962370662551,0.03051372727125512
+All,RU,D0_mass_accessibility,D1_domestic_history,0.0488012642818747,0.07811853800872481
+All,CA,D0_mass_accessibility,D1_domestic_history,0.03235941311386625,0.05480647355347101
+All,TR,D0_mass_accessibility,D1_domestic_history,0.01626721083938909,0.02474447675943181
+All,IR,D0_mass_accessibility,D1_domestic_history,0.02471788616981474,0.04807332762841765
+All,AU,D0_mass_accessibility,D1_domestic_history,0.018282810252190806,0.04358599622288617
+All,NL,D0_mass_accessibility,D1_domestic_history,0.0398973026096594,0.06593975986671119
+All,PL,D0_mass_accessibility,D1_domestic_history,0.04987253824100968,0.06973053943596197
+All,AR,D0_mass_accessibility,D1_domestic_history,0.043765470125500805,0.057164672131591154
+All,MX,D0_mass_accessibility,D1_domestic_history,0.04060523237783853,0.04880483767402444
+All,SE,D0_mass_accessibility,D1_domestic_history,0.0167721103108196,0.02334668383454941
+All,CH,D0_mass_accessibility,D1_domestic_history,0.07105625269446314,0.09885977271308521
+All,PK,D0_mass_accessibility,D1_domestic_history,0.019561862211504355,0.030220037097223207
+All,PT,D0_mass_accessibility,D1_domestic_history,0.027871827655268522,0.053341308674019094
+All,DK,D0_mass_accessibility,D1_domestic_history,0.04679591716435372,0.06100317037907155
+All,IL,D0_mass_accessibility,D1_domestic_history,0.07628943523168452,0.10662919419405104
+All,MY,D0_mass_accessibility,D1_domestic_history,0.07606877342167273,0.0857170648673482
+All,EG,D0_mass_accessibility,D1_domestic_history,0.010212793428566513,0.017082012143581404
+All,NG,D0_mass_accessibility,D1_domestic_history,0.03021388120128332,0.03517552037353033
+All,BE,D0_mass_accessibility,D1_domestic_history,0.048276610529834674,0.06530496897540006
+All,GR,D0_mass_accessibility,D1_domestic_history,0.1116907873039521,0.13959619108708465
+All,FI,D0_mass_accessibility,D1_domestic_history,0.02041038409996565,0.04563650434964017
+All,ZA,D0_mass_accessibility,D1_domestic_history,0.021570262713898725,0.027414940141760158
+All,UA,D0_mass_accessibility,D1_domestic_history,-0.006616606340140496,0.02302818152528341
+All,CZ,D0_mass_accessibility,D1_domestic_history,0.07715977674645869,0.06211086787250042
+All,NO,D0_mass_accessibility,D1_domestic_history,0.02977616631141622,0.03129946838428732
+All,CO,D0_mass_accessibility,D1_domestic_history,0.0206946387184197,0.05221688299281835
+All,HU,D0_mass_accessibility,D1_domestic_history,0.006887537001674104,0.014428832359515864
+All,AT,D0_mass_accessibility,D1_domestic_history,0.024702188426865224,0.02638719844766213
+All,IE,D0_mass_accessibility,D1_domestic_history,0.02145061226713363,0.038657003141828516
+All,VN,D0_mass_accessibility,D1_domestic_history,0.04045367505795605,0.04803010712844524
+All,TH,D0_mass_accessibility,D1_domestic_history,0.025654236827905574,0.050125916253523806
+All,BD,D0_mass_accessibility,D1_domestic_history,0.002717021598172664,0.02883171206122348
+All,SA,D0_mass_accessibility,D1_domestic_history,0.01696771995555668,0.020031363284782167
+All,CL,D0_mass_accessibility,D1_domestic_history,0.0327714045158527,0.049974376817028765
+All,TN,D0_mass_accessibility,D1_domestic_history,0.012194223631339263,0.024035364806948345
+All,MA,D0_mass_accessibility,D1_domestic_history,-0.0038308210103754625,-0.02077968710767797
+All,RO,D0_mass_accessibility,D1_domestic_history,0.037309448752274044,0.0357593569778244
+All,NZ,D0_mass_accessibility,D1_domestic_history,0.016360283079940974,0.03048171816649159
+All,DZ,D0_mass_accessibility,D1_domestic_history,0.02742754052337082,0.03614399998825901
+All,RS,D0_mass_accessibility,D1_domestic_history,0.027399916071816577,0.05303585046141279
+All,HR,D0_mass_accessibility,D1_domestic_history,0.011957752875191296,0.028843903627083778
+All,SK,D0_mass_accessibility,D1_domestic_history,0.10990807103815392,0.08173974376059612
+All,PH,D0_mass_accessibility,D1_domestic_history,0.016059950264300404,0.02160464995461131
+All,GH,D0_mass_accessibility,D1_domestic_history,0.014876935089799037,0.018597195139173905
+All,KE,D0_mass_accessibility,D1_domestic_history,0.022446020345146867,0.044208762410439695
+All,BG,D0_mass_accessibility,D1_domestic_history,0.023116646347474346,0.0660028475651453
+All,SI,D0_mass_accessibility,D1_domestic_history,0.07236565384501636,0.08546957451689008
+All,LK,D0_mass_accessibility,D1_domestic_history,0.022747216352186683,0.015348663890709546
+All,CU,D0_mass_accessibility,D1_domestic_history,0.11595228194514595,0.11182479124972777
+All,CM,D0_mass_accessibility,D1_domestic_history,0.021545483096671703,0.029150959984855063
+All,JO,D0_mass_accessibility,D1_domestic_history,0.004923402502170715,0.00845039813336712
+All,TZ,D0_mass_accessibility,D1_domestic_history,0.049290283776847854,0.06907232002589792
+All,VE,D0_mass_accessibility,D1_domestic_history,0.013471839704573885,0.0033172302262755027
+All,AE,D0_mass_accessibility,D1_domestic_history,0.007945090582343495,0.03663496283085921
+All,UG,D0_mass_accessibility,D1_domestic_history,0.05974269042511127,0.06608395701531566
+All,LT,D0_mass_accessibility,D1_domestic_history,0.03091532773591732,0.07029403757597552
+All,EE,D0_mass_accessibility,D1_domestic_history,0.0002381581395279886,0.004279984387229763
+All,PR,D0_mass_accessibility,D1_domestic_history,-0.006570843019881645,-0.00039561007872379594
+All,CR,D0_mass_accessibility,D1_domestic_history,0.06753457652571204,0.10749532212130553
+All,BY,D0_mass_accessibility,D1_domestic_history,0.027050208744166193,0.06102430896268729
+All,MW,D0_mass_accessibility,D1_domestic_history,-0.004242593212370194,-0.03290503975267467
+All,IS,D0_mass_accessibility,D1_domestic_history,0.22588253510355472,0.16908257897134837
+All,AM,D0_mass_accessibility,D1_domestic_history,0.22300659610000695,0.20998736017568842
+All,MT,D0_mass_accessibility,D1_domestic_history,0.1643432872077315,0.1408186652829675
+All,CN,D1_domestic_history,D2_international_history,0.0008369561228063205,0.0009828258971461556
+All,US,D1_domestic_history,D2_international_history,0.0005901204330216459,0.0023499670090006974
+All,JP,D1_domestic_history,D2_international_history,0.004168359272759048,0.006972584719154962
+All,FR,D1_domestic_history,D2_international_history,0.0013135597775679742,0.0025356623516237242
+All,IN,D1_domestic_history,D2_international_history,0.001106742592895671,0.0015104442362383619
+All,DE,D1_domestic_history,D2_international_history,-2.5887937953328333e-06,-0.00043324061587046714
+All,GB,D1_domestic_history,D2_international_history,0.0005281353818755719,0.001768065699379373
+All,BR,D1_domestic_history,D2_international_history,0.0009422123105160551,0.0030928093713726845
+All,IT,D1_domestic_history,D2_international_history,0.00024614697416147635,0.0019166004294308703
+All,KR,D1_domestic_history,D2_international_history,2.161925631627426e-05,-0.00011870489075394008
+All,ES,D1_domestic_history,D2_international_history,0.0011977551895654415,0.004384265468282078
+All,ID,D1_domestic_history,D2_international_history,0.001197015542717228,0.002978107785600037
+All,RU,D1_domestic_history,D2_international_history,0.0003049553725444909,0.0018907129869829564
+All,CA,D1_domestic_history,D2_international_history,-0.00012019625318915317,8.345737904524864e-05
+All,TR,D1_domestic_history,D2_international_history,0.0013504445485725824,0.0028385504801730077
+All,IR,D1_domestic_history,D2_international_history,0.0005749550687026428,0.0014233684729488827
+All,AU,D1_domestic_history,D2_international_history,-0.00013503436499506805,-0.000711038849925405
+All,NL,D1_domestic_history,D2_international_history,-7.93237639262756e-05,-0.000930264172794959
+All,PL,D1_domestic_history,D2_international_history,0.0017090713213252506,0.005228135079983098
+All,AR,D1_domestic_history,D2_international_history,0.0005550787558088466,0.0013197095320486296
+All,MX,D1_domestic_history,D2_international_history,0.0005729830580571971,0.001609817326628904
+All,SE,D1_domestic_history,D2_international_history,-0.0008210992827826225,0.0005694465354031397
+All,CH,D1_domestic_history,D2_international_history,-0.00047936979273721647,-0.0010810144124988597
+All,PK,D1_domestic_history,D2_international_history,0.0005670598304705621,0.001676148705600844
+All,PT,D1_domestic_history,D2_international_history,0.00010479931788953678,0.0017929406504592071
+All,DK,D1_domestic_history,D2_international_history,-0.0013002588019839223,0.0010158936215084458
+All,IL,D1_domestic_history,D2_international_history,-0.0017146413186051035,-0.004534732218590576
+All,MY,D1_domestic_history,D2_international_history,-0.0014612479523066213,-0.0014198116320915943
+All,EG,D1_domestic_history,D2_international_history,-4.887986571011638e-05,0.0008880751659940955
+All,NG,D1_domestic_history,D2_international_history,0.0025975230882377964,0.005096399800833762
+All,BE,D1_domestic_history,D2_international_history,-7.539900725284099e-05,0.0042951890372702195
+All,GR,D1_domestic_history,D2_international_history,-0.0005560921571321487,-0.0007233897119420796
+All,FI,D1_domestic_history,D2_international_history,-0.002327462815813419,-0.004589985785343642
+All,ZA,D1_domestic_history,D2_international_history,0.001095958933138963,0.004142231708531674
+All,UA,D1_domestic_history,D2_international_history,-0.003364396231083422,-0.004229479818085413
+All,CZ,D1_domestic_history,D2_international_history,0.000198883727108079,0.005757711881479
+All,NO,D1_domestic_history,D2_international_history,-0.0008871508345178469,-0.0003060940054261385
+All,CO,D1_domestic_history,D2_international_history,0.0012473512150976696,0.0039608853157684365
+All,HU,D1_domestic_history,D2_international_history,-0.0012929492343043414,-0.003448339826452762
+All,AT,D1_domestic_history,D2_international_history,0.00010614066814040868,0.0014845055810283059
+All,IE,D1_domestic_history,D2_international_history,-9.955209375078766e-05,0.0006689686829297603
+All,VN,D1_domestic_history,D2_international_history,-0.0003758999896605886,-0.0020645603233593324
+All,TH,D1_domestic_history,D2_international_history,0.0002748452375129773,0.003756200903237028
+All,BD,D1_domestic_history,D2_international_history,0.000630361290369752,0.0009175703502172228
+All,SA,D1_domestic_history,D2_international_history,-0.00040088932079962447,-0.0021908158945582734
+All,CL,D1_domestic_history,D2_international_history,7.122496185418825e-05,-0.001102134581690395
+All,TN,D1_domestic_history,D2_international_history,0.0013077386727986529,0.005860364114663508
+All,MA,D1_domestic_history,D2_international_history,-0.004677158265096182,-0.007639336287614262
+All,RO,D1_domestic_history,D2_international_history,0.002445329075831282,0.0026474214031662058
+All,NZ,D1_domestic_history,D2_international_history,0.0008860083334707447,0.001244229387432516
+All,DZ,D1_domestic_history,D2_international_history,0.0024992647133026402,0.00692177893434609
+All,RS,D1_domestic_history,D2_international_history,-0.000372288642800811,-0.009654074157378623
+All,HR,D1_domestic_history,D2_international_history,-0.0025812152104829345,-0.006433457674300147
+All,SK,D1_domestic_history,D2_international_history,-0.0002620203471241922,0.005642246582051813
+All,PH,D1_domestic_history,D2_international_history,-0.005776535248078751,-0.0050760878225901696
+All,GH,D1_domestic_history,D2_international_history,0.0006649676536274463,-0.002826517097671788
+All,KE,D1_domestic_history,D2_international_history,0.0010747180744981044,-0.0023830082109487227
+All,BG,D1_domestic_history,D2_international_history,-0.0013228606054418446,-0.00658853688413541
+All,SI,D1_domestic_history,D2_international_history,-0.0024756238703118605,-0.001554863021241748
+All,LK,D1_domestic_history,D2_international_history,-0.0014023355703729479,0.002582695729145268
+All,CU,D1_domestic_history,D2_international_history,-0.0002663005124508011,-0.0007153596063970147
+All,CM,D1_domestic_history,D2_international_history,-0.0014533125515692191,-0.008894344952549593
+All,JO,D1_domestic_history,D2_international_history,-0.00031738404653625096,-4.936307645897475e-05
+All,TZ,D1_domestic_history,D2_international_history,-0.0026725055311609403,0.0009185555290109892
+All,VE,D1_domestic_history,D2_international_history,9.581879912845537e-05,0.001592395628746912
+All,AE,D1_domestic_history,D2_international_history,0.000845109361078622,0.00628045348450379
+All,UG,D1_domestic_history,D2_international_history,-0.0016456984601038727,-0.002780019601488104
+All,LT,D1_domestic_history,D2_international_history,-0.0010801406994394025,-0.002629923053138472
+All,EE,D1_domestic_history,D2_international_history,-0.0004863395814427296,0.0021572387550600203
+All,PR,D1_domestic_history,D2_international_history,0.0013469046391620942,0.002852146481696294
+All,CR,D1_domestic_history,D2_international_history,-0.001609779116911847,-0.004311786918861804
+All,BY,D1_domestic_history,D2_international_history,-0.0022556313986836773,-0.0036377745686159146
+All,MW,D1_domestic_history,D2_international_history,0.0009941390175003395,-1.695054469297297e-05
+All,IS,D1_domestic_history,D2_international_history,0.002972161491236358,0.003248828378067614
+All,AM,D1_domestic_history,D2_international_history,-0.005234845536867816,-0.018827314030900322
+All,MT,D1_domestic_history,D2_international_history,-0.007650666301591835,-0.012319034955330932
+Health Sciences,AR,D0_mass_accessibility,D1_domestic_history,0.03303263682353963,0.0671700844032298
+Health Sciences,AT,D0_mass_accessibility,D1_domestic_history,0.05206237853382323,0.05851194712582841
+Health Sciences,AU,D0_mass_accessibility,D1_domestic_history,0.018467515863684447,0.04334567854689708
+Health Sciences,BE,D0_mass_accessibility,D1_domestic_history,0.0682439588320598,0.08282792653427051
+Health Sciences,BR,D0_mass_accessibility,D1_domestic_history,0.03850401740043097,0.05895540813092648
+Health Sciences,CA,D0_mass_accessibility,D1_domestic_history,0.01978534110340302,0.0368529573601577
+Health Sciences,CH,D0_mass_accessibility,D1_domestic_history,0.04580219643026062,0.06953661936442923
+Health Sciences,CL,D0_mass_accessibility,D1_domestic_history,0.035252976379363865,0.08499970110474098
+Health Sciences,CN,D0_mass_accessibility,D1_domestic_history,0.0671268228688735,0.08519193665116132
+Health Sciences,CO,D0_mass_accessibility,D1_domestic_history,0.027216218724372965,0.05548967183302944
+Health Sciences,CZ,D0_mass_accessibility,D1_domestic_history,0.12900453321891803,0.08997825070342003
+Health Sciences,DE,D0_mass_accessibility,D1_domestic_history,0.03763248853736556,0.06366191933809773
+Health Sciences,DK,D0_mass_accessibility,D1_domestic_history,0.02820040287803094,0.04468011776892733
+Health Sciences,EG,D0_mass_accessibility,D1_domestic_history,0.025256440772074118,0.02961648371395187
+Health Sciences,ES,D0_mass_accessibility,D1_domestic_history,0.05104070840332042,0.08271985598379805
+Health Sciences,FI,D0_mass_accessibility,D1_domestic_history,0.04446601450807286,0.06632728310492786
+Health Sciences,FR,D0_mass_accessibility,D1_domestic_history,0.07768971102878508,0.09746463271451689
+Health Sciences,GB,D0_mass_accessibility,D1_domestic_history,0.025527611314744014,0.038347558183250086
+Health Sciences,GR,D0_mass_accessibility,D1_domestic_history,0.05363752880303041,0.10424939874348427
+Health Sciences,HR,D0_mass_accessibility,D1_domestic_history,0.019368950573425137,0.05454490757958119
+Health Sciences,HU,D0_mass_accessibility,D1_domestic_history,0.0009232688968685565,0.011797062729668295
+Health Sciences,ID,D0_mass_accessibility,D1_domestic_history,0.0341947807531402,0.04000395263839018
+Health Sciences,IE,D0_mass_accessibility,D1_domestic_history,0.01920697579866726,0.042678109454795
+Health Sciences,IL,D0_mass_accessibility,D1_domestic_history,0.11025471667771702,0.13811115079546143
+Health Sciences,IN,D0_mass_accessibility,D1_domestic_history,0.040472181978118194,0.054067744854261024
+Health Sciences,IT,D0_mass_accessibility,D1_domestic_history,0.05785580592500983,0.0828985545121339
+Health Sciences,JP,D0_mass_accessibility,D1_domestic_history,0.07418568310156726,0.06799081398686557
+Health Sciences,KR,D0_mass_accessibility,D1_domestic_history,0.016074076930646886,0.018939939862322563
+Health Sciences,MX,D0_mass_accessibility,D1_domestic_history,0.05946436999296312,0.05736538258490986
+Health Sciences,MY,D0_mass_accessibility,D1_domestic_history,0.1818929030784302,0.1650905973724215
+Health Sciences,NG,D0_mass_accessibility,D1_domestic_history,0.047186570278903606,0.07497479969822107
+Health Sciences,NL,D0_mass_accessibility,D1_domestic_history,0.013602370479184778,0.03426885066595742
+Health Sciences,NO,D0_mass_accessibility,D1_domestic_history,0.03611303507374064,0.061343464753988775
+Health Sciences,NZ,D0_mass_accessibility,D1_domestic_history,0.05364499211859464,0.08190324139957694
+Health Sciences,PH,D0_mass_accessibility,D1_domestic_history,0.12039851352316688,0.11076996773451042
+Health Sciences,PK,D0_mass_accessibility,D1_domestic_history,0.01591953474561425,0.02938402430595144
+Health Sciences,PL,D0_mass_accessibility,D1_domestic_history,0.032075357086359446,0.05808438592498699
+Health Sciences,PT,D0_mass_accessibility,D1_domestic_history,0.018624008876528375,0.024950383210239013
+Health Sciences,RU,D0_mass_accessibility,D1_domestic_history,0.03638884708309309,0.06963882041477487
+Health Sciences,SE,D0_mass_accessibility,D1_domestic_history,0.026843232887141966,0.03681647097057539
+Health Sciences,TH,D0_mass_accessibility,D1_domestic_history,0.03630884326424777,0.07317408280780058
+Health Sciences,TR,D0_mass_accessibility,D1_domestic_history,0.01273548065451413,0.009279102561752128
+Health Sciences,US,D0_mass_accessibility,D1_domestic_history,0.06295599244253047,0.08223035202472762
+Health Sciences,VE,D0_mass_accessibility,D1_domestic_history,0.006641370502564747,-0.03647785865963438
+Health Sciences,ZA,D0_mass_accessibility,D1_domestic_history,0.043476211549368315,0.04327689417425773
+Health Sciences,AR,D1_domestic_history,D2_international_history,-7.531142840511151e-05,-0.0001638449593673874
+Health Sciences,AT,D1_domestic_history,D2_international_history,-9.853604561627094e-05,-8.484504899719525e-05
+Health Sciences,AU,D1_domestic_history,D2_international_history,-2.1699426397958632e-06,4.9963488644055865e-05
+Health Sciences,BE,D1_domestic_history,D2_international_history,9.458070108481209e-05,-0.00033718126976711726
+Health Sciences,BR,D1_domestic_history,D2_international_history,-9.361070860514076e-05,-0.00035339460750760665
+Health Sciences,CA,D1_domestic_history,D2_international_history,-3.6007599133469625e-06,-0.00018534588817153974
+Health Sciences,CH,D1_domestic_history,D2_international_history,5.2199316949774754e-05,6.864638641079779e-05
+Health Sciences,CL,D1_domestic_history,D2_international_history,-4.846195098240358e-05,-6.488610029276032e-05
+Health Sciences,CN,D1_domestic_history,D2_international_history,-0.0001607365545819306,-0.00023741380640773802
+Health Sciences,CO,D1_domestic_history,D2_international_history,-9.834413802911612e-05,-0.000592359363457251
+Health Sciences,CZ,D1_domestic_history,D2_international_history,0.00038560928421604856,-0.00029604126361748584
+Health Sciences,DE,D1_domestic_history,D2_international_history,-1.5409582236003416e-05,-0.00012667837908353352
+Health Sciences,DK,D1_domestic_history,D2_international_history,8.725741596649073e-05,-0.00040277000731669954
+Health Sciences,EG,D1_domestic_history,D2_international_history,-2.8839144914805104e-05,-0.0002610002197798167
+Health Sciences,ES,D1_domestic_history,D2_international_history,-0.0001921042570338649,-0.0005831701254732646
+Health Sciences,FI,D1_domestic_history,D2_international_history,0.00027654599061888163,0.0002765855710026299
+Health Sciences,FR,D1_domestic_history,D2_international_history,-0.0003171555733683107,-0.0005619277759533192
+Health Sciences,GB,D1_domestic_history,D2_international_history,-3.8103575997538996e-05,-0.0002751025654317285
+Health Sciences,GR,D1_domestic_history,D2_international_history,6.18264719118855e-05,0.0005998155443905917
+Health Sciences,HR,D1_domestic_history,D2_international_history,0.0003536372099144369,0.0007869562320720336
+Health Sciences,HU,D1_domestic_history,D2_international_history,8.65405359942173e-05,0.0005561878964490674
+Health Sciences,ID,D1_domestic_history,D2_international_history,-0.00020877257797158322,-0.00036065296153375836
+Health Sciences,IE,D1_domestic_history,D2_international_history,-3.523255895032662e-05,-8.693826579997399e-05
+Health Sciences,IL,D1_domestic_history,D2_international_history,0.0002558460098409654,0.0006217277252760223
+Health Sciences,IN,D1_domestic_history,D2_international_history,-0.000238419940938428,-0.0004094360170943112
+Health Sciences,IT,D1_domestic_history,D2_international_history,-8.63634047649775e-05,-0.00037852935868942783
+Health Sciences,JP,D1_domestic_history,D2_international_history,-0.000488470143829467,-0.0006541329466592805
+Health Sciences,KR,D1_domestic_history,D2_international_history,-8.239733914638947e-05,-0.0002962071657580667
+Health Sciences,MX,D1_domestic_history,D2_international_history,-3.546730107384377e-05,-0.0002298590197133965
+Health Sciences,MY,D1_domestic_history,D2_international_history,0.00019547812458853286,0.00045078695628153476
+Health Sciences,NG,D1_domestic_history,D2_international_history,-0.0005517257060612124,-0.0008030983376832168
+Health Sciences,NL,D1_domestic_history,D2_international_history,-8.825916778087972e-05,-0.0004265371557640174
+Health Sciences,NO,D1_domestic_history,D2_international_history,0.00023405435072509917,-0.0001466953306467067
+Health Sciences,NZ,D1_domestic_history,D2_international_history,-0.00014015733467509506,-0.0005257287447790748
+Health Sciences,PH,D1_domestic_history,D2_international_history,0.00028862907273863314,0.0007163096687549109
+Health Sciences,PK,D1_domestic_history,D2_international_history,1.504009748654056e-05,3.576419068040959e-05
+Health Sciences,PL,D1_domestic_history,D2_international_history,-0.0001150925641812961,-0.00033991148204293165
+Health Sciences,PT,D1_domestic_history,D2_international_history,-0.00013714687436205963,-0.000316864240785808
+Health Sciences,RU,D1_domestic_history,D2_international_history,-0.0002436610078766499,-0.0006318300147977185
+Health Sciences,SE,D1_domestic_history,D2_international_history,0.0001708769718153924,0.00028144998600487803
+Health Sciences,TH,D1_domestic_history,D2_international_history,-6.149482441442089e-05,-0.0007199621676333701
+Health Sciences,TR,D1_domestic_history,D2_international_history,-0.0002457045256263335,-0.0004277244326669205
+Health Sciences,US,D1_domestic_history,D2_international_history,5.917355364370991e-05,-5.758175530112819e-05
+Health Sciences,VE,D1_domestic_history,D2_international_history,0.00010536335507627115,0.00012026027142431062
+Health Sciences,ZA,D1_domestic_history,D2_international_history,-0.00036421340241110656,-0.0004548149419560943
+Life Sciences,AR,D0_mass_accessibility,D1_domestic_history,0.045870938537271755,0.05945162548209548
+Life Sciences,AT,D0_mass_accessibility,D1_domestic_history,0.044030269304395464,0.0656854643324769
+Life Sciences,AU,D0_mass_accessibility,D1_domestic_history,0.033818259616322344,0.05329813531813965
+Life Sciences,BE,D0_mass_accessibility,D1_domestic_history,0.054413693597324286,0.03894923143555462
+Life Sciences,BR,D0_mass_accessibility,D1_domestic_history,0.02212491697677521,0.04134860657211137
+Life Sciences,CA,D0_mass_accessibility,D1_domestic_history,0.01817512025342971,0.03808373999753323
+Life Sciences,CH,D0_mass_accessibility,D1_domestic_history,0.04364360383121868,0.07323295717115308
+Life Sciences,CL,D0_mass_accessibility,D1_domestic_history,0.026659317629871726,0.03780541751931743
+Life Sciences,CN,D0_mass_accessibility,D1_domestic_history,0.05613484655927703,0.07023269623387984
+Life Sciences,CO,D0_mass_accessibility,D1_domestic_history,0.02138592074307688,0.034438222837377186
+Life Sciences,CZ,D0_mass_accessibility,D1_domestic_history,0.03665231909091293,0.029393415076331975
+Life Sciences,DE,D0_mass_accessibility,D1_domestic_history,0.02616425371852671,0.041482271949682126
+Life Sciences,DK,D0_mass_accessibility,D1_domestic_history,0.011388216079321722,0.03160253689332715
+Life Sciences,EG,D0_mass_accessibility,D1_domestic_history,0.010114185495828654,0.02091933494594489
+Life Sciences,ES,D0_mass_accessibility,D1_domestic_history,0.07373967401879922,0.10853626441773612
+Life Sciences,FI,D0_mass_accessibility,D1_domestic_history,-0.019235722490211327,4.8563077743368765e-05
+Life Sciences,FR,D0_mass_accessibility,D1_domestic_history,0.09525152763453448,0.10451082972760584
+Life Sciences,GB,D0_mass_accessibility,D1_domestic_history,0.035086296652604876,0.05704150980652756
+Life Sciences,GR,D0_mass_accessibility,D1_domestic_history,0.10532499601982837,0.10539126143148714
+Life Sciences,HR,D0_mass_accessibility,D1_domestic_history,-0.004935298831298063,-0.004266512233720765
+Life Sciences,HU,D0_mass_accessibility,D1_domestic_history,0.02745322818968532,0.029017709567305094
+Life Sciences,ID,D0_mass_accessibility,D1_domestic_history,0.017544081814975687,0.019676485881888972
+Life Sciences,IE,D0_mass_accessibility,D1_domestic_history,0.017870265617483838,0.03432755050722136
+Life Sciences,IL,D0_mass_accessibility,D1_domestic_history,0.01825709731039238,0.033936864609345196
+Life Sciences,IN,D0_mass_accessibility,D1_domestic_history,0.03112350111686979,0.04889410542040973
+Life Sciences,IT,D0_mass_accessibility,D1_domestic_history,0.07453861658674654,0.09030312790380779
+Life Sciences,JP,D0_mass_accessibility,D1_domestic_history,0.10968738152785829,0.08372797927247666
+Life Sciences,KR,D0_mass_accessibility,D1_domestic_history,0.016424476515596087,0.02802393687937632
+Life Sciences,MX,D0_mass_accessibility,D1_domestic_history,0.03969055480704364,0.043828276812706624
+Life Sciences,MY,D0_mass_accessibility,D1_domestic_history,0.06826462486869067,0.06558473968042322
+Life Sciences,NG,D0_mass_accessibility,D1_domestic_history,0.045784595093765645,0.04761471987586807
+Life Sciences,NL,D0_mass_accessibility,D1_domestic_history,0.033441960555941286,0.061664758673238396
+Life Sciences,NO,D0_mass_accessibility,D1_domestic_history,-0.008794894799143194,-0.005578386350967635
+Life Sciences,NZ,D0_mass_accessibility,D1_domestic_history,0.0016712540593224468,0.0008564564032065292
+Life Sciences,PH,D0_mass_accessibility,D1_domestic_history,0.029247328889364432,0.03655652010224253
+Life Sciences,PK,D0_mass_accessibility,D1_domestic_history,0.017443799117927927,0.026889685338893132
+Life Sciences,PL,D0_mass_accessibility,D1_domestic_history,0.03381759475760848,0.04150072783284764
+Life Sciences,PT,D0_mass_accessibility,D1_domestic_history,0.01941136637473395,0.029766978203237926
+Life Sciences,RU,D0_mass_accessibility,D1_domestic_history,-0.010513444587652021,0.006834656459523303
+Life Sciences,SE,D0_mass_accessibility,D1_domestic_history,0.011380885863000234,0.012992041835985124
+Life Sciences,TH,D0_mass_accessibility,D1_domestic_history,0.028756421059747517,0.03769524896388976
+Life Sciences,TR,D0_mass_accessibility,D1_domestic_history,0.010638875152205074,0.002861390640021333
+Life Sciences,US,D0_mass_accessibility,D1_domestic_history,0.059428823082939175,0.07751598350063338
+Life Sciences,VE,D0_mass_accessibility,D1_domestic_history,0.008725406476546294,-0.007475065628116062
+Life Sciences,ZA,D0_mass_accessibility,D1_domestic_history,0.02171597936789782,0.03566263312365092
+Life Sciences,AR,D1_domestic_history,D2_international_history,0.0005257737079564784,0.0022313668884604843
+Life Sciences,AT,D1_domestic_history,D2_international_history,-0.0012957106193143275,-0.0028120078192782616
+Life Sciences,AU,D1_domestic_history,D2_international_history,0.00013801892740694655,0.0007037321972935828
+Life Sciences,BE,D1_domestic_history,D2_international_history,-0.0032441700293244224,-0.005005851408577899
+Life Sciences,BR,D1_domestic_history,D2_international_history,5.903327405309966e-05,0.002087411493150282
+Life Sciences,CA,D1_domestic_history,D2_international_history,0.00017410178691479317,0.0007498616054314455
+Life Sciences,CH,D1_domestic_history,D2_international_history,-0.0005809073689118094,-0.00244286228124424
+Life Sciences,CL,D1_domestic_history,D2_international_history,0.0016296066404457576,0.0003614958161947124
+Life Sciences,CN,D1_domestic_history,D2_international_history,0.0005615372880409808,0.0010281074486139241
+Life Sciences,CO,D1_domestic_history,D2_international_history,0.00038853596224797116,-0.0009987389216418174
+Life Sciences,CZ,D1_domestic_history,D2_international_history,0.00033212363925949617,0.00744362580566682
+Life Sciences,DE,D1_domestic_history,D2_international_history,-3.766057336118678e-05,-5.5068622974108195e-05
+Life Sciences,DK,D1_domestic_history,D2_international_history,-0.0018325056161159203,-0.004659061237070494
+Life Sciences,EG,D1_domestic_history,D2_international_history,-0.000139673064374346,-0.0016893670119872972
+Life Sciences,ES,D1_domestic_history,D2_international_history,0.0012142914232611268,0.0047960460413861705
+Life Sciences,FI,D1_domestic_history,D2_international_history,-0.0014347964984313677,-0.005636432483260845
+Life Sciences,FR,D1_domestic_history,D2_international_history,0.0014508035195084368,0.0033287161996017334
+Life Sciences,GB,D1_domestic_history,D2_international_history,0.0006043588085486995,0.0025140320231042956
+Life Sciences,GR,D1_domestic_history,D2_international_history,-0.003186713350547876,-0.0022601420120023086
+Life Sciences,HR,D1_domestic_history,D2_international_history,-0.0017802521095338086,-0.0075671738720554105
+Life Sciences,HU,D1_domestic_history,D2_international_history,-0.004182466334092805,-0.006705014710981727
+Life Sciences,ID,D1_domestic_history,D2_international_history,0.002003992659852738,0.00565606122480089
+Life Sciences,IE,D1_domestic_history,D2_international_history,-0.0003775998210406861,-0.0048751878823233286
+Life Sciences,IL,D1_domestic_history,D2_international_history,-0.0007950662594806701,-0.0011609183728403805
+Life Sciences,IN,D1_domestic_history,D2_international_history,0.0003275964211866267,5.04363579384437e-05
+Life Sciences,IT,D1_domestic_history,D2_international_history,2.7156430586927627e-05,0.0030789097062160486
+Life Sciences,JP,D1_domestic_history,D2_international_history,0.00450832753838748,0.00454272986682247
+Life Sciences,KR,D1_domestic_history,D2_international_history,0.0009980156429749698,0.003658597577873013
+Life Sciences,MX,D1_domestic_history,D2_international_history,-0.0005290532735262587,0.0016252129204556987
+Life Sciences,MY,D1_domestic_history,D2_international_history,-0.0022937024677500695,-0.0029599656483743075
+Life Sciences,NG,D1_domestic_history,D2_international_history,0.003735945107388172,0.004673247225843058
+Life Sciences,NL,D1_domestic_history,D2_international_history,-0.0008423696495212241,-0.0005456307654899684
+Life Sciences,NO,D1_domestic_history,D2_international_history,0.0014351747568985829,-5.645419549260566e-05
+Life Sciences,NZ,D1_domestic_history,D2_international_history,0.0006689005281583782,0.003596391585417691
+Life Sciences,PH,D1_domestic_history,D2_international_history,-0.0014546334962100005,0.002129031368627965
+Life Sciences,PK,D1_domestic_history,D2_international_history,0.0005732001193154979,-0.0010504908168558202
+Life Sciences,PL,D1_domestic_history,D2_international_history,0.002045996900000624,0.0036446318953232693
+Life Sciences,PT,D1_domestic_history,D2_international_history,-0.0007503890016904435,-0.003206071954823919
+Life Sciences,RU,D1_domestic_history,D2_international_history,-0.0005027327314590657,-0.0037741020125969804
+Life Sciences,SE,D1_domestic_history,D2_international_history,-0.0004848548207756487,-0.001021021968704794
+Life Sciences,TH,D1_domestic_history,D2_international_history,0.0016038270633593754,0.0005141413706702957
+Life Sciences,TR,D1_domestic_history,D2_international_history,0.004544951294127575,0.0069574547240938145
+Life Sciences,US,D1_domestic_history,D2_international_history,0.00011517192567556123,0.0015210988996344765
+Life Sciences,VE,D1_domestic_history,D2_international_history,0.0014658938551921352,0.00558726775907048
+Life Sciences,ZA,D1_domestic_history,D2_international_history,-0.0007776006706516903,-4.287919132639484e-05
+Physical Sciences,AR,D0_mass_accessibility,D1_domestic_history,0.039387869711537515,0.05815673372979535
+Physical Sciences,AT,D0_mass_accessibility,D1_domestic_history,0.00991537627640593,0.01843948995276634
+Physical Sciences,AU,D0_mass_accessibility,D1_domestic_history,0.03199155289145317,0.061708769663469054
+Physical Sciences,BE,D0_mass_accessibility,D1_domestic_history,0.08067129363916115,0.05499799130440408
+Physical Sciences,BR,D0_mass_accessibility,D1_domestic_history,0.027915123541637055,0.04383864467824716
+Physical Sciences,CA,D0_mass_accessibility,D1_domestic_history,0.03692317771608877,0.05799165801684847
+Physical Sciences,CH,D0_mass_accessibility,D1_domestic_history,0.10616076189042234,0.12000136939007089
+Physical Sciences,CL,D0_mass_accessibility,D1_domestic_history,0.02222888843526949,0.04591547857115352
+Physical Sciences,CN,D0_mass_accessibility,D1_domestic_history,0.055075517266083285,0.07780066962279897
+Physical Sciences,CO,D0_mass_accessibility,D1_domestic_history,0.004718134502759597,0.022536582742585076
+Physical Sciences,CZ,D0_mass_accessibility,D1_domestic_history,0.06389441960242292,0.038784721885313456
+Physical Sciences,DE,D0_mass_accessibility,D1_domestic_history,0.027356065064134683,0.04579985372334783
+Physical Sciences,DK,D0_mass_accessibility,D1_domestic_history,0.026811485822780146,0.0468940439024661
+Physical Sciences,EG,D0_mass_accessibility,D1_domestic_history,0.004761965372491961,-0.004832412924411167
+Physical Sciences,ES,D0_mass_accessibility,D1_domestic_history,0.07370092795702554,0.08597115121542442
+Physical Sciences,FI,D0_mass_accessibility,D1_domestic_history,0.008530950492827483,0.04427417454481386
+Physical Sciences,FR,D0_mass_accessibility,D1_domestic_history,0.10390311829469034,0.11306173032561084
+Physical Sciences,GB,D0_mass_accessibility,D1_domestic_history,0.03436898882878836,0.046045253461340474
+Physical Sciences,GR,D0_mass_accessibility,D1_domestic_history,0.14551744889348894,0.1197762503047547
+Physical Sciences,HR,D0_mass_accessibility,D1_domestic_history,0.05970201222776872,0.08026584530911085
+Physical Sciences,HU,D0_mass_accessibility,D1_domestic_history,0.018884544775309653,0.033976770317483584
+Physical Sciences,ID,D0_mass_accessibility,D1_domestic_history,0.010667040592461152,0.011008390007745894
+Physical Sciences,IE,D0_mass_accessibility,D1_domestic_history,0.021839056218500907,0.021737696927750072
+Physical Sciences,IL,D0_mass_accessibility,D1_domestic_history,0.013888308432379759,0.030493302860390537
+Physical Sciences,IN,D0_mass_accessibility,D1_domestic_history,0.030592530386443606,0.04547298681391798
+Physical Sciences,IT,D0_mass_accessibility,D1_domestic_history,0.05290220231896958,0.07873195152482482
+Physical Sciences,JP,D0_mass_accessibility,D1_domestic_history,0.13714929309752133,0.07763055901901295
+Physical Sciences,KR,D0_mass_accessibility,D1_domestic_history,0.016299056658229727,0.02918948758069284
+Physical Sciences,MX,D0_mass_accessibility,D1_domestic_history,0.05307486010938378,0.05632972146604687
+Physical Sciences,MY,D0_mass_accessibility,D1_domestic_history,0.040344298752658325,0.054020093993385476
+Physical Sciences,NG,D0_mass_accessibility,D1_domestic_history,0.02030061992983967,0.026717078016848195
+Physical Sciences,NL,D0_mass_accessibility,D1_domestic_history,0.031974362978469895,0.03540330814541326
+Physical Sciences,NO,D0_mass_accessibility,D1_domestic_history,0.002207762806313074,0.006078112513183576
+Physical Sciences,NZ,D0_mass_accessibility,D1_domestic_history,0.009993776427688061,0.02855907325801421
+Physical Sciences,PH,D0_mass_accessibility,D1_domestic_history,0.05412972932423399,0.04971001766874594
+Physical Sciences,PK,D0_mass_accessibility,D1_domestic_history,0.0202789963985075,0.029219853508527294
+Physical Sciences,PL,D0_mass_accessibility,D1_domestic_history,0.04372282383166759,0.07283770129216238
+Physical Sciences,PT,D0_mass_accessibility,D1_domestic_history,0.022630213216142447,0.04410643419731941
+Physical Sciences,RU,D0_mass_accessibility,D1_domestic_history,0.03552112257854123,0.06961249984724482
+Physical Sciences,SE,D0_mass_accessibility,D1_domestic_history,0.013912598909374907,0.026362961946877483
+Physical Sciences,TH,D0_mass_accessibility,D1_domestic_history,0.028545935932639654,0.059709973549018636
+Physical Sciences,TR,D0_mass_accessibility,D1_domestic_history,0.01595818257002035,0.030708749556961124
+Physical Sciences,US,D0_mass_accessibility,D1_domestic_history,0.06041695792651858,0.0782241608059987
+Physical Sciences,VE,D0_mass_accessibility,D1_domestic_history,0.05073044647991365,0.010826142458473353
+Physical Sciences,ZA,D0_mass_accessibility,D1_domestic_history,0.015587480346149096,0.035246315912317305
+Physical Sciences,AR,D1_domestic_history,D2_international_history,0.00033891471793223715,0.0018125103038632018
+Physical Sciences,AT,D1_domestic_history,D2_international_history,0.0004184190523002229,-0.0014383664562511722
+Physical Sciences,AU,D1_domestic_history,D2_international_history,-0.00045596019998450643,-0.0010193927978028317
+Physical Sciences,BE,D1_domestic_history,D2_international_history,-0.0005021391045456625,0.0017706064997189408
+Physical Sciences,BR,D1_domestic_history,D2_international_history,0.00043180826127864336,0.000558380759132282
+Physical Sciences,CA,D1_domestic_history,D2_international_history,-0.00016963128474900557,-0.00037662175516661733
+Physical Sciences,CH,D1_domestic_history,D2_international_history,-0.001110320550574695,-0.0011416060976985332
+Physical Sciences,CL,D1_domestic_history,D2_international_history,-3.3129816419119607e-06,-0.0011143575400482941
+Physical Sciences,CN,D1_domestic_history,D2_international_history,0.0004247242366175463,0.0003016085986904393
+Physical Sciences,CO,D1_domestic_history,D2_international_history,0.0007433161950909373,0.0009470896731885725
+Physical Sciences,CZ,D1_domestic_history,D2_international_history,0.0003473957957882412,0.00449857962313327
+Physical Sciences,DE,D1_domestic_history,D2_international_history,-0.00026455649087786526,-0.0007874541860163342
+Physical Sciences,DK,D1_domestic_history,D2_international_history,0.00032445061786257057,0.0010881965140433492
+Physical Sciences,EG,D1_domestic_history,D2_international_history,2.5141353036772784e-05,0.0002624682023625313
+Physical Sciences,ES,D1_domestic_history,D2_international_history,-5.3125732009107196e-05,-0.0007596381470187374
+Physical Sciences,FI,D1_domestic_history,D2_international_history,-0.00041276029757542076,-0.0026136053175599416
+Physical Sciences,FR,D1_domestic_history,D2_international_history,0.0003781135555414039,0.001490049168313301
+Physical Sciences,GB,D1_domestic_history,D2_international_history,0.0005849921281404491,0.0021240178899841755
+Physical Sciences,GR,D1_domestic_history,D2_international_history,-0.0006139142254730778,-0.0009161878736995144
+Physical Sciences,HR,D1_domestic_history,D2_international_history,-0.0007377372738668342,-0.003137695869804724
+Physical Sciences,HU,D1_domestic_history,D2_international_history,0.0003941602304919911,0.0004009181728313882
+Physical Sciences,ID,D1_domestic_history,D2_international_history,0.0005870279716573279,0.0023463064526604294
+Physical Sciences,IE,D1_domestic_history,D2_international_history,-0.0004549166830867257,-0.0017628834321000708
+Physical Sciences,IL,D1_domestic_history,D2_international_history,0.0003509781602297757,-8.578237477130379e-05
+Physical Sciences,IN,D1_domestic_history,D2_international_history,0.0006729087504409037,0.0003707776907994065
+Physical Sciences,IT,D1_domestic_history,D2_international_history,-0.00012942534126603178,0.0009157053365737022
+Physical Sciences,JP,D1_domestic_history,D2_international_history,0.004858260528258107,0.0043938480175998995
+Physical Sciences,KR,D1_domestic_history,D2_international_history,5.8511584077880485e-05,3.8756734925149416e-05
+Physical Sciences,MX,D1_domestic_history,D2_international_history,0.0010250528041271245,0.00228597238701278
+Physical Sciences,MY,D1_domestic_history,D2_international_history,-0.0006797222874270759,-0.0015498733074120752
+Physical Sciences,NG,D1_domestic_history,D2_international_history,0.0017515143927240295,0.003212733066948914
+Physical Sciences,NL,D1_domestic_history,D2_international_history,-0.00047322140682837244,-0.0012572800837497011
+Physical Sciences,NO,D1_domestic_history,D2_international_history,0.000607101937336818,0.0017339135388128035
+Physical Sciences,NZ,D1_domestic_history,D2_international_history,0.0005916210317740145,0.0017274645105882502
+Physical Sciences,PH,D1_domestic_history,D2_international_history,-0.0010556625071989068,6.906503996051416e-05
+Physical Sciences,PK,D1_domestic_history,D2_international_history,0.00014303619989552985,4.163463062334394e-05
+Physical Sciences,PL,D1_domestic_history,D2_international_history,0.0006110605433704563,0.003680175391102325
+Physical Sciences,PT,D1_domestic_history,D2_international_history,-0.000121406430701132,-0.0009618979266129424
+Physical Sciences,RU,D1_domestic_history,D2_international_history,0.0003239167828419376,-0.0001708299041356387
+Physical Sciences,SE,D1_domestic_history,D2_international_history,3.9306224443702575e-05,-0.0007115163821461712
+Physical Sciences,TH,D1_domestic_history,D2_international_history,0.0004243501734948474,-0.0011710903608932455
+Physical Sciences,TR,D1_domestic_history,D2_international_history,0.0015187619836756205,0.001958298795449731
+Physical Sciences,US,D1_domestic_history,D2_international_history,0.00026265094640365305,0.0007946148886446291
+Physical Sciences,VE,D1_domestic_history,D2_international_history,0.0003914029386025142,0.005260084389742126
+Physical Sciences,ZA,D1_domestic_history,D2_international_history,-0.0003212419458571425,6.830859869844108e-05
+Social Sciences,AR,D0_mass_accessibility,D1_domestic_history,0.04391712518426205,0.0801926044011333
+Social Sciences,AT,D0_mass_accessibility,D1_domestic_history,0.002301733612601442,0.008031181916040686
+Social Sciences,AU,D0_mass_accessibility,D1_domestic_history,0.01114247745104846,0.023237359167386784
+Social Sciences,BE,D0_mass_accessibility,D1_domestic_history,0.04571852424263989,0.0583895766726098
+Social Sciences,BR,D0_mass_accessibility,D1_domestic_history,0.02686138991894893,0.03593231698265098
+Social Sciences,CA,D0_mass_accessibility,D1_domestic_history,0.02394021876652941,0.038936846683052195
+Social Sciences,CH,D0_mass_accessibility,D1_domestic_history,0.05753169172715511,0.05731593080284414
+Social Sciences,CL,D0_mass_accessibility,D1_domestic_history,0.04589339789517366,0.06651563297362684
+Social Sciences,CN,D0_mass_accessibility,D1_domestic_history,0.06721351581905477,0.08025479173415406
+Social Sciences,CO,D0_mass_accessibility,D1_domestic_history,0.005153212353164349,0.01897843750590511
+Social Sciences,CZ,D0_mass_accessibility,D1_domestic_history,0.04986597990144004,0.0303397035755002
+Social Sciences,DE,D0_mass_accessibility,D1_domestic_history,0.03636656848329789,0.05235656037092129
+Social Sciences,DK,D0_mass_accessibility,D1_domestic_history,0.02918367372723063,0.033219753971158394
+Social Sciences,EG,D0_mass_accessibility,D1_domestic_history,-0.0010095635703404326,-0.024916176750338415
+Social Sciences,ES,D0_mass_accessibility,D1_domestic_history,0.028886137167502657,0.05001349622158757
+Social Sciences,FI,D0_mass_accessibility,D1_domestic_history,0.031954746611671414,0.05039308935761222
+Social Sciences,FR,D0_mass_accessibility,D1_domestic_history,0.053432715369381434,0.07435362380198951
+Social Sciences,GB,D0_mass_accessibility,D1_domestic_history,0.025277101801789215,0.04525916702825017
+Social Sciences,GR,D0_mass_accessibility,D1_domestic_history,0.05698436434662568,0.056930268313611476
+Social Sciences,HR,D0_mass_accessibility,D1_domestic_history,0.004830782166053371,0.007923794969750264
+Social Sciences,HU,D0_mass_accessibility,D1_domestic_history,0.017138054781039358,0.0429611689520778
+Social Sciences,ID,D0_mass_accessibility,D1_domestic_history,0.03067011114283824,0.02328957140565613
+Social Sciences,IE,D0_mass_accessibility,D1_domestic_history,0.018991716300138517,0.048796503725144325
+Social Sciences,IL,D0_mass_accessibility,D1_domestic_history,0.004877878881809572,0.01362055127997075
+Social Sciences,IN,D0_mass_accessibility,D1_domestic_history,0.02436253033804192,0.031353362456536304
+Social Sciences,IT,D0_mass_accessibility,D1_domestic_history,0.022784818261115447,0.051771093073271435
+Social Sciences,JP,D0_mass_accessibility,D1_domestic_history,0.11348836667644013,0.060665801910981365
+Social Sciences,KR,D0_mass_accessibility,D1_domestic_history,0.012722435389011633,0.023690593042272168
+Social Sciences,MX,D0_mass_accessibility,D1_domestic_history,0.030731389317338653,0.03430571277920125
+Social Sciences,MY,D0_mass_accessibility,D1_domestic_history,0.05258143458766007,0.059724399591221666
+Social Sciences,NG,D0_mass_accessibility,D1_domestic_history,0.03165466278971163,0.0309442910869423
+Social Sciences,NL,D0_mass_accessibility,D1_domestic_history,0.0209757342508472,0.06065146122310028
+Social Sciences,NO,D0_mass_accessibility,D1_domestic_history,0.028884327306711644,0.030187966311017833
+Social Sciences,NZ,D0_mass_accessibility,D1_domestic_history,0.0055518451539868785,0.011035383862526005
+Social Sciences,PH,D0_mass_accessibility,D1_domestic_history,0.007650887144604823,-0.02585641831370067
+Social Sciences,PK,D0_mass_accessibility,D1_domestic_history,0.01799801853296845,0.01861208372037737
+Social Sciences,PL,D0_mass_accessibility,D1_domestic_history,0.040592771076365164,0.06340240184888712
+Social Sciences,PT,D0_mass_accessibility,D1_domestic_history,0.016462392283451255,0.023719345988775564
+Social Sciences,RU,D0_mass_accessibility,D1_domestic_history,0.03764715616053049,0.04638031422278821
+Social Sciences,SE,D0_mass_accessibility,D1_domestic_history,0.04085652947780538,0.023801196332260077
+Social Sciences,TH,D0_mass_accessibility,D1_domestic_history,0.03342411228682751,0.034557496584640024
+Social Sciences,TR,D0_mass_accessibility,D1_domestic_history,0.015561850812629174,0.022458330764857926
+Social Sciences,US,D0_mass_accessibility,D1_domestic_history,0.06848793751042326,0.08616114133489239
+Social Sciences,VE,D0_mass_accessibility,D1_domestic_history,0.04012041864084592,0.025062683783211415
+Social Sciences,ZA,D0_mass_accessibility,D1_domestic_history,0.014405235769938685,0.0036798118347430853
+Social Sciences,AR,D1_domestic_history,D2_international_history,-0.00034776050263651825,-0.001344251071119018
+Social Sciences,AT,D1_domestic_history,D2_international_history,0.0027584223784242745,0.006524800410040665
+Social Sciences,AU,D1_domestic_history,D2_international_history,-0.00026955299746855843,-0.00012538005626860915
+Social Sciences,BE,D1_domestic_history,D2_international_history,-0.004712556048066752,-0.015974371495022677
+Social Sciences,BR,D1_domestic_history,D2_international_history,-0.002902122746636593,-0.005289409187848038
+Social Sciences,CA,D1_domestic_history,D2_international_history,0.00030971155318271215,-0.00040655406602618793
+Social Sciences,CH,D1_domestic_history,D2_international_history,0.002965938936212442,0.004187236219227342
+Social Sciences,CL,D1_domestic_history,D2_international_history,0.0009500240886635147,0.0037485552598987004
+Social Sciences,CN,D1_domestic_history,D2_international_history,-0.0028763857853038033,-0.0029607511340947745
+Social Sciences,CO,D1_domestic_history,D2_international_history,-0.0033591128265157977,-0.004849124846079467
+Social Sciences,CZ,D1_domestic_history,D2_international_history,0.003664637404347193,-0.004632961102781108
+Social Sciences,DE,D1_domestic_history,D2_international_history,0.0002201782536683794,-0.001564645720476654
+Social Sciences,DK,D1_domestic_history,D2_international_history,5.525256483318586e-05,-0.005038588218824747
+Social Sciences,EG,D1_domestic_history,D2_international_history,-0.004219892322387064,-0.007467465838730258
+Social Sciences,ES,D1_domestic_history,D2_international_history,-0.0020283890825574247,-0.007133664938632656
+Social Sciences,FI,D1_domestic_history,D2_international_history,0.0016209217882154903,0.0002676082591245299
+Social Sciences,FR,D1_domestic_history,D2_international_history,-0.0005029189818586133,-0.003037707534201184
+Social Sciences,GB,D1_domestic_history,D2_international_history,-0.000549460815248537,-0.003322292954419992
+Social Sciences,GR,D1_domestic_history,D2_international_history,0.0010639588408545286,-0.002142020881838236
+Social Sciences,HR,D1_domestic_history,D2_international_history,0.0030392205955984686,0.011480549237779636
+Social Sciences,HU,D1_domestic_history,D2_international_history,0.003201582196102226,0.00856134493098526
+Social Sciences,ID,D1_domestic_history,D2_international_history,-0.004125258344012561,-0.00496412984563499
+Social Sciences,IE,D1_domestic_history,D2_international_history,0.002310241530107504,0.015681522288497618
+Social Sciences,IL,D1_domestic_history,D2_international_history,0.00043976144132695794,-0.004018100526326229
+Social Sciences,IN,D1_domestic_history,D2_international_history,-0.0014562000474818149,0.000773943482365258
+Social Sciences,IT,D1_domestic_history,D2_international_history,-0.0009757795655400692,-0.005599054006621973
+Social Sciences,JP,D1_domestic_history,D2_international_history,-0.01050978467935959,-0.00715916372081038
+Social Sciences,KR,D1_domestic_history,D2_international_history,-0.0016830897323409921,-0.006577884944548473
+Social Sciences,MX,D1_domestic_history,D2_international_history,-0.003024291003805857,-0.0070282502424865445
+Social Sciences,MY,D1_domestic_history,D2_international_history,0.005026407747643624,0.006302798652664254
+Social Sciences,NG,D1_domestic_history,D2_international_history,-0.0030579722801551412,-0.0005084707262966726
+Social Sciences,NL,D1_domestic_history,D2_international_history,0.0001853071297706066,-0.001404340893775835
+Social Sciences,NO,D1_domestic_history,D2_international_history,0.002213221910678964,0.002816566426370959
+Social Sciences,NZ,D1_domestic_history,D2_international_history,-0.0009394274031953032,0.00011427302823618923
+Social Sciences,PH,D1_domestic_history,D2_international_history,0.003863862633013415,0.001788622028434439
+Social Sciences,PK,D1_domestic_history,D2_international_history,-0.004101515099243613,-0.004243451651856467
+Social Sciences,PL,D1_domestic_history,D2_international_history,-0.0029827988622721513,-0.008481613667106203
+Social Sciences,PT,D1_domestic_history,D2_international_history,0.00034621759067077207,0.004704286457095086
+Social Sciences,RU,D1_domestic_history,D2_international_history,0.0025154706928631754,0.0025464753166958287
+Social Sciences,SE,D1_domestic_history,D2_international_history,-0.00221168393546467,-0.002779435673075259
+Social Sciences,TH,D1_domestic_history,D2_international_history,-0.0066495270172892695,-0.004120939906889665
+Social Sciences,TR,D1_domestic_history,D2_international_history,-0.0026690754178035903,-0.006622729069567068
+Social Sciences,US,D1_domestic_history,D2_international_history,-0.00171173089355392,-0.004586336565494564
+Social Sciences,VE,D1_domestic_history,D2_international_history,0.002386948931547561,-0.0001788083457904266
+Social Sciences,ZA,D1_domestic_history,D2_international_history,-0.0007203565037445792,-0.005431426310176124

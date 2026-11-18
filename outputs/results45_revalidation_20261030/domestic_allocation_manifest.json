@@ -1,0 +1,15 @@
+{
+  "script_sha256": "d74a72791b2ec914cdc7daf608df78122cd3d62cf0c94d60b9d0fab908bf8590",
+  "status": "Secondary exploratory reverse-direction allocation test, not a full domestic OD gravity model.",
+  "gravity_accessibility": "A_j=sum_i!=j M_i/d_ij; lagged primary-affiliation author-year mass, true harmonized intercity distances, inverse-distance exponent fixed1.",
+  "features": [
+    "log lag mass",
+    "log lag gravity accessibility",
+    "log1p lag combined domestic strength",
+    "log1p lag international inflow",
+    "log1p lag domestic partners"
+  ],
+  "outcome": "Combined domestic inflow+outflow city strength. Not a count of unique domestic events.",
+  "scope": "Condition on country/period totals and lagged candidate-city list; train2005-2018, test2019-2025; equal-country fitting.",
+  "causal_interpretation": false
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "split": "validation",
+    "baseline": "gravity",
+    "extended": "gravity_domestic",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.2590472950529832,
+    "median_country_improvement_pct": 0.10449951242295641,
+    "median_CI_low": 0.015208882633088727,
+    "median_CI_high": 0.26020364943502017,
+    "countries_improved": 48,
+    "countries_worse": 28
+  },
+  {
+    "split": "validation",
+    "baseline": "gravity_history",
+    "extended": "gravity_history_domestic",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.025474194463726008,
+    "median_country_improvement_pct": 0.051730390702153795,
+    "median_CI_low": -0.08342538781554998,
+    "median_CI_high": 0.14357740866425273,
+    "countries_improved": 42,
+    "countries_worse": 34
+  },
+  {
+    "split": "validation",
+    "baseline": "gravity_cityFE",
+    "extended": "gravity_domestic_cityFE",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.0033062387514992686,
+    "median_country_improvement_pct": 0.005612865946730272,
+    "median_CI_low": -0.0006565165530103556,
+    "median_CI_high": 0.017981477162742898,
+    "countries_improved": 45,
+    "countries_worse": 31
+  },
+  {
+    "split": "test",
+    "baseline": "gravity",
+    "extended": "gravity_domestic",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.2605613684304009,
+    "median_country_improvement_pct": 0.3841948181466104,
+    "median_CI_low": 0.24889951768666263,
+    "median_CI_high": 0.5194657794385271,
+    "countries_improved": 60,
+    "countries_worse": 16
+  },
+  {
+    "split": "test",
+    "baseline": "gravity_history",
+    "extended": "gravity_history_domestic",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.040888369822245085,
+    "median_country_improvement_pct": -0.10475696766644171,
+    "median_CI_low": -0.20690690776470344,
+    "median_CI_high": -0.06142635990848966,
+    "countries_improved": 25,
+    "countries_worse": 51
+  },
+  {
+    "split": "test",
+    "baseline": "gravity_cityFE",
+    "extended": "gravity_domestic_cityFE",
+    "countries": 76,
+    "event_weighted_deviance_improvement_pct": 0.013887845296300938,
+    "median_country_improvement_pct": 0.003979932022218913,
+    "median_CI_low": -0.009756032940677617,
+    "median_CI_high": 0.018392082319573788,
+    "countries_improved": 42,
+    "countries_worse": 34
+  }
+]

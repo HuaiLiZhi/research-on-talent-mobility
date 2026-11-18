@@ -1,0 +1,90 @@
+[
+  {
+    "kind": "domestic",
+    "metric": "N",
+    "networks": 76,
+    "median_observed_change": 22.0,
+    "median_model_change": 20.705592218378385,
+    "median_geography_component": 9.607309508316648,
+    "median_volume_component": 11.291065850843845,
+    "positive_geography": 74,
+    "positive_volume": 76
+  },
+  {
+    "kind": "domestic",
+    "metric": "R",
+    "networks": 76,
+    "median_observed_change": -0.09244655129326042,
+    "median_model_change": -0.064167693591619,
+    "median_geography_component": -0.008169331013950426,
+    "median_volume_component": -0.06370068741979817,
+    "positive_geography": 28,
+    "positive_volume": 1
+  },
+  {
+    "kind": "domestic",
+    "metric": "gini",
+    "networks": 76,
+    "median_observed_change": 0.06394251740628681,
+    "median_model_change": 0.06790333837709406,
+    "median_geography_component": -0.005813501194878445,
+    "median_volume_component": 0.07157958995930505,
+    "positive_geography": 26,
+    "positive_volume": 75
+  },
+  {
+    "kind": "domestic",
+    "metric": "hhi",
+    "networks": 76,
+    "median_observed_change": -0.04835609020977133,
+    "median_model_change": -0.04790788401522264,
+    "median_geography_component": -0.03609555149415112,
+    "median_volume_component": -0.0029115927847735215,
+    "positive_geography": 3,
+    "positive_volume": 0
+  },
+  {
+    "kind": "international",
+    "metric": "N",
+    "networks": 1,
+    "median_observed_change": 14.0,
+    "median_model_change": 24.712077064738196,
+    "median_geography_component": 12.412645390719007,
+    "median_volume_component": 12.29943167401919,
+    "positive_geography": 1,
+    "positive_volume": 1
+  },
+  {
+    "kind": "international",
+    "metric": "R",
+    "networks": 1,
+    "median_observed_change": 0.016532040090340983,
+    "median_model_change": 0.016015877294619514,
+    "median_geography_component": 0.019911874543899945,
+    "median_volume_component": -0.0038959972492804314,
+    "positive_geography": 1,
+    "positive_volume": 0
+  },
+  {
+    "kind": "international",
+    "metric": "gini",
+    "networks": 1,
+    "median_observed_change": -0.04380694560421505,
+    "median_model_change": -0.037267119295525286,
+    "median_geography_component": -0.043652552590084104,
+    "median_volume_component": 0.006385433294558818,
+    "positive_geography": 0,
+    "positive_volume": 1
+  },
+  {
+    "kind": "international",
+    "metric": "hhi",
+    "networks": 1,
+    "median_observed_change": -0.030563787204530526,
+    "median_model_change": -0.025387293980035183,
+    "median_geography_component": -0.02538508059131654,
+    "median_volume_component": -2.213388718641518e-06,
+    "positive_geography": 0,
+    "positive_volume": 0
+  }
+]

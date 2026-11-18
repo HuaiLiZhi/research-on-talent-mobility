@@ -1,0 +1,21 @@
+{
+  "archive": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\methods_evidence_audit_20261104\\补充材料_多源增强_AI与引力模型.zip",
+  "bytes": 214623,
+  "sha256": "23d388fc6f40675093e045d1727295a929bcba3826580a8ebb8da1b1da494b28",
+  "copied_originals": 44,
+  "original_and_copy_hashes_verified": true,
+  "links_checked": 21,
+  "placeholders_covered": [
+    "SUPPLEMENTARY_DATA_SOURCES",
+    "AI_AGENT_WORKFLOW",
+    "DATA_ENHANCEMENT_TASKS",
+    "VALIDATION_PROCEDURE",
+    "ANALYSIS_COMPONENT",
+    "GRAVITY_MODEL_OBJECTIVE",
+    "GRAVITY_MODEL_IMPLEMENTATION",
+    "GRAVITY_MODEL_MAIN_FINDING"
+  ],
+  "zip_crc_pass": true,
+  "scientific_analyses_recomputed": false,
+  "paper_modified": false
+}

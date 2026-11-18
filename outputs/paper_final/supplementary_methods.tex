@@ -1,0 +1,94 @@
+\clearpage
+\section*{Supplementary Methods}
+\begingroup
+\renewcommand{\thesubsection}{S\arabic{subsection}}
+\setcounter{subsection}{0}
+
+These analyses complement the country, domestic city and disciplinary comparisons in the main text. Model specifications, temporal evaluation and network diagnostics are retained together with their results; they use the archived aggregate-flow inputs and saved fits.
+
+\subsection{International-Network Extension of Domestic Flow Allocation}
+\label{supp:network_methods}
+
+We tested whether international connectivity added information about domestic destinations using an origin-constrained spatial-interaction model\cite{lenormand2016}. The model used aggregate city OD counts, with seven consecutive four-year periods spanning 1998--2025. Predictors came from the immediately preceding period. Coefficients were fitted on 2002--2013, models were compared on 2014--2017, and reported later-period performance used 2018--2025. The latter years had already informed exploratory model development; this is a temporal evaluation within the same dataset.
+
+The design retained the 76 countries. In each, up to 50 origin cities were selected by cumulative domestic outflow in the 1998--2013 selection record. Candidate destinations had positive verified research stock in the preceding period and valid coordinates. Same-city pairs were removed, and all remaining candidate pairs were retained, including pairs with zero observed flow. Only origins with positive totals over their candidate destinations in a target period contributed a conditional allocation. The design contained 3,069,435 candidate OD--period cells. During 2018--2025, the 76-country domestic sample contained 8,808,637 event records; modeled routes accounted for 6,984,347 (79.3\%). This coverage rate applies to that sample and period, not to all domestic intercity flows worldwide during 1998--2025.
+
+The reference predictors were destination research stock, geographic distance, prior destination domestic inflow, prior domestic OD flow, disciplinary distance and missing-profile indicators. Research stock was the preceding-period mean of saved primary-affiliation city counts. Great-circle distances were calculated from city coordinates in kilometres, with a lower bound of 1 km. Domestic flow history represents the temporal dependence documented in scientific mobility\cite{ref027}. Disciplinary distance was one minus the cosine similarity of city field profiles. Profiles used 26 fields in the aggregate city--field stock records; field counts can overlap and were not summed as unique researchers. We used logarithms for positive stock and distance, and $\log(1+x)$ for flow histories. All compared specifications retained indicators for missing disciplinary and partner-country profiles, set when either endpoint's corresponding profile was empty.
+
+For the model equations, $t$ indexes four-year periods. Let $\mathbf{x}_{ij,t-1}$ contain the transformed reference predictors and $\mathbf{z}_{ij,t-1}$ the international predictors for domestic origin $i$ and destination $j$. A tilde denotes standardization using the mean and standard deviation across training candidate rows. The same training transformations were applied to later periods. The integrated linear predictor was
+\begin{equation*}
+\eta_{ij,t}=\boldsymbol{\beta}^{\mathsf T}\widetilde{\mathbf{x}}_{ij,t-1}
++\boldsymbol{\gamma}^{\mathsf T}\widetilde{\mathbf{z}}_{ij,t-1}.
+\end{equation*}
+The reference omits the second term. Both models use one coefficient vector pooled across countries. For candidate set $\mathcal{J}_{i,c,t}$ and observed origin total $O_{i,c,t}$ over that set, probabilities and expected counts were
+\begin{equation*}
+\pi_{ij,t}=\frac{\exp(\eta_{ij,t})}
+{\sum_{\ell\in\mathcal{J}_{i,c,t}}\exp(\eta_{i\ell,t})},\qquad
+\mu_{ij,t}=O_{i,c,t}\pi_{ij,t}.
+\end{equation*}
+This normalization preserves each origin's supplied total. Predictors constant across all destinations for a given origin cancel in the probability ratio. The model estimates how observed events are allocated across destinations, conditional on each origin's observed total over its candidate destinations; it does not predict the total volume of researcher mobility.
+
+With $D_{ij,t}$ denoting observed domestic flow, coefficients minimized the weighted conditional negative log-likelihood
+\begin{equation*}
+\mathcal{L}=-\frac{1}{|\mathcal{C}|}
+\sum_{c\in\mathcal{C}}\frac{1}{Y_c}
+\sum_{t\in\mathcal{T}_{\mathrm{train}}}
+\sum_{(i,j)\in\mathcal{A}_{c,t}}D_{ij,t}\log\pi_{ij,t}.
+\end{equation*}
+Here $\mathcal{C}$ is the country sample, $\mathcal{A}_{c,t}$ contains eligible candidate pairs and $Y_c$ is the country's total modeled training flow. Country normalization gives each country equal total training weight. This objective uses the multinomial--Poisson equivalence\cite{baker1994} with fixed origin totals; country weighting specifies how these conditional contributions are combined. Optimization used L-BFGS-B\cite{byrd1995} without a coefficient penalty, and convergence was checked from the objective gradient.
+
+All international predictors came from the preceding-period directed international city-flow matrix $I$. The integrated specification added nine features: destination international inflow and outflow; counts of distinct foreign origin and destination cities; inward and outward weighted PageRank; similarities in foreign origin and destination profiles; and foreign-mediated two-step connectivity. Volumes and partner counts used $\log(1+x)$. We applied PageRank\cite{brin1998} to the weighted original and reversed networks, with damping 0.85, uniform teleportation and uniform redistribution of dangling-node mass. Its values were multiplied by network size before logarithmic transformation.
+
+We adapted term frequency--inverse document frequency (TF--IDF) weighting and cosine comparison\cite{salton1988} to separate outgoing and incoming foreign-city profiles. Each profile was divided by its row sum, weighted by inverse partner frequency and normalized to unit Euclidean length. For partner $k$, the smoothed inverse-frequency weight used here was
+\begin{equation*}
+w_k=1+\log\frac{1+n_{\mathrm{active}}}{1+n_k},
+\end{equation*}
+where $n_{\mathrm{active}}$ counts nonzero profiles and $n_k$ counts profiles containing partner $k$. The dot product between normalized profiles gave their cosine similarity; empty profiles contributed zero similarity. A separate comparator used distance between combined inflow--outflow profiles over partner countries.
+
+Drawing on resource-allocation projections\cite{zhou2007} and group-based brokerage concepts\cite{gould1989}, we defined the directed two-step feature for domestic endpoints as
+\begin{equation*}
+B_{ij,t-1}=\sum_{k:\,c_k\ne c_i}
+I_{ik,t-1}\frac{I_{kj,t-1}}{\sum_{\ell}I_{k\ell,t-1}},
+\qquad c_i=c_j.
+\end{equation*}
+An intermediate city with zero international outflow contributed zero. The model used $\log(1+B)$. This is a weighted connection through foreign cities, measured from aggregate networks. It does not count individuals completing a two-move itinerary. The domestic endpoints may also share a direct domestic route. Individual additions and the integrated specification used identical candidate cells, origin totals and reference predictors.
+
+\subsection{Model Evaluation and Network Diagnostics}
+\label{supp:model_evaluation}
+
+Route-level evaluation pooled the two later periods within each country. The primary comparison was the percentage reduction in conditional Poisson deviance relative to the common reference. For the same evaluation cells $\mathcal{A}$, we used Poisson deviance\cite{nelder1972}, the common part of commuters (CPC) overlap measure used in mobility-model evaluation\cite{lenormand2016}, and the residual-sum-of-squares definition of $R^2$\cite{kvalseth1985}:
+\begin{align*}
+\mathrm{Dev}&=2\sum_{(i,j,t)\in\mathcal{A}}
+\left[D_{ij,t}\log\frac{D_{ij,t}}{\mu_{ij,t}}-D_{ij,t}+\mu_{ij,t}\right],\\
+\mathrm{CPC}&=\frac{2\sum_{\mathcal{A}}\min(D_{ij,t},\mu_{ij,t})}
+{\sum_{\mathcal{A}}D_{ij,t}+\sum_{\mathcal{A}}\mu_{ij,t}},\\
+R^2&=1-\frac{\sum_{\mathcal{A}}(D_{ij,t}-\mu_{ij,t})^2}
+{\sum_{\mathcal{A}}(D_{ij,t}-\bar{D})^2}.
+\end{align*}
+The log term is zero when observed flow is zero, and $\bar{D}$ is the mean over the country's evaluated cells. CPC measures overlap between observed and expected counts; matched conditional totals make it equal to shared count divided by observed count. We also retained $R^2$ on the $\log(1+x)$ scale in the source summaries. Paired gains were summarized across countries, giving each country equal weight. T1--T4 summaries describe performance across international-share trajectories. The better-performing incremental model in validation added the foreign-mediated two-step feature to the reference.
+
+To test the role of particular foreign-city correspondences, we rematched integer flow stubs within each directed origin-country--destination-country block. This preserved every city's outgoing flow to each partner country, incoming flow from each partner country and all country-pair totals. City degrees and individual city-pair histories could change. In 100 rematches of the evaluation lag networks, the new two-step feature replaced the actual feature while fitted coefficients and all other reference predictors remained fixed. The reported rematched gain is the median across country-specific median gains over repetitions. This diagnostic disrupts correspondence without refitting a null model.
+
+Finite-event comparisons evaluated the reference and two-step extension through 200 multinomial count draws per country and evaluation period. Each draw retained the supplied origin totals and candidate sets. Observed flows outside modeled cells were held unchanged. Combined city strengths used the resulting destination inflows plus origin outflows. Both models' indices used the same union of observed endpoints and candidate destinations, including zero-strength cities. A sensitivity calculation restricted Gini to positive simulated strengths. Country contrasts were averaged across draws and both evaluation periods before summarization across countries. These comparisons measure conditional distribution differences associated with the two-step addition.
+
+Annual flow-distribution reconstructions compared expected strengths from the full integrated model, including all nine international features, with those from the reference; this differed from the better-performing validation-stage incremental model, which added only the foreign-mediated two-step feature. Saved coefficients, lagged features and candidate sets were held fixed within each target block. Each year supplied its own observed total from each modeled origin. Expected destination inflows replaced only modeled inflows; all observed origin outflows and unmodeled flows were retained. Thus, annual reconstructions conserved total recorded volume and used annual events directly. Observed and modeled indices were calculated on a common country-year union of observed endpoints and candidate destinations, including zeros. Expected-strength indices differ from averages over finite-event draws.
+
+We evaluated index reconstruction using the established MAE and RMSE criteria\cite{hodson2022}. For index $K$ and country-year comparison set $\mathcal{S}$, these were
+\begin{equation*}
+\mathrm{MAE}_K=\frac{1}{|\mathcal{S}|}\sum_{(c,y)\in\mathcal{S}}
+|\widehat{K}_{c,y}-K_{c,y}|,\qquad
+\mathrm{RMSE}_K=\left[\frac{1}{|\mathcal{S}|}\sum_{(c,y)\in\mathcal{S}}
+(\widehat{K}_{c,y}-K_{c,y})^2\right]^{1/2}.
+\end{equation*}
+Annual MAE first calculated each country's absolute error and then averaged across the 76 countries. Overall errors used all 608 country-year comparisons during 2018--2025 with equal country-year weights. Overall MAE therefore equals the mean of annual MAE values. Gini errors were converted to percentage points; HHI errors retained their dimensionless scale. These calculations evaluate domestic distributions conditional on observed origin totals and retained unmodeled flows.
+
+Paired model gains and finite-event country contrasts used percentile 95\% intervals from 4,000 country resamples. Model-addition tests used two-sided exact sign tests after excluding ties. Holm adjustment\cite{holm1979} was applied separately within each temporal split to seven additions to the reference, six comparisons with partner-country distance and three secondary control comparisons. Countries are the units of these summaries; shared international links can leave dependence between countries.
+
+\subsection{Direction-Specific Annual Associations}
+\label{supp:annual_associations}
+
+The direction-specific comparisons in Supplementary Table~\ref{tab:annual_associations} used the same 76 countries. A country's international inflow or outflow share used the corresponding worldwide directional total as its denominator. Domestic directional city shares used the corresponding within-country total; Gini and normalized equivalent city counts were calculated across cities with positive flows in that direction.
+
+Annual regressions included country and year fixed effects. International shares and domestic outcomes were standardized after removing both effects. Standard errors were clustered by country with a finite-sample correction, following cluster-robust inference\cite{cameron2015}; confidence intervals used a $t$ distribution with 75 degrees of freedom. Holm adjustment covered the four directional tests. Each regression used 2,128 country-year observations. Annual within-country associations and full-period between-country trend associations address different questions.
+
+\endgroup

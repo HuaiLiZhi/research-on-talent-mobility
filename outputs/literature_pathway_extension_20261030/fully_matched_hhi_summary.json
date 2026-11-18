@@ -1,0 +1,42 @@
+{
+  "exact_expectation_check": {
+    "enumerated_mean": 0.5555555555555556,
+    "analytic_mean": 0.5555555555555556,
+    "combinations": 9,
+    "passed": true
+  },
+  "summary": [
+    {
+      "minimum_records": 100,
+      "countries": 59,
+      "records": 318585,
+      "median_change_from_entry_pct": -7.760503309988842,
+      "median_excess_vs_reference_pct": 1.6952104285256508,
+      "median_excess_CI_low": 0.30070337685470516,
+      "median_excess_CI_high": 3.815168729570506,
+      "above_reference": 38,
+      "below_reference": 21,
+      "sign_test_p": 0.036343179957053884,
+      "median_reference_supported_fraction": 0.8389319552110249
+    },
+    {
+      "minimum_records": 500,
+      "countries": 44,
+      "records": 314827,
+      "median_change_from_entry_pct": -7.644461362203369,
+      "median_excess_vs_reference_pct": 1.7347570838772808,
+      "median_excess_CI_low": 0.30070337685470516,
+      "median_excess_CI_high": 5.904668049244699,
+      "above_reference": 29,
+      "below_reference": 15,
+      "sign_test_p": 0.048766765904474596,
+      "median_reference_supported_fraction": 0.8631548853403158
+    }
+  ],
+  "conditional_null": "independent finite hypergeometric draws in each matched conditional risk set; pooled target/control destination counts, fixed case counts; overlapping risk sets possible",
+  "bootstrap_unit": "country",
+  "bootstrap_replicates": 4000,
+  "individual_confidence_claims": false,
+  "script_sha256": "d9609796b45700f5d5f448551e8c527ad257d5d23e0b78baf0f66ff09d2be0d4",
+  "global_permutation_test": false
+}

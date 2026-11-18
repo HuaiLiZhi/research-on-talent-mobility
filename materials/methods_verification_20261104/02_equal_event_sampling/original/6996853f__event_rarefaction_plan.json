@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "motivation": "Frozen-opportunity model suggests active-only indicators respond to event-volume growth. This direct empirical diagnostic was specified before computing rarefaction outcomes.",
+  "data": "Canonical domestic OD annual counts in the manuscript 76 countries; canonical worldwide international country OD counts.",
+  "years": "1998-2025",
+  "procedure": "For each country/system, set event count to its minimum annual observed total. Draw that many events without replacement from every annual directed OD count vector, using multivariate hypergeometric sampling.",
+  "replicates": 200,
+  "indicators": [
+    "Gini",
+    "HHI",
+    "R",
+    "positive-flow location count"
+  ],
+  "primary": "Country full-period OLS trend signs in Gini and R; observed versus mean rarefied annual series.",
+  "sensitivity": "Countries whose minimum annual event count is at least 1000.",
+  "uncertainty": "Country bootstrap for median trends; simulation replicates are not independent countries. Monte Carlo intervals describe resampling, not population sampling uncertainty.",
+  "limits": [
+    "Equal recorded event counts do not correct all publication coverage differences.",
+    "City identities and possible location support can still differ across years.",
+    "This conditions on the number of observed events rather than treating it as a cause."
+  ],
+  "seed": 20261048
+}

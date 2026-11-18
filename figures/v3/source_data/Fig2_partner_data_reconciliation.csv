@@ -1,0 +1,5 @@
+﻿year,international_flow,domestic_flow,international_country_links,domestic_city_links,domestic_inflow_cities,matches_current_figure
+1998,154323.0,212822.0,4766,65004,5366,True
+2007,294428.0,424147.0,6871,103361,7029,True
+2016,481918.0,736360.0,9927,147244,8507,True
+2025,938401.0,1545333.0,14228,211129,9552,True

@@ -1,0 +1,7 @@
+{
+  "country_count": 34,
+  "same_city_list_in_all_four_domains": true,
+  "minimum_fixed_city_count": 2,
+  "additional_analysis": "Exploratory extension prompted by the domain-specific fixed-city results; not a prespecified primary test.",
+  "bootstrap": "Country-paired nominal95% percentile intervals; six Wilcoxon comparisons Holm-adjusted within each analysis."
+}

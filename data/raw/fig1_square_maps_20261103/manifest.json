@@ -1,0 +1,18 @@
+{
+  "purpose": "Illustrative primary-affiliation selection and parent-city harmonization; no empirical individual record or LLM validation claim",
+  "boundary_source_file": "data\\raw\\geo\\municipal_20261020\\gb_CHN_ADM1.geojson",
+  "boundary_source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1.geojson",
+  "boundary_license": "Public Domain",
+  "all_source_boundary_features_retained": true,
+  "city_coordinate_source_file": "data\\raw\\geo\\geonames_20261020\\reference.duckdb",
+  "city_coordinate_source": "GeoNames, local reference snapshot 2026-10-20",
+  "city_coordinate_license": "CC BY 4.0",
+  "city_coordinate_url": "https://www.geonames.org/",
+  "city_selection_rule": "Six illustrative cities; one green selected city; no place names displayed",
+  "city_example_selection_is_empirical": false,
+  "regional_boundary_manifest": "data/raw/fig1_shanghai_real_maps_20261103/manifest.json",
+  "sha256": {
+    "china_provinces.geojson": "bc4afc7eacf4351ae5b3ae7a612327987ce1123cb5deb8574fb49107091c6623",
+    "candidate_cities.geojson": "9dc27c1306257f6ac99acfb6b29f801bf89f5fc7a50dda7d6fe3c4524f155032"
+  }
+}

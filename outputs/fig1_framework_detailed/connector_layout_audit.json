@@ -1,0 +1,1591 @@
+{
+  "module_frames_white": [
+    "data",
+    "bridge",
+    "llm_processing",
+    "international",
+    "domestic",
+    "country_summary",
+    "city_summary",
+    "disciplinary",
+    "gravity_model",
+    "output"
+  ],
+  "all_module_backgrounds_white": true,
+  "display_labels_title_case": true,
+  "output_label": "Output",
+  "output_sources": [
+    "Gravity Model"
+  ],
+  "summary_output_connectors": false,
+  "summary_glyph_labels": [
+    "Country Coverage",
+    "City Coverage",
+    "Flow Shares"
+  ],
+  "gravity_model_icon": "Vector globe, latitude/longitude mesh and orange arced connection",
+  "horizontal_symmetry_axis_mm": 31.16883116883117,
+  "feature_row_centers_mm": {
+    "International": 37.40259740259741,
+    "Discipline": 31.16883116883117,
+    "Domestic": 24.935064935064936
+  },
+  "international_domestic_input_routes_are_mirrored": true,
+  "international_domestic_model_routes_are_mirrored": true,
+  "model_route_vertical_leg_mm": 3.116883116883117,
+  "model_route_corner_radius_mm": 0.7012987012987013,
+  "external_data_corner_radius_mm": 0.8571428571428572,
+  "shaft_and_arrowhead_share_a_continuous_path": true,
+  "llm_input_stub_starts_at_external_arrow_endpoint": true,
+  "map_arrowheads_end_at_map_border": true,
+  "routes": [
+    {
+      "points_mm": [
+        [
+          8.415584415584416,
+          54.467532467532465
+        ],
+        [
+          8.415584415584416,
+          53.22077922077922
+        ],
+        [
+          9.662337662337663,
+          53.22077922077922
+        ]
+      ],
+      "arrow": false,
+      "color": "#363B40",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.623376623376624,
+          50.883116883116884
+        ],
+        [
+          8.883116883116884,
+          50.883116883116884
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.623376623376624,
+          52.05194805194805
+        ],
+        [
+          9.116883116883116,
+          52.05194805194805
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.623376623376624,
+          53.22077922077922
+        ],
+        [
+          8.493506493506494,
+          53.22077922077922
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          8.961038961038962,
+          55.01298701298701
+        ],
+        [
+          8.961038961038962,
+          53.76623376623377
+        ],
+        [
+          10.20779220779221,
+          53.76623376623377
+        ]
+      ],
+      "arrow": false,
+      "color": "#363B40",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.16883116883117,
+          51.42857142857143
+        ],
+        [
+          9.42857142857143,
+          51.42857142857143
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.16883116883117,
+          52.5974025974026
+        ],
+        [
+          9.662337662337665,
+          52.5974025974026
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.16883116883117,
+          53.76623376623377
+        ],
+        [
+          9.038961038961041,
+          53.76623376623377
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          9.506493506493507,
+          55.55844155844156
+        ],
+        [
+          9.506493506493507,
+          54.311688311688314
+        ],
+        [
+          10.753246753246755,
+          54.311688311688314
+        ]
+      ],
+      "arrow": false,
+      "color": "#363B40",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.714285714285715,
+          51.97402597402598
+        ],
+        [
+          9.974025974025976,
+          51.97402597402598
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.714285714285715,
+          53.142857142857146
+        ],
+        [
+          10.20779220779221,
+          53.142857142857146
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          7.714285714285715,
+          54.311688311688314
+        ],
+        [
+          9.584415584415586,
+          54.311688311688314
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          8.64935064935065,
+          45.81818181818182
+        ],
+        [
+          8.64935064935065,
+          44.25974025974026
+        ],
+        [
+          31.16883116883117,
+          44.25974025974026
+        ],
+        [
+          31.16883116883117,
+          45.81818181818182
+        ]
+      ],
+      "arrow": false,
+      "color": "#D5DCE2",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          19.480519480519483,
+          45.81818181818182
+        ],
+        [
+          19.480519480519483,
+          44.25974025974026
+        ]
+      ],
+      "arrow": false,
+      "color": "#D5DCE2",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.779220779220779,
+          36.935064935064936
+        ],
+        [
+          9.584415584415586,
+          36.935064935064936
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.779220779220779,
+          36.935064935064936
+        ],
+        [
+          8.181818181818182,
+          34.675324675324674
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          9.584415584415586,
+          36.935064935064936
+        ],
+        [
+          8.181818181818182,
+          34.675324675324674
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          18.155844155844157,
+          36.467532467532465
+        ],
+        [
+          22.363636363636363,
+          36.467532467532465
+        ]
+      ],
+      "arrow": false,
+      "color": "#A88A44",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          19.090909090909093,
+          37.246753246753244
+        ],
+        [
+          19.090909090909093,
+          38.18181818181819
+        ]
+      ],
+      "arrow": false,
+      "color": "#A88A44",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          21.42857142857143,
+          37.246753246753244
+        ],
+        [
+          21.42857142857143,
+          38.18181818181819
+        ]
+      ],
+      "arrow": false,
+      "color": "#A88A44",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          6.709870129870131,
+          6.077922077922078
+        ],
+        [
+          6.709870129870131,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          8.432727272727274,
+          6.077922077922078
+        ],
+        [
+          8.432727272727274,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          5.415584415584416,
+          6.857142857142858
+        ],
+        [
+          9.77922077922078,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          5.415584415584416,
+          8.675324675324676
+        ],
+        [
+          9.77922077922078,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          5.415584415584416,
+          10.493506493506496
+        ],
+        [
+          9.77922077922078,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          5.415584415584416,
+          12.311688311688313
+        ],
+        [
+          9.77922077922078,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          11.313506493506496,
+          6.077922077922078
+        ],
+        [
+          11.313506493506496,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          12.419220779220781,
+          6.077922077922078
+        ],
+        [
+          12.419220779220781,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          10.636363636363638,
+          6.857142857142858
+        ],
+        [
+          13.129870129870131,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          10.636363636363638,
+          8.675324675324676
+        ],
+        [
+          13.129870129870131,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          10.636363636363638,
+          10.493506493506496
+        ],
+        [
+          13.129870129870131,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          10.636363636363638,
+          12.311688311688313
+        ],
+        [
+          13.129870129870131,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          15.641298701298702,
+          6.077922077922078
+        ],
+        [
+          15.641298701298702,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          17.724155844155845,
+          6.077922077922078
+        ],
+        [
+          17.724155844155845,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          13.98701298701299,
+          6.857142857142858
+        ],
+        [
+          19.441558441558442,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          13.98701298701299,
+          8.675324675324676
+        ],
+        [
+          19.441558441558442,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          13.98701298701299,
+          10.493506493506496
+        ],
+        [
+          19.441558441558442,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          13.98701298701299,
+          12.311688311688313
+        ],
+        [
+          19.441558441558442,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          21.56727272727273,
+          6.077922077922078
+        ],
+        [
+          21.56727272727273,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          23.264415584415588,
+          6.077922077922078
+        ],
+        [
+          23.264415584415588,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          20.2987012987013,
+          6.857142857142858
+        ],
+        [
+          24.584415584415588,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          20.2987012987013,
+          8.675324675324676
+        ],
+        [
+          24.584415584415588,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          20.2987012987013,
+          10.493506493506496
+        ],
+        [
+          24.584415584415588,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          20.2987012987013,
+          12.311688311688313
+        ],
+        [
+          24.584415584415588,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          26.37584415584416,
+          6.077922077922078
+        ],
+        [
+          26.37584415584416,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          27.7387012987013,
+          6.077922077922078
+        ],
+        [
+          27.7387012987013,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          25.441558441558442,
+          6.857142857142858
+        ],
+        [
+          28.714285714285715,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          25.441558441558442,
+          8.675324675324676
+        ],
+        [
+          28.714285714285715,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          25.441558441558442,
+          10.493506493506496
+        ],
+        [
+          28.714285714285715,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          25.441558441558442,
+          12.311688311688313
+        ],
+        [
+          28.714285714285715,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          30.942857142857147,
+          6.077922077922078
+        ],
+        [
+          30.942857142857147,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          32.74285714285714,
+          6.077922077922078
+        ],
+        [
+          32.74285714285714,
+          13.324675324675326
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5AEB7",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          29.57142857142857,
+          6.857142857142858
+        ],
+        [
+          34.16883116883117,
+          6.857142857142858
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          29.57142857142857,
+          8.675324675324676
+        ],
+        [
+          34.16883116883117,
+          8.675324675324676
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          29.57142857142857,
+          10.493506493506496
+        ],
+        [
+          34.16883116883117,
+          10.493506493506496
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          29.57142857142857,
+          12.311688311688313
+        ],
+        [
+          34.16883116883117,
+          12.311688311688313
+        ]
+      ],
+      "arrow": false,
+      "color": "#BAC4CC",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          35.532467532467535,
+          10.363636363636365
+        ],
+        [
+          40.519480519480524,
+          10.363636363636365
+        ],
+        [
+          40.519480519480524,
+          31.16883116883117
+        ],
+        [
+          45.1948051948052,
+          31.16883116883117
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.8571428571428572,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          45.1948051948052,
+          31.16883116883117
+        ],
+        [
+          46.20779220779221,
+          31.16883116883117
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          46.20779220779221,
+          19.090909090909093
+        ],
+        [
+          46.20779220779221,
+          43.24675324675325
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          46.20779220779221,
+          43.24675324675325
+        ],
+        [
+          47.532467532467535,
+          43.24675324675325
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          46.20779220779221,
+          19.090909090909093
+        ],
+        [
+          47.532467532467535,
+          19.090909090909093
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          65.45454545454545,
+          43.24675324675325
+        ],
+        [
+          66.62337662337663,
+          43.24675324675325
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          65.45454545454545,
+          19.090909090909093
+        ],
+        [
+          66.62337662337663,
+          19.090909090909093
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          66.62337662337663,
+          19.090909090909093
+        ],
+        [
+          66.62337662337663,
+          43.24675324675325
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          66.62337662337663,
+          31.16883116883117
+        ],
+        [
+          69.35064935064935,
+          31.16883116883117
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          69.35064935064935,
+          14.025974025974026
+        ],
+        [
+          69.35064935064935,
+          48.311688311688314
+        ]
+      ],
+      "arrow": false,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          69.35064935064935,
+          48.311688311688314
+        ],
+        [
+          70.9090909090909,
+          48.311688311688314
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          69.35064935064935,
+          31.16883116883117
+        ],
+        [
+          70.9090909090909,
+          31.16883116883117
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          69.35064935064935,
+          14.025974025974026
+        ],
+        [
+          70.9090909090909,
+          14.025974025974026
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          109.87012987012987,
+          48.311688311688314
+        ],
+        [
+          113.76623376623377,
+          48.311688311688314
+        ]
+      ],
+      "arrow": true,
+      "color": "#7E99F4",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          109.87012987012987,
+          14.025974025974026
+        ],
+        [
+          113.76623376623377,
+          14.025974025974026
+        ]
+      ],
+      "arrow": true,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          85.41861284396447,
+          29.142857142857142
+        ],
+        [
+          85.2307378053862,
+          29.142857142857142
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          86.12625463371091,
+          29.61038961038961
+        ],
+        [
+          84.52309601563974,
+          29.61038961038961
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          86.26449704175508,
+          30.077922077922082
+        ],
+        [
+          84.38485360759557,
+          30.077922077922082
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          85.73514000133115,
+          30.54545454545455
+        ],
+        [
+          84.9142106480195,
+          30.54545454545455
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          84.9142106480195,
+          31.01298701298701
+        ],
+        [
+          85.73514000133115,
+          31.01298701298701
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          84.38485360759557,
+          31.48051948051948
+        ],
+        [
+          86.26449704175508,
+          31.48051948051948
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          84.52309601563974,
+          31.94805194805195
+        ],
+        [
+          86.12625463371091,
+          31.94805194805195
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          85.2307378053862,
+          32.41558441558442
+        ],
+        [
+          85.41861284396447,
+          32.41558441558442
+        ]
+      ],
+      "arrow": false,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          93.70129870129871,
+          30.740259740259745
+        ],
+        [
+          94.44155844155844,
+          30.740259740259745
+        ],
+        [
+          94.7922077922078,
+          31.363636363636367
+        ],
+        [
+          95.14285714285714,
+          30.116883116883116
+        ],
+        [
+          95.4935064935065,
+          30.85714285714286
+        ],
+        [
+          96.35064935064936,
+          30.85714285714286
+        ]
+      ],
+      "arrow": false,
+      "color": "#CC7C71",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          90.3896103896104,
+          38.961038961038966
+        ],
+        [
+          90.3896103896104,
+          36.62337662337662
+        ]
+      ],
+      "arrow": true,
+      "color": "#7E99F4",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          90.3896103896104,
+          23.376623376623378
+        ],
+        [
+          90.3896103896104,
+          25.714285714285715
+        ]
+      ],
+      "arrow": true,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          109.87012987012987,
+          42.85714285714286
+        ],
+        [
+          111.81818181818183,
+          42.85714285714286
+        ],
+        [
+          111.81818181818183,
+          37.40259740259741
+        ],
+        [
+          116.1038961038961,
+          37.40259740259741
+        ]
+      ],
+      "arrow": true,
+      "color": "#7E99F4",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          109.87012987012987,
+          31.16883116883117
+        ],
+        [
+          116.1038961038961,
+          31.16883116883117
+        ]
+      ],
+      "arrow": true,
+      "color": "#A88A44",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          109.87012987012987,
+          19.480519480519483
+        ],
+        [
+          111.81818181818183,
+          19.480519480519483
+        ],
+        [
+          111.81818181818183,
+          24.935064935064936
+        ],
+        [
+          116.1038961038961,
+          24.935064935064936
+        ]
+      ],
+      "arrow": true,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          137.57572490425943,
+          26.649350649350648
+        ],
+        [
+          142.16453483600034,
+          26.649350649350648
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5B8C6",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          137.22077922077924,
+          27.974025974025974
+        ],
+        [
+          142.51948051948054,
+          27.974025974025974
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5B8C6",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          137.57572490425943,
+          29.2987012987013
+        ],
+        [
+          142.16453483600034,
+          29.2987012987013
+        ]
+      ],
+      "arrow": false,
+      "color": "#A5B8C6",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          127.67532467532467,
+          37.40259740259741
+        ],
+        [
+          130.28571428571428,
+          37.40259740259741
+        ],
+        [
+          130.28571428571428,
+          34.285714285714285
+        ],
+        [
+          132.85714285714286,
+          34.285714285714285
+        ]
+      ],
+      "arrow": true,
+      "color": "#7E99F4",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          127.67532467532467,
+          31.16883116883117
+        ],
+        [
+          132.85714285714286,
+          31.16883116883117
+        ]
+      ],
+      "arrow": true,
+      "color": "#A88A44",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          127.67532467532467,
+          24.935064935064936
+        ],
+        [
+          130.28571428571428,
+          24.935064935064936
+        ],
+        [
+          130.28571428571428,
+          28.051948051948052
+        ],
+        [
+          132.85714285714286,
+          28.051948051948052
+        ]
+      ],
+      "arrow": true,
+      "color": "#7AB656",
+      "corner_radius_mm": 0.7012987012987013,
+      "single_continuous_path": true
+    },
+    {
+      "points_mm": [
+        [
+          146.88311688311688,
+          31.16883116883117
+        ],
+        [
+          162.85714285714286,
+          31.16883116883117
+        ]
+      ],
+      "arrow": true,
+      "color": "#000000",
+      "corner_radius_mm": 0.0,
+      "single_continuous_path": true
+    }
+  ]
+}

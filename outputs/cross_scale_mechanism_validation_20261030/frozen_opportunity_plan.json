@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "design": "Additional diagnostic motivated by weak cross-layer increments. Recorded before computing frozen-geography scenarios.",
+  "fit": "Existing 1999-2011 gravity coefficients; no refitting to these scenario outcomes.",
+  "anchors": [
+    1999,
+    2025
+  ],
+  "factors": [
+    "lagged research capacity geography, including candidate city support",
+    "retained network event total"
+  ],
+  "four_scenarios": "Early geography/early volume; early geography/late volume; late geography/early volume; late geography/late volume.",
+  "decomposition": "Symmetric two-factor Shapley decomposition of the model change; exact expected active node counts and HHI; 30 fixed-total multinomial draws for positive-flow Gini and R.",
+  "interpretation": "Conditional model reference. Predicted geography is external to this model, not a demonstrated endogenous mechanism. International distances remain approximate national centroids.",
+  "endpoints": [
+    "positive-flow Gini",
+    "HHI",
+    "active location count",
+    "normalized equivalent location count"
+  ],
+  "manuscript_modified": false
+}

@@ -1,0 +1,477 @@
+[
+  {
+    "figure": 4,
+    "geography": "domestic",
+    "width_mm": 180.0,
+    "height_mm": 56.44444444444444,
+    "volume": {
+      "annual_observations_per_series": 28,
+      "observed_events": [
+        212822.0,
+        219489.0,
+        234209.0,
+        243346.0,
+        287013.0,
+        299124.0,
+        320615.0,
+        358673.0,
+        393477.0,
+        424147.0,
+        467202.0,
+        506181.0,
+        547546.0,
+        592150.0,
+        621786.0,
+        657660.0,
+        688902.0,
+        720518.0,
+        736360.0,
+        781557.0,
+        836421.0,
+        894658.0,
+        984848.0,
+        1023925.0,
+        1001093.0,
+        1209000.0,
+        1365795.0,
+        1545333.0
+      ],
+      "reference_events": [
+        212822.0,
+        219301.21263306873,
+        230642.29022829366,
+        237681.35397821674,
+        271645.65506738046,
+        278007.0043074272,
+        289315.3420712572,
+        311411.4542797366,
+        325708.93864992925,
+        338402.17128176725,
+        356215.9135437819,
+        371289.3319180358,
+        387619.95981785737,
+        405777.47030951944,
+        420939.2862285398,
+        437387.7775213833,
+        453954.13220724877,
+        470903.54292043566,
+        482074.3733924066,
+        501443.25764568336,
+        520838.33376407606,
+        540708.1374376961,
+        575579.3318565012,
+        577344.0087686912,
+        556881.6141468218,
+        621578.7949664636,
+        645727.694603409,
+        691232.7862593072
+      ]
+    },
+    "entry": {
+      "countries": 76,
+      "year": 2025,
+      "country_points": [
+        {
+          "country": "AE",
+          "city_count_share_percent": 42.857142857142854,
+          "flow_share_percent": 8.484848484848486
+        },
+        {
+          "country": "AM",
+          "city_count_share_percent": 25.0,
+          "flow_share_percent": 13.793103448275861
+        },
+        {
+          "country": "AR",
+          "city_count_share_percent": 35.84905660377358,
+          "flow_share_percent": 2.8556771545827635
+        },
+        {
+          "country": "AT",
+          "city_count_share_percent": 60.317460317460316,
+          "flow_share_percent": 6.697377746279234
+        },
+        {
+          "country": "AU",
+          "city_count_share_percent": 28.57142857142857,
+          "flow_share_percent": 0.5612722170252572
+        },
+        {
+          "country": "BD",
+          "city_count_share_percent": 64.70588235294117,
+          "flow_share_percent": 18.15661815661816
+        },
+        {
+          "country": "BE",
+          "city_count_share_percent": 39.50617283950617,
+          "flow_share_percent": 1.8126346015793253
+        },
+        {
+          "country": "BG",
+          "city_count_share_percent": 35.294117647058826,
+          "flow_share_percent": 4.310344827586207
+        },
+        {
+          "country": "BR",
+          "city_count_share_percent": 52.96610169491526,
+          "flow_share_percent": 7.573811291973587
+        },
+        {
+          "country": "BY",
+          "city_count_share_percent": 58.333333333333336,
+          "flow_share_percent": 18.548387096774192
+        },
+        {
+          "country": "CA",
+          "city_count_share_percent": 38.15028901734104,
+          "flow_share_percent": 1.0955414012738853
+        },
+        {
+          "country": "CH",
+          "city_count_share_percent": 55.033557046979865,
+          "flow_share_percent": 6.827169109095138
+        },
+        {
+          "country": "CL",
+          "city_count_share_percent": 48.0,
+          "flow_share_percent": 9.115361625821878
+        },
+        {
+          "country": "CM",
+          "city_count_share_percent": 22.22222222222222,
+          "flow_share_percent": 14.408866995073891
+        },
+        {
+          "country": "CN",
+          "city_count_share_percent": 48.57142857142857,
+          "flow_share_percent": 3.4368513115871253
+        },
+        {
+          "country": "CO",
+          "city_count_share_percent": 64.44444444444444,
+          "flow_share_percent": 19.467301862278042
+        },
+        {
+          "country": "CR",
+          "city_count_share_percent": 69.23076923076923,
+          "flow_share_percent": 33.45323741007194
+        },
+        {
+          "country": "CU",
+          "city_count_share_percent": 30.76923076923077,
+          "flow_share_percent": 14.835164835164836
+        },
+        {
+          "country": "CZ",
+          "city_count_share_percent": 76.34408602150538,
+          "flow_share_percent": 7.350272232304899
+        },
+        {
+          "country": "DE",
+          "city_count_share_percent": 36.466774716369535,
+          "flow_share_percent": 1.7279729101653276
+        },
+        {
+          "country": "DK",
+          "city_count_share_percent": 30.0,
+          "flow_share_percent": 0.6619009796134498
+        },
+        {
+          "country": "DZ",
+          "city_count_share_percent": 77.55102040816327,
+          "flow_share_percent": 50.663449939686366
+        },
+        {
+          "country": "EE",
+          "city_count_share_percent": 60.0,
+          "flow_share_percent": 4.230769230769231
+        },
+        {
+          "country": "EG",
+          "city_count_share_percent": 30.76923076923077,
+          "flow_share_percent": 3.8211660112839803
+        },
+        {
+          "country": "ES",
+          "city_count_share_percent": 34.375,
+          "flow_share_percent": 2.148861811655804
+        },
+        {
+          "country": "FI",
+          "city_count_share_percent": 16.129032258064516,
+          "flow_share_percent": 0.8154943934760449
+        },
+        {
+          "country": "FR",
+          "city_count_share_percent": 30.0,
+          "flow_share_percent": 0.607208020246807
+        },
+        {
+          "country": "GB",
+          "city_count_share_percent": 29.00355871886121,
+          "flow_share_percent": 1.37192571524176
+        },
+        {
+          "country": "GH",
+          "city_count_share_percent": 75.0,
+          "flow_share_percent": 34.024064171122994
+        },
+        {
+          "country": "GR",
+          "city_count_share_percent": 47.05882352941176,
+          "flow_share_percent": 5.99927060539752
+        },
+        {
+          "country": "HR",
+          "city_count_share_percent": 50.0,
+          "flow_share_percent": 9.532710280373832
+        },
+        {
+          "country": "HU",
+          "city_count_share_percent": 40.0,
+          "flow_share_percent": 4.149797570850203
+        },
+        {
+          "country": "ID",
+          "city_count_share_percent": 94.51219512195121,
+          "flow_share_percent": 66.33993872744337
+        },
+        {
+          "country": "IE",
+          "city_count_share_percent": 48.93617021276596,
+          "flow_share_percent": 6.146657081236521
+        },
+        {
+          "country": "IL",
+          "city_count_share_percent": 32.6530612244898,
+          "flow_share_percent": 1.7688679245283019
+        },
+        {
+          "country": "IN",
+          "city_count_share_percent": 53.02325581395348,
+          "flow_share_percent": 10.08282740676496
+        },
+        {
+          "country": "IR",
+          "city_count_share_percent": 88.03418803418803,
+          "flow_share_percent": 36.83061943931509
+        },
+        {
+          "country": "IS",
+          "city_count_share_percent": 14.285714285714285,
+          "flow_share_percent": 6.153846153846154
+        },
+        {
+          "country": "IT",
+          "city_count_share_percent": 29.25170068027211,
+          "flow_share_percent": 1.4807633819951338
+        },
+        {
+          "country": "JO",
+          "city_count_share_percent": 76.92307692307693,
+          "flow_share_percent": 38.15789473684211
+        },
+        {
+          "country": "JP",
+          "city_count_share_percent": 19.248826291079812,
+          "flow_share_percent": 0.5540428106799787
+        },
+        {
+          "country": "KE",
+          "city_count_share_percent": 82.35294117647058,
+          "flow_share_percent": 50.356506238859176
+        },
+        {
+          "country": "KR",
+          "city_count_share_percent": 31.57894736842105,
+          "flow_share_percent": 1.15318480861244
+        },
+        {
+          "country": "LK",
+          "city_count_share_percent": 72.0,
+          "flow_share_percent": 29.88599348534202
+        },
+        {
+          "country": "LT",
+          "city_count_share_percent": 57.14285714285714,
+          "flow_share_percent": 9.15492957746479
+        },
+        {
+          "country": "MA",
+          "city_count_share_percent": 33.33333333333333,
+          "flow_share_percent": 12.231559290382819
+        },
+        {
+          "country": "MT",
+          "city_count_share_percent": 50.0,
+          "flow_share_percent": 30.64516129032258
+        },
+        {
+          "country": "MW",
+          "city_count_share_percent": 62.5,
+          "flow_share_percent": 10.0
+        },
+        {
+          "country": "MX",
+          "city_count_share_percent": 51.21951219512195,
+          "flow_share_percent": 7.28395061728395
+        },
+        {
+          "country": "MY",
+          "city_count_share_percent": 57.89473684210527,
+          "flow_share_percent": 11.624731811975815
+        },
+        {
+          "country": "NG",
+          "city_count_share_percent": 66.99029126213593,
+          "flow_share_percent": 28.234330802441566
+        },
+        {
+          "country": "NL",
+          "city_count_share_percent": 35.25179856115108,
+          "flow_share_percent": 1.9061360874848117
+        },
+        {
+          "country": "NO",
+          "city_count_share_percent": 57.608695652173914,
+          "flow_share_percent": 8.84297520661157
+        },
+        {
+          "country": "NZ",
+          "city_count_share_percent": 32.0,
+          "flow_share_percent": 2.9265873015873014
+        },
+        {
+          "country": "PH",
+          "city_count_share_percent": 91.83673469387756,
+          "flow_share_percent": 54.736842105263165
+        },
+        {
+          "country": "PK",
+          "city_count_share_percent": 72.54901960784314,
+          "flow_share_percent": 13.141192836028518
+        },
+        {
+          "country": "PL",
+          "city_count_share_percent": 61.74496644295302,
+          "flow_share_percent": 3.675462645647704
+        },
+        {
+          "country": "PR",
+          "city_count_share_percent": 40.0,
+          "flow_share_percent": 7.894736842105263
+        },
+        {
+          "country": "PT",
+          "city_count_share_percent": 66.27906976744185,
+          "flow_share_percent": 11.588958087863995
+        },
+        {
+          "country": "RO",
+          "city_count_share_percent": 64.51612903225806,
+          "flow_share_percent": 22.949640287769785
+        },
+        {
+          "country": "RS",
+          "city_count_share_percent": 46.15384615384615,
+          "flow_share_percent": 6.8181818181818175
+        },
+        {
+          "country": "RU",
+          "city_count_share_percent": 33.91812865497076,
+          "flow_share_percent": 4.023597569591635
+        },
+        {
+          "country": "SA",
+          "city_count_share_percent": 53.84615384615385,
+          "flow_share_percent": 16.780372605615323
+        },
+        {
+          "country": "SE",
+          "city_count_share_percent": 29.761904761904763,
+          "flow_share_percent": 1.9116397621070518
+        },
+        {
+          "country": "SI",
+          "city_count_share_percent": 74.35897435897436,
+          "flow_share_percent": 24.833333333333332
+        },
+        {
+          "country": "SK",
+          "city_count_share_percent": 39.130434782608695,
+          "flow_share_percent": 2.369077306733167
+        },
+        {
+          "country": "TH",
+          "city_count_share_percent": 72.41379310344827,
+          "flow_share_percent": 28.699673558215448
+        },
+        {
+          "country": "TN",
+          "city_count_share_percent": 47.05882352941176,
+          "flow_share_percent": 10.135135135135135
+        },
+        {
+          "country": "TR",
+          "city_count_share_percent": 58.65384615384615,
+          "flow_share_percent": 17.89933230611197
+        },
+        {
+          "country": "TZ",
+          "city_count_share_percent": 70.58823529411765,
+          "flow_share_percent": 39.97955010224949
+        },
+        {
+          "country": "UA",
+          "city_count_share_percent": 55.769230769230774,
+          "flow_share_percent": 14.91035492133187
+        },
+        {
+          "country": "UG",
+          "city_count_share_percent": 86.66666666666667,
+          "flow_share_percent": 45.800524934383205
+        },
+        {
+          "country": "US",
+          "city_count_share_percent": 28.618968386023298,
+          "flow_share_percent": 0.756364405710775
+        },
+        {
+          "country": "VE",
+          "city_count_share_percent": 43.75,
+          "flow_share_percent": 10.44776119402985
+        },
+        {
+          "country": "VN",
+          "city_count_share_percent": 88.57142857142857,
+          "flow_share_percent": 32.36981934112646
+        },
+        {
+          "country": "ZA",
+          "city_count_share_percent": 50.0,
+          "flow_share_percent": 4.545454545454546
+        }
+      ],
+      "median_city_share_percent": 50.0,
+      "median_flow_share_percent": 8.663911845730027,
+      "countries_below_equality": 76,
+      "median_marker": "Coordinate-wise medians, not an additional country",
+      "new_city_definition": "First recorded after 1998, active in 2025",
+      "all_observations_retained": true,
+      "jitter_or_offsets": false
+    },
+    "growth": {
+      "countries": 76,
+      "groups": {
+        "T1": 15,
+        "T2": 14,
+        "T3": 24,
+        "T4": 23
+      },
+      "fit_vertices": 201,
+      "fit_and_CI_unchanged": true,
+      "all_country_observations_retained": true
+    },
+    "alignment_verdict": "PASS"
+  }
+]

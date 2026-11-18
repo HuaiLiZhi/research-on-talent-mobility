@@ -1,0 +1,17 @@
+entry_domain,next_move_domain,records
+Health Sciences,Life Sciences,15064
+Physical Sciences,Life Sciences,9716
+Social Sciences,Life Sciences,2495
+Health Sciences,Health Sciences,63853
+Social Sciences,Physical Sciences,6654
+Physical Sciences,Health Sciences,9256
+Life Sciences,Social Sciences,2656
+Health Sciences,Social Sciences,5881
+Life Sciences,Health Sciences,16599
+Physical Sciences,Social Sciences,6621
+Social Sciences,Social Sciences,23991
+Life Sciences,Physical Sciences,9600
+Life Sciences,Life Sciences,30227
+Physical Sciences,Physical Sciences,93184
+Health Sciences,Physical Sciences,8576
+Social Sciences,Health Sciences,6021

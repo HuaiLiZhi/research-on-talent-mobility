@@ -1,0 +1,26 @@
+domain,path,records,domain_total,share
+Health Sciences,domestic,95886,518074,0.18508166786984098
+Health Sciences,no_recorded_intercity_change,158449,518074,0.3058424086134413
+Health Sciences,previous_origin_return,187542,518074,0.36199847898176707
+Health Sciences,third_country,72345,518074,0.1396422132745515
+Health Sciences,unresolved_next,3852,518074,0.007435231260399093
+Life Sciences,domestic,60507,324681,0.18635830245687304
+Life Sciences,no_recorded_intercity_change,97459,324681,0.300168473055091
+Life Sciences,previous_origin_return,118804,324681,0.3659099238945303
+Life Sciences,third_country,45157,324681,0.1390811288618675
+Life Sciences,unresolved_next,2754,324681,0.00848217173163813
+Physical Sciences,domestic,122162,679036,0.17990504185345108
+Physical Sciences,no_recorded_intercity_change,204837,679036,0.3016585276774722
+Physical Sciences,previous_origin_return,233173,679036,0.34338827396485605
+Physical Sciences,third_country,112906,679036,0.1662739530746529
+Physical Sciences,unresolved_next,5958,679036,0.0087742034295678
+Social Sciences,domestic,40368,284149,0.14206631028087377
+Social Sciences,no_recorded_intercity_change,85839,284149,0.302091508328377
+Social Sciences,previous_origin_return,105059,284149,0.36973207718485723
+Social Sciences,third_country,50963,284149,0.17935308588099905
+Social Sciences,unresolved_next,1920,284149,0.006757018324892926
+Unspecified,domestic,479,4440,0.10788288288288288
+Unspecified,no_recorded_intercity_change,1079,4440,0.243018018018018
+Unspecified,previous_origin_return,2010,4440,0.4527027027027027
+Unspecified,third_country,842,4440,0.18963963963963965
+Unspecified,unresolved_next,30,4440,0.006756756756756757

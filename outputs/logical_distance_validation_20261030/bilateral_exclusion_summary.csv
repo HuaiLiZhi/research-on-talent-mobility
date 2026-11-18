@@ -1,0 +1,7 @@
+split,base,new,countries,median_deviance_reduction_pct,CI_low,CI_high,countries_better
+validation,G_geo_reduced_availability,G_partner_reduced,76,0.381784739167379,-0.1678280363197393,1.438495640289772,44
+validation,H_history_reduced_availability,H_partner_reduced,76,1.3989393789324622,0.8804701339141907,1.9526233237874058,60
+validation,H_field_reduced_availability,H_both_reduced,76,1.5015500558484496,0.8424089380839384,1.6924053497278102,60
+test,G_geo_reduced_availability,G_partner_reduced,76,0.22892013734169825,-0.2294234330235123,0.8080202901445288,41
+test,H_history_reduced_availability,H_partner_reduced,76,0.7669453084785616,0.31205565070591135,1.3843638155857365,51
+test,H_field_reduced_availability,H_both_reduced,76,0.6585504346571569,0.29287201797807416,1.4715108326401993,52

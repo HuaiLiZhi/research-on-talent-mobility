@@ -1,0 +1,16 @@
+{
+  "status": "Additional benchmark specified before new outcome computation",
+  "comparison": "Same five-year domestic-redistribution cohort vs other verified domestic transition events in the same microdata subset; cohort next events are excluded from reference",
+  "matching": "origin city, move year, recorded field at the move, observed career span bins0-4/5-9/10+ years, and last publication year at least arrival year+5",
+  "reference_population": "other observed domestic moves, not necessarily never-international authors",
+  "primary_metrics": [
+    "change in log1p1998-2011 domestic city strength",
+    "probability of moving to a city with larger early domestic strength",
+    "probability of destination having positive early domestic strength"
+  ],
+  "secondary_hierarchy": "independent research activity incidence mass in2005-2011, not deduplicated people or prestige",
+  "missing_support": "Report supported record fraction; restrict both sides to strata with reference support; no imputation or outcome-selected countries",
+  "units": "country summaries with minimum100 matched cohort records; sensitivity500; countries equal in cross-country summaries",
+  "inference": "country median differences and bootstrap intervals; sign-test P values Holm adjusted across three primary benchmark contrasts; descriptive, not treatment effects",
+  "same_benchmark_for_all_variants": true
+}

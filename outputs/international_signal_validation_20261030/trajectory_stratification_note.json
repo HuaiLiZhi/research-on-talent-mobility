@@ -1,0 +1,7 @@
+{
+  "purpose": "Descriptive check for proposed Results restructuring, using already fitted models; no refitting or model selection.",
+  "groups": "Proposed full-period share decline/gain and within-sign median display groups; labels are descriptive post-hoc strata, not predictors or evidence of stable country types.",
+  "inference": "No subgroup-effect or interaction test performed; shared model coefficient does not establish each group has a negative coefficient.",
+  "sample": 76,
+  "paper_modified": false
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "city": "Bengaluru",
+    "file": "IN_Bengaluru.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Bangalore/BBMP.geojson",
+    "sha256": "4a1186d15da9396c259a2c01b135ee5e903948d45de6e91c49e0ddd72f359a7b",
+    "boundary_year": "2022",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Bangalore/Readme.md"
+  },
+  {
+    "city": "Chennai",
+    "file": "IN_Chennai.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Chennai/Wards.geojson",
+    "sha256": "2dff80b6f514e644b9a428696909216e9d22aedd07c8ebab33192ec9e3cb1ab2",
+    "boundary_year": "unspecified",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Chennai/Readme.md"
+  },
+  {
+    "city": "Mumbai",
+    "file": "IN_Mumbai.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Mumbai/BMC_Wards.geojson",
+    "sha256": "f8472efd6bfd6c845a9d8c540c675ea41c173c03de61e8475353cd0dc8242f10",
+    "boundary_year": "unspecified",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Mumbai/Readme.md"
+  },
+  {
+    "city": "Hyderabad",
+    "file": "IN_Hyderabad.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Hyderabad/ghmc-area.geojson",
+    "sha256": "30a7576e39a8d30138ebb2cecda542cdb407730c39f86607ae334aa031f65b2a",
+    "boundary_year": "unspecified",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Hyderabad/Readme.md"
+  },
+  {
+    "city": "Pune",
+    "file": "IN_Pune.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Pune/pune-electoral-wards_2022.geojson",
+    "sha256": "0142d5477e5a18a7b2e03a1ef0184c0b2df1a41c728b2d2f4cb2a930573c6bb2",
+    "boundary_year": "2022",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Pune/Readme.md"
+  },
+  {
+    "city": "Kolkata",
+    "file": "IN_Kolkata.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Kolkata/kolkata.geojson",
+    "sha256": "397a9317bfd23f0e38056eb03428bd22713e24c21b966871122df5d0b24cdcbc",
+    "boundary_year": "unspecified",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Kolkata/Readme.md"
+  },
+  {
+    "city": "Ahmedabad",
+    "file": "IN_Ahmedabad.geojson",
+    "url": "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Ahmedabad/Wards.geojson",
+    "sha256": "6df8e70d38c0a961912fd9cc6a86e438522f172b836ff9f9da56068ad44fdac1",
+    "boundary_year": "unspecified",
+    "repository_commit": "9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17",
+    "underlying_type": "municipal corporation boundary or union of its wards",
+    "license": "CC BY-SA 2.5 India; Pune 2022 additionally documented MIT trace; consult per-city Readme",
+    "source_documentation": "https://github.com/datameet/Municipal_Spatial_Data/blob/9b4d1c2ece54cdeb6f5e8bad9ccad7844f783b17/Ahmedabad/Readme.md"
+  }
+]

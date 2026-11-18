@@ -1,0 +1,33 @@
+year,metric,model,MAE,countries,units
+2018,Gini,reference,1.5506030438572973,76,percentage points
+2019,Gini,reference,1.5973548838807186,76,percentage points
+2020,Gini,reference,1.6196283765266,76,percentage points
+2021,Gini,reference,1.5950080099122528,76,percentage points
+2022,Gini,reference,1.2426533017371855,76,percentage points
+2023,Gini,reference,1.3124698722982195,76,percentage points
+2024,Gini,reference,1.1955466371815686,76,percentage points
+2025,Gini,reference,1.3099290552827068,76,percentage points
+2018,Gini,international,1.3807724022683534,76,percentage points
+2019,Gini,international,1.4459395557657064,76,percentage points
+2020,Gini,international,1.5032656839057723,76,percentage points
+2021,Gini,international,1.4571204670236313,76,percentage points
+2022,Gini,international,1.0814038392187957,76,percentage points
+2023,Gini,international,1.148148251718158,76,percentage points
+2024,Gini,international,0.9858652924439455,76,percentage points
+2025,Gini,international,1.1412683445151017,76,percentage points
+2018,HHI,reference,0.01064596130844195,76,dimensionless
+2019,HHI,reference,0.010557954012871724,76,dimensionless
+2020,HHI,reference,0.010927070280857676,76,dimensionless
+2021,HHI,reference,0.010872075287452163,76,dimensionless
+2022,HHI,reference,0.01025055304292602,76,dimensionless
+2023,HHI,reference,0.00999957164192137,76,dimensionless
+2024,HHI,reference,0.008618149530824529,76,dimensionless
+2025,HHI,reference,0.009872375766143743,76,dimensionless
+2018,HHI,international,0.009015946556717072,76,dimensionless
+2019,HHI,international,0.009228944098371824,76,dimensionless
+2020,HHI,international,0.0100566706671651,76,dimensionless
+2021,HHI,international,0.010143415159468393,76,dimensionless
+2022,HHI,international,0.009119106919411707,76,dimensionless
+2023,HHI,international,0.008356364435756403,76,dimensionless
+2024,HHI,international,0.007342865426177286,76,dimensionless
+2025,HHI,international,0.00897669822653856,76,dimensionless

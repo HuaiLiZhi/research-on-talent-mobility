@@ -1,0 +1,57 @@
+﻿series,metric,year,count,baseline_count,relative_coverage,colour
+Countries,countries_inflow,1998,204,204,1.0,#7E99F4
+Countries,countries_inflow,1999,209,204,1.0245098039215685,#7E99F4
+Countries,countries_inflow,2000,209,204,1.0245098039215685,#7E99F4
+Countries,countries_inflow,2001,204,204,1.0,#7E99F4
+Countries,countries_inflow,2002,206,204,1.0098039215686274,#7E99F4
+Countries,countries_inflow,2003,210,204,1.0294117647058822,#7E99F4
+Countries,countries_inflow,2004,206,204,1.0098039215686274,#7E99F4
+Countries,countries_inflow,2005,211,204,1.0343137254901962,#7E99F4
+Countries,countries_inflow,2006,211,204,1.0343137254901962,#7E99F4
+Countries,countries_inflow,2007,211,204,1.0343137254901962,#7E99F4
+Countries,countries_inflow,2008,210,204,1.0294117647058822,#7E99F4
+Countries,countries_inflow,2009,216,204,1.0588235294117647,#7E99F4
+Countries,countries_inflow,2010,214,204,1.0490196078431373,#7E99F4
+Countries,countries_inflow,2011,218,204,1.0686274509803921,#7E99F4
+Countries,countries_inflow,2012,213,204,1.0441176470588236,#7E99F4
+Countries,countries_inflow,2013,214,204,1.0490196078431373,#7E99F4
+Countries,countries_inflow,2014,218,204,1.0686274509803921,#7E99F4
+Countries,countries_inflow,2015,217,204,1.0637254901960784,#7E99F4
+Countries,countries_inflow,2016,219,204,1.0735294117647058,#7E99F4
+Countries,countries_inflow,2017,219,204,1.0735294117647058,#7E99F4
+Countries,countries_inflow,2018,219,204,1.0735294117647058,#7E99F4
+Countries,countries_inflow,2019,219,204,1.0735294117647058,#7E99F4
+Countries,countries_inflow,2020,221,204,1.0833333333333333,#7E99F4
+Countries,countries_inflow,2021,219,204,1.0735294117647058,#7E99F4
+Countries,countries_inflow,2022,222,204,1.088235294117647,#7E99F4
+Countries,countries_inflow,2023,222,204,1.088235294117647,#7E99F4
+Countries,countries_inflow,2024,221,204,1.0833333333333333,#7E99F4
+Countries,countries_inflow,2025,221,204,1.0833333333333333,#7E99F4
+Domestic cities,domestic_cities_inflow,1998,5366,5366,1.0,#CC7C71
+Domestic cities,domestic_cities_inflow,1999,5484,5366,1.0219903093551994,#CC7C71
+Domestic cities,domestic_cities_inflow,2000,5688,5366,1.0600074543421543,#CC7C71
+Domestic cities,domestic_cities_inflow,2001,5884,5366,1.0965337308982481,#CC7C71
+Domestic cities,domestic_cities_inflow,2002,6136,5366,1.143496086470369,#CC7C71
+Domestic cities,domestic_cities_inflow,2003,6274,5366,1.1692135669027208,#CC7C71
+Domestic cities,domestic_cities_inflow,2004,6527,5366,1.2163622810286991,#CC7C71
+Domestic cities,domestic_cities_inflow,2005,6622,5366,1.2340663436451733,#CC7C71
+Domestic cities,domestic_cities_inflow,2006,6881,5366,1.2823332090942974,#CC7C71
+Domestic cities,domestic_cities_inflow,2007,7029,5366,1.3099142750652255,#CC7C71
+Domestic cities,domestic_cities_inflow,2008,7183,5366,1.3386134923592994,#CC7C71
+Domestic cities,domestic_cities_inflow,2009,7403,5366,1.3796123742079762,#CC7C71
+Domestic cities,domestic_cities_inflow,2010,7557,5366,1.4083115915020499,#CC7C71
+Domestic cities,domestic_cities_inflow,2011,7689,5366,1.432910920611256,#CC7C71
+Domestic cities,domestic_cities_inflow,2012,7904,5366,1.4729780096906449,#CC7C71
+Domestic cities,domestic_cities_inflow,2013,8039,5366,1.4981364144614238,#CC7C71
+Domestic cities,domestic_cities_inflow,2014,8283,5366,1.5436079016026836,#CC7C71
+Domestic cities,domestic_cities_inflow,2015,8359,5366,1.5577711516958628,#CC7C71
+Domestic cities,domestic_cities_inflow,2016,8507,5366,1.585352217666791,#CC7C71
+Domestic cities,domestic_cities_inflow,2017,8666,5366,1.6149832277301528,#CC7C71
+Domestic cities,domestic_cities_inflow,2018,8779,5366,1.6360417443160642,#CC7C71
+Domestic cities,domestic_cities_inflow,2019,8830,5366,1.645546030562803,#CC7C71
+Domestic cities,domestic_cities_inflow,2020,9047,5366,1.6859858367499068,#CC7C71
+Domestic cities,domestic_cities_inflow,2021,9042,5366,1.6850540439806188,#CC7C71
+Domestic cities,domestic_cities_inflow,2022,8971,5366,1.6718225866567276,#CC7C71
+Domestic cities,domestic_cities_inflow,2023,9131,5366,1.7016399552739472,#CC7C71
+Domestic cities,domestic_cities_inflow,2024,9224,5366,1.7189713007827059,#CC7C71
+Domestic cities,domestic_cities_inflow,2025,9552,5366,1.780096906448006,#CC7C71

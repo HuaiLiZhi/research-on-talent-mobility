@@ -1,0 +1,697 @@
+{
+  "snapshot_date": "2026-11-14",
+  "scope": "Current manuscript Fig.1–6 and Supplementary Fig.S1–S3 drawing and direct data-preparation/support code, plus the complete map resources needed to redraw Fig.1",
+  "manuscript_root": "outputs/paper_final",
+  "figures": [
+    {
+      "manuscript_figure": "Fig1",
+      "renderer": "outputs/figure_revision_20261111/plot_Fig1.py",
+      "rendered_pdf": "outputs/figure_revision_20261111/artwork/Fig1.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig1.pdf",
+      "pdf_sha256": "df751b58ee93aa23def03e4d5e5c7a0df8bac20907abc99107a50435fd2ca140",
+      "artwork_matches_manuscript": true,
+      "native_width_mm": 164.9004329004329,
+      "uniform_text_pt": 7.0,
+      "native_height_mm": 81.67965367965368,
+      "outer_borders": "One dashed BRIDGE frame containing the dashed Data card and all processing/analysis stages",
+      "disciplinary_layout": "Four domains in each subsequent international and domestic analysis card; no separate central stage",
+      "country_typology": "Unified sign-anchored T1--T4; 15, 14, 24, 23 countries; exact Fig3--5 country assignments",
+      "membership_source": "outputs\\results_network_revision_20261030\\artwork\\source_data\\trajectory_membership.csv",
+      "membership_sha256": "078b64eef0852ba95346cbb8920a05a1c53f68b3bbd90ea6938815904a9294b3",
+      "feature_encoding": "Nine cells per branch; original final three cells restored in blue/green; branch shade distributions differ"
+    },
+    {
+      "manuscript_figure": "Fig2",
+      "renderer": "outputs/figure2_joint_layout_20261112/plot_Fig2.py",
+      "rendered_pdf": "outputs/figure2_joint_layout_20261112/artwork/Fig2.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig2.pdf",
+      "pdf_sha256": "2d9549158861729c6856a31e3b8138725579c76d0a82ed93f040a2831dd7320c",
+      "artwork_matches_manuscript": true,
+      "historical_panels": "International Gini moved here from Fig3b. The positive share changes moved to Fig3b. The earlier HHI comparison remains FigS3.",
+      "country_typology": "Unified sign-anchored T1--T4; 15, 14, 24, 23 countries; exact Fig3--5 country assignments",
+      "membership_source": "outputs\\results_network_revision_20261030\\artwork\\source_data\\trajectory_membership.csv",
+      "membership_sha256": "078b64eef0852ba95346cbb8920a05a1c53f68b3bbd90ea6938815904a9294b3",
+      "panel_a_blue_series_label": "Predicted",
+      "panel_b": "Annual international Gini for the fixed 203-country cohort and all countries observed in each year.",
+      "former_coverage_panel": "FigS1a",
+      "panel_order": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "panel_b_layout": "Two solid annual curves in a square plotting area. Initial Countries (red) and All Countries (blue).",
+      "panel_b_data_preparation": "outputs/figure2_joint_layout_20261112/plot_Fig2.py",
+      "panel_b_source_data": "outputs/figure2_joint_layout_20261112/source_data/international_gini.csv",
+      "panel_c": "76-country scatter with T1-T4 colours, Spearman rho=0.52 and the international-share-growth x-axis above; inverted original-bin histogram below and pooled KDE with weighted group fills at right; group guides link to d-g.",
+      "panel_c_source_data": "outputs/figure2_joint_layout_20261112/source_data/country_scatter.csv",
+      "panel_layout": "Square plotting areas in a, b and the central scatterplot in c; the d-g plotting areas have a height-to-width ratio of 0.90."
+    },
+    {
+      "manuscript_figure": "Fig3",
+      "renderer": "outputs/figure_revision_20261111/plot_Fig3.py",
+      "rendered_pdf": "outputs/figure_revision_20261111/artwork/Fig3.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig3.pdf",
+      "pdf_sha256": "34f4cfd420fc08b3d528b4688d860eed6e7e781382e1010942ecfe3f2a09b4b0",
+      "artwork_matches_manuscript": true,
+      "panel_b": "All 76 countries in T1–T4 plotted by 1998 international-mobility share and signed 1998–2025 change in percentage points.",
+      "panel_b_layout": "Country scatterplot with a log x-axis, symmetric log y-axis and zero-change reference line. Colours match Fig3a.",
+      "panel_b_data_preparation": "outputs/figure_revision_20261111/plot_Fig3.py",
+      "panel_b_source_data": "outputs/figure_revision_20261111/artwork/source_data/Fig3_country_share_changes_plotted.csv",
+      "panel_c": "Annual changes from the 1998 baseline in each group's contribution to worldwide HHI. Plotted values are multiplied by 1,000.",
+      "panel_c_source_data": "outputs/figure_revision_20261111/artwork/source_data/Fig3_HHI_group_annual.csv",
+      "panel_a_markers": {
+        "T1": "triangle",
+        "T2": "circle",
+        "T3": "square",
+        "T4": "diamond"
+      },
+      "panel_a_marker_size_pt": 5.6,
+      "panel_a_marker_mapping_applies_to": "Annual median lines and their legend handles"
+    },
+    {
+      "manuscript_figure": "Fig4",
+      "renderer": "outputs/figure_gini_palette_20261111/plot_Fig4.py",
+      "rendered_pdf": "outputs/figure_gini_palette_20261111/artwork/Fig4.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig4.pdf",
+      "pdf_sha256": "40700ab6684aaf06885f2c065e7f3014746a4185f51b989a59543dfd50665946",
+      "artwork_matches_manuscript": true,
+      "panel_a_blue_series_label": "Predicted",
+      "panel_b": "Annual domestic city Gini medians across the same 76 countries, comparing all active cities with active cities first recorded in 1998.",
+      "former_coverage_panel": "FigS1b",
+      "panel_b_source_data": "outputs/paper_final/source_data/results_revision_20261111/entry_components_annual.csv",
+      "panel_c": "Horizontal grouped dot plot with blue initial-city and red all-city country values within T1–T4. Diamonds show medians and segments show interquartile ranges. The axis title is on one line and the legend is inside the upper-right corner.",
+      "panel_c_source_data": "outputs/paper_final/source_data/figure_gini_palette_20261111/Fig4c_country_gini_slopes.csv",
+      "panel_c_annual_source_data": "outputs/paper_final/source_data/results_revision_20261111/entry_components_annual.csv",
+      "panel_c_source_sha256": "bb8da9f0023978cfef2cfa6f03cab8ba3fcac53cc389afcd2b4a8e51b7d10d9c",
+      "panel_c_group_summary": "outputs/paper_final/source_data/figure_gini_palette_20261111/Fig4c_T_group_summary.csv",
+      "panel_c_group_summary_sha256": "edd39c2407454e5fbd1dce413d764bc431176094fd6532f12c583436933bb09d",
+      "panel_layout": "One row of three equal plotting areas, a–c.",
+      "native_height_mm": 56.44444444444444,
+      "panel_c_style_reference": "Collected figure atlas F048: grouped dot-and-interval organization, adapted with medians, interquartile ranges and all country dots."
+    },
+    {
+      "manuscript_figure": "Fig5",
+      "renderer": "outputs/results_network_revision_20261030/plot_sources/plot_Fig4.py",
+      "rendered_pdf": "outputs/results_network_revision_20261030/artwork/Fig4.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig5.pdf",
+      "pdf_sha256": "b2311f52e5e45e432a6644b6823f9a2e5f902672d08b549a90792d0feb96b734",
+      "artwork_matches_manuscript": true,
+      "panel_a": "Initial-city versus all-city Gini slopes for all 76 countries. Inset retains 12 major/case country codes. Main scatter additionally labels ID, IR, PK, BD, VN, GH, UG and PH outside the zoom rectangle; labels avoid markers, equality/zero guides, legend and inset.",
+      "panels_b_e": "Canada (T1), Poland (T2), Brazil (T3) and India (T4). Red all-city Gini and blue initial-city Gini share one y axis within each country; full 28-year series; country-specific y ranges. Case titles show the T group.",
+      "initial_city_definition": "Cities recorded in 1998 and active in the displayed year; full domestic inflows and outflows retained; same definition as Fig4b,c.",
+      "initial_city_source": "outputs/paper_final/source_data/results_revision_20261111/entry_components_annual.csv",
+      "source_data": [
+        {
+          "path": "outputs/paper_final/source_data/fig5_one_case_per_T_20261113/Fig5_case_candidates.csv",
+          "sha256": "f012960de6799993dec9f0e12026df966250f71e44326ff10c65e8e7124d8d9e"
+        },
+        {
+          "path": "outputs/paper_final/source_data/fig5_one_case_per_T_20261113/Fig5_case_gini_annual.csv",
+          "sha256": "72e1d66d782134f467e166f504fc44117238dfa38da8cd4bc9df84901e70a7d9"
+        },
+        {
+          "path": "outputs/paper_final/source_data/fig5_one_case_per_T_20261113/Fig5_case_selection.csv",
+          "sha256": "d5bcc738182410163fb5ec294472083b471e9579e4533586b0260e9a99d531af"
+        },
+        {
+          "path": "outputs/paper_final/source_data/fig5_one_case_per_T_20261113/Fig5_plotted_values.csv",
+          "sha256": "e32629539271beeedb8f348c00b92ee673a95f0f69585ecdb00cc6c74f127f50"
+        },
+        {
+          "path": "outputs/paper_final/source_data/fig5_one_case_per_T_20261113/Fig5_slope_comparison.csv",
+          "sha256": "5ee60e7152eeaa6a26667dd05d487e59e6975b571b78f26b648aeb31c3a44ac9"
+        }
+      ],
+      "panel_layout": "Original square left hero and four square cases in a 2x2 grid; case twin y axes removed.",
+      "verification_report": "outputs/fig5_peripheral_labels_20261113/verification.json",
+      "selection_rule": "One per T: largest 28-year mean all-minus-initial Gini gap within each group among countries with total events >=100000, every-year events >=1000 and every-year active cities >=30. Eligible group sizes 6,5,4,1. Generality uses all 76 countries.",
+      "event_count_note": "Mobility event counts; not unique researchers over the full study period.",
+      "country_annotation_rule": "12 inset codes: top ten by cumulative domestic events plus four cases. Eight additional main-scatter codes identify selected peripheral positions outside the zoom region; 20 unique labels total.",
+      "country_annotation_data": "outputs/paper_final/source_data/fig5_peripheral_labels_20261113/Fig5_country_labels.csv",
+      "country_annotation_sha256": "664199e346520c04c289a0ab4766a5f96913c0978ae977ca08d37909206db691"
+    },
+    {
+      "manuscript_figure": "Fig6",
+      "renderer": "outputs/figure6_equal_fits_20261112/plot_Fig6.py",
+      "rendered_pdf": "outputs/figure6_equal_fits_20261112/artwork/Fig6.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/Fig6.pdf",
+      "pdf_sha256": "8954fceaf4f4c7d2dbe4f6343c989663c75a0ba0b5536bb5c08f34cb7813db8d",
+      "artwork_matches_manuscript": true,
+      "panel_b": "International and domestic annual Gini changes on shared axes. International lines are dashed and domestic medians are solid.",
+      "panel_order": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "fit_range_pct_per_year": [
+        -0.1,
+        17.5
+      ]
+    }
+  ],
+  "python_code": [
+    {
+      "path": "figures/v3/figure_palette.py",
+      "sha256": "0d7d577409708e3a6db2baeab83eb4927a803ef0475ee94e664040ff08633845"
+    },
+    {
+      "path": "figures/v3/figure_style.py",
+      "sha256": "a334fd1f22653816a5f0876ff528a5b48b5b9732bb333f20456e5609b17312f7"
+    },
+    {
+      "path": "figures/v3/plot_fig2_period_histograms.py",
+      "sha256": "dee4aaa1e488b328bc1f653836d41fcc7426fd12856f2180ebf706f54dc05d89"
+    },
+    {
+      "path": "figures/v3/plot_fig2_quartile_growth.py",
+      "sha256": "48c200ef186b35ea8c1cc7383afda3adf2c950c44e02f1510f9f8f0afa9e4752"
+    },
+    {
+      "path": "figures/v3/prepare_fig6.py",
+      "sha256": "b4abf95ba3da974e93b706985ac38e01eacd53212f2b526d5aa120b6b7a213d7"
+    },
+    {
+      "path": "figures/v4/fig2_city_entry_clusters.py",
+      "sha256": "0681c90f93ce90b04c8060cb719794b0cdaa201669b2a988490041f2280832b5"
+    },
+    {
+      "path": "figures/v4/fig2_continents.py",
+      "sha256": "69083ecf1d40ecdeac569aab1c90e9211d96f18c416569e5e1271ab99b1bb348"
+    },
+    {
+      "path": "figures/v4/plot_fig2.py",
+      "sha256": "be41fd9ff5c01a7e337b7cd14ec73914dfacd11b6fa6e56d0730877df637c080"
+    },
+    {
+      "path": "figures/v4/plot_fig3.py",
+      "sha256": "5376c54e90ba2da8c3bd0015e0eb8aabf5515dcae32bf39502a9a450f07adebb"
+    },
+    {
+      "path": "outputs/fig1_equal_square_maps_20261103/prepare_map_data.py",
+      "sha256": "f6914084bec870135dea659a8716a2a6d630a4b61ce699e43aa36cbd59cc6aac"
+    },
+    {
+      "path": "outputs/fig1_shanghai_real_maps_20261103/prepare_map_data.py",
+      "sha256": "d25e4d088a46b131bb57e7d6224dc605916beada6c4dd3d0f94ab916937c7f83"
+    },
+    {
+      "path": "outputs/fig1_single_gravity_node_20261103/sync_and_check.py",
+      "sha256": "a94ec4494b25eb96f21f8006c38bb52ca5d4125b874a1c9b9529f590b7d51932"
+    },
+    {
+      "path": "outputs/fig1_surrounding_maps_20261103/prepare_context.py",
+      "sha256": "09927e4685acdc33d5844b4e498ab0fe368c9a4c8f9c3526f7c584080301e8b1"
+    },
+    {
+      "path": "outputs/results_caption_alignment_20261031/plot_sources/plot_Fig3.py",
+      "sha256": "e42b667c539e63c48f0675425830eac8fc509b234014eca8fc13a87cb0594fb3"
+    },
+    {
+      "path": "outputs/results_caption_alignment_20261031/plot_sources/plot_Fig5.py",
+      "sha256": "4ae865d871aac942b9e771c3f8c2e6a5ba8d1725a5f06349e88524c65d043aa8"
+    },
+    {
+      "path": "outputs/results_network_revision_20261030/plot_sources/plot_Fig2.py",
+      "sha256": "92c6ec06fb128bcd44e6b8529935b48c5ee47dc28efca95e0925c6260318cfa0"
+    },
+    {
+      "path": "outputs/results_network_revision_20261030/plot_sources/plot_Fig4.py",
+      "sha256": "ac5d3feeb456b59313ea468eb84b4cf782556722d9b20786c14d645008205de6"
+    },
+    {
+      "path": "scripts/plots/paper_figures/qa/audit_figure_collisions.py",
+      "sha256": "841ede7dcaefa3ab11576b5ba52375d1678a71f77d39f553d5464e81b0699283"
+    },
+    {
+      "path": "scripts/plots/paper_figures/qa/audit_panel_alignment.py",
+      "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76"
+    },
+    {
+      "path": "scripts/plots/paper_figures/qa/audit_pdf_text.py",
+      "sha256": "11b8f3ec50bc13e2bd8561eeb7cd204307f4ce5a70ac57fa24c809ce1b9c252c"
+    },
+    {
+      "path": "scripts/plots/paper_figures/qa/validate_figure.py",
+      "sha256": "c548e180d31fc1557cbfcd452ab78c7a969273a80b311068aa80acfe86ecfd90"
+    },
+    {
+      "path": "scripts/plots/paper_figures/verify_manifest.py",
+      "sha256": "63693eecd119a48f06b9ec58aae4fbe07b2bf4ce68df6b29c1ffb9dfab9a96ff"
+    },
+    {
+      "path": "scripts/plots/plot_fig1_framework_detailed.py",
+      "sha256": "4b92c5b46e759bbeab8a4b6259cfa8b4871a27ec0e7390ef64895304b8e9b15d"
+    },
+    {
+      "path": "scripts/plots/plot_split_mobility_expansion.py",
+      "sha256": "9e943ef9dce3b179f3aeded08c6d75ae38335102d1766ac578ef5a32b7013764"
+    },
+    {
+      "path": "scripts/reports/analyze_disciplinary_domains_20261022.py",
+      "sha256": "f6813ee41d9384378a7e4f626571b8138670f4ff9c113a61267f5a73f8e15f7f"
+    },
+    {
+      "path": "outputs/fig1_textwidth_20261104/plot_fig1_textwidth.py",
+      "sha256": "ed8535f4f815995b1cd3e75637dbb9328742747ab9e33324b9693e7c7a0ded0c"
+    },
+    {
+      "path": "outputs/fig1_restore_slight_narrow_20261104/plot_fig1_restored_narrow.py",
+      "sha256": "bc2099eb60ca76396e3b359c3a66b561f0ef3e41d6190116ef52fe03f732d020"
+    },
+    {
+      "path": "outputs/figure_revision_20261109/plot_Fig1.py",
+      "sha256": "2b8bb33c45f656d1e58e6e29ef37ac9d51db2809e71440efaeab69eadb8c2066"
+    },
+    {
+      "path": "outputs/figure_revision_20261109/plot_Fig2.py",
+      "sha256": "3cd4e067401d3ab6109b20243c9323d32e4d21f260189a22b476583cf564359f"
+    },
+    {
+      "path": "outputs/figure_revision_20261109/plot_Fig6.py",
+      "sha256": "8ce552228a18a05c8dfaa2912901c21377ef94c5b3e96d8a5599bb1c312a059e"
+    },
+    {
+      "path": "outputs/fig1_branch_discipline_20261109/plot_Fig1.py",
+      "sha256": "12689fe8b6715ad61f2654d0c182f847cb207f270a61c809894a37bb2942dc49"
+    },
+    {
+      "path": "outputs/fig1_T_groups_20261109/plot_Fig1.py",
+      "sha256": "ef43509650b7f871c67ef14309dcdf1340c77b67b499aef62916abe876bf643f"
+    },
+    {
+      "path": "outputs/fig1_histogram_fig2_labels_20261109/plot_Fig1.py",
+      "sha256": "f760dc1d90817760638abb0cd2155efcc8ad7fef7d0bfd9042503074e7cf4cd2"
+    },
+    {
+      "path": "outputs/fig1_histogram_fig2_labels_20261109/plot_Fig2.py",
+      "sha256": "121b460a07fd9f12a1587cb6b4357a854c3859b88b0fbbc87c56c0a29ad4d0ff"
+    },
+    {
+      "path": "outputs/figures_T_unified_20261109/plot_Fig1.py",
+      "sha256": "1f1bf3250bd25531e98027f66efce35bb0457107c2857372cb6d92f663970084"
+    },
+    {
+      "path": "outputs/figures_T_unified_20261109/plot_Fig2.py",
+      "sha256": "cf6c708a5d43d6ad02e76cbb34100479366a178b785229b09c54ef15a9f17ea5"
+    },
+    {
+      "path": "outputs/figures_T_unified_20261109/prepare_data.py",
+      "sha256": "f7d8323a51491fcffcf0c25149fa78d1d1c217b096d4a8f8df522866ab392e47"
+    },
+    {
+      "path": "outputs/figure_revision_20261111/plot_Fig1.py",
+      "sha256": "df3779054703981f68bca1f74b072e5b0d3ee724d88a3b4065c4153758e8ad45"
+    },
+    {
+      "path": "outputs/figure_revision_20261111/plot_Fig2.py",
+      "sha256": "a31ddd69a409a1680e0a07c0cfd6ecb1082d597ab13f5919cff144375e90e6d5"
+    },
+    {
+      "path": "outputs/figure_revision_20261111/plot_Fig3.py",
+      "sha256": "d582ed9b5823bdd3aa0ec76fe7132ac09c5269673dedc02d542e3f31674761b6"
+    },
+    {
+      "path": "outputs/figure_revision_20261111/plot_Fig4.py",
+      "sha256": "f9e4d8b5822f8d940356641520da8c790ed3711fd824c16882ef6006f1c5294e"
+    },
+    {
+      "path": "outputs/figure_panel_comparison_20261111/plot_Fig2.py",
+      "sha256": "cff430f498ca31867409fb851692eb506941da187c08410e5191de5b0914bf55"
+    },
+    {
+      "path": "outputs/figure_panel_comparison_20261111/plot_Fig4.py",
+      "sha256": "cc1d07c7d5a849ee9eeb7b22bd18437c552086399ccdebd9814f95bec3243ddc"
+    },
+    {
+      "path": "outputs/figure_panel_comparison_20261111/plot_FigS1.py",
+      "sha256": "d77c31e5b410e94f180ea4d5a31b7bcc2713e9f9aacc2d607b715e86b3a6fc5f"
+    },
+    {
+      "path": "outputs/figure_curves_fit_20261111/plot_Fig2.py",
+      "sha256": "32fbc3514d298e5280dbbbaaf0cb321d41b7111bac781585d40d8207297c3971"
+    },
+    {
+      "path": "outputs/figure_curves_fit_20261111/plot_Fig4.py",
+      "sha256": "1dbe2ca81b5849af7cf0614d9c710124f38f2b15c678569b907f173bd538b57e"
+    },
+    {
+      "path": "outputs/figure_curves_fit_20261111/plot_FigS2.py",
+      "sha256": "dbcf681e92b6c4bf2720b22149ff246104fdce701ab7bdd7b268ad80eec1a6ee"
+    },
+    {
+      "path": "outputs/figure_gini_palette_20261111/plot_Fig2.py",
+      "sha256": "61ba9b1ab8b99c4c6c446760d76804093be7fd07e15a3d0a93a8a9f7f2789d96"
+    },
+    {
+      "path": "outputs/figure_gini_palette_20261111/plot_Fig4.py",
+      "sha256": "b846e20e77c3395b8b9a6f2a4515d20e65da4b20ad9737b19a4415552b18851a"
+    },
+    {
+      "path": "outputs/figure_gini_palette_20261111/plot_FigS2.py",
+      "sha256": "9bec257e31936e26be5e01914ac427e4c0c46ee21b5863b5b2961db6e7d398c9"
+    },
+    {
+      "path": "outputs/figure_revision_20261112/plot_Fig6.py",
+      "sha256": "362c7f50d42e1ba4322ce8483789ea743d9980e99fe66d5ad20724066845f71c"
+    },
+    {
+      "path": "outputs/figure6_equal_fits_20261112/plot_Fig6.py",
+      "sha256": "ee8f50a7082ad89da9bf6851c1f7ca339bc9db001ed9372894e5d65c4bd6cb4d"
+    },
+    {
+      "path": "outputs/figure2_zhao_hhi_20261112/plot_Fig2.py",
+      "sha256": "26957bfc16af38313b0d2270b7764a6c52539a038e8310892d64762f657b19db"
+    },
+    {
+      "path": "outputs/figure2_zhao_hhi_20261112/prepare_comparison.py",
+      "sha256": "55b0461b02610e48b737af34a4801d96928d3d5b683d20443aef8ca2386d7749"
+    },
+    {
+      "path": "outputs/figure2_share_growth_20261112/plot_Fig2.py",
+      "sha256": "e2e73e5fd874532908502dd974f9e87ba965662b6f4b9ea9cce4e2c1fd5d0919"
+    },
+    {
+      "path": "outputs/figure2_share_growth_20261112/plot_FigS3.py",
+      "sha256": "d1b197c71f1967e39897fcceb6301c5e8b578153a165d7ac10f0de01bb14a79e"
+    },
+    {
+      "path": "outputs/figure2_joint_layout_20261112/plot_Fig2.py",
+      "sha256": "237c515d22890d7008fa1b21539c0a1bcaeac09bc13588a49e4e13899efa0b65"
+    }
+  ],
+  "dependencies": [
+    "audit_panel_alignment",
+    "duckdb",
+    "matplotlib",
+    "numpy",
+    "pymupdf",
+    "scipy",
+    "shapely"
+  ],
+  "generated_pdf_png_svg_in_git_commit": false,
+  "code_hash_normalization": "UTF-8 text with BOM removed and line endings normalized to LF",
+  "full_researcher_raw_data_in_git": false,
+  "figure1_map_resources_in_git": true,
+  "asset_hash_normalization": "None: raw bytes; .gitattributes disables newline conversion for these resources",
+  "asset_files": [
+    {
+      "path": "data/raw/fig1_shanghai_real_maps_20261103/shanghai_pudong.geojson",
+      "role": "render_input",
+      "bytes": 55737,
+      "sha256": "0fbf9a9e0e665a6bed5b02bd8facc4ee3467973540c0724ed72cc8be256432b0"
+    },
+    {
+      "path": "data/raw/fig1_shanghai_real_maps_20261103/shanghai_districts.geojson",
+      "role": "render_input",
+      "bytes": 132176,
+      "sha256": "0535c9c7614e16932454e89049025319fe2d5f71f86119b672a6a507fec9a805"
+    },
+    {
+      "path": "data/raw/fig1_shanghai_real_maps_20261103/manifest.json",
+      "role": "provenance",
+      "bytes": 2315,
+      "sha256": "11a3a2c040d0e5808a42f560c8b391b8d6f6710eaea449e55aff58df3b90715d"
+    },
+    {
+      "path": "data/raw/fig1_shanghai_real_maps_20261103/CHN_ADM1_metadata.json",
+      "role": "provenance",
+      "bytes": 1793,
+      "sha256": "b85b4cea60b4e4c56156c1818bd8c9d61fae68d0997fb02c7916816da789ad47"
+    },
+    {
+      "path": "data/raw/fig1_shanghai_real_maps_20261103/CHN_ADM3_metadata.json",
+      "role": "provenance",
+      "bytes": 1847,
+      "sha256": "8ec70880a59f34e802051622a6e5b3499f5a09f9e6e7e531b724297b3ad58725"
+    },
+    {
+      "path": "data/raw/fig1_square_maps_20261103/china_provinces.geojson",
+      "role": "render_input",
+      "bytes": 263343,
+      "sha256": "bc4afc7eacf4351ae5b3ae7a612327987ce1123cb5deb8574fb49107091c6623"
+    },
+    {
+      "path": "data/raw/fig1_square_maps_20261103/candidate_cities.geojson",
+      "role": "render_input",
+      "bytes": 2415,
+      "sha256": "9dc27c1306257f6ac99acfb6b29f801bf89f5fc7a50dda7d6fe3c4524f155032"
+    },
+    {
+      "path": "data/raw/fig1_square_maps_20261103/manifest.json",
+      "role": "provenance",
+      "bytes": 1198,
+      "sha256": "ba806547840ac5e7bce68df95bca2500369f71fbb40f699e6f853546a3393957"
+    },
+    {
+      "path": "data/raw/fig1_map_context_20261103/national_context.geojson",
+      "role": "render_input",
+      "bytes": 36555,
+      "sha256": "16becafb2e206e025d14c93edf71df4b698021a69ad4b15b9244e146cf11ff73"
+    },
+    {
+      "path": "data/raw/fig1_map_context_20261103/city_context.geojson",
+      "role": "render_input",
+      "bytes": 486137,
+      "sha256": "8641d18a2217f2d64dc607fef067ae0ea71bd3d2268372bbe220c78406a104ec"
+    },
+    {
+      "path": "data/raw/fig1_map_context_20261103/manifest.json",
+      "role": "render_input_and_provenance",
+      "bytes": 1493,
+      "sha256": "9986ee594ca71cc7b61b7a56ce9b59823fd8b6b20fc7d376373ef0ddc9946f8f"
+    }
+  ],
+  "asset_attribution_file": "scripts/plots/paper_figures/FIG1_MAP_ASSETS.md",
+  "figure1_resource_verification": {
+    "date": "2026-11-03",
+    "isolated_redraw_from_git_staging": "PASS",
+    "only_staged_map_files_and_repository_code_used": true,
+    "drawing_geometry_text_and_colors_match_manuscript": true,
+    "pdf_font_floor_pt": 7,
+    "collision_audit": "PASS",
+    "scope": "Historical map-resource check before subsequent layout and typography revisions"
+  },
+  "figure1_current_layout_verification": {
+    "date": "2026-11-11",
+    "data_labels": [
+      "Fields",
+      "Extracted Data"
+    ],
+    "module_backgrounds": "White",
+    "label_style": "Initial capital for every displayed word; BRIDGE and LLM retained",
+    "map_captions": [
+      "Primary Affiliation Selection",
+      "City Merging"
+    ],
+    "selected_city_color": "Green",
+    "other_candidate_city_color": "Red",
+    "summary_overall_titles_removed": true,
+    "individual_summary_labels": [
+      "Country Coverage",
+      "City Coverage",
+      "Flow Shares"
+    ],
+    "model_icon": "Vector globe, latitude/longitude mesh and orange arced connection",
+    "output_sources": [
+      "Gravity Model"
+    ],
+    "summary_output_connectors": false,
+    "output_size_mm": [
+      2.311688311688312,
+      2.311688311688312
+    ],
+    "native_size_mm": [
+      164.9004329004329,
+      81.67965367965368
+    ],
+    "pdf_font_floor_pt": 7,
+    "collision_audit": "PASS",
+    "reports": "outputs/figure_revision_20261111/QA/Fig1",
+    "caption_revision": "One common T1--T4 grouping across Figs1--5",
+    "native_width_mm": 164.9004329004329,
+    "font_family": "Arial",
+    "uniform_text_pt": 7,
+    "labels_below_graphics": true,
+    "output_gap_mm": 3.8528138528138527,
+    "source_entity_arrows_displayed": false,
+    "module_titles_position": "At the top inside their respective frames",
+    "graphic_captions_position": "Below their corresponding graphics",
+    "processing_heading": "LLM",
+    "llm_scope": "City identity resolution and merging only",
+    "primary_affiliation_selection": "Deterministic distinct-publication-count rule",
+    "outer_borders": "One dashed BRIDGE frame containing the dashed Data card and all processing/analysis stages",
+    "standalone_discipline_module": false,
+    "domains_per_analysis_branch": 4,
+    "feature_input_rows": 2,
+    "country_typology": "Unified sign-anchored T1--T4",
+    "trajectory_group_sizes": [
+      15,
+      14,
+      24,
+      23
+    ],
+    "trajectory_module_location": "Between resized international and domestic networks",
+    "typography_native_size_pt": 7.0,
+    "histogram_country_count": 76,
+    "histogram_bins": 22,
+    "network_panel_height_design_units": 28,
+    "group_cuts_pct_per_year": [
+      -1.306275622469295,
+      0.0,
+      3.309193363508075
+    ],
+    "bridge_contains_data": true
+  },
+  "typography_unification": {
+    "date": "2026-11-04",
+    "figures": "Fig1–6",
+    "native_width_mm": 180,
+    "requested_font_family": "Graphik Naturel",
+    "font_family": "Arial",
+    "font_status": "Pending: no complete Graphik Naturel font was installed or located through an official public download route. Current previews retain Arial.",
+    "uniform_text_pt": 7,
+    "panel_letters_pt": 7,
+    "math_script_pt": 7,
+    "scientific_values_and_samples_unchanged": true,
+    "qa_directory": "outputs/figure_uniform_type_20261104",
+    "font_configuration": "NHB_FONT_FAMILY; optional local OTF/TTF directory via NHB_FONT_DIRECTORY; missing requested families fail explicitly.",
+    "native_width_exceptions_mm": {
+      "Fig1": 164.9004329004329
+    }
+  },
+  "display_capitalization": {
+    "date": "2026-11-04",
+    "style": "Every display word begins with an uppercase letter",
+    "preserve": [
+      "acronyms",
+      "math symbols",
+      "standard unit tokens",
+      "lowercase panel identifiers"
+    ],
+    "scientific_values_and_dimensions_unchanged": true
+  },
+  "supplementary_figures": [
+    {
+      "manuscript_figure": "FigS1",
+      "renderer": "outputs/figure_panel_comparison_20261111/plot_FigS1.py",
+      "rendered_pdf": "outputs/figure_panel_comparison_20261111/artwork/FigS1.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/FigS1.pdf",
+      "pdf_sha256": "9c5da4ba9334992f5ecacb1960aef1ab5dabaa1ec5a3751e093c4889802ddb62",
+      "artwork_matches_manuscript": true,
+      "panels": "Former international and domestic destination coverage curves; all vertices retained; neutral year line encodings"
+    },
+    {
+      "manuscript_figure": "FigS2",
+      "renderer": "outputs/figure_gini_palette_20261111/plot_FigS2.py",
+      "rendered_pdf": "outputs/figure_gini_palette_20261111/artwork/FigS2.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/FigS2.pdf",
+      "pdf_sha256": "640680b9040dbaf9f41c59cfb1548eaf0022aa3b064795fe3b39fafc087a1f79",
+      "artwork_matches_manuscript": true,
+      "native_width_mm": 89,
+      "panels": "Annual HHI comparison with Yenilmez (2026); same 147 countries over 1998–2023, source-specific 1998=100; red BRIDGE, blue Scopus"
+    },
+    {
+      "manuscript_figure": "FigS3",
+      "renderer": "outputs/figure2_share_growth_20261112/plot_FigS3.py",
+      "rendered_pdf": "outputs/figure2_share_growth_20261112/artwork/FigS3.pdf",
+      "manuscript_pdf": "outputs/paper_final/figures/FigS3.pdf",
+      "pdf_sha256": "a69991dafdaacd1020d7f432900cc3ac8ae63d47b395f7b036c1d180c7eec5da",
+      "artwork_matches_manuscript": true,
+      "native_width_mm": 89,
+      "panels": "Former Fig2b: the same 181 countries in four matched five-year periods, each source indexed to its own first-period HHI. Red BRIDGE, blue Zhao (2023).",
+      "source_data": "outputs/paper_final/source_data/figure2_zhao_hhi_20261112/period_HHI_comparison.csv",
+      "data_preparation": "outputs/figure2_zhao_hhi_20261112/prepare_comparison.py"
+    }
+  ],
+  "panel_revision_20261111": {
+    "contract": "outputs/figure_gini_palette_20261111/revision_contract.json",
+    "QA": "outputs/figure_gini_palette_20261111/QA",
+    "source_data": {
+      "outputs/paper_final/source_data/figure_gini_palette_20261111/annual_comparison.csv": "9c360b14fde99fa1c722d5ed544a9310ea84e3562e0aea3bc94360df44c0309e",
+      "outputs/paper_final/source_data/figure_gini_palette_20261111/coverage_curves.csv": "3476b910e53473f97f8d26b5c353ae079044b470805d96104b8b5b37956dab9a",
+      "outputs/paper_final/source_data/figure_gini_palette_20261111/entrant_2025.csv": "367c09456ed0d55dde001f81bd66183e0c04ad8d0ed1728f176dfc4c9e34de01",
+      "outputs/paper_final/source_data/figure_gini_palette_20261111/international_comparison.csv": "17b7f3d37547b67643c14cc9995a24e1e67a11b944e2be73e1b49c685445a836",
+      "outputs/paper_final/source_data/figure_gini_palette_20261111/trajectory_membership.csv": "078b64eef0852ba95346cbb8920a05a1c53f68b3bbd90ea6938815904a9294b3"
+    },
+    "unchanged_main_figures": [
+      "Fig1",
+      "Fig3",
+      "Fig5",
+      "Fig6"
+    ],
+    "unchanged_supplementary": [
+      "FigS1"
+    ]
+  },
+  "main_figure_mark_style": {
+    "scope": "Fig2–6",
+    "source": "figures/v3/figure_style.py",
+    "axis_linewidth_pt": 0.6,
+    "annual_linewidth_pt": 2.0,
+    "annual_marker_diameter_pt": 4.0,
+    "country_scatter_area_pt2": 22.0,
+    "country_scatter_edgewidth_pt": 0.45,
+    "distribution_point_area_pt2": 8.0,
+    "distribution_linewidth_pt": 1.2,
+    "fit_linewidth_pt": 1.3,
+    "reference_linewidth_pt": 0.6
+  },
+  "repository_cleanup": {
+    "date": "2026-11-18",
+    "portable_source_files": [
+      "figures/v3/plot_fig2_period_histograms.py",
+      "figures/v3/plot_fig5.py",
+      "figures/v4/plot_fig3.py",
+      "figures/v4/plot_fig6.py",
+      "materials/methods_verification_20261104/03_models/original/plot_network_fig6_20261030.py",
+      "materials/methods_verification_20261104/04_geographic_cleaning/original/recalculate_manuscript_fig2_6_20261023.py",
+      "materials/methods_verification_20261104/05_samples_groups/original/plot_fig3.py",
+      "materials/methods_verification_20261104/06_data_enhancement_and_gravity/original/plot_fig1_framework_detailed.py",
+      "materials/methods_verification_20261104/06_data_enhancement_and_gravity/original/plot_network_fig6_20261030.py",
+      "outputs/fig1_branch_discipline_20261109/plot_Fig1.py",
+      "outputs/fig1_histogram_fig2_labels_20261109/plot_Fig1.py",
+      "outputs/fig1_histogram_fig2_labels_20261109/plot_Fig2.py",
+      "outputs/fig1_restore_slight_narrow_20261104/plot_fig1_restored_narrow.py",
+      "outputs/fig1_textwidth_20261104/plot_fig1_textwidth.py",
+      "outputs/fig1_T_groups_20261109/plot_Fig1.py",
+      "outputs/figure2_joint_layout_20261112/plot_Fig2.py",
+      "outputs/figure2_share_growth_20261112/plot_Fig2.py",
+      "outputs/figure2_zhao_hhi_20261112/plot_Fig2.py",
+      "outputs/figure6_equal_fits_20261112/plot_Fig6.py",
+      "outputs/figures_T_unified_20261109/plot_Fig1.py",
+      "outputs/figures_T_unified_20261109/plot_Fig2.py",
+      "outputs/figure_curves_fit_20261111/plot_Fig2.py",
+      "outputs/figure_curves_fit_20261111/plot_Fig4.py",
+      "outputs/figure_curves_fit_20261111/plot_FigS2.py",
+      "outputs/figure_gini_palette_20261111/plot_Fig2.py",
+      "outputs/figure_gini_palette_20261111/plot_Fig4.py",
+      "outputs/figure_gini_palette_20261111/plot_FigS2.py",
+      "outputs/figure_panel_comparison_20261111/plot_Fig2.py",
+      "outputs/figure_panel_comparison_20261111/plot_Fig4.py",
+      "outputs/figure_panel_comparison_20261111/plot_FigS1.py",
+      "outputs/figure_revision_20261109/plot_Fig1.py",
+      "outputs/figure_revision_20261109/plot_Fig2.py",
+      "outputs/figure_revision_20261109/plot_Fig6.py",
+      "outputs/figure_revision_20261111/plot_Fig1.py",
+      "outputs/figure_revision_20261111/plot_Fig2.py",
+      "outputs/figure_revision_20261111/plot_Fig3.py",
+      "outputs/figure_revision_20261111/plot_Fig4.py",
+      "outputs/figure_revision_20261112/plot_Fig6.py",
+      "outputs/results_caption_alignment_20261031/plot_sources/plot_Fig3.py",
+      "outputs/results_caption_alignment_20261031/plot_sources/plot_Fig5.py",
+      "outputs/results_network_revision_20261030/plot_sources/plot_Fig2.py",
+      "outputs/results_network_revision_20261030/plot_sources/plot_Fig4.py",
+      "scripts/plots/plot_fig1_framework_detailed.py",
+      "scripts/plots/plot_network_fig6_20261030.py",
+      "scripts/plots/plot_split_mobility_expansion.py",
+      "scripts/reports/recalculate_manuscript_fig2_6_20261023.py"
+    ]
+  }
+}

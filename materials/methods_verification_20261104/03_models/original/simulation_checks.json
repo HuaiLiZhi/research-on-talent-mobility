@@ -1,0 +1,1066 @@
+[
+  {
+    "country": "CN",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 351,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CN",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 355,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "US",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 3683,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "US",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 3704,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "JP",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 488,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "JP",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 487,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "FR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 521,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "FR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 526,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IN",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 434,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IN",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 448,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 807,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 803,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GB",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 812,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GB",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 817,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 254,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 255,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IT",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 350,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IT",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 356,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "KR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 77,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "KR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 79,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ES",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 211,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ES",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 216,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ID",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 161,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ID",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 167,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RU",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 193,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RU",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 194,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CA",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 229,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CA",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 234,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 105,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 105,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 120,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 119,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AU",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 80,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AU",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 85,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NL",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 183,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NL",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 185,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PL",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 178,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PL",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 188,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 56,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 54,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MX",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 137,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MX",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 143,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 113,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 121,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CH",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 218,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CH",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 217,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PK",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 51,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PK",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 52,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PT",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 106,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PT",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 110,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DK",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 71,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DK",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 71,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IL",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 58,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IL",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 58,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MY",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 40,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MY",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 41,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "EG",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 26,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "EG",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 27,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NG",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 101,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NG",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 110,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 114,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 116,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 60,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 62,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "FI",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 48,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "FI",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 48,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ZA",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 57,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "ZA",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 60,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "UA",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 58,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "UA",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 59,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CZ",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 211,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CZ",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 213,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NO",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 156,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NO",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 164,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CO",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 49,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CO",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 49,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "HU",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 47,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "HU",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 49,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AT",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 85,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AT",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 85,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 61,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 66,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "VN",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 35,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "VN",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 36,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TH",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 58,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TH",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 58,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BD",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 22,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BD",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 24,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SA",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 26,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SA",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 26,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CL",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 27,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CL",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 27,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TN",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TN",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 17,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MA",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MA",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RO",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 37,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RO",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 36,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NZ",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 29,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "NZ",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 28,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DZ",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 50,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "DZ",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 53,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RS",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "RS",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 15,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "HR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 27,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "HR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 26,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SK",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 45,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SK",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 47,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PH",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 100,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PH",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 108,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GH",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 23,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "GH",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 23,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "KE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 35,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "KE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 35,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BG",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 21,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BG",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 21,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SI",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 53,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "SI",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 53,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "LK",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 27,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "LK",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 29,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CU",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CU",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CM",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 10,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CM",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 12,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "JO",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "JO",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TZ",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 17,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "TZ",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "VE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 25,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "VE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 23,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 7,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 7,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "UG",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 32,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "UG",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 36,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "LT",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 8,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "LT",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 8,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "EE",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 7,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "EE",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 7,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "PR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CR",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 13,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "CR",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 14,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BY",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 12,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "BY",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 13,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MW",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 9,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MW",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 9,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IS",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 8,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "IS",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 8,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AM",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 5,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "AM",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 5,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MT",
+    "p": 5,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 18,
+    "unmodeled_edges_held_observed": true
+  },
+  {
+    "country": "MT",
+    "p": 6,
+    "total_strength_preserved": true,
+    "common_opportunity_pool": 16,
+    "unmodeled_edges_held_observed": true
+  }
+]

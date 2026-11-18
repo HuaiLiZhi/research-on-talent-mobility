@@ -1,0 +1,208 @@
+﻿source_country,iso2,matched_unit,iso_code_repaired
+Afghanistan,AF,AF,False
+Albania,AL,AL,False
+Algeria,DZ,DZ,False
+Angola,AO,AO,False
+Antigua and Barbuda,AG,AG,False
+Argentina,AR,AR,False
+Armenia,AM,AM,False
+Aruba,AW,AW,False
+Australia,AU,AU,False
+Austria,AT,AT,False
+Azerbaijan,AZ,AZ,False
+Bahamas,BS,BS,False
+Bahrain,BH,BH,False
+Bangladesh,BD,BD,False
+Barbados,BB,BB,False
+Belarus,BY,BY,False
+Belgium,BE,BE,False
+Belize,BZ,BZ,False
+Benin,BJ,BJ,False
+Bermuda,BM,BM,False
+Bhutan,BT,BT,False
+Bolivia,BO,BO,False
+"Bonaire, Saint Eustatius and Saba",BQ,BQ,True
+Bosnia and Herzegovina,BA,BA,False
+Botswana,BW,BW,False
+Brazil,BR,BR,False
+Brunei,BN,BN,False
+Bulgaria,BG,BG,False
+Burkina Faso,BF,BF,False
+Burundi,BI,BI,False
+Cabo Verde,CV,CV,False
+Cambodia,KH,KH,False
+Cameroon,CM,CM,False
+Canada,CA,CA,False
+Cayman Islands,KY,KY,False
+Central African Republic,CF,CF,False
+Chad,TD,TD,False
+Chile,CL,CL,False
+China,CN,CN,False
+Colombia,CO,CO,False
+Costa Rica,CR,CR,False
+Croatia,HR,HR,False
+Cuba,CU,CU,False
+Curacao,CW,CW,True
+Cyprus,CY,CY,False
+Czechia,CZ,CZ,False
+Democratic Republic of the Congo,CD,CD,False
+Denmark,DK,DK,False
+Djibouti,DJ,DJ,False
+Dominican Republic,DO,DO,False
+Ecuador,EC,EC,False
+Egypt,EG,EG,False
+El Salvador,SV,SV,False
+Eritrea,ER,ER,False
+Estonia,EE,EE,False
+Eswatini,SZ,SZ,False
+Ethiopia,ET,ET,False
+Faroe Islands,FO,FO,False
+Fiji,FJ,FJ,False
+Finland,FI,FI,False
+France,FR,FR,False
+French Guiana,GF,GF,False
+French Polynesia,PF,PF,False
+Gabon,GA,GA,False
+Gambia,GM,GM,False
+Georgia,GE,GE,False
+Germany,DE,DE,False
+Ghana,GH,GH,False
+Gibraltar,GI,GI,False
+Greece,GR,GR,False
+Greenland,GL,GL,False
+Grenada,GD,GD,False
+Guadeloupe,GP,GP,False
+Guatemala,GT,GT,False
+Guinea,GN,GN,False
+Guinea-Bissau,GW,GW,False
+Guyana,GY,GY,False
+Haiti,HT,HT,False
+Honduras,HN,HN,False
+Hungary,HU,HU,False
+Iceland,IS,IS,False
+India,IN,IN,False
+Indonesia,ID,ID,False
+Iran,IR,IR,False
+Iraq,IQ,IQ,False
+Ireland,IE,IE,False
+Isle of Man,IM,IM,False
+Israel,IL,IL,False
+Italy,IT,IT,False
+Ivory Coast,CI,CI,False
+Jamaica,JM,JM,False
+Japan,JP,JP,False
+Jersey,JE,JE,False
+Jordan,JO,JO,False
+Kazakhstan,KZ,KZ,False
+Kenya,KE,KE,False
+Kosovo,XK,XK,True
+Kuwait,KW,KW,False
+Kyrgyzstan,KG,KG,False
+Laos,LA,LA,False
+Latvia,LV,LV,False
+Lebanon,LB,LB,False
+Lesotho,LS,LS,False
+Liberia,LR,LR,False
+Libya,LY,LY,False
+Liechtenstein,LI,LI,False
+Lithuania,LT,LT,False
+Luxembourg,LU,LU,False
+Madagascar,MG,MG,False
+Malawi,MW,MW,False
+Malaysia,MY,MY,False
+Maldives,MV,MV,False
+Mali,ML,ML,False
+Malta,MT,MT,False
+Martinique,MQ,MQ,False
+Mauritania,MR,MR,False
+Mauritius,MU,MU,False
+Mexico,MX,MX,False
+Micronesia,FM,FM,False
+Moldova,MD,MD,False
+Monaco,MC,MC,False
+Mongolia,MN,MN,False
+Montenegro,ME,ME,False
+Montserrat,MS,MS,False
+Morocco,MA,MA,False
+Mozambique,MZ,MZ,False
+Myanmar,MM,MM,False
+Namibia,NA,NA,True
+Nepal,NP,NP,False
+Netherlands,NL,NL,False
+New Caledonia,NC,NC,False
+New Zealand,NZ,NZ,False
+Nicaragua,NI,NI,False
+Niger,NE,NE,False
+Nigeria,NG,NG,False
+North Korea,KP,KP,False
+North Macedonia,MK,MK,False
+Norway,NO,NO,False
+Oman,OM,OM,False
+Pakistan,PK,PK,False
+Palau,PW,PW,False
+Palestinian Territory,PS,PS,True
+Panama,PA,PA,False
+Papua New Guinea,PG,PG,False
+Paraguay,PY,PY,False
+Peru,PE,PE,False
+Philippines,PH,PH,False
+Poland,PL,PL,False
+Portugal,PT,PT,False
+Qatar,QA,QA,False
+Republic of the Congo,CG,CG,False
+Reunion,RE,RE,True
+Romania,RO,RO,False
+Russia,RU,RU,False
+Rwanda,RW,RW,False
+Saint Kitts and Nevis,KN,KN,False
+Saint Lucia,LC,LC,False
+Saint Vincent and the Grenadines,VC,VC,False
+Samoa,WS,WS,False
+San Marino,SM,SM,False
+Sao Tome and Principe,ST,ST,False
+Saudi Arabia,SA,SA,False
+Senegal,SN,SN,False
+Serbia,RS,RS,False
+Seychelles,SC,SC,False
+Sierra Leone,SL,SL,False
+Singapore,SG,SG,False
+Sint Maarten,SX,SX,True
+Slovakia,SK,SK,False
+Slovenia,SI,SI,False
+Solomon Islands,SB,SB,False
+Somalia,SO,SO,False
+South Africa,ZA,ZA,False
+South Korea,KR,KR,False
+South Sudan,SS,SS,False
+Spain,ES,ES,False
+Sri Lanka,LK,LK,False
+Sudan,SD,SD,False
+Suriname,SR,SR,False
+Svalbard and Jan Mayen,SJ,SJ,False
+Sweden,SE,SE,False
+Switzerland,CH,CH,False
+Syria,SY,SY,False
+Taiwan,TW,CN,False
+Tajikistan,TJ,TJ,False
+Tanzania,TZ,TZ,False
+Thailand,TH,TH,False
+Timor Leste,TL,TL,True
+Togo,TG,TG,False
+Trinidad and Tobago,TT,TT,False
+Tunisia,TN,TN,False
+Turkey,TR,TR,False
+Turkmenistan,TM,TM,False
+Tuvalu,TV,TV,False
+Uganda,UG,UG,False
+Ukraine,UA,UA,False
+United Arab Emirates,AE,AE,False
+United Kingdom,GB,GB,False
+United States,US,US,False
+Uruguay,UY,UY,False
+Uzbekistan,UZ,UZ,False
+Vatican,VA,VA,True
+Venezuela,VE,VE,False
+Vietnam,VN,VN,False
+Yemen,YE,YE,False
+Zambia,ZM,ZM,False
+Zimbabwe,ZW,ZW,False

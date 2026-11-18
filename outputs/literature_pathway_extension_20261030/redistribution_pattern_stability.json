@@ -1,0 +1,16 @@
+[
+  {
+    "minimum_records": 100,
+    "countries": 52,
+    "same_pattern": 23,
+    "same_fraction": 0.4423076923076923,
+    "ARI": 0.05309645075067487
+  },
+  {
+    "minimum_records": 500,
+    "countries": 28,
+    "same_pattern": 16,
+    "same_fraction": 0.5714285714285714,
+    "ARI": 0.11443907357433053
+  }
+]

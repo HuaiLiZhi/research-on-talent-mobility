@@ -1,0 +1,3 @@
+﻿metric,countries,years,x_transform,y_transform,pearson_r,spearman_r,p_two_sided,slope,intercept,r_squared,bootstrap_replicates,method,p_holm_two_fits
+HHI,76,28,log10,log10,-0.8060788925720559,-0.8156937799043061,1.577019808771524e-18,-0.38261111604690595,0.517348374322481,0.649763181050192,5000,OLS of transformed country means; paired-country bootstrap pointwise 95% confidence interval,1.577019808771524e-18
+Gini,76,28,log10,logit,0.8537555469301921,0.8817498291182501,1.1436728664118633e-22,0.9995881628308995,-2.673469662260456,0.7288985339140713,5000,OLS of transformed country means; paired-country bootstrap pointwise 95% confidence interval,2.2873457328237267e-22

@@ -1,0 +1,98 @@
+[
+  {
+    "p": 1,
+    "international_nodes": 13664,
+    "directed_links": 272407,
+    "previous_international_events": 672110.0,
+    "PageRank_in": {
+      "iterations": 32,
+      "L1_error": 9.510798757979364e-13,
+      "sum": 0.9999999999999998
+    },
+    "PageRank_out": {
+      "iterations": 32,
+      "L1_error": 7.660652778904327e-13,
+      "sum": 0.9999999999999998
+    }
+  },
+  {
+    "p": 2,
+    "international_nodes": 13664,
+    "directed_links": 354806,
+    "previous_international_events": 929836.0,
+    "PageRank_in": {
+      "iterations": 32,
+      "L1_error": 7.162654902515258e-13,
+      "sum": 0.9999999999999996
+    },
+    "PageRank_out": {
+      "iterations": 52,
+      "L1_error": 8.052990884538629e-13,
+      "sum": 0.9999999999999998
+    }
+  },
+  {
+    "p": 3,
+    "international_nodes": 13664,
+    "directed_links": 443150,
+    "previous_international_events": 1227265.0,
+    "PageRank_in": {
+      "iterations": 32,
+      "L1_error": 4.726296089251677e-13,
+      "sum": 0.9999999999999999
+    },
+    "PageRank_out": {
+      "iterations": 40,
+      "L1_error": 7.464832347907607e-13,
+      "sum": 0.9999999999999998
+    }
+  },
+  {
+    "p": 4,
+    "international_nodes": 13664,
+    "directed_links": 543680,
+    "previous_international_events": 1569565.0,
+    "PageRank_in": {
+      "iterations": 32,
+      "L1_error": 6.957140789300934e-13,
+      "sum": 0.9999999999999999
+    },
+    "PageRank_out": {
+      "iterations": 101,
+      "L1_error": 8.657347723499105e-13,
+      "sum": 1.0
+    }
+  },
+  {
+    "p": 5,
+    "international_nodes": 13664,
+    "directed_links": 653507,
+    "previous_international_events": 1904270.0,
+    "PageRank_in": {
+      "iterations": 94,
+      "L1_error": 9.744172021998107e-13,
+      "sum": 0.9999999999999998
+    },
+    "PageRank_out": {
+      "iterations": 40,
+      "L1_error": 8.358321020441976e-13,
+      "sum": 0.9999999999999998
+    }
+  },
+  {
+    "p": 6,
+    "international_nodes": 13664,
+    "directed_links": 771168,
+    "previous_international_events": 2267411.0,
+    "PageRank_in": {
+      "iterations": 35,
+      "L1_error": 5.868385628376689e-13,
+      "sum": 0.9999999999999996
+    },
+    "PageRank_out": {
+      "iterations": 42,
+      "L1_error": 8.217838962895933e-13,
+      "sum": 1.0000000000000002
+    }
+  }
+]

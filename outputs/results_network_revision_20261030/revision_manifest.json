@@ -1,0 +1,27 @@
+{
+  "old_results_words_excluding_figures": 2067,
+  "new_results_words_excluding_figures": 2235,
+  "section_order": [
+    "Growth and geographic expansion of researcher mobility",
+    "Deconcentration of international mobility across countries",
+    "Domestic city coverage expanded alongside persistent flow disparities",
+    "Coexisting national deconcentration and domestic urban concentration across domains",
+    "International connectivity informed domestic flow allocation"
+  ],
+  "new_fifth_paragraphs": 4,
+  "groups": {
+    "T1": 15,
+    "T2": 14,
+    "T3": 24,
+    "T4": 23
+  },
+  "new_analyses": [
+    "100 constrained foreign-city rematches",
+    "200 finite-event draws per model/country/period"
+  ],
+  "material_boundaries": [
+    "Specific foreign-city rematching retains or improves gains.",
+    "No increase in domestic concentration from international term.",
+    "Equal-recorded-volume sensitivity changes domestic classification."
+  ]
+}

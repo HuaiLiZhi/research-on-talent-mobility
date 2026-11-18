@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-18",
+  "baseline_commit": "59b0ba21d916de3cb05b7893f0aae8992b9bbfe3",
+  "python_ast_parse": {
+    "status": "PASS",
+    "files": 181
+  },
+  "openalex_source_hashes": {
+    "status": "PASS",
+    "files": 25,
+    "manifest": "preprocessing/openalex/provenance.json"
+  },
+  "figure_inventory": {
+    "status": "PASS",
+    "main_figures": 6,
+    "supplementary_figures": 3,
+    "declared_python_files": 57,
+    "map_assets": 11
+  },
+  "figure_smoke_runs": {
+    "status": "PASS",
+    "figures": [
+      "Fig1",
+      "Fig2",
+      "Fig3",
+      "Fig4",
+      "Fig5",
+      "Fig6"
+    ],
+    "inputs": "Repository aggregate tables plus the locally supplied external flow_top100.parquet. The full parquet is excluded from git.",
+    "Fig5": {
+      "countries": 76,
+      "above_equality": 69,
+      "initial_decline_all_rise": 38,
+      "selected": [
+        "CA",
+        "PL",
+        "BR",
+        "IN"
+      ]
+    }
+  },
+  "canonical_artwork": "Original submitted exports restored after smoke runs; verify_manifest.py --check-artwork validates their SHA-256.",
+  "credentials_scan": "No literal password/API-token assignments found. Environment files and databases are excluded.",
+  "large_inputs": "data/EXTERNAL_INPUTS.json",
+  "history": "Normal cleanup commit; earlier commits remain available.",
+  "local_workspace": "Prepared in an isolated checkout; original working files retained."
+}

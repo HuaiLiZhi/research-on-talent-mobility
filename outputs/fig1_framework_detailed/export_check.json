@@ -1,0 +1,34 @@
+{
+  "pages": 1,
+  "dimensions_mm": [
+    180.0,
+    82.0
+  ],
+  "previous_dimensions_mm": [
+    180.0,
+    104.0
+  ],
+  "height_reduction_percent": 21.15,
+  "font_sizes_unchanged": true,
+  "fonts": [
+    [
+      15,
+      "ttf",
+      "Type0",
+      "EGIPVI+ArialMT",
+      "F2",
+      "Identity-H"
+    ],
+    [
+      22,
+      "ttf",
+      "Type0",
+      "DMHJCM+Arial-BoldMT",
+      "F1",
+      "Identity-H"
+    ]
+  ],
+  "reference_model_absent": true,
+  "compare_label_absent": true,
+  "output": "Reconstructed domestic flows"
+}

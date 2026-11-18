@@ -1,0 +1,8 @@
+﻿country,child_geonameid,child_name,parent_geonameid,max_distance_km,evidence_url,note
+CA,5950267,Etobicoke,6167865,40,https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-in-the-archives/research-by-topic/resources-on-former-municipalities/,1998 amalgamation; fixed contemporary city geography
+CA,5950268,Etobicoke,6167865,40,https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-in-the-archives/research-by-topic/resources-on-former-municipalities/,1998 amalgamation; fixed contemporary city geography
+CA,6091104,North York,6167865,40,https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-in-the-archives/research-by-topic/resources-on-former-municipalities/,1998 amalgamation; fixed contemporary city geography
+CA,6948711,Scarborough,6167865,40,https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-in-the-archives/research-by-topic/resources-on-former-municipalities/,1998 amalgamation; fixed contemporary city geography
+AU,2151932,Redfern,2147714,20,https://www.cityofsydney.nsw.gov.au/areas-of-service,Redfern is a Sydney suburb
+DE,7289614,Halle-Neustadt,2911522,20,https://halle.de/leben-in-halle/stadtentwicklung/stadtteile-und-stadtviertel/neustadt,Halle-Neustadt merged into Halle in 1990
+JP,1863905,Funabashi,11611630,15,https://www.city.funabashi.lg.jp/shisetsu/shiyakusho/shiyakusho/index.html,Honcho node under Funabashi city; city seat matches administrative code

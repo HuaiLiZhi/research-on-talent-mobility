@@ -1,0 +1,7 @@
+# Fig2 v3 国家增长趋势与T1–T4聚集
+
+每国完整28年记录概括为一个点，每图76点、每组19点；相同国家的早期基准点不再反复覆盖。每项指标以log(年度数量)对年份OLS拟合，斜率转换为年增长率100*(exp(b)-1)。e比较跨国流动量与国际伙伴国家数，f比较国内事件数与有流量城市数；流入流出合并。四组与Fig3–5一致。浅色区域和同色虚线椭圆以组内增长率的逐维中位数为中心，用全19国样本协方差决定形状，半径取协方差标准化距离第13小的数值，描述组内中心13国。它们不是置信区间，全部散点均保留。灰线与色带为76个国家间增长率关系的OLS拟合及HC3稳健95%置信区间，74自由度t临界值。两图均为线性百分比坐标，未移动点、加入抖动或重新分组。边框与a–d一致，仅显示左、下黑色坐标轴，线宽0.6pt；刻度长2.4pt、宽0.55pt、间隔2.5pt。网格沿用共享浅灰样式和主刻度间的中间网格线。主绘图区仍高95pt，仅更新v3。
+
+## Figure legend
+
+\textbar\ \textbf{Expansion in recorded researcher mobility and geographic coverage.} \textbf{a,c,} Annual international (a) and domestic intercity (c) mobility events. Red curves show observed totals; blue curves hold mean events per recorded route at its initial-year level. \textbf{b,d,} Percentages of destination countries (b) and domestic destination cities (d) connected to at least the indicated number of sources. Domestic percentages give equal weight to 76 countries. Colours distinguish 1998, 2007, 2016 and 2025. \textbf{e,f,} Annual growth rates in international mobility and partner-country coverage (e), and domestic mobility and city coverage (f). Each point represents one country, with rates fitted to all 28 years. T1--T4 retain the international-share growth quartiles used in Figs. 3 and 5 (19 countries each). Coloured ellipses summarize central group dispersion (13 of 19 countries). Grey lines show pooled linear fits; bands indicate HC3-robust 95\% confidence intervals.

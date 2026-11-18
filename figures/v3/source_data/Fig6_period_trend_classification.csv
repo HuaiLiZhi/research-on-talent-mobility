@@ -1,0 +1,209 @@
+﻿field,scale,start_year,end_year,Gini_slope_pp,normalized_slope_pp,category
+Agricultural and Biological Sciences,country,1998,2004,-0.07357051926227107,0.10957951124075344,Deconcentration
+Arts and Humanities,country,1998,2004,0.0816990549809509,0.061662961323011245,Mixed changes
+"Biochemistry, Genetics and Molecular Biology",country,1998,2004,0.16998783431486325,-0.10738177453878278,Relative concentration
+"Business, Management and Accounting",country,1998,2004,0.25033188378921845,-0.0854372716230394,Relative concentration
+Chemical Engineering,country,1998,2004,0.30854627815830116,-0.07432934063945093,Relative concentration
+Chemistry,country,1998,2004,-0.0336989112851365,0.02661275611514774,Deconcentration
+Computer Science,country,1998,2004,0.429447119379455,-0.28280906235945663,Relative concentration
+Decision Sciences,country,1998,2004,0.3345431825385016,-0.21629909025756303,Relative concentration
+Dentistry,country,1998,2004,0.01668348626936909,-0.14271996546865856,Relative concentration
+Earth and Planetary Sciences,country,1998,2004,-0.026334899400054512,0.0561622795521797,Deconcentration
+"Economics, Econometrics and Finance",country,1998,2004,-0.1082397338360519,0.13489977154039684,Deconcentration
+Energy,country,1998,2004,1.4419129737084844,-1.2324852903630572,Relative concentration
+Engineering,country,1998,2004,0.2224091657835064,-0.15866472873454243,Relative concentration
+Environmental Science,country,1998,2004,-0.06831925071681637,0.09216831937646491,Deconcentration
+Health Professions,country,1998,2004,0.04789633681270912,0.056908645725807505,Mixed changes
+Immunology and Microbiology,country,1998,2004,-0.03194391618529128,-0.023045742129894898,Mixed changes
+Materials Science,country,1998,2004,0.12575929057904248,-0.07509726914858424,Relative concentration
+Mathematics,country,1998,2004,-0.0888512545376839,0.0021288901104768443,Deconcentration
+Medicine,country,1998,2004,-0.06830118724971412,0.01710429856453079,Deconcentration
+Neuroscience,country,1998,2004,-0.12341047340153463,0.06959738048637035,Deconcentration
+Nursing,country,1998,2004,-0.16672594996738582,-0.24047650360478393,Mixed changes
+"Pharmacology, Toxicology and Pharmaceutics",country,1998,2004,0.3822857978314093,-0.3453422145248541,Relative concentration
+Physics and Astronomy,country,1998,2004,0.05172873196139714,-0.11434004136934414,Relative concentration
+Psychology,country,1998,2004,0.19842197650928317,-0.0831647684156057,Relative concentration
+Social Sciences,country,1998,2004,-0.010614800203095116,0.11100761067935579,Deconcentration
+Veterinary,country,1998,2004,-0.1628026121244067,0.19442855415464574,Deconcentration
+Agricultural and Biological Sciences,country,2005,2011,-0.1301334941477193,0.08247858405353338,Deconcentration
+Arts and Humanities,country,2005,2011,0.0890123522707144,0.06566032797489815,Mixed changes
+"Biochemistry, Genetics and Molecular Biology",country,2005,2011,-0.0680921712314835,0.016855513462174062,Deconcentration
+"Business, Management and Accounting",country,2005,2011,-0.19260349446386976,0.16395962244362222,Deconcentration
+Chemical Engineering,country,2005,2011,0.32264927042329433,-0.09069261788979187,Relative concentration
+Chemistry,country,2005,2011,-0.04025923406494008,0.054012757764274805,Deconcentration
+Computer Science,country,2005,2011,-0.27811952792947287,0.107705398672674,Deconcentration
+Decision Sciences,country,2005,2011,0.19468935662711936,0.08601180462749888,Mixed changes
+Dentistry,country,2005,2011,-0.09937522567964238,0.11850625235961937,Deconcentration
+Earth and Planetary Sciences,country,2005,2011,-0.15554689310554592,0.019157123870165715,Deconcentration
+"Economics, Econometrics and Finance",country,2005,2011,0.036654588826289566,-0.04960336182175762,Relative concentration
+Energy,country,2005,2011,0.13928891396430276,-0.2614939472489032,Relative concentration
+Engineering,country,2005,2011,-0.13934714100793072,0.022924108275663272,Deconcentration
+Environmental Science,country,2005,2011,-0.16407265312914365,0.1004904238690715,Deconcentration
+Health Professions,country,2005,2011,0.2453938134490487,-0.05003360243052925,Relative concentration
+Immunology and Microbiology,country,2005,2011,-0.02974382639345003,0.021690931622089345,Deconcentration
+Materials Science,country,2005,2011,-0.16230633110558676,0.013789422316094112,Deconcentration
+Mathematics,country,2005,2011,-0.12287401176557483,-0.013913269146430658,Mixed changes
+Medicine,country,2005,2011,-0.10751953086630128,0.024145284242826963,Deconcentration
+Neuroscience,country,2005,2011,0.24925144440930574,-0.15322597032415206,Relative concentration
+Nursing,country,2005,2011,0.4797399105146657,-0.4173168957364629,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",country,2005,2011,0.3768806948465518,-0.21346116572076154,Relative concentration
+Physics and Astronomy,country,2005,2011,0.056198712728034686,0.0002216612339824009,Mixed changes
+Psychology,country,2005,2011,-0.01123473429026237,0.09446310189790245,Deconcentration
+Social Sciences,country,2005,2011,-0.09206997111559288,0.1453317530553157,Deconcentration
+Veterinary,country,2005,2011,0.3757975837431268,-0.24863652374975576,Relative concentration
+Agricultural and Biological Sciences,country,2012,2018,-0.26090100279139955,0.21228715883010243,Deconcentration
+Arts and Humanities,country,2012,2018,-0.1126193358776863,0.10743218257819066,Deconcentration
+"Biochemistry, Genetics and Molecular Biology",country,2012,2018,-0.04908326359789646,0.005587030034403464,Deconcentration
+"Business, Management and Accounting",country,2012,2018,-0.2939296508614488,0.2772827120787351,Deconcentration
+Chemical Engineering,country,2012,2018,0.015205821469332914,0.1405006176140333,Mixed changes
+Chemistry,country,2012,2018,-0.10152851460058351,0.057329529773777935,Deconcentration
+Computer Science,country,2012,2018,-0.13235697097976656,0.017357332592391958,Deconcentration
+Decision Sciences,country,2012,2018,0.10845047112102832,-0.051987745329517415,Relative concentration
+Dentistry,country,2012,2018,0.3546757285318693,-0.21151510229401932,Relative concentration
+Earth and Planetary Sciences,country,2012,2018,0.052877664692609266,0.009266336829205685,Mixed changes
+"Economics, Econometrics and Finance",country,2012,2018,-0.4469507319570386,0.2040993094469558,Deconcentration
+Energy,country,2012,2018,-0.012874063848535209,0.07367481109780148,Deconcentration
+Engineering,country,2012,2018,-0.23363645555985707,0.13277174782833298,Deconcentration
+Environmental Science,country,2012,2018,-0.16573884029015354,0.1217065395618126,Deconcentration
+Health Professions,country,2012,2018,-0.29343038164275953,0.17394292726918248,Deconcentration
+Immunology and Microbiology,country,2012,2018,-0.16152507494584997,-0.0064665716140091135,Mixed changes
+Materials Science,country,2012,2018,-0.08785695243888059,0.061194643992042955,Deconcentration
+Mathematics,country,2012,2018,0.20953094460196792,-0.013858617598797921,Relative concentration
+Medicine,country,2012,2018,-0.2527762987461435,0.09352995492624223,Deconcentration
+Neuroscience,country,2012,2018,-0.10720861218589633,0.040449715835231805,Deconcentration
+Nursing,country,2012,2018,-0.2598808638791655,0.03764927651898987,Deconcentration
+"Pharmacology, Toxicology and Pharmaceutics",country,2012,2018,-0.253929875508405,0.11859151020474021,Deconcentration
+Physics and Astronomy,country,2012,2018,-0.05978973327981442,0.08261551544829057,Deconcentration
+Psychology,country,2012,2018,-0.2307737893493121,0.11629841988974657,Deconcentration
+Social Sciences,country,2012,2018,-0.28855297198866164,0.23111013452285395,Deconcentration
+Veterinary,country,2012,2018,0.0931796120226734,-0.11960621874332669,Relative concentration
+Agricultural and Biological Sciences,country,2019,2025,0.15278666586521614,-0.1393089147344479,Relative concentration
+Arts and Humanities,country,2019,2025,-0.5351727681409616,0.1968202052355334,Deconcentration
+"Biochemistry, Genetics and Molecular Biology",country,2019,2025,-0.12448680273266272,-0.025220914113719593,Mixed changes
+"Business, Management and Accounting",country,2019,2025,0.1635124910253852,-0.08323661406821213,Relative concentration
+Chemical Engineering,country,2019,2025,0.9509859035334942,-0.8360440049467623,Relative concentration
+Chemistry,country,2019,2025,0.11302506475101559,-0.2524800170507887,Relative concentration
+Computer Science,country,2019,2025,0.02080359502864639,-0.051906847023670724,Relative concentration
+Decision Sciences,country,2019,2025,0.48362883816815894,-0.38686482896860247,Relative concentration
+Dentistry,country,2019,2025,0.3225313438571163,-0.26371286920528403,Relative concentration
+Earth and Planetary Sciences,country,2019,2025,-0.054242848494638424,-0.08391804247498107,Mixed changes
+"Economics, Econometrics and Finance",country,2019,2025,-0.040120234670347275,0.018652492391585593,Deconcentration
+Energy,country,2019,2025,0.3424296501426124,-0.2888976999947609,Relative concentration
+Engineering,country,2019,2025,0.09377977981457739,-0.09769837839284622,Relative concentration
+Environmental Science,country,2019,2025,-0.01882416881816007,-0.03133541437511884,Mixed changes
+Health Professions,country,2019,2025,-0.0914030933136142,-0.03223872852278075,Mixed changes
+Immunology and Microbiology,country,2019,2025,0.09902691466062391,-0.13777489796364573,Relative concentration
+Materials Science,country,2019,2025,0.11510304470567143,-0.1824568082666259,Relative concentration
+Mathematics,country,2019,2025,0.012927062444357502,-0.10658959449954483,Relative concentration
+Medicine,country,2019,2025,-0.14791867913470727,0.03267786183710521,Deconcentration
+Neuroscience,country,2019,2025,0.14743477789487258,-0.19539803811359943,Relative concentration
+Nursing,country,2019,2025,0.41352334912710953,-0.04918521625201283,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",country,2019,2025,0.5604393370253258,-0.5055668985293658,Relative concentration
+Physics and Astronomy,country,2019,2025,0.16690726142973925,-0.37465399925394716,Relative concentration
+Psychology,country,2019,2025,-0.14929388490046594,0.031303934854820525,Deconcentration
+Social Sciences,country,2019,2025,-0.1928996469005533,0.06591550019851745,Deconcentration
+Veterinary,country,2019,2025,0.4877491058308282,-0.6789754102108184,Relative concentration
+Agricultural and Biological Sciences,domestic_city,1998,2004,1.182135983842607,-1.174449814081283,Relative concentration
+Arts and Humanities,domestic_city,1998,2004,1.3932286298357734,-2.1817673979421035,Relative concentration
+"Biochemistry, Genetics and Molecular Biology",domestic_city,1998,2004,0.8064760557514289,-1.4358802746748218,Relative concentration
+"Business, Management and Accounting",domestic_city,1998,2004,2.69313666849773,-3.439976514763214,Relative concentration
+Chemical Engineering,domestic_city,1998,2004,1.5873924941163247,-2.2530449380185997,Relative concentration
+Chemistry,domestic_city,1998,2004,0.5036896558315324,-1.3955804882568488,Relative concentration
+Computer Science,domestic_city,1998,2004,2.202832850847205,-2.333502809427326,Relative concentration
+Decision Sciences,domestic_city,1998,2004,1.6253760444101366,-2.2290270774823764,Relative concentration
+Dentistry,domestic_city,1998,2004,0.725745972922967,-0.9977143474178995,Relative concentration
+Earth and Planetary Sciences,domestic_city,1998,2004,1.4430953393645443,-2.224841654305692,Relative concentration
+"Economics, Econometrics and Finance",domestic_city,1998,2004,2.503689817677915,-2.667673790869138,Relative concentration
+Energy,domestic_city,1998,2004,1.5239598020988854,-2.132012509620309,Relative concentration
+Engineering,domestic_city,1998,2004,1.1807576788446803,-1.513325586708297,Relative concentration
+Environmental Science,domestic_city,1998,2004,1.4566569744346447,-1.9694840675889689,Relative concentration
+Health Professions,domestic_city,1998,2004,2.424698963907039,-3.123345326856263,Relative concentration
+Immunology and Microbiology,domestic_city,1998,2004,1.6116178547097448,-2.6728847963543054,Relative concentration
+Materials Science,domestic_city,1998,2004,0.8428159832197215,-1.920155255013501,Relative concentration
+Mathematics,domestic_city,1998,2004,1.521443768491032,-2.7821963053436245,Relative concentration
+Medicine,domestic_city,1998,2004,1.5809683773755154,-1.928420272671743,Relative concentration
+Neuroscience,domestic_city,1998,2004,0.9221923039590404,-1.4274108260054732,Relative concentration
+Nursing,domestic_city,1998,2004,1.1598044246627868,-1.9410150145023175,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,1998,2004,1.6221001690906252,-1.9800758176918603,Relative concentration
+Physics and Astronomy,domestic_city,1998,2004,0.9361088058525178,-1.672781003778405,Relative concentration
+Psychology,domestic_city,1998,2004,2.2915489272632112,-3.762629597293464,Relative concentration
+Social Sciences,domestic_city,1998,2004,1.8136873481214029,-2.222296667411922,Relative concentration
+Veterinary,domestic_city,1998,2004,0.5308820643642056,-0.1950356191427638,Relative concentration
+Agricultural and Biological Sciences,domestic_city,2005,2011,0.6826897981395519,-0.5740457584484294,Relative concentration
+Arts and Humanities,domestic_city,2005,2011,1.4289364272087601,-0.967480920418776,Relative concentration
+"Biochemistry, Genetics and Molecular Biology",domestic_city,2005,2011,0.8128003686486038,-0.9077354920584054,Relative concentration
+"Business, Management and Accounting",domestic_city,2005,2011,0.941372689342776,-1.2952255037323057,Relative concentration
+Chemical Engineering,domestic_city,2005,2011,0.6824983721922089,-1.3952454776800562,Relative concentration
+Chemistry,domestic_city,2005,2011,-0.13251176981846516,0.09525651290982841,Deconcentration
+Computer Science,domestic_city,2005,2011,0.8799482137625266,-1.1596386694865128,Relative concentration
+Decision Sciences,domestic_city,2005,2011,0.386984077056727,-2.0959841750844332,Relative concentration
+Dentistry,domestic_city,2005,2011,0.6534390457914596,-1.1722910788580387,Relative concentration
+Earth and Planetary Sciences,domestic_city,2005,2011,-0.12044642655507562,-0.6838922001166602,Mixed changes
+"Economics, Econometrics and Finance",domestic_city,2005,2011,1.2009489303279173,-2.458969834329511,Relative concentration
+Energy,domestic_city,2005,2011,1.0563690665131829,-1.5678063130396591,Relative concentration
+Engineering,domestic_city,2005,2011,0.7178632167224919,-0.32616316124378075,Relative concentration
+Environmental Science,domestic_city,2005,2011,1.0878860267001957,-1.5094170961382922,Relative concentration
+Health Professions,domestic_city,2005,2011,1.1319681743198822,-0.8236120625503539,Relative concentration
+Immunology and Microbiology,domestic_city,2005,2011,0.6570107800257531,-0.08301827931931507,Relative concentration
+Materials Science,domestic_city,2005,2011,0.6298483900771209,-0.3592910051399623,Relative concentration
+Mathematics,domestic_city,2005,2011,0.7708137395893481,-1.7198177895536435,Relative concentration
+Medicine,domestic_city,2005,2011,1.0852250104350636,-1.2698102243586191,Relative concentration
+Neuroscience,domestic_city,2005,2011,0.8072282592584983,-1.1618827548764183,Relative concentration
+Nursing,domestic_city,2005,2011,0.8142964264969391,-1.629167349914789,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,2005,2011,1.0871248425759705,-2.751849666669711,Relative concentration
+Physics and Astronomy,domestic_city,2005,2011,0.22878440896820945,-0.7989362110003123,Relative concentration
+Psychology,domestic_city,2005,2011,1.3593085658303068,-1.6941244974517555,Relative concentration
+Social Sciences,domestic_city,2005,2011,1.4329548293430654,-1.7017571687312734,Relative concentration
+Veterinary,domestic_city,2005,2011,0.5875212144899365,-1.0698419328634967,Relative concentration
+Agricultural and Biological Sciences,domestic_city,2012,2018,0.8976786078378793,-0.6455159744181101,Relative concentration
+Arts and Humanities,domestic_city,2012,2018,0.38412315806777525,-0.5480379104949021,Relative concentration
+"Biochemistry, Genetics and Molecular Biology",domestic_city,2012,2018,0.14024167235771243,-0.3341904551055111,Relative concentration
+"Business, Management and Accounting",domestic_city,2012,2018,0.48235347158631603,-0.6136116004101276,Relative concentration
+Chemical Engineering,domestic_city,2012,2018,0.9256454860803037,-1.9610922586154833,Relative concentration
+Chemistry,domestic_city,2012,2018,-0.16513088509173982,0.001187851210195894,Deconcentration
+Computer Science,domestic_city,2012,2018,0.0006540638245812667,-0.17838749521467173,Relative concentration
+Decision Sciences,domestic_city,2012,2018,0.4595371745448297,-0.3657456253426069,Relative concentration
+Dentistry,domestic_city,2012,2018,1.0291826096686107,-2.2446206208942443,Relative concentration
+Earth and Planetary Sciences,domestic_city,2012,2018,0.446300105025889,-0.6323949129972033,Relative concentration
+"Economics, Econometrics and Finance",domestic_city,2012,2018,0.22095061588139975,-0.8794012677969035,Relative concentration
+Energy,domestic_city,2012,2018,1.019844320938128,-1.4497458971745465,Relative concentration
+Engineering,domestic_city,2012,2018,0.5058374146428861,-0.49590999893768317,Relative concentration
+Environmental Science,domestic_city,2012,2018,0.31827181444324987,-0.7466159961768372,Relative concentration
+Health Professions,domestic_city,2012,2018,0.4860496904045505,-1.1480181361012296,Relative concentration
+Immunology and Microbiology,domestic_city,2012,2018,0.49630487372215437,-0.9636019568970077,Relative concentration
+Materials Science,domestic_city,2012,2018,0.2403247822173477,-0.36360838858531747,Relative concentration
+Mathematics,domestic_city,2012,2018,0.47035494691543234,-0.3361914783673544,Relative concentration
+Medicine,domestic_city,2012,2018,0.2673377751487908,-0.6019599892499443,Relative concentration
+Neuroscience,domestic_city,2012,2018,0.2594569496112725,-0.5605192730786513,Relative concentration
+Nursing,domestic_city,2012,2018,0.3825253343894695,-1.5484246467739817,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,2012,2018,-0.4337425217261659,0.9655732357924187,Deconcentration
+Physics and Astronomy,domestic_city,2012,2018,-0.07933985964437364,0.0013063933537249153,Deconcentration
+Psychology,domestic_city,2012,2018,0.7283323016283887,-1.165233410785458,Relative concentration
+Social Sciences,domestic_city,2012,2018,0.6083811120938397,-0.15588939364475046,Relative concentration
+Veterinary,domestic_city,2012,2018,0.2558492584757841,-0.7199679055894708,Relative concentration
+Agricultural and Biological Sciences,domestic_city,2019,2025,0.15046340191364352,-0.17332296801785632,Relative concentration
+Arts and Humanities,domestic_city,2019,2025,0.20707890365963466,0.21854553503944107,Mixed changes
+"Biochemistry, Genetics and Molecular Biology",domestic_city,2019,2025,0.13193720969754685,0.12361256718575672,Mixed changes
+"Business, Management and Accounting",domestic_city,2019,2025,0.17520261079334576,0.18129177248027667,Mixed changes
+Chemical Engineering,domestic_city,2019,2025,0.8564381991163245,-1.7257095885793667,Relative concentration
+Chemistry,domestic_city,2019,2025,0.35847142422500583,-0.6471096531216731,Relative concentration
+Computer Science,domestic_city,2019,2025,0.3290443026617264,-0.34731006177833235,Relative concentration
+Decision Sciences,domestic_city,2019,2025,0.5432948657374719,-1.8793627652679317,Relative concentration
+Dentistry,domestic_city,2019,2025,-0.33450854090046217,0.1815726758821428,Deconcentration
+Earth and Planetary Sciences,domestic_city,2019,2025,0.3388959782738756,-1.0764773611358343,Relative concentration
+"Economics, Econometrics and Finance",domestic_city,2019,2025,0.12849839743597688,-0.29368617285343035,Relative concentration
+Energy,domestic_city,2019,2025,0.7351381180299698,-0.8693812406120207,Relative concentration
+Engineering,domestic_city,2019,2025,0.1907877318572258,-0.13866595837632692,Relative concentration
+Environmental Science,domestic_city,2019,2025,0.32562916751767146,-0.41811421096297374,Relative concentration
+Health Professions,domestic_city,2019,2025,0.8442104439482798,-0.6135616603617828,Relative concentration
+Immunology and Microbiology,domestic_city,2019,2025,0.6073060039211546,-0.6575228031501822,Relative concentration
+Materials Science,domestic_city,2019,2025,0.14701061732706547,-0.019223227009497072,Relative concentration
+Mathematics,domestic_city,2019,2025,0.3404699814473908,0.20747806019958842,Mixed changes
+Medicine,domestic_city,2019,2025,0.29822991087633094,-0.2789085668428119,Relative concentration
+Neuroscience,domestic_city,2019,2025,0.29541119705976154,-1.0254478697011187,Relative concentration
+Nursing,domestic_city,2019,2025,1.0877348157640767,-1.7330983566477025,Relative concentration
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,2019,2025,0.9563785045826754,-1.9630011753010375,Relative concentration
+Physics and Astronomy,domestic_city,2019,2025,0.06957793974792871,-0.35964201349205194,Relative concentration
+Psychology,domestic_city,2019,2025,0.3022452349747597,-0.5180862282839113,Relative concentration
+Social Sciences,domestic_city,2019,2025,0.28364040313728317,-0.396956836213236,Relative concentration
+Veterinary,domestic_city,2019,2025,0.47613380683256545,0.5394877146958882,Mixed changes

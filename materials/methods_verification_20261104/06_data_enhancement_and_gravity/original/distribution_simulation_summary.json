@@ -1,0 +1,50 @@
+{
+  "countries": 76,
+  "periods": [
+    5,
+    6
+  ],
+  "simulations": 200,
+  "modeled_events": 6984347.0,
+  "all_events": 8808637.0,
+  "delta_Gini_pp": {
+    "median": -0.09218878443766812,
+    "q25": -0.544192594902217,
+    "q75": 0.4469361069722247,
+    "country_bootstrap_CI": [
+      -0.33686249974486393,
+      0.142099618138323
+    ],
+    "countries_positive": 35
+  },
+  "delta_HHI": {
+    "median": -0.0015124630155364358,
+    "q25": -0.006498760501089932,
+    "q75": 0.002168637362021544,
+    "country_bootstrap_CI": [
+      -0.004002411515510084,
+      -0.0008028278922923273
+    ],
+    "countries_positive": 29
+  },
+  "delta_Gini_positive_only_pp": {
+    "median": -0.16101629377861845,
+    "q25": -0.5776987663655978,
+    "q75": 0.29417236379434963,
+    "country_bootstrap_CI": [
+      -0.37086719629240816,
+      -0.017683989407737744
+    ],
+    "countries_positive": 30
+  },
+  "Gini_error": {
+    "countries_improved": 44,
+    "baseline_median_error": 0.009484990402268911,
+    "international_median_error": 0.008403068854867163
+  },
+  "HHI_error": {
+    "countries_improved": 39,
+    "baseline_median_error": 0.007510259151848681,
+    "international_median_error": 0.0061849341259540835
+  }
+}

@@ -1,0 +1,209 @@
+﻿field,panel,row,column,start_year,end_year,index,fill,pdf_x_pt,pdf_y_pt
+Energy,b_country,0,0,1998,2004,100.0,#f8f8f7,261.0,70.25
+Energy,b_country,0,1,2005,2011,67.04795891701542,#e6c5c0,273.0,70.25
+Energy,b_country,0,2,2012,2018,72.0069996683743,#e9cdc8,285.0,70.25
+Energy,b_country,0,3,2019,2025,71.2318758656941,#e8cbc6,297.0,70.25
+Health Professions,b_country,1,0,1998,2004,100.0,#f8f8f7,261.0,84.75
+Health Professions,b_country,1,1,2005,2011,102.02857565227866,#f5f5f7,273.0,84.75
+Health Professions,b_country,1,2,2012,2018,108.02512906819648,#eceff7,285.0,84.75
+Health Professions,b_country,1,3,2019,2025,114.89870014256307,#e2e6f6,297.0,84.75
+Social Sciences,b_country,2,0,1998,2004,100.0,#f8f8f7,261.0,99.24999999999994
+Social Sciences,b_country,2,1,2005,2011,118.64000878438141,#dce2f6,273.0,99.24999999999994
+Social Sciences,b_country,2,2,2012,2018,148.0189611518727,#afbff5,285.0,99.24999999999994
+Social Sciences,b_country,2,3,2019,2025,172.2075332151895,#89a2f4,297.0,99.24999999999994
+Decision Sciences,b_country,3,0,1998,2004,100.0,#f8f8f7,261.0,113.75
+Decision Sciences,b_country,3,1,2005,2011,89.73616824039041,#f2e8e6,273.0,113.75
+Decision Sciences,b_country,3,2,2012,2018,89.66667779373118,#f2e8e6,285.0,113.75
+Decision Sciences,b_country,3,3,2019,2025,81.31944103598155,#eedbd8,297.0,113.75
+Psychology,b_country,4,0,1998,2004,100.0,#f8f8f7,261.0,128.25
+Psychology,b_country,4,1,2005,2011,96.3137568678565,#f6f3f1,273.0,128.25
+Psychology,b_country,4,2,2012,2018,106.09359296204386,#eff1f7,285.0,128.25
+Psychology,b_country,4,3,2019,2025,111.5580615852894,#e6eaf7,297.0,128.25
+Arts and Humanities,b_country,5,0,1998,2004,100.0,#f8f8f7,261.0,142.74999999999994
+Arts and Humanities,b_country,5,1,2005,2011,106.5182854272222,#eef0f7,273.0,142.74999999999994
+Arts and Humanities,b_country,5,2,2012,2018,121.895314602211,#d6def6,285.0,142.74999999999994
+Arts and Humanities,b_country,5,3,2019,2025,133.13196561664253,#c5d0f6,297.0,142.74999999999994
+"Business, Management and Accounting",b_country,6,0,1998,2004,100.0,#f8f8f7,261.0,157.24999999999994
+"Business, Management and Accounting",b_country,6,1,2005,2011,103.04986443407307,#f4f5f7,273.0,157.24999999999994
+"Business, Management and Accounting",b_country,6,2,2012,2018,115.36917905241441,#e1e6f6,285.0,157.24999999999994
+"Business, Management and Accounting",b_country,6,3,2019,2025,135.03798274156833,#c2cef6,297.0,157.24999999999994
+Computer Science,b_country,7,0,1998,2004,100.0,#f8f8f7,261.0,171.75
+Computer Science,b_country,7,1,2005,2011,92.615983986446,#f4edeb,273.0,171.75
+Computer Science,b_country,7,2,2012,2018,99.99319473146599,#f8f8f6,285.0,171.75
+Computer Science,b_country,7,3,2019,2025,93.58431048653154,#f4eeec,297.0,171.75
+Environmental Science,b_country,8,0,1998,2004,100.0,#f8f8f7,261.0,186.25
+Environmental Science,b_country,8,1,2005,2011,103.17450138535891,#f3f4f7,273.0,186.25
+Environmental Science,b_country,8,2,2012,2018,117.02201157498754,#dee4f6,285.0,186.25
+Environmental Science,b_country,8,3,2019,2025,128.56581051704956,#ccd6f6,297.0,186.25
+Immunology and Microbiology,b_country,9,0,1998,2004,100.0,#f8f8f7,261.0,200.75
+Immunology and Microbiology,b_country,9,1,2005,2011,99.84408968500556,#f8f8f6,273.0,200.75
+Immunology and Microbiology,b_country,9,2,2012,2018,98.50787777591052,#f7f6f4,285.0,200.75
+Immunology and Microbiology,b_country,9,3,2019,2025,93.66557509429299,#f4eeec,297.0,200.75
+Earth and Planetary Sciences,b_country,10,0,1998,2004,100.0,#f8f8f7,261.0,215.25
+Earth and Planetary Sciences,b_country,10,1,2005,2011,100.92334252451259,#f7f7f7,273.0,215.25
+Earth and Planetary Sciences,b_country,10,2,2012,2018,106.03758406573938,#eff1f7,285.0,215.25
+Earth and Planetary Sciences,b_country,10,3,2019,2025,105.0377707970154,#f0f2f7,297.0,215.25
+Mathematics,b_country,11,0,1998,2004,100.0,#f8f8f7,261.0,229.75
+Mathematics,b_country,11,1,2005,2011,95.42974267211078,#f5f1ef,273.0,229.75
+Mathematics,b_country,11,2,2012,2018,93.81486191789686,#f5efed,285.0,229.75
+Mathematics,b_country,11,3,2019,2025,96.60829015753751,#f6f3f1,297.0,229.75
+Dentistry,b_country,12,0,1998,2004,100.0,#f8f8f7,261.0,244.25000000000003
+Dentistry,b_country,12,1,2005,2011,94.57252204165832,#f5f0ee,273.0,244.25000000000003
+Dentistry,b_country,12,2,2012,2018,102.73678672428004,#f4f5f7,285.0,244.25000000000003
+Dentistry,b_country,12,3,2019,2025,90.84448998569735,#f3eae8,297.0,244.25000000000003
+Neuroscience,b_country,13,0,1998,2004,100.0,#f8f8f7,261.0,258.75
+Neuroscience,b_country,13,1,2005,2011,97.55414269680361,#f7f5f3,273.0,258.75
+Neuroscience,b_country,13,2,2012,2018,94.86855572228984,#f5f0ee,285.0,258.75
+Neuroscience,b_country,13,3,2019,2025,86.48832031084285,#f1e3e0,297.0,258.75
+Nursing,b_country,14,0,1998,2004,100.0,#f8f8f7,261.0,273.25
+Nursing,b_country,14,1,2005,2011,94.23238249254908,#f5efed,273.0,273.25
+Nursing,b_country,14,2,2012,2018,82.68411601790078,#efddda,285.0,273.25
+Nursing,b_country,14,3,2019,2025,81.2108245613608,#eddad7,297.0,273.25
+Veterinary,b_country,15,0,1998,2004,100.0,#f8f8f7,261.0,287.75
+Veterinary,b_country,15,1,2005,2011,97.23299616739736,#f6f4f2,273.0,287.75
+Veterinary,b_country,15,2,2012,2018,85.77153672582094,#f0e2df,285.0,287.75
+Veterinary,b_country,15,3,2019,2025,73.28298589433687,#e9cfca,297.0,287.75
+"Economics, Econometrics and Finance",b_country,16,0,1998,2004,100.0,#f8f8f7,261.0,302.25
+"Economics, Econometrics and Finance",b_country,16,1,2005,2011,100.8069569250692,#f7f7f7,273.0,302.25
+"Economics, Econometrics and Finance",b_country,16,2,2012,2018,107.0936843937179,#edeff7,285.0,302.25
+"Economics, Econometrics and Finance",b_country,16,3,2019,2025,120.2177623869457,#d9e0f6,297.0,302.25
+Engineering,b_country,17,0,1998,2004,100.0,#f8f8f7,261.0,316.75
+Engineering,b_country,17,1,2005,2011,90.38034423929984,#f3e9e7,273.0,316.75
+Engineering,b_country,17,2,2012,2018,99.3786640243008,#f8f8f6,285.0,316.75
+Engineering,b_country,17,3,2019,2025,103.81722484748096,#f2f3f7,297.0,316.75
+Materials Science,b_country,18,0,1998,2004,100.0,#f8f8f7,261.0,331.25
+Materials Science,b_country,18,1,2005,2011,89.18651268390396,#f2e7e5,273.0,331.25
+Materials Science,b_country,18,2,2012,2018,88.21453265692857,#f2e6e4,285.0,331.25
+Materials Science,b_country,18,3,2019,2025,87.80774578746424,#f1e5e3,297.0,331.25
+"Pharmacology, Toxicology and Pharmaceutics",b_country,19,0,1998,2004,100.0,#f8f8f7,261.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_country,19,1,2005,2011,86.92392947411318,#f1e4e1,273.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_country,19,2,2012,2018,87.84383866829113,#f1e5e3,285.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_country,19,3,2019,2025,76.17041239314722,#ebd3cf,297.0,345.75
+Chemical Engineering,b_country,20,0,1998,2004,100.00000000000001,#f8f8f7,261.0,360.25
+Chemical Engineering,b_country,20,1,2005,2011,100.01305153648505,#f8f8f7,273.0,360.25
+Chemical Engineering,b_country,20,2,2012,2018,93.3988820502618,#f4eeec,285.0,360.25
+Chemical Engineering,b_country,20,3,2019,2025,84.80170545525144,#f0e0dd,297.0,360.25
+Agricultural and Biological Sciences,b_country,21,0,1998,2004,99.99999999999999,#f8f8f6,261.0,374.75
+Agricultural and Biological Sciences,b_country,21,1,2005,2011,103.93221281411036,#f2f3f7,273.0,374.75
+Agricultural and Biological Sciences,b_country,21,2,2012,2018,119.67157047846682,#dae1f6,285.0,374.75
+Agricultural and Biological Sciences,b_country,21,3,2019,2025,124.94695639925273,#d2dbf6,297.0,374.75
+"Biochemistry, Genetics and Molecular Biology",b_country,22,0,1998,2004,100.0,#f8f8f7,261.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_country,22,1,2005,2011,93.14048577473062,#f4eeec,273.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_country,22,2,2012,2018,91.82084361998163,#f3ebe9,285.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_country,22,3,2019,2025,92.2585034398048,#f4ecea,297.0,389.25
+Medicine,b_country,23,0,1998,2004,100.0,#f8f8f7,261.0,403.75000000000006
+Medicine,b_country,23,1,2005,2011,102.14801752757184,#f5f5f7,273.0,403.75000000000006
+Medicine,b_country,23,2,2012,2018,111.98568122444058,#e5e9f7,285.0,403.75000000000006
+Medicine,b_country,23,3,2019,2025,122.00508087024326,#d6def6,297.0,403.75000000000006
+Physics and Astronomy,b_country,24,0,1998,2004,100.0,#f8f8f7,261.0,418.25
+Physics and Astronomy,b_country,24,1,2005,2011,98.26434709571355,#f7f6f4,273.0,418.25
+Physics and Astronomy,b_country,24,2,2012,2018,109.21637558512995,#eaedf7,285.0,418.25
+Physics and Astronomy,b_country,24,3,2019,2025,98.05835015754953,#f7f5f3,297.0,418.25
+Chemistry,b_country,25,0,1998,2004,100.0,#f8f8f7,261.0,432.75
+Chemistry,b_country,25,1,2005,2011,93.20270316477345,#f4eeec,273.0,432.75
+Chemistry,b_country,25,2,2012,2018,98.5298075266483,#f7f6f4,285.0,432.75
+Chemistry,b_country,25,3,2019,2025,91.7564742624314,#f3ebe9,297.0,432.75
+Energy,b_domestic,0,0,1998,2004,99.99999999999999,#f8f8f6,313.0,70.25
+Energy,b_domestic,0,1,2005,2011,79.53424720451659,#edd8d5,325.0,70.25
+Energy,b_domestic,0,2,2012,2018,57.86054954580806,#e1b6b0,337.0,70.25
+Energy,b_domestic,0,3,2019,2025,49.02826853097867,#dca9a1,349.0,70.25
+Health Professions,b_domestic,1,0,1998,2004,100.0,#f8f8f7,313.0,84.75
+Health Professions,b_domestic,1,1,2005,2011,69.26866441940273,#e7c8c3,325.0,84.75
+Health Professions,b_domestic,1,2,2012,2018,57.415301066481,#e0b5af,337.0,84.75
+Health Professions,b_domestic,1,3,2019,2025,48.66197353653293,#dca8a0,349.0,84.75
+Social Sciences,b_domestic,2,0,1998,2004,100.0,#f8f8f7,313.0,99.24999999999994
+Social Sciences,b_domestic,2,1,2005,2011,68.9659515872543,#e7c8c3,325.0,99.24999999999994
+Social Sciences,b_domestic,2,2,2012,2018,53.422447533114344,#deb0a9,337.0,99.24999999999994
+Social Sciences,b_domestic,2,3,2019,2025,51.63984588359629,#ddada6,349.0,99.24999999999994
+Decision Sciences,b_domestic,3,0,1998,2004,100.00000000000001,#f8f8f7,313.0,113.75
+Decision Sciences,b_domestic,3,1,2005,2011,83.45863019145087,#efdedb,325.0,113.75
+Decision Sciences,b_domestic,3,2,2012,2018,72.50458697224252,#e9cec9,337.0,113.75
+Decision Sciences,b_domestic,3,3,2019,2025,62.89378601030423,#e3beb8,349.0,113.75
+Psychology,b_domestic,4,0,1998,2004,100.0,#f8f8f7,313.0,128.25
+Psychology,b_domestic,4,1,2005,2011,69.49034146481894,#e7c9c4,325.0,128.25
+Psychology,b_domestic,4,2,2012,2018,51.68327951603824,#ddada6,337.0,128.25
+Psychology,b_domestic,4,3,2019,2025,43.5320541242123,#d9a098,349.0,128.25
+Arts and Humanities,b_domestic,5,0,1998,2004,100.0,#f8f8f7,313.0,142.74999999999994
+Arts and Humanities,b_domestic,5,1,2005,2011,72.472723117243,#e9cdc8,325.0,142.74999999999994
+Arts and Humanities,b_domestic,5,2,2012,2018,54.51226067207573,#dfb1ab,337.0,142.74999999999994
+Arts and Humanities,b_domestic,5,3,2019,2025,48.46702812010879,#dca8a0,349.0,142.74999999999994
+"Business, Management and Accounting",b_domestic,6,0,1998,2004,100.0,#f8f8f7,313.0,157.24999999999994
+"Business, Management and Accounting",b_domestic,6,1,2005,2011,71.25018552642412,#e8ccc7,325.0,157.24999999999994
+"Business, Management and Accounting",b_domestic,6,2,2012,2018,61.94616199983681,#e3bdb7,337.0,157.24999999999994
+"Business, Management and Accounting",b_domestic,6,3,2019,2025,62.87931520381447,#e3beb8,349.0,157.24999999999994
+Computer Science,b_domestic,7,0,1998,2004,100.0,#f8f8f7,313.0,171.75
+Computer Science,b_domestic,7,1,2005,2011,70.90692832319984,#e8cbc6,325.0,171.75
+Computer Science,b_domestic,7,2,2012,2018,63.53831791535868,#e4bfba,337.0,171.75
+Computer Science,b_domestic,7,3,2019,2025,59.85053366472958,#e2b9b3,349.0,171.75
+Environmental Science,b_domestic,8,0,1998,2004,100.0,#f8f8f7,313.0,186.25
+Environmental Science,b_domestic,8,1,2005,2011,74.12820969408874,#ead0cb,325.0,186.25
+Environmental Science,b_domestic,8,2,2012,2018,62.924497274440185,#e3beb8,337.0,186.25
+Environmental Science,b_domestic,8,3,2019,2025,53.394326986147036,#deb0a9,349.0,186.25
+Immunology and Microbiology,b_domestic,9,0,1998,2004,100.0,#f8f8f7,313.0,200.75
+Immunology and Microbiology,b_domestic,9,1,2005,2011,84.8653465786192,#f0e0dd,325.0,200.75
+Immunology and Microbiology,b_domestic,9,2,2012,2018,73.46003859686435,#e9cfca,337.0,200.75
+Immunology and Microbiology,b_domestic,9,3,2019,2025,62.93753236645686,#e3beb8,349.0,200.75
+Earth and Planetary Sciences,b_domestic,10,0,1998,2004,100.0,#f8f8f7,313.0,215.25
+Earth and Planetary Sciences,b_domestic,10,1,2005,2011,76.13640531559007,#ebd3cf,325.0,215.25
+Earth and Planetary Sciences,b_domestic,10,2,2012,2018,69.70776905085461,#e7c9c4,337.0,215.25
+Earth and Planetary Sciences,b_domestic,10,3,2019,2025,65.93225288399245,#e5c3be,349.0,215.25
+Mathematics,b_domestic,11,0,1998,2004,100.0,#f8f8f7,313.0,229.75
+Mathematics,b_domestic,11,1,2005,2011,78.18275583365514,#ecd6d3,325.0,229.75
+Mathematics,b_domestic,11,2,2012,2018,73.20737104953315,#e9cfca,337.0,229.75
+Mathematics,b_domestic,11,3,2019,2025,66.93058596972004,#e6c5c0,349.0,229.75
+Dentistry,b_domestic,12,0,1998,2004,100.0,#f8f8f7,313.0,244.25000000000003
+Dentistry,b_domestic,12,1,2005,2011,81.734328778384,#eedbd8,325.0,244.25000000000003
+Dentistry,b_domestic,12,2,2012,2018,64.74843034240831,#e5c1bc,337.0,244.25000000000003
+Dentistry,b_domestic,12,3,2019,2025,53.19606170558117,#deb0a9,349.0,244.25000000000003
+Neuroscience,b_domestic,13,0,1998,2004,100.0,#f8f8f7,313.0,258.75
+Neuroscience,b_domestic,13,1,2005,2011,79.65996583352057,#edd8d5,325.0,258.75
+Neuroscience,b_domestic,13,2,2012,2018,66.76752959702166,#e6c4bf,337.0,258.75
+Neuroscience,b_domestic,13,3,2019,2025,56.93144171684854,#e0b5af,349.0,258.75
+Nursing,b_domestic,14,0,1998,2004,100.0,#f8f8f7,313.0,273.25
+Nursing,b_domestic,14,1,2005,2011,80.14239244744284,#edd9d6,325.0,273.25
+Nursing,b_domestic,14,2,2012,2018,62.25159991196627,#e3bdb7,337.0,273.25
+Nursing,b_domestic,14,3,2019,2025,55.01869529154795,#dfb2ac,349.0,273.25
+Veterinary,b_domestic,15,0,1998,2004,100.0,#f8f8f7,313.0,287.75
+Veterinary,b_domestic,15,1,2005,2011,86.73661525546733,#f1e3e0,325.0,287.75
+Veterinary,b_domestic,15,2,2012,2018,86.3145106102164,#f1e3e0,337.0,287.75
+Veterinary,b_domestic,15,3,2019,2025,75.43204763760876,#ead2cd,349.0,287.75
+"Economics, Econometrics and Finance",b_domestic,16,0,1998,2004,100.0,#f8f8f7,313.0,302.25
+"Economics, Econometrics and Finance",b_domestic,16,1,2005,2011,74.95364902278152,#ead1cc,325.0,302.25
+"Economics, Econometrics and Finance",b_domestic,16,2,2012,2018,62.0297126450724,#e3bdb7,337.0,302.25
+"Economics, Econometrics and Finance",b_domestic,16,3,2019,2025,58.90150807365442,#e1b8b2,349.0,302.25
+Engineering,b_domestic,17,0,1998,2004,100.0,#f8f8f7,313.0,316.75
+Engineering,b_domestic,17,1,2005,2011,76.86321020383005,#ebd4d0,325.0,316.75
+Engineering,b_domestic,17,2,2012,2018,65.11935284396414,#e5c2bd,337.0,316.75
+Engineering,b_domestic,17,3,2019,2025,57.72390103500619,#e1b6b0,349.0,316.75
+Materials Science,b_domestic,18,0,1998,2004,100.0,#f8f8f7,313.0,331.25
+Materials Science,b_domestic,18,1,2005,2011,82.96332518131543,#efddda,325.0,331.25
+Materials Science,b_domestic,18,2,2012,2018,71.5915127391639,#e8ccc7,337.0,331.25
+Materials Science,b_domestic,18,3,2019,2025,66.5516875644628,#e6c4bf,349.0,331.25
+"Pharmacology, Toxicology and Pharmaceutics",b_domestic,19,0,1998,2004,100.00000000000001,#f8f8f7,313.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_domestic,19,1,2005,2011,80.76865509966389,#eddad7,325.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_domestic,19,2,2012,2018,63.6377244090329,#e4bfba,337.0,345.75
+"Pharmacology, Toxicology and Pharmaceutics",b_domestic,19,3,2019,2025,64.41756671686909,#e5c1bc,349.0,345.75
+Chemical Engineering,b_domestic,20,0,1998,2004,100.0,#f8f8f7,313.0,360.25
+Chemical Engineering,b_domestic,20,1,2005,2011,88.45531174353196,#f2e6e4,325.0,360.25
+Chemical Engineering,b_domestic,20,2,2012,2018,81.37452036124446,#eedbd8,337.0,360.25
+Chemical Engineering,b_domestic,20,3,2019,2025,69.18882920214281,#e7c8c3,349.0,360.25
+Agricultural and Biological Sciences,b_domestic,21,0,1998,2004,100.0,#f8f8f7,313.0,374.75
+Agricultural and Biological Sciences,b_domestic,21,1,2005,2011,81.26042136929735,#eedbd8,325.0,374.75
+Agricultural and Biological Sciences,b_domestic,21,2,2012,2018,72.60508640192388,#e9cec9,337.0,374.75
+Agricultural and Biological Sciences,b_domestic,21,3,2019,2025,64.83259232262475,#e5c1bc,349.0,374.75
+"Biochemistry, Genetics and Molecular Biology",b_domestic,22,0,1998,2004,100.0,#f8f8f7,313.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_domestic,22,1,2005,2011,79.41340982747022,#edd8d5,325.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_domestic,22,2,2012,2018,68.06024882919792,#e6c6c1,337.0,389.25
+"Biochemistry, Genetics and Molecular Biology",b_domestic,22,3,2019,2025,60.84833277079459,#e2bbb5,349.0,389.25
+Medicine,b_domestic,23,0,1998,2004,100.0,#f8f8f7,313.0,403.75000000000006
+Medicine,b_domestic,23,1,2005,2011,72.24212758454294,#e9cdc8,325.0,403.75000000000006
+Medicine,b_domestic,23,2,2012,2018,60.012468677812265,#e2bab4,337.0,403.75000000000006
+Medicine,b_domestic,23,3,2019,2025,51.50147160647576,#ddada6,349.0,403.75000000000006
+Physics and Astronomy,b_domestic,24,0,1998,2004,99.99999999999999,#f8f8f6,313.0,418.25
+Physics and Astronomy,b_domestic,24,1,2005,2011,82.83012073468997,#efddda,325.0,418.25
+Physics and Astronomy,b_domestic,24,2,2012,2018,72.60023080084821,#e9cec9,337.0,418.25
+Physics and Astronomy,b_domestic,24,3,2019,2025,69.54807178808586,#e7c9c4,349.0,418.25
+Chemistry,b_domestic,25,0,1998,2004,100.0,#f8f8f7,313.0,432.75
+Chemistry,b_domestic,25,1,2005,2011,89.40317860126629,#f2e8e6,325.0,432.75
+Chemistry,b_domestic,25,2,2012,2018,86.77290363896117,#f1e3e0,337.0,432.75
+Chemistry,b_domestic,25,3,2019,2025,78.39162566517882,#ecd6d3,349.0,432.75

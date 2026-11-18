@@ -1,0 +1,149 @@
+{
+  "raw_place_ids_unique": true,
+  "city_catalog_unique": true,
+  "one_metadata_record_per_city": true,
+  "no_identified_geonames_place_split": true,
+  "confirmed_component_merge_tests": [
+    {
+      "country": "US",
+      "parent": "new york",
+      "components": [
+        "brooklyn",
+        "manhattan",
+        "the bronx",
+        "staten island"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "US",
+      "parent": "san diego",
+      "components": [
+        "la jolla"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "CN",
+      "parent": "shanghai",
+      "components": [
+        "pudong"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "CN",
+      "parent": "nanjing",
+      "components": [
+        "jiangning"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "CA",
+      "parent": "toronto",
+      "components": [
+        "etobicoke",
+        "north york",
+        "scarborough"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "AU",
+      "parent": "melbourne",
+      "components": [
+        "parkville",
+        "carlton"
+      ],
+      "pass_check": true
+    },
+    {
+      "country": "DE",
+      "parent": "planegg",
+      "components": [
+        "martinsried"
+      ],
+      "pass_check": true
+    }
+  ],
+  "independent_city_safeguards": 6,
+  "all_independent_city_safeguards_passed": true,
+  "flow_conservation_all_datasets_and_tiers": true,
+  "clean_files_have_no_self_loops_or_duplicate_od_keys": true,
+  "comparison_scope": "Counts reflect both geographic harmonization and explicit exclusion of records needing review; country repairs may restore previously omitted flows",
+  "selected_2025_counts": [
+    {
+      "country": "AU",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 182,
+      "cleaned_count": 62,
+      "cleaned_flow": 8552.0,
+      "count_change": -120
+    },
+    {
+      "country": "CA",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 160,
+      "cleaned_count": 154,
+      "cleaned_flow": 11775.0,
+      "count_change": -6
+    },
+    {
+      "country": "CN",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 427,
+      "cleaned_count": 348,
+      "cleaned_flow": 636862.0,
+      "count_change": -79
+    },
+    {
+      "country": "DE",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 560,
+      "cleaned_count": 547,
+      "cleaned_flow": 30122.0,
+      "count_change": -13
+    },
+    {
+      "country": "FR",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 415,
+      "cleaned_count": 385,
+      "cleaned_flow": 50971.0,
+      "count_change": -30
+    },
+    {
+      "country": "GB",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 515,
+      "cleaned_count": 485,
+      "cleaned_flow": 29885.0,
+      "count_change": -30
+    },
+    {
+      "country": "JP",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 413,
+      "cleaned_count": 385,
+      "cleaned_flow": 52884.0,
+      "count_change": -28
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "side": "inflow",
+      "existing_count": 2772,
+      "cleaned_count": 2693,
+      "cleaned_flow": 245781.0,
+      "count_change": -79
+    }
+  ]
+}

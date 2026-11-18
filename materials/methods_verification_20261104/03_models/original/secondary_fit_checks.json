@@ -1,0 +1,22 @@
+[
+  {
+    "model": "N_international_node_controls",
+    "gradient": 8.988989894168076e-07,
+    "max_relative_choice_total_error": 8.343988089659893e-16
+  },
+  {
+    "model": "NT_node_plus_two_step",
+    "gradient": 1.830641210722947e-06,
+    "max_relative_choice_total_error": 7.751375299201093e-16
+  },
+  {
+    "model": "A_without_two_step",
+    "gradient": 4.7060012782571686e-07,
+    "max_relative_choice_total_error": 7.558965274043619e-16
+  },
+  {
+    "model": "PT_partner_plus_two_step",
+    "gradient": 5.449771819800544e-07,
+    "max_relative_choice_total_error": 7.894919286223335e-16
+  }
+]

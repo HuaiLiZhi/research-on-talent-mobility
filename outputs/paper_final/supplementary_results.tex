@@ -1,0 +1,93 @@
+\clearpage
+\section*{Supplementary Results}
+\begingroup
+\renewcommand{\thesubsection}{R\arabic{subsection}}
+\setcounter{subsection}{0}
+\renewcommand{\tablename}{Supplementary Table}
+\setcounter{table}{3}
+
+\subsection{Equal-Event Sensitivity in Higher-Volume Countries}
+\label{supp:rarefaction}
+
+The 19 countries with at least 1,000 domestic events in every year showed the same sensitivity to volume standardization as the full domestic sample. Under 200-repetition equal-event sampling, the number classified by rising Gini and falling normalized equivalent city counts decreased from 11 to four. Participating-city counts retained positive fitted trends in 18 of the 19 countries. In the full 76-country sample, the corresponding concentration counts were 63 and 18, with positive city-count trends in 72 countries. The archived summary and country-level classifications are retained with the source data and analysis archive.
+
+\subsection{International-Network Information and Domestic Destination Allocation}
+\label{supp:network_results}
+
+The complementary origin-constrained model used 3,069,435 candidate OD--period cells across 76 countries. During 2018--2025, modeled routes covered 6,984,347 of 8,808,637 domestic events (79.3\%). All specifications used the same candidate pairs and supplied origin totals. Training used 2002--2013; specifications were compared on 2014--2017. The later evaluation period had informed earlier exploratory development, so the comparison is a temporal evaluation within the same data rather than a new independent confirmation sample.
+
+The integrated specification, adding all nine international-network features, reduced conditional Poisson deviance by a country median of 4.50\% relative to the reference (95\% country-bootstrap interval, 2.48--7.00\%; 58 of 76 countries improved; Supplementary Table~\ref{tab:gravity_comparisons}). Among individual additions, the foreign-mediated two-step feature gave the largest median reduction, 3.48\% (1.72--5.98\%). Partner-country distance gave a smaller reduction of 0.27\% (0.09--0.47\%). Absolute CPC and $R^2$ summaries are shown separately in Supplementary Table~\ref{tab:gravity_absolute}; differences between these medians are not the median of paired country gains.
+
+In validation, the two-step model's median deviance reduction was 2.8279\%, compared with 2.8249\% for the integrated specification; the saved selection criterion therefore chose the two-step model. Annual reconstructions subsequently used the integrated specification as a separate display choice, without selecting it on annual index errors. The two specifications are distinguished throughout the diagnostics below.
+
+\begin{table}[!htbp]
+\centering
+\caption{\textbf{Later-Period Improvements in Domestic Flow Allocation.} Values summarize paired country comparisons with the common reference during 2018--2025. Intervals are 95\% country-bootstrap intervals. Improved counts refer to lower Poisson deviance; adjusted $P$ values use two-sided sign tests and Holm correction across the seven additions.}
+\label{tab:gravity_comparisons}
+\small
+\begin{tabular}{p{0.32\linewidth}rrrr}
+\hline
+International Addition & Reduction (\%) & 95\% CI & Improved & Adjusted $P$ \\
+\hline
+Partner-country distance & 0.27 & $[0.09,\ 0.47]$ & 50/76 & 0.0237 \\
+International inflow/outflow & 0.68 & $[0.33,\ 0.98]$ & 60/76 & 2.7e-06 \\
+Foreign-city partner counts & 0.30 & $[0.11,\ 0.43]$ & 53/76 & 0.00306 \\
+International PageRank & 0.86 & $[0.46,\ 1.63]$ & 49/76 & 0.0237 \\
+Shared foreign-city profiles & 1.42 & $[0.80,\ 2.29]$ & 50/76 & 0.0237 \\
+Foreign-mediated two-step & 3.48 & $[1.72,\ 5.98]$ & 56/76 & 0.000218 \\
+Integrated international network & 4.50 & $[2.48,\ 7.00]$ & 58/76 & 2.83e-05 \\
+\hline
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+\begin{table}[!htbp]
+\centering
+\caption{\textbf{Absolute Domestic Flow-Allocation Performance.} Values are country medians for 76 countries over the pooled 2018--2025 evaluation cells. All specifications preserve the same supplied origin totals.}
+\label{tab:gravity_absolute}
+\small
+\begin{tabular}{p{0.42\linewidth}rrr}
+\hline
+Model & CPC & Raw $R^2$ & $\log(1+x)$ $R^2$ \\
+\hline
+Reference & 0.8391 & 0.9282 & 0.8546 \\
+Foreign-mediated two-step & 0.8434 & 0.9452 & 0.8580 \\
+Integrated international network & 0.8444 & 0.9440 & 0.8569 \\
+\hline
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+\subsection{Annual Distribution Reconstruction and Network Diagnostics}
+\label{supp:network_diagnostics}
+
+The integrated specification improved annual distribution reconstruction over the same 608 country-year comparisons during 2018--2025. Gini MAE decreased from 1.4279 to 1.2680 percentage points; HHI MAE decreased from 0.010218 to 0.009030 (Supplementary Table~\ref{tab:gravity_errors}). These reconstructions supplied observed annual origin totals and retained unmodeled flows. They therefore evaluate conditional domestic distributions, rather than predicting total mobility or future events independently.
+
+\begin{table}[!htbp]
+\centering
+\caption{\textbf{Annual Domestic Distribution Reconstruction Errors.} MAE and RMSE use the same 76 countries during 2018--2025, giving equal weight to 608 country-year comparisons. Gini errors are in percentage points; HHI errors are dimensionless.}
+\label{tab:gravity_errors}
+\small
+\begin{tabular}{llrr}
+\hline
+Index & Model & MAE & RMSE \\
+\hline
+Gini (pp) & Reference & 1.4279 & 2.0188 \\
+Gini (pp) & Integrated & 1.2680 & 1.8377 \\
+HHI & Reference & 0.010218 & 0.014620 \\
+HHI & Integrated & 0.009030 & 0.013501 \\
+\hline
+\end{tabular}
+\end{table}
+\FloatBarrier
+
+The two-step-specific randomization did not support a unique advantage of the observed foreign-city correspondences. In 100 rematches preserving cities' partner-country flow margins and country-pair totals, the median deviance gain was 4.4320\%, compared with 3.4807\% for the observed feature. Only 19 of 76 countries had actual gains above their rematched median. Coefficients were held fixed rather than refitted, so this is a conditional feature-disruption diagnostic.
+
+In 200 finite-event simulations per country and evaluation period, the two-step extension changed Gini relative to the reference by a country median of $-0.0922$ percentage points (95\% country-bootstrap interval, $-0.3369$ to $0.1421$) and HHI by $-0.001512$ ($-0.004002$ to $-0.000803$). These contrasts used common city pools including zero strengths. Restricting Gini to positive simulated strengths gave a median difference of $-0.1610$ points ($-0.3709$ to $-0.0177$). The diagnostics support additional information about destination allocation, but do not identify a causal concentration mechanism or a general increase in domestic Gini attributable to the two-step feature.
+
+\subsection{Direction-Specific Annual Associations}
+\label{supp:association_results}
+
+Country- and year-fixed-effects estimates were positive for domestic Gini and negative for normalized equivalent city counts. All four confidence intervals in Supplementary Table~\ref{tab:annual_associations} included zero, and Holm-adjusted $P$ values ranged from 0.548 to 0.560. These annual within-country comparisons address a different question from pooled route allocation and full-period differences among countries.
+
+\endgroup

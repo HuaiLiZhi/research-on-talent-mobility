@@ -1,0 +1,7 @@
+{
+  "status": "Secondary diagnostic specified after seeing positive partner-distance TRAINING coefficients, before this diagnostic was run.",
+  "reason": "Strong bilateral links can make origin and destination profiles concentrate on each others countries, mechanically raising their full-profile distance.",
+  "operation": "Remove both origin home-country and destination home-country context columns, renormalize profile cosine. Geography and all historical controls unchanged.",
+  "missing": "Add missing-reduced-profile indicator to all comparison models, preserving identical risk sets.",
+  "scope": "International aggregate exact-distance city OD only; no individuals; not a redefinition silently replacing the primary distance."
+}

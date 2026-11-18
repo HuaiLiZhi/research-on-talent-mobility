@@ -1,0 +1,404 @@
+[
+  {
+    "dataset": "annual",
+    "input_file": "data\\input\\mobility\\openalex\\count_mobility_flow_annual.csv",
+    "input_bytes": 4839881270,
+    "input_sha256": "d5180eb3e682a7b7897d6029d79d32abea3cbc7b6ef50967425543856cc9098e",
+    "output_csv": "count_mobility_flow_annual_clean.csv",
+    "output_parquet": "count_mobility_flow_annual_clean.parquet",
+    "totals_conserved_by_tier": true,
+    "before": [
+      {
+        "tier": "top100pct",
+        "events": 30335569.0,
+        "rows": 16474134
+      },
+      {
+        "tier": "top10pct",
+        "events": 1196177.0,
+        "rows": 962059
+      },
+      {
+        "tier": "top20pct",
+        "events": 2549385.0,
+        "rows": 1896025
+      },
+      {
+        "tier": "top2pct",
+        "events": 206234.0,
+        "rows": 185455
+      },
+      {
+        "tier": "top50pct",
+        "events": 6444158.0,
+        "rows": 4261393
+      }
+    ],
+    "classification": [
+      {
+        "tier": "top100pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 7410457,
+        "events": 18173850.0,
+        "original_rows": 7436762.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "international",
+        "ledger_rows": 8664585,
+        "events": 11529374.0,
+        "original_rows": 8676524.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "needs_review",
+        "ledger_rows": 309210,
+        "events": 449344.0,
+        "original_rows": 310613.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 49947,
+        "events": 183001.0,
+        "original_rows": 50235.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 513993,
+        "events": 716089.0,
+        "original_rows": 514371.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "international",
+        "ledger_rows": 432196,
+        "events": 458765.0,
+        "original_rows": 432266.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "needs_review",
+        "ledger_rows": 9704,
+        "events": 10731.0,
+        "original_rows": 9728.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 5689,
+        "events": 10592.0,
+        "original_rows": 5694.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 979585,
+        "events": 1537532.0,
+        "original_rows": 980853.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "international",
+        "ledger_rows": 882798,
+        "events": 965066.0,
+        "original_rows": 883077.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "needs_review",
+        "ledger_rows": 22325,
+        "events": 25764.0,
+        "original_rows": 22412.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 9652,
+        "events": 21023.0,
+        "original_rows": 9683.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 103524,
+        "events": 121636.0,
+        "original_rows": 103539.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "international",
+        "ledger_rows": 79165,
+        "events": 81261.0,
+        "original_rows": 79171.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "needs_review",
+        "ledger_rows": 1275,
+        "events": 1345.0,
+        "original_rows": 1276.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 1469,
+        "events": 1992.0,
+        "original_rows": 1469.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 2093774,
+        "events": 3912829.0,
+        "original_rows": 2098741.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "international",
+        "ledger_rows": 2083109,
+        "events": 2408434.0,
+        "original_rows": 2084616.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "needs_review",
+        "ledger_rows": 59555,
+        "events": 74778.0,
+        "original_rows": 59864.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 18076,
+        "events": 48117.0,
+        "original_rows": 18172.0
+      }
+    ]
+  },
+  {
+    "dataset": "career",
+    "input_file": "data\\input\\mobility\\openalex\\count_mobility_flow_career.csv",
+    "input_bytes": 4643083541,
+    "input_sha256": "dba57c4b9e3a379e3decdd4669d4f4aed9d53d31e9617d542348dfd74431204d",
+    "output_csv": "count_mobility_flow_career_clean.csv",
+    "output_parquet": "count_mobility_flow_career_clean.parquet",
+    "totals_conserved_by_tier": true,
+    "before": [
+      {
+        "tier": "top100pct",
+        "events": 30335569.0,
+        "rows": 16474134
+      },
+      {
+        "tier": "top10pct",
+        "events": 993231.0,
+        "rows": 825333
+      },
+      {
+        "tier": "top20pct",
+        "events": 2067893.0,
+        "rows": 1595776
+      },
+      {
+        "tier": "top2pct",
+        "events": 190382.0,
+        "rows": 172947
+      },
+      {
+        "tier": "top50pct",
+        "events": 5454931.0,
+        "rows": 3711354
+      }
+    ],
+    "classification": [
+      {
+        "tier": "top100pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 7436762,
+        "events": 18173850.0,
+        "original_rows": 7436762.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "international",
+        "ledger_rows": 8676524,
+        "events": 11529374.0,
+        "original_rows": 8676524.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "needs_review",
+        "ledger_rows": 310613,
+        "events": 449344.0,
+        "original_rows": 310613.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 50235,
+        "events": 183001.0,
+        "original_rows": 50235.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 445936,
+        "events": 590313.0,
+        "original_rows": 445936.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "international",
+        "ledger_rows": 366534,
+        "events": 385012.0,
+        "original_rows": 366534.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "needs_review",
+        "ledger_rows": 7771,
+        "events": 8503.0,
+        "original_rows": 7771.0
+      },
+      {
+        "tier": "top10pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 5092,
+        "events": 9403.0,
+        "original_rows": 5092.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 840632,
+        "events": 1243978.0,
+        "original_rows": 840632.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "international",
+        "ledger_rows": 728854,
+        "events": 785459.0,
+        "original_rows": 728854.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "needs_review",
+        "ledger_rows": 17793,
+        "events": 20360.0,
+        "original_rows": 17793.0
+      },
+      {
+        "tier": "top20pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 8497,
+        "events": 18096.0,
+        "original_rows": 8497.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 96939,
+        "events": 112234.0,
+        "original_rows": 96939.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "international",
+        "ledger_rows": 73410,
+        "events": 74893.0,
+        "original_rows": 73410.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "needs_review",
+        "ledger_rows": 1170,
+        "events": 1225.0,
+        "original_rows": 1170.0
+      },
+      {
+        "tier": "top2pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 1428,
+        "events": 2030.0,
+        "original_rows": 1428.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 1856073,
+        "events": 3311696.0,
+        "original_rows": 1856073.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "international",
+        "ledger_rows": 1787609,
+        "events": 2037942.0,
+        "original_rows": 1787609.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "needs_review",
+        "ledger_rows": 51361,
+        "events": 63324.0,
+        "original_rows": 51361.0
+      },
+      {
+        "tier": "top50pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 16311,
+        "events": 41969.0,
+        "original_rows": 16311.0
+      }
+    ]
+  },
+  {
+    "dataset": "baseline",
+    "input_file": "data\\input\\mobility\\openalex\\mobility_flow_by_field_clean.csv",
+    "input_bytes": 3181822944,
+    "input_sha256": "b6344f0ffb3f173244a9b2d0beed53416e8f4741331137cd96b2777b4977cde7",
+    "output_csv": "mobility_flow_by_field_city_clean.csv",
+    "output_parquet": "mobility_flow_by_field_city_clean.parquet",
+    "totals_conserved_by_tier": true,
+    "before": [
+      {
+        "tier": "top100pct",
+        "events": 30335569.0,
+        "rows": 16471205
+      }
+    ],
+    "classification": [
+      {
+        "tier": "top100pct",
+        "event_status": "domestic_intercity",
+        "ledger_rows": 7435504,
+        "events": 18173850.0,
+        "original_rows": 7435504.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "international",
+        "ledger_rows": 8674863,
+        "events": 11529374.0,
+        "original_rows": 8674863.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "needs_review",
+        "ledger_rows": 310633,
+        "events": 449344.0,
+        "original_rows": 310633.0
+      },
+      {
+        "tier": "top100pct",
+        "event_status": "within_city_after_merge",
+        "ledger_rows": 50205,
+        "events": 183001.0,
+        "original_rows": 50205.0
+      }
+    ]
+  }
+]

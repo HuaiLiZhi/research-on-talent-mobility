@@ -1,0 +1,46 @@
+{
+  "status": "COMPLETE",
+  "output": "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\fig2_6_recalculation_20261023_180757",
+  "stages": 34,
+  "synced_figures": [
+    {
+      "figure": 2,
+      "source": "figures\\v3\\Fig2.pdf",
+      "manuscript_file": "outputs\\prism_fig2_5_20261023\\figures\\Fig2.pdf",
+      "sha256": "77be6fa2e386d7f63628f6c74dd592cb001fa0b431b1c9561f788af2f678d9c2"
+    },
+    {
+      "figure": 3,
+      "source": "figures\\v3\\Fig3.pdf",
+      "manuscript_file": "outputs\\prism_fig2_5_20261023\\figures\\Fig3.pdf",
+      "sha256": "709d6341db69ee862f45ca521f3d1b07a21d41c52daf502db88108c01089c14e"
+    },
+    {
+      "figure": 4,
+      "source": "figures\\v3\\Fig4.pdf",
+      "manuscript_file": "outputs\\prism_fig2_5_20261023\\figures\\Fig4.pdf",
+      "sha256": "728d10725107ffca4a675f70f811b2f5bdd29bf630faf922782c081d93101c36"
+    },
+    {
+      "figure": 5,
+      "source": "figures\\v3\\Fig5.pdf",
+      "manuscript_file": "outputs\\prism_fig2_5_20261023\\figures\\Fig5.pdf",
+      "sha256": "4c88b2a5486726ceef2b84b1d715107f77794f57fe1eca94a936d7edbc323111"
+    },
+    {
+      "figure": 6,
+      "source": "figures\\v4\\Fig6.pdf",
+      "manuscript_file": "outputs\\prism_fig2_5_20261023\\figures\\Fig6.pdf",
+      "sha256": "0709f01bd63a8b2365150452a8dcee498143ad3f5f8ddff6ee3fe9c5e4507b60"
+    }
+  ],
+  "manuscript_source_sha256": "95ab87afe582739f66f59c0bbb82eefb9346bb6d9f414b98652abfa511bad163",
+  "compiled_main": true,
+  "numeric_comparison": {
+    "tables": 23,
+    "rows": 47142,
+    "result": "unchanged_within_numerical_tolerance"
+  },
+  "visual_review": "PASS with reviewed intentional fill overlays",
+  "delivery_source_tables": 69
+}

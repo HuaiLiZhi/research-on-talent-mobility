@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-30",
+  "status": "Exploratory follow-up motivated by previously weak partner-country distance. Saved before new feature construction and model fits.",
+  "question": "Does lagged international network information improve domestic city OD allocation beyond geography, research mass, domestic destination/pair history and disciplinary similarity?",
+  "units": "Aggregate city OD-period counts only. No person trajectories read or synthesized.",
+  "time": "Train 2002-2013, rank on 2014-2017; report 2018-2025 as later-period evaluation. These later years were inspected in earlier explorations and are not a fresh independent confirmation set.",
+  "sample": "Exactly the saved domestic risk set: 76 countries, top50 domestic origins chosen in training years, all candidate destinations with positive lagged verified stock and coordinates, zero-flow cells kept and self pairs removed.",
+  "conditioning": "Each origin-city/destination-country/period observed event total is supplied; allocation, not unconditional total forecast.",
+  "baseline": [
+    "log_lag_mass",
+    "log_geographic_distance",
+    "log1p_lag_destination_domestic_inflow",
+    "log1p_lag_domestic_pair_flow",
+    "missing_field_profile",
+    "missing_partner_country_profile",
+    "disciplinary_distance"
+  ],
+  "hypotheses": {
+    "gateway": "Separate destination international inbound and outbound event counts.",
+    "reach": "Separate numbers of distinct foreign origin and destination cities.",
+    "centrality": "Directed weighted PageRank of international network and its reverse; damping0.85, uniform teleportation, no tuning.",
+    "shared_cities": "Separate incoming/outgoing TF-IDF foreign-city profiles, compared by cosine; more specific than shared partner countries.",
+    "two_step": "W @ row_normalize(W), restricted to domestic source/destination pairs. All intermediate nodes are foreign. Counts are network pathways, not the same individuals taking two moves.",
+    "all": "All nine new international features jointly, report alongside individual hypotheses."
+  },
+  "lags": "All international predictors use the entire immediately preceding four-year period; no contemporaneous target counts enter predictors.",
+  "primary": "Country-median paired conditional Poisson deviance reduction; all models reported. Rank only by validation median deviance reduction.",
+  "secondary": "CPC, raw R2=1-SSE/SST and log1p R2 on country-pooled OD cells; examine temporal sign stability.",
+  "multiplicity": "Holm correction of paired country sign tests over all7 additions to baseline per split; direct comparisons of each of6 new additions with partner-distance model are a separate family.",
+  "intervals": "4000 paired-country bootstrap pointwise intervals; shared network dependence is not eliminated by country bootstrap.",
+  "model_configs": {
+    "B_history_field": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4
+    ],
+    "P_partner_country": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      5
+    ],
+    "G_international_gateway": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10
+    ],
+    "R_foreign_city_reach": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      11,
+      12
+    ],
+    "C_international_centrality": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      13,
+      14
+    ],
+    "S_shared_foreign_cities": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      15,
+      16
+    ],
+    "T_foreign_two_step": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      17
+    ],
+    "A_all_international_signals": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      4,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "limitations": [
+    "Observational cross-layer associations, not causal effects.",
+    "New feature search is exploratory, including reused evaluation periods.",
+    "Domestic risk set covers about79.29% of 76-country later domestic events.",
+    "No guarantee of any improvement or coefficient sign; failures retained."
+  ],
+  "manuscript_modified": false
+}

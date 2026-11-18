@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "geography": "domestic",
+      "events": 18173850.0
+    },
+    {
+      "geography": "international",
+      "events": 11529374.0
+    }
+  ],
+  "no_manuscript_changes": true
+}

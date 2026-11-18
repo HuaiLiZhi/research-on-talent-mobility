@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11",
+  "backend": "Python / Matplotlib",
+  "reuse": "Exact existing data and statistical marks; local schematic and display-style changes only",
+  "figures": {
+    "Fig1": {
+      "claim": "A common BRIDGE workflow integrates data, processing and both mobility scales.",
+      "archetype": "schematic-led composite",
+      "change": "Nest the Data card inside one dashed BRIDGE frame; preserve remaining geometry and all quantitative histogram bins."
+    },
+    "Fig2": {
+      "claim": "International expansion and T1–T4 domestic concentration comparisons.",
+      "archetype": "quantitative grid",
+      "change": "Panel a blue series label Predicted; all data, fits and seven panels retained."
+    },
+    "Fig3": {
+      "claim": "Country redistribution and persistent-cohort deconcentration.",
+      "archetype": "quantitative grid",
+      "change": "Panel c fixed-cohort red 3.0 pt stroke under blue 1.25 pt stroke at actual HHI values; smaller blue markers; no offsets."
+    },
+    "Fig4": {
+      "claim": "Domestic flow and city coverage expansion.",
+      "archetype": "quantitative grid",
+      "change": "Panel a blue series label Predicted; all data, fits and three panels retained."
+    }
+  },
+  "before_sha256": {
+    "outputs/figures_T_unified_20261109/plot_Fig1.py": "88a354f5ff12fad36035f675414705541a8bd96cd3dff397d9c96a357d1f20f7",
+    "outputs/figures_T_unified_20261109/plot_Fig2.py": "afd7c3ac908fd5bb40b5400a652cb7a3a2150531c149cec3798cb24e0c551a4d",
+    "outputs/results_caption_alignment_20261031/plot_sources/plot_Fig3.py": "879cc63754e6e1c2126e173508365c66004d34f145192a7f3b49bc0e0b441c67",
+    "scripts/plots/plot_split_mobility_expansion.py": "cbde8fbbfb1d04d3b47ed2ca8be88615d81e23861eaf271576604d23d2f8a131"
+  }
+}

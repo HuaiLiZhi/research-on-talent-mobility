@@ -1,0 +1,29 @@
+{
+  "backend": "Python / Matplotlib",
+  "reuse": "Exact current renderers; replace only panels Fig2b and Fig4b. All observations, bins, T memberships, other marks and physical rectangles retained.",
+  "Fig2": {
+    "claim": "International redistribution and domestic trajectories, with independent-source comparison of deconcentration.",
+    "archetype": "quantitative grid",
+    "panel_b": "Paired categorical points for percentage HHI/Gini decrease in the same 147 countries over 1998–2023; black filled circle BRIDGE, grey open square Scopus.",
+    "dodge": "Vertical category offsets distinguish sources; the quantitative x values are not shifted.",
+    "uncertainty": "Descriptive endpoint changes; no confidence intervals claimed."
+  },
+  "Fig4": {
+    "claim": "Domestic expansion adds many low-flow cities.",
+    "archetype": "quantitative grid",
+    "panel_b": "All 76 countries in 2025: new-city count share versus flow share, both percent, grey points; equality diagonal and black marginal-median cross.",
+    "entry_definition": "First recorded after 1998, active in 2025; combined domestic city margins.",
+    "no_exclusions": true
+  },
+  "FigS1": {
+    "claim": "International and domestic destination reach broadened.",
+    "archetype": "quantitative grid",
+    "data": "Exact former Fig2b and Fig4b coverage curves; greys and line styles encode years.",
+    "no_exclusions": true
+  },
+  "input_sha256": {
+    "coverage_curves.csv": "3476b910e53473f97f8d26b5c353ae079044b470805d96104b8b5b37956dab9a",
+    "entrant_2025.csv": "367c09456ed0d55dde001f81bd66183e0c04ad8d0ed1728f176dfc4c9e34de01",
+    "international_comparison.csv": "17b7f3d37547b67643c14cc9995a24e1e67a11b944e2be73e1b49c685445a836"
+  }
+}

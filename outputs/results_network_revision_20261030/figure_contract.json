@@ -1,0 +1,27 @@
+{
+  "question": "Does lagged international city network structure add information about domestic allocation, and what model-conditional city distribution consequences follow?",
+  "backend": "Python, inherited established Matplotlib workflow",
+  "figures2to4": "Preserve established geometry; update sign-anchored T1-T4 memberships and colors; remove country cluster ellipses inFig2. No country excluded.",
+  "figure5": "Existing four-domain figure is renumbered, not redesigned.",
+  "figure6": {
+    "archetype": "schematic-led asymmetric mixed-modality figure",
+    "size_mm": [
+      180,
+      148
+    ],
+    "font_size_pt": 9,
+    "glyph_floor_pt": 5,
+    "panels": [
+      "a foreign-mediated international two-step and direct domestic route schematic",
+      "b paired model addition and strict-control country-median allocation gain with country-bootstrap intervals",
+      "c all76 country gains colored by sign-anchored T1-T4, with two main trajectory classes",
+      "d later-period Gini/HHI conditional distribution comparison and strength-preserving null diagnostic; layout resolved after analysis"
+    ]
+  },
+  "scope": "All test cities/zero OD candidates from previously declared aggregate riskset; observed origin totals supplied. No individuals read. No causal intervention claimed.",
+  "uncompleted_before_this_revision": [
+    "international partner rewiring diagnostic",
+    "finite-event conditional distribution simulation"
+  ],
+  "old_material": "Original fourth subsection and figure archived; association summaries preserved in supplementary evidence."
+}

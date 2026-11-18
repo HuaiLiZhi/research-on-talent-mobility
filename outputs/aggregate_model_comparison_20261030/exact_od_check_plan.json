@@ -1,0 +1,9 @@
+{
+  "status": "Secondary sensitivity specified after city-margin alternative comparison.",
+  "question": "Does lagged international inflow projected along domestic aggregate links improve exact-distance international OD allocation beyond mass, distance, own international inflow and local domestic degree?",
+  "sample": "Same cached 76-country exact-distance choice risk sets: top100 foreign source cities selected using training only; lag-stock positive destination candidates, recorded zero pairs included.",
+  "fitting": "Country equal total weight during train2002-2013; validation2014-2017; test2018-2025; conditions on source-city/destination-country/period observed totals.",
+  "feature": "log(1+P_D.T @ I_inflow), both P_D and I_inflow from preceding four-year period.",
+  "units": "No individual records read. This is an aggregate network exposure, not a sequence of the same movers.",
+  "scope_limit": "Selected origins cover about46.1% of test-period international incoming flows in the76 countries, as audited previously."
+}

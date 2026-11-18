@@ -1,0 +1,11 @@
+{
+  "purpose": "Stronger validation of the previous conditionalHHI result, not a new outcome search",
+  "matching": "same origin city, move year, recorded field, observed career-stage band, sufficient later publication observation",
+  "null": "within each stratum pool cohort and other domestic events; randomly reassign cohort labels while fixing stratum cohort count. Conditional association null, not randomized treatment or causal identification",
+  "quantity": "Exact finite-hypergeometric expectation of country destinationHHI, including count variance, compared with observed same-size cohortHHI",
+  "formula": "EHHI = sum_k(sum_j n_j*p_jk)^2/N^2 + sum_j[n_j*(M_j-n_j)/(M_j-1)*(1-sum_k p_jk^2)]/N^2; singleton strata are deterministic",
+  "inference": "country sign comparison and country-bootstrap interval for median relative deviation; no country-specific significance inferred from the expectation alone",
+  "sample": "manuscript76 countries, main minimum100 domestic continuation records, sensitivity500; report strata without other reference events",
+  "information_scope": "deidentified aggregated strata only exported for reproducibility; individuals remain temporary",
+  "reason": "Earlier less-adjusted benchmark suggested selectivity; linear hierarchy results weakened with fuller adjustment, so the nonlinearHHI claim needs its own matched validation"
+}

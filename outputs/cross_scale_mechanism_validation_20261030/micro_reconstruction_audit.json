@@ -1,0 +1,21 @@
+{
+  "raw_changes": 30335255,
+  "canonical_raw_changes": 30335569,
+  "unreconciled_raw_difference": 314,
+  "events": [
+    {
+      "category": "domestic",
+      "records": 17871776
+    },
+    {
+      "category": "international",
+      "records": 11371366
+    },
+    {
+      "category": "unresolved",
+      "records": 1010886
+    }
+  ],
+  "no_identifiers_exported": true,
+  "source": "Previously reconstructed persistent microdata DB opened read-only; event accounting checked against previous report."
+}

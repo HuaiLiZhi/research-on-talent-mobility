@@ -1,0 +1,14 @@
+{
+  "eligible_countries": 76,
+  "role_sizes": {
+    "Dlow_Rlow": 49,
+    "Dlow_Rhigh": 17,
+    "Dhigh_Rlow": 6,
+    "Dhigh_Rhigh": 4
+  },
+  "both_axes_separated": 56,
+  "global_domestic_fraction": 0.1778540269708319,
+  "global_source_return_fraction": 0.6961534279140527,
+  "small_groups_not_removed": true,
+  "classification": "relative route profiles, not natural clusters or policy effects"
+}

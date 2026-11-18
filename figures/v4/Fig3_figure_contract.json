@@ -1,0 +1,113 @@
+{
+  "figure": "Fig3",
+  "edition": "v4",
+  "question": "How do worldwide country shares evolve within Fig5 growth quartiles, and does deconcentration remain visible when the country membership is held fixed?",
+  "claim": "Worldwide group-share redistribution is accompanied by declining national concentration under both fixed- and all-country definitions; compare the two scopes within each metric.",
+  "archetype": "quantitative grid",
+  "backend": "python",
+  "panels": {
+    "a": "One large square: four median-share lines on a linear left axis from 0 to 1.5 percent with 0.3-percentage-point intervals, over pale stacked group-total shares on a separate linear right axis. A fifth Other countries layer completes the worldwide total to 100 percent.",
+    "b": "Upper-right square: annual Gini for fixed 203 countries and all countries, using one Gini y axis.",
+    "c": "Lower-right square: original annual Fixed/All HHI curves on one main y axis, plus a compact upper-right inset of the exact paired difference HHI_Fixed minus HHI_All over every study year."
+  },
+  "group_definition": "Reuse all 76 countries and their exact Q1-Q4 memberships from Fig5. Each group has 19 countries, classified by fitted annual relative growth of their worldwide international flow share over all 28 years. Independently recalculate all shares and growth rates from cleaned flows and verify the original memberships.",
+  "aggregation": "Combine each country annual international inflow and outflow first. For a and worldwide curves normalize by all countries; for fixed-country curves in both b/c normalize by the same 203 countries. Reuse unchanged metrics.",
+  "annual_share": "Divide country combined inflow/outflow by worldwide combined flows in each year. Left-axis lines are the median across each Fig5 group's 19 countries. Right-axis layers sum the country shares within the same fixed groups; all countries outside the 76-country cohort form Other countries. Five disjoint categories include every recorded country and sum to 100 percent every year.",
+  "data_policy": "Preserve all observations and values. b/c each display both the fixed and worldwide scopes, with 28 annual values per scope. The fixed cohort excludes 21 intermittent members only from that scope. No country is removed from worldwide curves or a.",
+  "uncertainty": "Descriptive actual annual medians, summed shares, HHI and Gini, without smoothing or uncertainty intervals. HHI curves are nearly coincident because the fixed cohort retains over 99.94 percent of worldwide endpoint flow; preserve their actual positions.",
+  "geometry": "Preserve 180 mm by 112.59 mm, three square main plots, 78 pt column gutter and 48 pt row gutter. Only a retains a secondary y axis. b and c use one y axis each. One subordinate inset inside the upper-right of c; exclude this independent difference axis from comparable-main-panel alignment.",
+  "export": {
+    "width_mm": 180,
+    "height_mm": 112.5917,
+    "font": "Helvetica",
+    "glyph_floor_pt": 5,
+    "alignment_tolerance_pt": 1.5,
+    "profiles": [
+      "manuscript",
+      "journal"
+    ],
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ]
+  },
+  "preservation": "Update v4 and its selected final exports; preserve all underlying observations and main-panel coordinates. Preserve v3.",
+  "visual_style": {
+    "marker": "filled circle",
+    "markers_encode": "Actual annual observations shown as complete 4.5 pt filled circles.",
+    "panels_b_c": "Keep the original b style: 2 pt solid lines and complete 4.5 pt filled circles. Only c Fixed gets an additional red trace offset upward by 2.25 pt for visibility, retaining its original exact path.",
+    "panel_a": "Preserve 2 pt lines and 4.5 pt filled circles.",
+    "shared_cohort_visibility": {
+      "panels": [
+        "b",
+        "c"
+      ],
+      "mode": "Full solid strokes and filled circles",
+      "linewidth_pt": 2,
+      "marker_diameter_pt": 4.5,
+      "half_stroke_clipping": false,
+      "data_offsets": false
+    },
+    "c_red_adjacent_trace": {
+      "panel": "c",
+      "series": "Fixed",
+      "display_offset_pt": [
+        0,
+        2.25
+      ],
+      "linewidth_pt": 2,
+      "marker_diameter_pt": 4.5,
+      "original_trace_retained": true,
+      "applies_to": "Line and complete circular markers",
+      "disclosure": "A small additional red display trace is offset upward for visibility; read exact Fixed-minus-All HHI differences in the inset."
+    }
+  },
+  "fixed_country_cohort": {
+    "rule": "Positive combined international inflow plus outflow in every study year",
+    "country_count": 203,
+    "excluded_country_count": 21,
+    "selection": "All eligible countries, without discretionary exclusions or a volume threshold",
+    "flow_scope": "Retain all international margins of each included country, including links to countries outside the cohort; do not restrict to induced-subnetwork bilateral links",
+    "denominator": "Sum of combined international country margins within the same fixed 203-country cohort each year",
+    "ranking": "No rank axis is plotted. Annual HHI/Gini use the same 203 countries and within-cohort normalization.",
+    "metrics": "Gini plotted in b and HHI in c, alongside worldwide comparisons; all 28 years used.",
+    "panel_scope": "Fixed-country curves in b/c use cohort normalization. Worldwide curves in b/c and a denominators use all recorded countries."
+  },
+  "background_grid": {
+    "style": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid"
+    },
+    "intermediate": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid",
+      "per_major_interval": 1
+    },
+    "placement": "Continue both the major-tick intervals and their midpoint guides beyond the outermost labelled ticks, stopping at plot limits. Use display-space intervals on logarithmic axes.",
+    "text_clearance_pt": 2.4,
+    "primary_axes_only": true,
+    "preserve_data_and_layout": true,
+    "legend_footprints_clear": true,
+    "complete_plot_boundaries": false,
+    "extend_intermediate_spacing_to_edges": true,
+    "preserve_ticks_limits_data_and_layout": true,
+    "boundary_text_policy": "No added perimeter. Keep all interior grid guides clear of text and legend footprints.",
+    "extend_major_spacing_to_edges": true,
+    "boundary_rule": "No added perimeter; continue regular interior major and midpoint grids up to plot limits."
+  },
+  "difference_inset": {
+    "panel": "c",
+    "quantity": "HHI_Fixed - HHI_All",
+    "annual_values": 28,
+    "main_curves": "Keep all original paths and data; an additional c Fixed display trace is offset upward by 2.25 pt. The inset shows exact HHI differences.",
+    "y_axis": "Zero-based linear scale, scientific notation",
+    "curve": "Dark gray solid line with small filled annual circles",
+    "purpose": "Resolve small paired differences while preserving the common national deconcentration trend",
+    "excluded_from_main_alignment": "Independent subordinate inset with a different response scale"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "backend": "Python / Matplotlib",
+  "archetype": "quantitative grid, one row per figure",
+  "width_mm": 180,
+  "height_pt": 160,
+  "panels_international": {
+    "a": "Recorded international event totals versus fixed initial flow-per-route reference",
+    "b": "Source-country reach of destination countries in four years",
+    "c": "Country event-growth versus international-partner growth; 76 countries"
+  },
+  "panels_domestic": {
+    "a": "Recorded domestic event totals versus fixed initial flow-per-route reference",
+    "b": "Within-country source-city reach of destinations in four years; equal country weights",
+    "c": "Country domestic event-growth versus city-coverage growth; 76 countries"
+  },
+  "data_change": "None; reuse every exported observation, curve vertex and fit from current figure. No downsampling or new fitting.",
+  "palette": "Preserve observed/reference, year and T1-T4 mappings",
+  "renumbering": {
+    "old_Fig2_abe": "Fig2_abc",
+    "old_Fig3": "Fig3",
+    "old_Fig2_cdf": "Fig4_abc",
+    "old_Fig4": "Fig5",
+    "old_Fig5": "Fig6"
+  },
+  "placement": "International growth figure after first two paragraphs of Results 1; domestic growth after first two paragraphs of Results 2",
+  "export": [
+    "pdf",
+    "svg",
+    "png"
+  ],
+  "qa": [
+    "numeric equality to saved current source tables",
+    "rendered plot-area alignment",
+    "PDF glyph floor",
+    "PDF collision audit",
+    "visual inspection",
+    "main LaTeX compilation"
+  ]
+}

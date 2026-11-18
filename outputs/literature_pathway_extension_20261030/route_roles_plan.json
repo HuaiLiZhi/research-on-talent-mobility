@@ -1,0 +1,17 @@
+{
+  "status": "Descriptive role extension specified before computing role memberships; not a new search for outcome association significance",
+  "axes": [
+    "domestic next move / all geography-resolved five-year first-continuation records including no recorded change",
+    "previous-source return / all next international moves"
+  ],
+  "reference": "each country compared with all other countries in the fixed76-country sample, using records as weights; profile reference, not natural threshold",
+  "eligible": "at least500 resolved five-year arrival records and100 next-international moves",
+  "roles": "four possible above/below-reference combinations; do not give policy or causal labels",
+  "stability": [
+    "entry cohort2012-2014 vs2015-2018 with at least200 resolved records and100 international next moves in both",
+    "early-cohort fixed reference applied to both cohorts",
+    "three- vsfive-year windows",
+    "post-entry observation interval variants"
+  ],
+  "caution": "cohort observation periods overlap; this is replication of descriptive role profiles, not deployment forecasting. Count bootstrap captures conditional profile variability, not data coverage or author-disambiguation error."
+}

@@ -1,0 +1,4192 @@
+country,year,domain,all_domestic_events,target_events
+ID,2022,Social Sciences,17499,72
+BR,2020,Physical Sciences,9106,240
+BR,2021,Physical Sciences,8418,143
+BR,2023,Physical Sciences,10097,54
+FR,2013,Life Sciences,7005,201
+CN,2018,Physical Sciences,120528,5994
+GB,2016,Health Sciences,11306,829
+GB,2017,Life Sciences,3825,426
+US,2014,Life Sciences,32351,1341
+US,2016,Life Sciences,33838,1957
+US,2018,Life Sciences,34737,2244
+CN,2020,Life Sciences,57260,1311
+FR,2023,Physical Sciences,20678,64
+JP,2015,Life Sciences,6825,174
+RU,2022,Life Sciences,2054,13
+CN,2019,Health Sciences,55234,2547
+AU,2019,Physical Sciences,1708,272
+ID,2017,Health Sciences,1253,43
+FR,2017,Physical Sciences,19680,1127
+US,2013,Physical Sciences,40798,1008
+CN,2016,Physical Sciences,99387,4865
+IT,2018,Social Sciences,1485,84
+US,2015,Health Sciences,70152,3019
+US,2022,Social Sciences,29046,369
+US,2023,Health Sciences,97289,559
+CN,2023,Health Sciences,89626,236
+PL,2018,Physical Sciences,1531,71
+PL,2020,Physical Sciences,1471,30
+IN,2023,Health Sciences,23131,132
+NL,2019,Social Sciences,960,59
+ES,2015,Health Sciences,6213,238
+FR,2016,Social Sciences,6983,370
+CN,2013,Life Sciences,32569,927
+US,2020,Physical Sciences,51482,2565
+TR,2022,Social Sciences,3098,26
+DK,2023,Health Sciences,1961,10
+IN,2013,Health Sciences,6497,214
+US,2017,Life Sciences,33919,2252
+TR,2016,Physical Sciences,1606,49
+JP,2022,Physical Sciences,10541,85
+RU,2023,Life Sciences,2410,11
+CN,2017,Health Sciences,45531,2459
+CN,2014,Social Sciences,12057,371
+CN,2015,Health Sciences,40740,1975
+US,2019,Social Sciences,31212,1571
+TR,2021,Physical Sciences,2362,36
+JP,2016,Health Sciences,16073,439
+JP,2020,Life Sciences,6719,140
+CN,2022,Physical Sciences,166259,1277
+JP,2014,Life Sciences,6888,144
+NO,2020,Health Sciences,534,23
+DE,2014,Physical Sciences,8834,482
+FR,2018,Physical Sciences,20064,1102
+FR,2020,Physical Sciences,21049,618
+FI,2021,Physical Sciences,521,19
+FI,2022,Physical Sciences,501,16
+IR,2018,Social Sciences,1476,36
+GB,2014,Social Sciences,4524,290
+IN,2022,Health Sciences,18435,163
+JP,2023,Health Sciences,18819,60
+CN,2021,Physical Sciences,163128,2211
+GB,2022,Health Sciences,12926,206
+IT,2017,Health Sciences,7989,362
+IT,2022,Life Sciences,2713,28
+IT,2023,Life Sciences,3141,14
+MY,2014,Life Sciences,169,5
+TR,2017,Health Sciences,4061,218
+ES,2014,Health Sciences,5831,187
+IT,2019,Physical Sciences,4439,257
+GB,2020,Social Sciences,5497,385
+GR,2023,Health Sciences,1175,6
+DE,2022,Health Sciences,8224,117
+IN,2016,Physical Sciences,14199,895
+FR,2019,Social Sciences,7627,325
+JP,2017,Physical Sciences,12388,418
+PL,2013,Physical Sciences,1443,28
+PL,2014,Physical Sciences,1504,48
+PL,2017,Physical Sciences,1549,51
+BR,2013,Life Sciences,4412,73
+BR,2018,Life Sciences,6796,269
+RU,2019,Physical Sciences,8352,299
+FR,2021,Life Sciences,8661,109
+FR,2022,Life Sciences,8322,46
+ID,2014,Health Sciences,296,9
+RU,2021,Physical Sciences,8273,100
+IT,2021,Health Sciences,10645,182
+DK,2020,Health Sciences,1702,52
+ID,2018,Health Sciences,1709,57
+ID,2023,Life Sciences,4824,10
+ID,2013,Physical Sciences,593,15
+IR,2021,Physical Sciences,4118,46
+IT,2015,Physical Sciences,3814,162
+IN,2018,Physical Sciences,18878,1156
+ID,2019,Health Sciences,2474,85
+BR,2022,Social Sciences,10148,100
+ID,2021,Health Sciences,3838,29
+IT,2020,Health Sciences,10987,318
+EG,2021,Life Sciences,806,15
+CA,2015,Physical Sciences,2062,144
+US,2021,Social Sciences,30622,602
+IN,2014,Health Sciences,7786,427
+IN,2017,Physical Sciences,16047,990
+IN,2019,Health Sciences,13692,773
+ID,2016,Physical Sciences,1866,85
+AU,2015,Life Sciences,879,82
+NL,2017,Social Sciences,902,66
+NL,2023,Physical Sciences,1224,22
+ES,2022,Physical Sciences,3312,69
+SA,2023,Health Sciences,1718,9
+MA,2018,Social Sciences,77,4
+IR,2020,Social Sciences,1771,19
+MA,2014,Physical Sciences,196,11
+MA,2016,Physical Sciences,303,23
+ES,2021,Health Sciences,8862,152
+FR,2015,Social Sciences,6636,285
+JP,2013,Life Sciences,6931,97
+TR,2013,Health Sciences,3311,70
+CA,2019,Physical Sciences,2368,268
+PK,2022,Health Sciences,2388,38
+KR,2013,Health Sciences,6607,148
+KR,2021,Life Sciences,3287,46
+GB,2015,Health Sciences,11434,721
+TH,2017,Social Sciences,96,6
+DE,2013,Social Sciences,3367,97
+DE,2021,Social Sciences,4748,117
+KR,2015,Health Sciences,6894,248
+CZ,2022,Physical Sciences,587,11
+DE,2019,Social Sciences,4408,231
+DE,2020,Health Sciences,9007,317
+GB,2019,Health Sciences,12472,1013
+JP,2021,Social Sciences,1782,24
+PK,2016,Life Sciences,486,60
+CL,2019,Life Sciences,198,18
+BR,2016,Physical Sciences,6356,307
+BR,2017,Physical Sciences,7055,392
+ES,2023,Physical Sciences,3613,33
+BE,2021,Physical Sciences,589,24
+CA,2023,Life Sciences,1541,23
+DE,2023,Physical Sciences,10021,118
+IT,2014,Physical Sciences,3907,130
+JP,2018,Life Sciences,6687,245
+IN,2015,Social Sciences,1797,119
+IL,2023,Health Sciences,1798,7
+CH,2018,Physical Sciences,953,139
+GB,2021,Social Sciences,5116,224
+DE,2016,Social Sciences,4038,261
+DE,2018,Social Sciences,4430,286
+BR,2014,Physical Sciences,5168,172
+IN,2021,Social Sciences,4604,75
+BR,2019,Life Sciences,6908,212
+RU,2020,Physical Sciences,8524,172
+MX,2022,Health Sciences,1223,14
+MX,2023,Social Sciences,942,5
+IR,2022,Health Sciences,3522,20
+AR,2020,Social Sciences,1253,60
+DE,2017,Life Sciences,4384,295
+TN,2016,Life Sciences,163,11
+PK,2014,Life Sciences,312,29
+ZA,2019,Physical Sciences,590,32
+PK,2021,Physical Sciences,1773,77
+BR,2015,Social Sciences,6597,283
+CA,2021,Life Sciences,1426,54
+CA,2022,Life Sciences,1309,35
+CH,2022,Physical Sciences,1031,49
+UA,2019,Health Sciences,390,12
+IR,2015,Social Sciences,977,27
+IR,2016,Health Sciences,2803,104
+SE,2021,Health Sciences,1061,21
+ES,2013,Social Sciences,1465,30
+RS,2020,Physical Sciences,180,7
+TR,2020,Physical Sciences,2191,52
+ES,2016,Health Sciences,6421,268
+DZ,2019,Physical Sciences,772,26
+EG,2022,Physical Sciences,1085,20
+NO,2021,Social Sciences,307,6
+NG,2017,Social Sciences,317,12
+NG,2022,Life Sciences,711,1
+IR,2013,Physical Sciences,2560,35
+KE,2019,Health Sciences,71,7
+CO,2018,Life Sciences,199,19
+UG,2019,Health Sciences,65,10
+RU,2015,Social Sciences,590,30
+GB,2013,Physical Sciences,4127,146
+GB,2023,Physical Sciences,5956,111
+PT,2017,Health Sciences,1158,113
+VN,2023,Physical Sciences,1142,15
+TR,2019,Health Sciences,5335,234
+TR,2023,Life Sciences,1508,4
+BE,2014,Social Sciences,296,15
+CH,2013,Life Sciences,462,23
+RU,2016,Social Sciences,639,28
+MX,2021,Health Sciences,1196,24
+TH,2015,Social Sciences,84,3
+IR,2023,Physical Sciences,3754,12
+SA,2020,Life Sciences,120,8
+IL,2021,Life Sciences,539,8
+AU,2017,Life Sciences,959,125
+MY,2021,Life Sciences,396,6
+IN,2020,Social Sciences,3926,120
+KR,2017,Health Sciences,6849,303
+MY,2022,Physical Sciences,1379,16
+ZA,2018,Life Sciences,267,17
+KR,2020,Life Sciences,3196,81
+KR,2022,Social Sciences,1002,21
+PK,2015,Health Sciences,447,72
+PL,2021,Physical Sciences,1485,17
+TH,2021,Health Sciences,456,3
+KR,2014,Physical Sciences,6927,254
+NL,2015,Health Sciences,2324,96
+IR,2017,Physical Sciences,3823,125
+AU,2023,Physical Sciences,1955,38
+IT,2016,Physical Sciences,3933,209
+SE,2013,Physical Sciences,801,22
+IE,2021,Social Sciences,173,10
+GB,2018,Life Sciences,3718,383
+TZ,2015,Physical Sciences,8,1
+MX,2019,Life Sciences,1048,49
+SE,2019,Health Sciences,1091,59
+FI,2016,Physical Sciences,419,24
+AT,2020,Health Sciences,343,14
+FR,2014,Health Sciences,10752,301
+DE,2015,Social Sciences,3825,190
+SE,2020,Life Sciences,412,33
+CA,2020,Social Sciences,1865,115
+EG,2023,Health Sciences,2117,23
+SK,2020,Physical Sciences,147,5
+SK,2021,Health Sciences,101,1
+CM,2015,Physical Sciences,26,2
+PT,2019,Health Sciences,1458,145
+CH,2021,Health Sciences,1511,87
+CH,2016,Health Sciences,998,96
+KR,2019,Physical Sciences,6991,398
+KR,2016,Social Sciences,907,71
+PT,2016,Health Sciences,1059,86
+PT,2020,Health Sciences,1472,82
+PT,2023,Health Sciences,1979,24
+JP,2019,Social Sciences,1686,43
+TH,2018,Physical Sciences,484,17
+KR,2023,Social Sciences,1144,6
+TR,2014,Life Sciences,927,24
+MY,2015,Physical Sciences,1014,81
+BD,2018,Life Sciences,331,32
+BD,2021,Life Sciences,490,16
+BD,2022,Health Sciences,405,8
+RU,2018,Physical Sciences,7360,232
+PK,2020,Social Sciences,841,55
+PK,2023,Health Sciences,2665,23
+ES,2020,Social Sciences,2443,121
+VN,2021,Health Sciences,333,14
+NG,2020,Life Sciences,876,23
+KR,2018,Social Sciences,899,75
+ID,2020,Life Sciences,2789,34
+MY,2020,Physical Sciences,1413,37
+AR,2014,Life Sciences,882,32
+EG,2015,Life Sciences,455,27
+PL,2015,Physical Sciences,1626,46
+NZ,2013,Physical Sciences,152,5
+VN,2019,Life Sciences,167,20
+PT,2021,Physical Sciences,1042,26
+CA,2013,Health Sciences,3001,95
+ES,2017,Physical Sciences,2716,176
+IT,2013,Life Sciences,2399,51
+ES,2018,Physical Sciences,2868,214
+EG,2018,Life Sciences,605,45
+SE,2017,Physical Sciences,838,74
+NG,2014,Life Sciences,341,6
+NL,2014,Health Sciences,2144,65
+NL,2022,Life Sciences,807,24
+DK,2013,Life Sciences,383,14
+BD,2020,Physical Sciences,413,19
+CA,2018,Physical Sciences,2397,272
+PT,2018,Physical Sciences,960,67
+UA,2020,Social Sciences,608,10
+BE,2017,Health Sciences,838,58
+IR,2014,Health Sciences,1949,54
+HU,2013,Health Sciences,232,3
+MX,2016,Life Sciences,781,34
+SE,2023,Health Sciences,1158,9
+AT,2014,Physical Sciences,360,24
+CA,2016,Health Sciences,3619,290
+IL,2020,Health Sciences,1628,43
+EG,2013,Health Sciences,397,15
+RU,2017,Social Sciences,892,41
+NG,2013,Life Sciences,221,4
+BD,2015,Life Sciences,244,24
+ID,2015,Life Sciences,687,28
+PT,2015,Life Sciences,436,30
+CH,2019,Social Sciences,418,44
+MA,2019,Health Sciences,316,12
+MA,2021,Health Sciences,451,7
+NL,2016,Physical Sciences,932,78
+EG,2020,Life Sciences,793,24
+IL,2016,Health Sciences,1241,60
+GR,2018,Health Sciences,831,36
+CH,2015,Life Sciences,492,54
+MY,2019,Social Sciences,815,35
+SA,2022,Social Sciences,207,7
+TN,2023,Health Sciences,598,3
+AU,2018,Physical Sciences,1746,299
+AU,2020,Social Sciences,1287,98
+DK,2014,Physical Sciences,424,31
+NG,2019,Social Sciences,444,20
+EG,2019,Physical Sciences,878,74
+CM,2014,Life Sciences,25,1
+RO,2013,Physical Sciences,255,7
+RO,2014,Physical Sciences,267,10
+SE,2016,Physical Sciences,750,55
+RU,2013,Health Sciences,763,12
+TN,2017,Life Sciences,136,10
+BE,2019,Life Sciences,369,31
+BE,2018,Physical Sciences,517,47
+FI,2019,Social Sciences,462,24
+TN,2019,Physical Sciences,425,37
+IR,2019,Life Sciences,1965,43
+GR,2022,Life Sciences,341,3
+SA,2014,Life Sciences,35,3
+TH,2016,Physical Sciences,403,9
+GR,2015,Life Sciences,248,8
+GR,2020,Life Sciences,341,12
+UA,2018,Health Sciences,293,15
+CA,2014,Life Sciences,1359,68
+MY,2017,Physical Sciences,1190,83
+PK,2017,Life Sciences,567,91
+NL,2013,Social Sciences,700,18
+CL,2022,Life Sciences,182,8
+RO,2015,Life Sciences,95,9
+RO,2016,Life Sciences,117,6
+JO,2021,Social Sciences,62,1
+DK,2021,Social Sciences,395,14
+MA,2013,Social Sciences,18,2
+CZ,2016,Physical Sciences,539,41
+PL,2019,Health Sciences,1488,48
+AR,2017,Life Sciences,1133,49
+NZ,2017,Health Sciences,249,22
+AR,2016,Social Sciences,921,68
+IL,2013,Life Sciences,427,9
+IL,2018,Health Sciences,1467,63
+IE,2020,Physical Sciences,157,12
+SA,2021,Physical Sciences,249,14
+NL,2021,Physical Sciences,1133,44
+SE,2018,Social Sciences,561,39
+MX,2018,Health Sciences,961,55
+AT,2015,Life Sciences,156,18
+PT,2022,Life Sciences,593,8
+NG,2021,Physical Sciences,1011,17
+NG,2023,Social Sciences,1036,4
+PK,2019,Social Sciences,587,61
+AR,2021,Life Sciences,1165,21
+LK,2022,Health Sciences,115,1
+UA,2016,Physical Sciences,671,27
+NO,2013,Social Sciences,183,2
+HR,2015,Social Sciences,140,4
+AR,2013,Life Sciences,789,9
+CO,2023,Life Sciences,334,6
+DZ,2021,Physical Sciences,882,20
+MX,2017,Physical Sciences,1283,95
+CZ,2023,Health Sciences,457,3
+FI,2023,Social Sciences,488,7
+AU,2013,Physical Sciences,1288,91
+IL,2015,Health Sciences,1193,42
+BE,2023,Life Sciences,418,2
+SE,2014,Physical Sciences,813,35
+ES,2019,Social Sciences,2195,153
+ZA,2020,Health Sciences,810,20
+TR,2018,Social Sciences,2392,112
+CO,2017,Social Sciences,461,41
+BE,2015,Life Sciences,360,17
+BE,2020,Life Sciences,405,21
+IL,2022,Physical Sciences,454,5
+PL,2022,Life Sciences,561,6
+AU,2021,Physical Sciences,1760,130
+TH,2020,Physical Sciences,544,14
+CH,2020,Physical Sciences,956,93
+NZ,2018,Life Sciences,166,15
+IL,2014,Health Sciences,1022,37
+NL,2020,Life Sciences,858,47
+DK,2018,Physical Sciences,479,55
+MX,2014,Social Sciences,457,26
+MY,2023,Physical Sciences,1713,4
+DK,2016,Life Sciences,414,47
+BD,2023,Health Sciences,515,5
+CA,2017,Physical Sciences,2123,244
+AU,2022,Physical Sciences,1676,70
+KE,2015,Health Sciences,39,1
+IL,2019,Life Sciences,496,25
+HU,2023,Social Sciences,391,1
+PT,2014,Health Sciences,939,69
+ZA,2022,Life Sciences,309,4
+FI,2014,Health Sciences,413,5
+CR,2020,Physical Sciences,17,1
+CL,2013,Health Sciences,167,6
+AT,2023,Physical Sciences,521,10
+MY,2016,Social Sciences,505,18
+KE,2023,Physical Sciences,113,1
+GR,2014,Physical Sciences,580,15
+RU,2014,Social Sciences,342,11
+NO,2019,Health Sciences,502,27
+NO,2014,Physical Sciences,363,16
+MX,2020,Life Sciences,1149,36
+FI,2017,Social Sciences,397,19
+DZ,2020,Life Sciences,161,5
+FI,2015,Health Sciences,458,15
+FI,2020,Health Sciences,432,6
+NG,2018,Physical Sciences,570,36
+HU,2016,Health Sciences,267,13
+CU,2016,Health Sciences,197,12
+CO,2020,Social Sciences,581,28
+CO,2021,Social Sciences,524,8
+AE,2017,Physical Sciences,36,10
+TH,2019,Health Sciences,360,11
+DK,2019,Social Sciences,386,37
+RO,2020,Health Sciences,292,5
+MA,2022,Health Sciences,373,4
+LK,2018,Health Sciences,71,7
+BE,2022,Life Sciences,379,5
+PL,2016,Life Sciences,678,16
+SE,2015,Social Sciences,515,35
+DK,2022,Social Sciences,349,10
+IL,2017,Life Sciences,501,25
+FI,2018,Physical Sciences,447,26
+SK,2015,Physical Sciences,148,3
+NZ,2023,Health Sciences,316,10
+HU,2014,Health Sciences,227,6
+AR,2018,Social Sciences,1092,80
+NZ,2021,Life Sciences,160,6
+NO,2023,Social Sciences,344,4
+RO,2023,Life Sciences,126,1
+SE,2022,Life Sciences,363,9
+MW,2020,Health Sciences,56,3
+MW,2023,Health Sciences,92,1
+MX,2013,Social Sciences,393,11
+HU,2018,Physical Sciences,319,10
+PH,2018,Life Sciences,40,2
+KE,2021,Social Sciences,157,1
+CZ,2018,Social Sciences,225,9
+CZ,2015,Health Sciences,328,13
+FI,2013,Physical Sciences,467,12
+KE,2014,Life Sciences,46,3
+TH,2022,Social Sciences,165,3
+NL,2018,Social Sciences,913,76
+GR,2019,Life Sciences,330,12
+HU,2021,Social Sciences,342,7
+NZ,2020,Life Sciences,176,18
+CZ,2017,Life Sciences,317,21
+CZ,2020,Life Sciences,317,5
+CO,2015,Health Sciences,343,31
+HR,2016,Life Sciences,39,3
+GR,2017,Physical Sciences,537,34
+CL,2015,Life Sciences,120,9
+VE,2020,Physical Sciences,16,1
+SA,2016,Life Sciences,65,12
+SA,2017,Physical Sciences,118,40
+TR,2015,Life Sciences,983,42
+NG,2016,Physical Sciences,421,18
+SI,2016,Physical Sciences,72,3
+MX,2015,Life Sciences,727,30
+HR,2022,Social Sciences,140,3
+AU,2016,Life Sciences,960,102
+JO,2019,Social Sciences,36,3
+IE,2013,Life Sciences,140,8
+NZ,2019,Health Sciences,310,31
+LK,2021,Social Sciences,88,4
+AR,2022,Social Sciences,1126,14
+TN,2022,Health Sciences,417,7
+HR,2018,Life Sciences,68,1
+AR,2015,Social Sciences,800,67
+SK,2014,Physical Sciences,142,2
+CL,2020,Life Sciences,198,15
+SK,2019,Health Sciences,104,3
+CH,2017,Life Sciences,524,70
+BD,2014,Health Sciences,160,21
+LK,2023,Physical Sciences,166,3
+RS,2018,Health Sciences,183,13
+PH,2015,Life Sciences,38,2
+NO,2015,Social Sciences,184,11
+IE,2015,Life Sciences,115,10
+RS,2019,Health Sciences,219,11
+MA,2023,Life Sciences,209,1
+AU,2014,Life Sciences,911,60
+CH,2014,Life Sciences,464,30
+DK,2017,Physical Sciences,445,54
+IE,2016,Life Sciences,145,18
+AT,2018,Social Sciences,149,15
+EE,2021,Social Sciences,32,1
+SI,2015,Social Sciences,54,2
+SI,2017,Social Sciences,66,5
+AR,2019,Health Sciences,599,31
+RO,2021,Physical Sciences,376,11
+AR,2023,Life Sciences,1228,3
+CH,2023,Life Sciences,762,14
+NO,2017,Physical Sciences,449,39
+HU,2022,Physical Sciences,358,5
+TZ,2017,Life Sciences,17,1
+GR,2016,Physical Sciences,566,27
+MY,2018,Life Sciences,327,26
+VN,2017,Physical Sciences,259,47
+HU,2017,Life Sciences,368,12
+VN,2015,Physical Sciences,144,24
+CO,2014,Life Sciences,134,7
+VN,2018,Physical Sciences,350,57
+NO,2018,Physical Sciences,414,47
+AT,2013,Social Sciences,110,1
+UA,2021,Social Sciences,883,7
+CO,2019,Physical Sciences,406,43
+IE,2014,Physical Sciences,145,14
+CO,2016,Social Sciences,428,27
+RO,2018,Health Sciences,242,13
+BD,2013,Health Sciences,133,13
+BE,2013,Life Sciences,348,15
+BE,2016,Life Sciences,318,22
+HU,2015,Social Sciences,159,7
+CZ,2013,Health Sciences,354,6
+TN,2021,Physical Sciences,399,9
+GR,2021,Life Sciences,313,2
+PK,2018,Social Sciences,454,54
+HU,2020,Physical Sciences,305,9
+KE,2018,Health Sciences,75,7
+CO,2022,Physical Sciences,372,8
+TN,2015,Physical Sciences,311,25
+CZ,2019,Health Sciences,459,24
+NO,2016,Physical Sciences,502,57
+CL,2017,Health Sciences,232,21
+CL,2021,Life Sciences,168,6
+HU,2019,Life Sciences,298,15
+IS,2016,Physical Sciences,17,2
+BY,2015,Physical Sciences,40,1
+GH,2023,Health Sciences,154,1
+RS,2017,Social Sciences,143,14
+BG,2016,Life Sciences,37,2
+VN,2022,Health Sciences,399,12
+PT,2013,Social Sciences,353,17
+GR,2013,Physical Sciences,508,8
+RS,2013,Physical Sciences,116,3
+DZ,2013,Physical Sciences,287,9
+AT,2019,Health Sciences,337,23
+GH,2014,Social Sciences,22,1
+NG,2015,Health Sciences,620,14
+UG,2020,Social Sciences,31,2
+IE,2017,Social Sciences,120,10
+TN,2014,Life Sciences,93,4
+BD,2017,Health Sciences,246,30
+RS,2022,Health Sciences,178,4
+BY,2014,Physical Sciences,37,2
+AT,2021,Social Sciences,198,14
+AT,2022,Social Sciences,212,6
+ZA,2014,Life Sciences,210,11
+ZA,2016,Life Sciences,279,12
+ZA,2017,Life Sciences,277,23
+TH,2013,Social Sciences,45,2
+NO,2022,Social Sciences,316,11
+HR,2020,Health Sciences,199,5
+CU,2017,Social Sciences,42,4
+NZ,2016,Social Sciences,143,7
+TN,2020,Life Sciences,191,5
+TZ,2020,Physical Sciences,41,3
+SA,2019,Physical Sciences,175,39
+PR,2015,Physical Sciences,35,2
+EE,2018,Social Sciences,19,1
+KE,2020,Physical Sciences,74,4
+JO,2016,Health Sciences,35,5
+GH,2020,Physical Sciences,98,4
+AT,2016,Life Sciences,136,7
+RS,2015,Social Sciences,101,9
+LK,2020,Social Sciences,38,1
+IE,2019,Social Sciences,126,13
+CL,2016,Health Sciences,192,19
+ZA,2013,Health Sciences,451,10
+ZA,2021,Physical Sciences,557,15
+LT,2018,Social Sciences,75,2
+BG,2018,Social Sciences,39,2
+RS,2016,Life Sciences,68,5
+CL,2018,Physical Sciences,331,47
+VN,2020,Life Sciences,208,25
+RO,2017,Health Sciences,280,15
+HR,2017,Social Sciences,138,10
+LK,2019,Life Sciences,50,5
+CU,2014,Life Sciences,36,1
+UA,2017,Health Sciences,202,6
+NZ,2014,Health Sciences,196,11
+IE,2023,Social Sciences,186,5
+UA,2023,Social Sciences,1018,2
+BD,2016,Life Sciences,352,57
+SK,2017,Social Sciences,53,6
+PH,2017,Social Sciences,34,3
+ZA,2023,Life Sciences,362,2
+EG,2016,Life Sciences,533,40
+DK,2015,Physical Sciences,425,40
+SA,2018,Life Sciences,84,16
+DZ,2017,Social Sciences,69,2
+CZ,2014,Social Sciences,156,7
+HR,2019,Health Sciences,184,2
+BG,2019,Social Sciences,35,2
+VN,2016,Physical Sciences,232,40
+GH,2019,Health Sciences,77,5
+DZ,2022,Health Sciences,104,2
+CM,2022,Health Sciences,124,1
+DZ,2014,Life Sciences,42,2
+MY,2013,Health Sciences,250,7
+UG,2015,Life Sciences,9,3
+MA,2020,Social Sciences,142,4
+NZ,2022,Health Sciences,290,9
+AE,2023,Physical Sciences,141,3
+AE,2021,Social Sciences,44,2
+BG,2023,Physical Sciences,104,1
+GH,2022,Physical Sciences,101,3
+ZA,2015,Life Sciences,249,13
+BG,2015,Physical Sciences,51,2
+CR,2017,Health Sciences,10,2
+JO,2014,Physical Sciences,45,4
+IE,2018,Social Sciences,132,15
+IS,2018,Life Sciences,8,3
+DZ,2015,Life Sciences,63,2
+IS,2013,Physical Sciences,10,1
+RO,2019,Health Sciences,338,27
+TZ,2021,Life Sciences,38,3
+RS,2021,Physical Sciences,162,3
+NZ,2015,Health Sciences,225,23
+CL,2023,Social Sciences,384,6
+EG,2017,Social Sciences,86,9
+CR,2019,Physical Sciences,16,1
+DZ,2016,Life Sciences,86,5
+DZ,2023,Social Sciences,70,1
+JO,2015,Physical Sciences,48,8
+LT,2013,Life Sciences,14,1
+LT,2014,Life Sciences,20,3
+KE,2017,Physical Sciences,46,2
+LK,2015,Life Sciences,32,3
+MW,2021,Health Sciences,60,4
+VN,2014,Physical Sciences,138,21
+CZ,2021,Social Sciences,253,4
+IS,2020,Social Sciences,10,1
+AT,2017,Life Sciences,137,17
+JO,2020,Life Sciences,20,2
+RS,2023,Social Sciences,142,1
+TN,2018,Social Sciences,73,5
+SK,2016,Physical Sciences,144,6
+CM,2018,Physical Sciences,61,6
+PH,2021,Social Sciences,95,3
+RS,2014,Social Sciences,81,4
+SI,2020,Life Sciences,22,1
+CR,2016,Social Sciences,39,4
+IE,2022,Social Sciences,156,7
+CO,2013,Life Sciences,135,6
+SK,2018,Social Sciences,58,3
+SK,2022,Health Sciences,97,3
+PK,2013,Life Sciences,231,12
+JO,2022,Social Sciences,70,1
+MT,2021,Health Sciences,12,1
+PH,2014,Life Sciences,19,1
+AE,2022,Health Sciences,65,3
+KE,2022,Life Sciences,66,1
+CL,2014,Social Sciences,147,7
+SI,2018,Social Sciences,59,2
+AE,2014,Social Sciences,12,2
+CU,2013,Health Sciences,81,1
+VE,2017,Social Sciences,23,1
+EE,2020,Physical Sciences,40,2
+HR,2021,Life Sciences,57,1
+PH,2016,Social Sciences,30,2
+SI,2022,Physical Sciences,106,1
+LK,2016,Health Sciences,51,1
+CU,2019,Life Sciences,30,3
+LT,2019,Health Sciences,36,1
+TZ,2019,Physical Sciences,25,4
+TZ,2022,Physical Sciences,30,2
+PR,2019,Life Sciences,23,1
+DZ,2018,Social Sciences,93,1
+GH,2017,Health Sciences,59,1
+BD,2019,Social Sciences,106,6
+LT,2015,Social Sciences,41,1
+PH,2019,Life Sciences,64,3
+KE,2016,Life Sciences,54,2
+PH,2020,Life Sciences,69,1
+TZ,2014,Life Sciences,22,2
+PR,2014,Physical Sciences,26,1
+CM,2019,Life Sciences,51,2
+LK,2014,Social Sciences,18,1
+BG,2017,Physical Sciences,79,6
+SA,2015,Social Sciences,29,4
+MA,2017,Social Sciences,69,3
+CU,2022,Social Sciences,26,1
+AE,2015,Health Sciences,21,6
+JO,2018,Physical Sciences,51,11
+GH,2016,Health Sciences,59,6
+TZ,2018,Physical Sciences,26,2
+BY,2021,Physical Sciences,44,1
+CM,2016,Health Sciences,50,2
+SI,2019,Social Sciences,83,2
+SI,2013,Health Sciences,31,1
+SI,2014,Health Sciences,35,2
+SA,2013,Life Sciences,27,2
+TH,2014,Social Sciences,52,2
+JO,2017,Health Sciences,36,7
+VE,2018,Life Sciences,28,2
+BG,2013,Physical Sciences,35,1
+BG,2014,Physical Sciences,62,3
+PR,2017,Social Sciences,12,1
+VN,2013,Health Sciences,25,1
+VE,2015,Life Sciences,21,1
+VE,2016,Social Sciences,23,1
+CM,2017,Social Sciences,18,1
+TN,2013,Social Sciences,39,1
+GH,2018,Physical Sciences,44,7
+EG,2014,Social Sciences,41,2
+MT,2022,Physical Sciences,7,1
+CU,2015,Life Sciences,44,2
+PR,2018,Physical Sciences,18,2
+BG,2020,Life Sciences,41,1
+MA,2015,Social Sciences,33,2
+UG,2021,Life Sciences,31,3
+LK,2017,Social Sciences,30,3
+GH,2021,Life Sciences,78,4
+IS,2017,Social Sciences,8,1
+BY,2020,Health Sciences,12,1
+CR,2014,Social Sciences,28,1
+IS,2019,Physical Sciences,13,1
+GH,2013,Life Sciences,11,2
+AE,2018,Social Sciences,17,4
+EE,2013,Social Sciences,16,1
+AE,2020,Physical Sciences,54,11
+SI,2021,Life Sciences,26,1
+EE,2015,Health Sciences,16,1
+MT,2019,Social Sciences,3,1
+PR,2016,Social Sciences,22,1
+CR,2018,Physical Sciences,17,1
+US,2020,Unspecified,840,13
+NL,2021,Unspecified,12,1
+DE,2014,Unspecified,231,3
+US,2013,Unspecified,345,6
+PL,2018,Unspecified,23,1
+IN,2018,Unspecified,348,14
+IN,2016,Unspecified,211,18
+DE,2023,Unspecified,301,1
+PL,2020,Unspecified,39,2
+CN,2021,Unspecified,73,2
+CN,2018,Unspecified,65,3
+IN,2017,Unspecified,225,12
+CO,2019,Unspecified,2,1
+GB,2023,Unspecified,51,1
+BR,2020,Unspecified,91,1
+FR,2018,Unspecified,33,1
+RU,2020,Unspecified,38,1
+GB,2013,Unspecified,62,2
+PL,2017,Unspecified,21,2
+HU,2020,Unspecified,7,1
+IT,2016,Unspecified,8,1
+CA,2019,Unspecified,15,1
+BR,2017,Unspecified,55,2
+IT,2019,Unspecified,10,1
+FR,2020,Unspecified,64,1
+RU,2019,Unspecified,26,2
+CA,2017,Unspecified,22,2
+CA,2018,Unspecified,13,2
+CN,2016,Unspecified,53,1
+MA,2016,Unspecified,5,1
+NG,2018,Unspecified,10,2
+BR,2014,Unspecified,26,1
+BR,2016,Unspecified,38,2
+CA,2015,Unspecified,12,2
+MY,2017,Unspecified,12,1
+AU,2018,Unspecified,6,1
+AE,2016,Physical Sciences,20,3
+AE,2019,Life Sciences,11,2
+EE,2017,Health Sciences,19,1
+EE,2016,Health Sciences,18,1
+UG,2016,Life Sciences,10,2
+CH,2018,Unspecified,8,2
+KR,2019,Unspecified,4,1
+ID,2016,Unspecified,6,1
+BY,2019,Life Sciences,10,1
+ZA,2019,Unspecified,3,1
+IN,2012,Life Sciences,3613,0
+CN,2012,Physical Sciences,100357,0
+UA,2012,Physical Sciences,541,0
+FI,2012,Life Sciences,243,0
+NG,2012,Health Sciences,370,0
+EG,2012,Life Sciences,272,0
+IT,2012,Physical Sciences,3536,0
+US,2012,Life Sciences,31291,0
+FR,2012,Health Sciences,9615,0
+JP,2012,Health Sciences,14398,0
+RO,2012,Physical Sciences,233,0
+DK,2012,Social Sciences,314,0
+ES,2012,Social Sciences,1472,0
+GB,2012,Physical Sciences,4003,0
+DE,2012,Physical Sciences,8566,0
+CM,2023,Life Sciences,132,0
+KR,2012,Health Sciences,6084,0
+PT,2012,Physical Sciences,789,0
+NZ,2012,Life Sciences,95,0
+BG,2022,Social Sciences,27,0
+CH,2012,Physical Sciences,692,0
+AU,2012,Health Sciences,1715,0
+BR,2012,Life Sciences,4105,0
+VE,2014,Health Sciences,33,0
+AR,2012,Physical Sciences,1249,0
+IL,2012,Life Sciences,420,0
+CA,2012,Physical Sciences,2189,0
+ZA,2012,Physical Sciences,346,0
+MX,2012,Health Sciences,486,0
+IE,2012,Health Sciences,355,0
+BE,2012,Health Sciences,701,0
+JO,2013,Health Sciences,19,0
+CU,2020,Physical Sciences,34,0
+NL,2012,Social Sciences,617,0
+PH,2013,Physical Sciences,25,0
+CR,2015,Health Sciences,11,0
+PL,2023,Life Sciences,699,0
+TH,2012,Physical Sciences,285,0
+MY,2012,Physical Sciences,776,0
+CR,2022,Physical Sciences,20,0
+TH,2023,Life Sciences,364,0
+TR,2012,Life Sciences,660,0
+MA,2012,Health Sciences,228,0
+TN,2012,Health Sciences,195,0
+UG,2022,Physical Sciences,15,0
+BG,2012,Life Sciences,29,0
+GR,2012,Physical Sciences,453,0
+PL,2012,Health Sciences,992,0
+PH,2012,Life Sciences,9,0
+SE,2012,Physical Sciences,802,0
+ID,2012,Life Sciences,298,0
+CZ,2012,Social Sciences,83,0
+MW,2016,Physical Sciences,2,0
+PK,2012,Social Sciences,96,0
+JO,2023,Physical Sciences,102,0
+PH,2022,Life Sciences,88,0
+CR,2021,Life Sciences,22,0
+VE,2022,Social Sciences,28,0
+AT,2012,Health Sciences,306,0
+IR,2012,Social Sciences,410,0
+CM,2020,Social Sciences,42,0
+UG,2018,Physical Sciences,11,0
+NO,2012,Health Sciences,400,0
+SK,2023,Physical Sciences,131,0
+JO,2012,Physical Sciences,36,0
+RU,2012,Social Sciences,163,0
+IS,2021,Life Sciences,6,0
+VE,2023,Life Sciences,16,0
+UA,2022,Life Sciences,266,0
+CU,2021,Health Sciences,159,0
+SK,2012,Physical Sciences,121,0
+VE,2021,Life Sciences,18,0
+VN,2012,Health Sciences,33,0
+UA,2015,Life Sciences,88,0
+AM,2019,Life Sciences,2,0
+RS,2012,Physical Sciences,107,0
+CL,2012,Physical Sciences,151,0
+CO,2012,Social Sciences,225,0
+IS,2023,Health Sciences,17,0
+BY,2018,Life Sciences,7,0
+HR,2012,Physical Sciences,64,0
+HR,2014,Physical Sciences,81,0
+PH,2023,Physical Sciences,194,0
+AM,2023,Physical Sciences,16,0
+VE,2019,Life Sciences,17,0
+EE,2012,Social Sciences,20,0
+VE,2012,Health Sciences,42,0
+HR,2023,Life Sciences,69,0
+BG,2021,Social Sciences,29,0
+UG,2017,Physical Sciences,7,0
+PR,2023,Health Sciences,42,0
+BD,2012,Social Sciences,16,0
+BY,2012,Physical Sciences,25,0
+HU,2012,Physical Sciences,285,0
+SI,2023,Health Sciences,61,0
+MW,2013,Health Sciences,30,0
+LT,2017,Social Sciences,45,0
+MT,2020,Life Sciences,7,0
+PR,2021,Social Sciences,23,0
+TZ,2023,Social Sciences,57,0
+CU,2012,Social Sciences,16,0
+LK,2012,Physical Sciences,29,0
+LT,2022,Physical Sciences,22,0
+HR,2013,Life Sciences,32,0
+LT,2021,Health Sciences,44,0
+MW,2012,Social Sciences,5,0
+UA,2014,Social Sciences,25,0
+AM,2022,Physical Sciences,16,0
+CM,2021,Social Sciences,39,0
+UA,2013,Social Sciences,23,0
+CM,2013,Physical Sciences,27,0
+RO,2022,Life Sciences,112,0
+BY,2013,Health Sciences,3,0
+EE,2022,Physical Sciences,39,0
+SK,2013,Life Sciences,56,0
+AE,2012,Social Sciences,13,0
+CR,2012,Physical Sciences,13,0
+DZ,2012,Life Sciences,34,0
+TZ,2012,Life Sciences,10,0
+GH,2015,Social Sciences,14,0
+EE,2023,Life Sciences,22,0
+LT,2020,Life Sciences,17,0
+CU,2018,Social Sciences,35,0
+CU,2023,Physical Sciences,16,0
+LK,2013,Life Sciences,14,0
+CR,2013,Social Sciences,19,0
+VE,2013,Life Sciences,28,0
+MW,2019,Social Sciences,9,0
+LT,2012,Physical Sciences,28,0
+PR,2020,Social Sciences,14,0
+SI,2012,Health Sciences,24,0
+UG,2023,Life Sciences,38,0
+LT,2016,Life Sciences,13,0
+GH,2012,Social Sciences,13,0
+EE,2014,Life Sciences,27,0
+BY,2023,Health Sciences,16,0
+MW,2022,Social Sciences,9,0
+UG,2012,Life Sciences,10,0
+CR,2023,Health Sciences,20,0
+EE,2019,Life Sciences,15,0
+CM,2012,Social Sciences,2,0
+IS,2022,Life Sciences,3,0
+KE,2012,Physical Sciences,17,0
+MT,2013,Social Sciences,2,0
+PR,2022,Social Sciences,18,0
+IS,2015,Health Sciences,12,0
+TZ,2013,Physical Sciences,8,0
+MT,2016,Physical Sciences,3,0
+IS,2014,Health Sciences,7,0
+DE,2012,Unspecified,109,0
+CA,2012,Unspecified,14,0
+GB,2012,Unspecified,60,0
+ES,2023,Unspecified,48,0
+CN,2022,Unspecified,60,0
+FI,2021,Unspecified,3,0
+AT,2023,Unspecified,2,0
+BR,2021,Unspecified,61,0
+BG,2014,Unspecified,2,0
+IR,2017,Unspecified,9,0
+CL,2012,Unspecified,2,0
+JP,2022,Unspecified,12,0
+FR,2023,Unspecified,54,0
+TZ,2018,Unspecified,1,0
+RO,2021,Unspecified,6,0
+GR,2012,Unspecified,3,0
+EG,2022,Unspecified,1,0
+RU,2021,Unspecified,56,0
+PT,2021,Unspecified,6,0
+FR,2017,Unspecified,20,0
+RU,2018,Unspecified,11,0
+AU,2019,Unspecified,8,0
+BR,2023,Unspecified,79,0
+EG,2019,Unspecified,2,0
+ES,2022,Unspecified,25,0
+JP,2017,Unspecified,24,0
+EE,2020,Unspecified,2,0
+SE,2014,Unspecified,4,0
+MY,2015,Unspecified,2,0
+BE,2018,Unspecified,1,0
+AU,2021,Unspecified,8,0
+TR,2020,Unspecified,12,0
+CL,2018,Unspecified,3,0
+MX,2017,Unspecified,4,0
+NG,2016,Unspecified,4,0
+DK,2018,Unspecified,5,0
+PL,2015,Unspecified,9,0
+IT,2014,Unspecified,8,0
+KE,2020,Unspecified,3,0
+ES,2017,Unspecified,15,0
+MY,2023,Unspecified,11,0
+MY,2022,Unspecified,9,0
+PL,2021,Unspecified,27,0
+NG,2021,Unspecified,10,0
+GR,2014,Unspecified,1,0
+SA,2019,Unspecified,5,0
+FI,2016,Unspecified,1,0
+NL,2016,Unspecified,5,0
+AU,2023,Unspecified,14,0
+PK,2021,Unspecified,8,0
+AU,2022,Unspecified,6,0
+SA,2021,Unspecified,3,0
+AU,2013,Unspecified,10,0
+IR,2023,Unspecified,12,0
+KE,2013,Physical Sciences,30,0
+IS,2012,Health Sciences,8,0
+MT,2015,Health Sciences,10,0
+MT,2017,Social Sciences,2,0
+LT,2023,Life Sciences,10,0
+TZ,2016,Social Sciences,6,0
+SA,2012,Social Sciences,12,0
+UG,2014,Social Sciences,4,0
+PR,2013,Health Sciences,13,0
+BY,2022,Life Sciences,10,0
+MT,2023,Life Sciences,2,0
+UG,2013,Physical Sciences,2,0
+CN,2012,Unspecified,14,0
+IL,2022,Unspecified,2,0
+NL,2023,Unspecified,10,0
+TR,2021,Unspecified,17,0
+IT,2015,Unspecified,3,0
+ES,2018,Unspecified,11,0
+PT,2012,Unspecified,1,0
+PL,2014,Unspecified,7,0
+MY,2020,Unspecified,4,0
+BG,2015,Unspecified,1,0
+DK,2017,Unspecified,2,0
+HU,2022,Unspecified,4,0
+KE,2017,Unspecified,3,0
+RO,2013,Unspecified,1,0
+CH,2022,Unspecified,1,0
+TR,2016,Unspecified,5,0
+SE,2017,Unspecified,4,0
+PR,2012,Social Sciences,9,0
+GR,2017,Unspecified,5,0
+MW,2014,Life Sciences,7,0
+MW,2018,Life Sciences,4,0
+CH,2020,Unspecified,5,0
+PT,2018,Unspecified,2,0
+BE,2021,Unspecified,2,0
+VN,2017,Unspecified,2,0
+MY,2012,Unspecified,2,0
+FI,2018,Unspecified,1,0
+BG,2017,Unspecified,1,0
+NO,2017,Unspecified,4,0
+GH,2022,Unspecified,1,0
+MT,2018,Physical Sciences,3,0
+AM,2021,Social Sciences,2,0
+IT,2012,Unspecified,4,0
+IR,2021,Unspecified,5,0
+GH,2020,Unspecified,1,0
+VN,2023,Unspecified,5,0
+PL,2013,Unspecified,2,0
+UG,2017,Unspecified,1,0
+IE,2020,Unspecified,1,0
+ZA,2012,Unspecified,4,0
+MT,2012,Life Sciences,1,0
+MW,2017,Physical Sciences,1,0
+BY,2016,Social Sciences,1,0
+MW,2015,Life Sciences,5,0
+CZ,2016,Unspecified,2,0
+NO,2016,Unspecified,3,0
+BD,2020,Unspecified,1,0
+TN,2019,Unspecified,2,0
+CO,2022,Unspecified,1,0
+SE,2012,Unspecified,2,0
+GR,2013,Unspecified,1,0
+HU,2018,Unspecified,2,0
+CZ,2022,Unspecified,1,0
+DK,2014,Unspecified,1,0
+UA,2016,Unspecified,1,0
+MT,2014,Life Sciences,1,0
+VE,2020,Unspecified,1,0
+FI,2022,Unspecified,3,0
+SE,2013,Unspecified,1,0
+KR,2014,Unspecified,4,0
+AM,2015,Life Sciences,1,0
+AM,2016,Life Sciences,1,0
+AE,2013,Life Sciences,1,0
+CH,2012,Unspecified,2,0
+BG,2023,Unspecified,1,0
+SK,2015,Unspecified,1,0
+CM,2018,Unspecified,1,0
+CN,2013,Physical Sciences,104814,2411
+BR,2019,Physical Sciences,8321,352
+FR,2015,Health Sciences,11085,422
+BR,2022,Health Sciences,10413,88
+GB,2018,Physical Sciences,5116,643
+US,2020,Life Sciences,36587,1426
+ID,2021,Social Sciences,15201,88
+FR,2022,Physical Sciences,19783,147
+CN,2023,Social Sciences,24064,87
+BR,2014,Life Sciences,4970,107
+BR,2016,Life Sciences,5729,192
+JP,2013,Physical Sciences,13045,187
+US,2017,Physical Sciences,44716,3390
+CN,2021,Life Sciences,62932,779
+FR,2013,Physical Sciences,18080,503
+TR,2022,Health Sciences,5599,48
+BR,2015,Health Sciences,6754,221
+US,2019,Health Sciences,83710,4407
+US,2015,Social Sciences,28014,1106
+CN,2022,Life Sciences,66678,432
+US,2021,Health Sciences,90360,1842
+US,2022,Health Sciences,83017,966
+EG,2018,Physical Sciences,774,56
+PL,2016,Physical Sciences,1599,38
+IN,2020,Health Sciences,17050,511
+JP,2018,Physical Sciences,12404,383
+CN,2019,Social Sciences,11959,588
+US,2014,Physical Sciences,42700,1728
+US,2018,Physical Sciences,45893,3534
+CN,2018,Life Sciences,46517,2343
+DE,2013,Health Sciences,7972,166
+IN,2021,Health Sciences,19448,361
+IN,2015,Health Sciences,8819,502
+IN,2016,Life Sciences,6269,347
+IT,2023,Physical Sciences,5489,30
+ID,2017,Social Sciences,4382,140
+GB,2020,Health Sciences,13732,647
+GB,2021,Health Sciences,14918,456
+TR,2023,Physical Sciences,2422,11
+KR,2016,Health Sciences,7014,281
+JP,2015,Physical Sciences,12393,325
+JP,2019,Health Sciences,17088,494
+CN,2020,Physical Sciences,140333,3498
+US,2013,Life Sciences,31865,848
+US,2016,Physical Sciences,43688,2933
+NO,2023,Health Sciences,577,4
+US,2023,Social Sciences,32492,196
+DE,2016,Health Sciences,8492,390
+GB,2015,Social Sciences,4631,386
+GB,2016,Social Sciences,4927,419
+GB,2019,Social Sciences,5096,521
+GR,2015,Physical Sciences,494,26
+GR,2020,Physical Sciences,782,27
+BR,2017,Life Sciences,6149,226
+IT,2014,Life Sciences,2441,88
+NO,2015,Health Sciences,432,20
+KR,2017,Social Sciences,901,64
+MX,2021,Social Sciences,697,18
+AU,2023,Life Sciences,1037,16
+NL,2014,Social Sciences,775,34
+IR,2017,Life Sciences,1659,55
+CA,2020,Health Sciences,4716,298
+MY,2018,Physical Sciences,1281,70
+TR,2018,Health Sciences,4920,219
+IR,2021,Life Sciences,2006,16
+JP,2021,Health Sciences,18260,170
+JP,2020,Physical Sciences,11809,261
+PL,2023,Physical Sciences,1565,7
+FR,2014,Social Sciences,6098,254
+AT,2015,Physical Sciences,375,33
+BR,2020,Life Sciences,7595,170
+NL,2018,Health Sciences,2623,142
+PK,2015,Social Sciences,192,23
+FR,2016,Health Sciences,11587,462
+FR,2017,Life Sciences,8135,438
+FR,2023,Life Sciences,8823,33
+NO,2021,Health Sciences,571,9
+ID,2019,Social Sciences,8978,245
+DK,2019,Health Sciences,1561,76
+DK,2021,Health Sciences,1791,34
+CN,2016,Life Sciences,38389,2044
+IT,2022,Physical Sciences,4747,59
+FR,2018,Life Sciences,8493,445
+ID,2020,Physical Sciences,6574,104
+IN,2017,Life Sciences,7798,461
+FR,2021,Physical Sciences,20473,261
+DE,2021,Health Sciences,8883,192
+GB,2022,Social Sciences,5044,111
+SA,2017,Life Sciences,56,9
+MX,2019,Physical Sciences,1706,116
+MX,2020,Physical Sciences,1638,76
+MX,2014,Health Sciences,623,18
+ES,2021,Social Sciences,2523,50
+BR,2013,Physical Sciences,4701,95
+BR,2021,Life Sciences,6664,94
+JP,2014,Physical Sciences,13118,284
+DE,2014,Life Sciences,4613,223
+DE,2018,Health Sciences,7962,437
+GB,2014,Health Sciences,11201,646
+TR,2014,Physical Sciences,1222,40
+CA,2023,Physical Sciences,2713,59
+ES,2019,Health Sciences,7826,330
+ES,2020,Health Sciences,8937,238
+TR,2019,Social Sciences,2789,89
+TR,2021,Life Sciences,1398,22
+KR,2020,Physical Sciences,7320,261
+PL,2013,Life Sciences,790,10
+PL,2014,Life Sciences,738,27
+IR,2020,Health Sciences,4182,86
+ID,2023,Physical Sciences,11451,37
+CN,2014,Health Sciences,40094,1691
+MX,2017,Life Sciences,952,47
+IN,2023,Social Sciences,7049,31
+FR,2019,Health Sciences,12319,461
+PK,2020,Health Sciences,1461,120
+KR,2019,Life Sciences,3405,162
+DK,2022,Health Sciences,1698,25
+DZ,2019,Life Sciences,140,5
+IT,2018,Health Sciences,8156,402
+DE,2015,Health Sciences,8879,321
+CL,2023,Health Sciences,388,6
+FR,2020,Life Sciences,8664,250
+GB,2017,Physical Sciences,4897,670
+BR,2023,Life Sciences,7226,32
+IT,2019,Life Sciences,2876,142
+JP,2017,Life Sciences,6826,236
+KR,2018,Health Sciences,6807,262
+BE,2020,Physical Sciences,559,32
+IT,2013,Physical Sciences,3740,65
+RU,2023,Physical Sciences,8000,41
+FI,2023,Health Sciences,564,3
+BR,2018,Physical Sciences,7787,392
+IR,2022,Social Sciences,1349,13
+DE,2023,Life Sciences,4377,42
+MX,2023,Health Sciences,1495,8
+CN,2015,Social Sciences,12884,453
+IR,2018,Health Sciences,3206,102
+AR,2023,Physical Sciences,1870,11
+RU,2022,Physical Sciences,7027,60
+CN,2017,Social Sciences,10026,542
+DE,2017,Physical Sciences,8657,701
+KR,2014,Life Sciences,3320,108
+AU,2022,Life Sciences,929,27
+CZ,2021,Health Sciences,463,5
+NL,2020,Physical Sciences,1139,90
+RO,2013,Life Sciences,78,1
+IL,2016,Social Sciences,337,20
+UA,2022,Physical Sciences,1082,10
+CA,2019,Life Sciences,1547,117
+MY,2015,Life Sciences,204,13
+MY,2016,Health Sciences,401,32
+BE,2019,Physical Sciences,510,59
+NO,2019,Social Sciences,325,21
+PK,2022,Social Sciences,1188,14
+ID,2022,Health Sciences,4529,19
+CL,2017,Social Sciences,226,22
+AT,2021,Health Sciences,407,9
+CH,2016,Social Sciences,390,36
+KE,2021,Health Sciences,102,4
+IL,2019,Physical Sciences,416,33
+UG,2020,Health Sciences,83,5
+PT,2013,Health Sciences,840,42
+NG,2016,Life Sciences,418,17
+NL,2017,Health Sciences,2452,138
+CA,2013,Social Sciences,1319,37
+BE,2017,Social Sciences,325,20
+RO,2019,Social Sciences,138,8
+TR,2020,Life Sciences,1433,34
+IN,2022,Social Sciences,4843,46
+ES,2022,Life Sciences,2594,30
+IR,2015,Health Sciences,2412,66
+NG,2021,Life Sciences,980,6
+ES,2013,Health Sciences,5632,99
+IR,2019,Physical Sciences,4187,123
+NO,2016,Life Sciences,216,11
+SA,2019,Life Sciences,89,10
+SA,2021,Life Sciences,155,5
+NG,2022,Physical Sciences,918,8
+IL,2022,Life Sciences,467,8
+TR,2013,Social Sciences,622,11
+TR,2017,Social Sciences,2023,80
+IN,2018,Life Sciences,8244,417
+PL,2019,Social Sciences,1896,72
+AR,2019,Social Sciences,1169,67
+AU,2021,Life Sciences,1028,57
+MX,2015,Physical Sciences,1109,58
+GB,2013,Life Sciences,3410,129
+MY,2020,Life Sciences,351,9
+AU,2014,Physical Sciences,1346,124
+KR,2022,Health Sciences,6210,53
+MY,2021,Physical Sciences,1491,31
+ZA,2014,Physical Sciences,467,28
+ZA,2021,Life Sciences,323,8
+GR,2019,Physical Sciences,721,36
+GR,2021,Physical Sciences,755,15
+GR,2022,Physical Sciences,817,10
+DE,2019,Health Sciences,8295,405
+KE,2022,Physical Sciences,74,3
+CA,2014,Physical Sciences,2200,113
+PK,2023,Social Sciences,1361,6
+IE,2014,Life Sciences,122,7
+AU,2020,Health Sciences,3385,239
+IE,2022,Health Sciences,579,17
+ZA,2023,Physical Sciences,678,3
+IT,2015,Life Sciences,2670,101
+PK,2019,Health Sciences,980,104
+ES,2023,Life Sciences,2916,15
+RU,2020,Life Sciences,2292,58
+ES,2017,Life Sciences,2460,154
+GR,2016,Life Sciences,248,12
+KR,2023,Health Sciences,7313,19
+IT,2016,Life Sciences,2588,137
+CH,2017,Physical Sciences,901,136
+AT,2016,Physical Sciences,374,43
+ID,2018,Social Sciences,6551,210
+RS,2022,Social Sciences,153,3
+DE,2022,Social Sciences,4897,84
+DE,2020,Social Sciences,4698,193
+CH,2019,Health Sciences,1137,109
+KR,2021,Physical Sciences,7402,154
+KR,2013,Social Sciences,806,24
+AU,2018,Life Sciences,986,106
+BE,2023,Physical Sciences,635,12
+IN,2019,Social Sciences,3222,186
+BD,2016,Physical Sciences,224,36
+EG,2017,Health Sciences,856,70
+VN,2016,Life Sciences,57,14
+IE,2023,Health Sciences,648,6
+PT,2015,Physical Sciences,930,67
+VN,2020,Physical Sciences,648,54
+NG,2018,Life Sciences,591,18
+PK,2021,Life Sciences,1167,37
+CO,2020,Health Sciences,630,40
+ID,2015,Physical Sciences,1194,58
+ID,2016,Life Sciences,951,39
+ES,2018,Life Sciences,2459,146
+PL,2022,Physical Sciences,1333,11
+PK,2017,Physical Sciences,949,133
+EG,2016,Physical Sciences,665,53
+EG,2021,Physical Sciences,1027,26
+SE,2023,Social Sciences,655,5
+RU,2021,Life Sciences,2397,28
+SA,2022,Health Sciences,1014,17
+TR,2015,Physical Sciences,1396,46
+JP,2022,Life Sciences,6352,73
+ID,2013,Life Sciences,374,6
+KR,2015,Social Sciences,870,56
+JP,2023,Social Sciences,2030,14
+ES,2014,Social Sciences,1641,70
+NL,2022,Physical Sciences,1052,44
+RU,2016,Health Sciences,1438,86
+RU,2017,Health Sciences,1605,115
+IT,2021,Social Sciences,1885,58
+JP,2016,Social Sciences,1406,54
+BE,2018,Life Sciences,371,36
+PT,2018,Life Sciences,462,32
+AU,2017,Physical Sciences,1598,252
+SA,2015,Health Sciences,192,25
+PT,2021,Life Sciences,545,20
+NL,2019,Health Sciences,2658,131
+SE,2013,Life Sciences,470,9
+PT,2014,Social Sciences,474,39
+PK,2018,Health Sciences,832,109
+PT,2022,Physical Sciences,1048,20
+EG,2020,Physical Sciences,962,40
+EG,2019,Life Sciences,769,55
+RU,2018,Life Sciences,1529,70
+AR,2013,Physical Sciences,1409,28
+AR,2017,Physical Sciences,1772,77
+ES,2016,Social Sciences,1941,111
+AT,2014,Life Sciences,130,8
+CH,2023,Physical Sciences,1134,22
+RU,2014,Health Sciences,959,37
+SE,2017,Life Sciences,432,37
+NG,2015,Social Sciences,222,7
+NG,2023,Health Sciences,1565,1
+SE,2015,Health Sciences,1098,57
+TN,2018,Health Sciences,396,24
+CH,2013,Physical Sciences,788,43
+CH,2014,Physical Sciences,809,49
+CH,2015,Physical Sciences,881,104
+EG,2014,Health Sciences,525,22
+IR,2014,Social Sciences,790,23
+FI,2019,Health Sciences,486,8
+SE,2020,Physical Sciences,855,77
+RU,2015,Health Sciences,1319,64
+GB,2023,Life Sciences,3882,45
+ZA,2015,Physical Sciences,462,28
+ZA,2018,Physical Sciences,490,40
+IE,2019,Health Sciences,598,54
+MA,2017,Health Sciences,337,19
+TN,2013,Health Sciences,198,4
+IN,2014,Social Sciences,1440,72
+DZ,2015,Physical Sciences,431,11
+DZ,2016,Physical Sciences,471,27
+CA,2015,Life Sciences,1351,91
+DK,2017,Life Sciences,411,41
+MY,2014,Physical Sciences,1043,47
+MA,2013,Health Sciences,267,14
+AT,2022,Health Sciences,331,7
+NO,2013,Health Sciences,394,7
+CO,2021,Health Sciences,751,19
+ZA,2017,Physical Sciences,501,44
+BE,2014,Health Sciences,720,45
+TR,2016,Life Sciences,1062,42
+UA,2023,Health Sciences,537,4
+TN,2021,Life Sciences,206,3
+BD,2021,Physical Sciences,500,16
+UA,2016,Life Sciences,103,8
+IR,2023,Life Sciences,1981,10
+MY,2023,Life Sciences,416,3
+PK,2014,Physical Sciences,498,65
+MX,2013,Health Sciences,590,8
+AU,2013,Life Sciences,852,41
+AU,2019,Life Sciences,1049,118
+IE,2021,Health Sciences,673,33
+AR,2014,Physical Sciences,1506,58
+CA,2022,Physical Sciences,2437,92
+RO,2015,Physical Sciences,303,19
+PT,2023,Social Sciences,949,8
+ES,2015,Social Sciences,1705,87
+PL,2015,Life Sciences,800,25
+IR,2016,Social Sciences,1228,34
+AR,2018,Health Sciences,613,29
+NZ,2016,Health Sciences,223,25
+PL,2018,Life Sciences,807,22
+TH,2022,Health Sciences,491,4
+BE,2015,Physical Sciences,552,39
+PL,2017,Life Sciences,729,26
+MW,2022,Health Sciences,108,6
+MA,2023,Physical Sciences,697,5
+FI,2017,Health Sciences,428,15
+PT,2016,Social Sciences,616,54
+GH,2014,Health Sciences,27,1
+DK,2018,Life Sciences,400,45
+BG,2022,Health Sciences,111,4
+SE,2018,Health Sciences,1071,70
+UA,2015,Physical Sciences,549,16
+TH,2023,Physical Sciences,648,1
+MX,2022,Social Sciences,789,6
+PH,2014,Physical Sciences,42,2
+CO,2022,Life Sciences,248,11
+CA,2016,Social Sciences,1518,141
+TH,2019,Social Sciences,124,5
+AR,2022,Health Sciences,665,10
+AR,2016,Health Sciences,523,26
+ZA,2016,Physical Sciences,506,46
+IT,2020,Social Sciences,1856,60
+UA,2021,Health Sciences,514,5
+NZ,2020,Physical Sciences,198,17
+MA,2021,Social Sciences,168,3
+MY,2013,Social Sciences,343,9
+CL,2018,Life Sciences,163,17
+NO,2020,Social Sciences,344,16
+VN,2022,Social Sciences,363,7
+RS,2018,Social Sciences,154,13
+RS,2019,Social Sciences,139,16
+CA,2021,Physical Sciences,2632,138
+AR,2021,Physical Sciences,1900,31
+CA,2017,Life Sciences,1392,123
+UA,2020,Health Sciences,457,8
+JO,2019,Health Sciences,53,7
+CA,2018,Life Sciences,1407,132
+ID,2014,Social Sciences,1115,33
+TH,2021,Social Sciences,161,3
+IL,2013,Physical Sciences,332,12
+JO,2021,Health Sciences,65,1
+IL,2018,Social Sciences,364,26
+HR,2022,Health Sciences,214,2
+GR,2023,Social Sciences,378,3
+BD,2018,Physical Sciences,304,39
+DZ,2018,Health Sciences,86,8
+PK,2013,Physical Sciences,439,25
+GH,2023,Social Sciences,170,1
+CZ,2018,Health Sciences,460,18
+AU,2016,Physical Sciences,1583,225
+SE,2022,Physical Sciences,792,19
+ZA,2020,Social Sciences,524,17
+RU,2019,Life Sciences,1850,73
+AR,2020,Health Sciences,701,30
+RO,2023,Physical Sciences,389,4
+CM,2019,Physical Sciences,79,6
+CO,2013,Physical Sciences,199,14
+CM,2018,Life Sciences,53,1
+TH,2017,Health Sciences,248,10
+CO,2017,Health Sciences,456,31
+PL,2020,Life Sciences,676,14
+NG,2017,Health Sciences,732,27
+NZ,2017,Social Sciences,127,18
+UA,2014,Health Sciences,87,2
+ZA,2019,Life Sciences,282,21
+IR,2013,Life Sciences,860,14
+NO,2022,Health Sciences,547,6
+MX,2016,Physical Sciences,1308,99
+NL,2013,Health Sciences,2095,35
+IE,2018,Health Sciences,560,57
+PR,2021,Health Sciences,17,1
+EG,2022,Life Sciences,758,10
+NO,2017,Life Sciences,187,22
+CZ,2014,Health Sciences,309,8
+FI,2018,Life Sciences,216,11
+NG,2020,Physical Sciences,925,29
+MY,2022,Life Sciences,369,5
+CO,2015,Social Sciences,364,23
+IL,2023,Social Sciences,409,3
+AU,2015,Physical Sciences,1372,166
+FI,2015,Social Sciences,322,16
+CO,2014,Physical Sciences,217,14
+SE,2019,Social Sciences,576,36
+SK,2018,Health Sciences,104,6
+NZ,2021,Physical Sciences,206,17
+CZ,2017,Physical Sciences,557,30
+CH,2021,Social Sciences,517,29
+BE,2013,Physical Sciences,518,20
+MW,2019,Health Sciences,39,5
+LK,2017,Health Sciences,53,5
+PT,2019,Social Sciences,757,84
+ZA,2022,Physical Sciences,571,5
+CZ,2016,Life Sciences,290,24
+CL,2013,Social Sciences,123,8
+FI,2020,Social Sciences,453,20
+DK,2014,Life Sciences,354,22
+DK,2015,Life Sciences,445,28
+IN,2013,Social Sciences,1181,48
+TN,2019,Life Sciences,171,7
+CZ,2013,Social Sciences,123,2
+CZ,2019,Social Sciences,219,5
+PL,2021,Life Sciences,653,9
+AR,2015,Health Sciences,467,29
+EE,2018,Health Sciences,19,1
+FI,2014,Social Sciences,307,7
+VN,2023,Life Sciences,388,10
+BG,2021,Health Sciences,86,1
+CZ,2022,Life Sciences,346,2
+DZ,2022,Social Sciences,82,1
+VN,2019,Physical Sciences,509,91
+BE,2022,Physical Sciences,594,16
+RO,2021,Life Sciences,97,2
+MY,2019,Health Sciences,592,24
+CL,2020,Physical Sciences,368,40
+CL,2022,Physical Sciences,374,9
+BE,2016,Physical Sciences,503,39
+RS,2023,Health Sciences,238,1
+LT,2018,Health Sciences,43,2
+SE,2014,Life Sciences,474,25
+NO,2014,Life Sciences,162,7
+DK,2020,Social Sciences,376,29
+PH,2015,Physical Sciences,45,4
+IT,2017,Social Sciences,1421,83
+PT,2020,Social Sciences,812,47
+FI,2016,Life Sciences,250,14
+CU,2018,Health Sciences,144,11
+NL,2023,Life Sciences,867,11
+NG,2019,Health Sciences,910,44
+EG,2023,Social Sciences,255,1
+EE,2017,Social Sciences,30,2
+EE,2019,Physical Sciences,40,4
+SK,2017,Health Sciences,85,5
+GR,2017,Life Sciences,278,17
+ZA,2013,Social Sciences,334,11
+DK,2016,Physical Sciences,402,42
+TN,2016,Physical Sciences,396,26
+FI,2021,Life Sciences,200,4
+CL,2019,Physical Sciences,329,43
+CL,2021,Physical Sciences,387,24
+PH,2016,Health Sciences,55,1
+SE,2021,Social Sciences,613,18
+TN,2015,Life Sciences,131,7
+BG,2019,Health Sciences,70,4
+BD,2022,Social Sciences,188,5
+HR,2023,Physical Sciences,106,2
+HU,2020,Life Sciences,296,6
+UA,2019,Social Sciences,378,12
+NL,2021,Life Sciences,836,28
+MA,2020,Health Sciences,468,19
+DZ,2014,Physical Sciences,361,20
+NL,2015,Social Sciences,844,42
+BD,2019,Health Sciences,282,32
+FI,2013,Life Sciences,199,3
+HR,2017,Health Sciences,164,9
+IL,2017,Physical Sciences,427,34
+IE,2017,Health Sciences,486,61
+CZ,2015,Social Sciences,159,11
+RO,2014,Life Sciences,68,3
+NZ,2019,Social Sciences,150,19
+NL,2016,Life Sciences,788,65
+AT,2020,Social Sciences,200,19
+EE,2015,Social Sciences,30,2
+SI,2014,Social Sciences,54,2
+SI,2023,Social Sciences,83,3
+SA,2020,Physical Sciences,194,26
+IL,2015,Social Sciences,309,19
+JO,2022,Health Sciences,69,3
+IL,2020,Social Sciences,395,9
+CO,2016,Health Sciences,394,29
+GH,2016,Social Sciences,24,1
+HU,2013,Social Sciences,102,4
+IE,2020,Life Sciences,140,8
+GR,2014,Life Sciences,218,4
+RO,2016,Physical Sciences,290,16
+MA,2018,Health Sciences,289,15
+CO,2023,Physical Sciences,483,3
+CH,2020,Life Sciences,649,60
+EG,2015,Physical Sciences,536,41
+IE,2016,Physical Sciences,154,15
+IE,2015,Physical Sciences,144,16
+UA,2018,Social Sciences,171,10
+DK,2013,Physical Sciences,402,14
+DZ,2020,Physical Sciences,750,17
+MA,2014,Life Sciences,53,3
+MX,2018,Social Sciences,658,49
+CH,2018,Life Sciences,603,91
+MA,2019,Social Sciences,100,3
+HR,2019,Social Sciences,150,11
+CZ,2023,Social Sciences,264,3
+AT,2017,Physical Sciences,385,44
+MA,2015,Health Sciences,292,22
+TH,2015,Health Sciences,232,5
+CR,2020,Life Sciences,20,1
+TZ,2019,Life Sciences,38,4
+SK,2013,Physical Sciences,117,2
+MA,2022,Social Sciences,154,1
+UA,2017,Social Sciences,91,5
+DK,2023,Social Sciences,392,2
+GR,2018,Social Sciences,266,12
+TN,2017,Physical Sciences,399,24
+RO,2020,Social Sciences,143,6
+RO,2018,Social Sciences,143,5
+AE,2023,Life Sciences,39,2
+HU,2018,Life Sciences,326,14
+CM,2021,Health Sciences,127,3
+CL,2014,Health Sciences,145,11
+AE,2014,Health Sciences,13,3
+TN,2020,Physical Sciences,391,13
+HR,2016,Physical Sciences,89,3
+CM,2023,Physical Sciences,134,1
+PK,2016,Physical Sciences,738,117
+RS,2017,Health Sciences,209,15
+RS,2021,Life Sciences,75,3
+HU,2016,Social Sciences,162,9
+RU,2013,Social Sciences,220,3
+AT,2018,Health Sciences,354,37
+SA,2023,Social Sciences,231,3
+NZ,2022,Social Sciences,143,6
+RS,2016,Physical Sciences,143,11
+PT,2017,Social Sciences,607,67
+CL,2016,Social Sciences,204,28
+AT,2013,Health Sciences,303,9
+TH,2013,Health Sciences,181,4
+TH,2014,Health Sciences,181,5
+BD,2015,Physical Sciences,223,27
+TZ,2023,Health Sciences,153,2
+HR,2020,Social Sciences,154,3
+KE,2019,Social Sciences,115,2
+RO,2022,Physical Sciences,341,1
+VN,2021,Social Sciences,308,18
+SK,2021,Social Sciences,60,1
+SA,2018,Physical Sciences,148,33
+HR,2018,Physical Sciences,99,5
+NZ,2018,Physical Sciences,206,23
+HU,2021,Health Sciences,295,2
+CH,2022,Life Sciences,670,23
+IL,2021,Physical Sciences,449,9
+TN,2014,Physical Sciences,252,16
+NG,2014,Physical Sciences,294,8
+DZ,2013,Life Sciences,56,2
+BE,2021,Life Sciences,370,10
+HU,2022,Life Sciences,296,1
+CU,2017,Health Sciences,163,11
+KE,2020,Life Sciences,95,6
+AT,2019,Social Sciences,173,31
+BD,2023,Social Sciences,253,1
+LK,2020,Health Sciences,110,5
+CR,2015,Social Sciences,40,4
+RS,2015,Health Sciences,170,5
+HU,2015,Health Sciences,217,6
+BD,2020,Life Sciences,482,26
+VN,2014,Life Sciences,34,4
+CZ,2020,Physical Sciences,565,26
+RS,2020,Life Sciences,82,2
+NG,2013,Physical Sciences,217,5
+RO,2017,Social Sciences,150,8
+LK,2021,Health Sciences,125,3
+PH,2018,Physical Sciences,74,4
+DZ,2021,Life Sciences,185,2
+NO,2018,Life Sciences,167,11
+CM,2014,Physical Sciences,31,1
+TH,2020,Life Sciences,271,13
+AT,2023,Life Sciences,146,1
+NZ,2013,Life Sciences,99,4
+NZ,2023,Social Sciences,157,2
+MY,2017,Life Sciences,260,15
+RS,2014,Health Sciences,173,4
+CR,2017,Social Sciences,30,1
+SE,2016,Life Sciences,433,47
+LK,2019,Physical Sciences,76,4
+KE,2017,Life Sciences,61,5
+PR,2020,Health Sciences,20,1
+VE,2015,Physical Sciences,32,1
+SI,2017,Health Sciences,37,2
+HR,2015,Health Sciences,186,6
+KE,2016,Physical Sciences,43,4
+VN,2018,Life Sciences,102,17
+BD,2017,Social Sciences,68,9
+CO,2018,Physical Sciences,353,45
+CR,2016,Health Sciences,8,2
+GH,2020,Life Sciences,81,5
+HU,2014,Social Sciences,121,6
+HU,2019,Physical Sciences,296,18
+DZ,2017,Health Sciences,63,5
+TN,2023,Social Sciences,136,1
+FI,2022,Life Sciences,211,1
+GH,2022,Life Sciences,70,2
+SI,2021,Physical Sciences,83,5
+CO,2019,Life Sciences,223,16
+IS,2018,Physical Sciences,15,1
+SK,2019,Social Sciences,85,4
+PH,2021,Health Sciences,129,3
+AE,2022,Social Sciences,62,3
+HR,2021,Physical Sciences,82,2
+GR,2013,Life Sciences,255,3
+IL,2014,Social Sciences,308,10
+GH,2021,Physical Sciences,97,5
+SI,2015,Health Sciences,36,1
+TH,2016,Life Sciences,185,9
+AE,2021,Health Sciences,69,8
+LT,2017,Health Sciences,38,1
+EE,2020,Life Sciences,17,1
+TN,2022,Social Sciences,97,2
+PH,2023,Life Sciences,124,1
+GH,2019,Social Sciences,51,3
+BD,2013,Social Sciences,28,4
+MA,2016,Life Sciences,75,6
+AE,2019,Physical Sciences,46,10
+PH,2020,Physical Sciences,116,4
+PH,2017,Health Sciences,31,2
+SA,2016,Physical Sciences,93,19
+HU,2017,Physical Sciences,289,14
+VN,2017,Life Sciences,90,18
+GH,2018,Life Sciences,41,4
+TZ,2021,Physical Sciences,48,1
+IE,2013,Physical Sciences,139,5
+RS,2013,Life Sciences,50,1
+CM,2020,Health Sciences,132,4
+CU,2019,Physical Sciences,36,2
+JO,2020,Physical Sciences,81,6
+HR,2013,Physical Sciences,45,2
+NZ,2015,Social Sciences,115,16
+UG,2022,Life Sciences,40,1
+KE,2014,Physical Sciences,38,4
+KE,2023,Life Sciences,74,1
+TH,2018,Life Sciences,224,11
+NZ,2014,Social Sciences,107,8
+GH,2015,Health Sciences,52,1
+BY,2019,Physical Sciences,54,2
+SI,2018,Health Sciences,63,2
+PR,2018,Life Sciences,27,3
+CL,2015,Physical Sciences,195,20
+UG,2018,Life Sciences,13,2
+BG,2017,Life Sciences,50,2
+MT,2019,Health Sciences,7,1
+BG,2020,Physical Sciences,94,4
+TZ,2016,Health Sciences,34,3
+JO,2017,Social Sciences,27,6
+JO,2018,Life Sciences,15,1
+SA,2014,Physical Sciences,75,6
+HR,2014,Life Sciences,37,2
+AE,2018,Health Sciences,27,3
+LK,2015,Physical Sciences,41,4
+KE,2018,Social Sciences,66,4
+TZ,2018,Life Sciences,33,1
+EE,2014,Physical Sciences,36,1
+CU,2013,Social Sciences,19,1
+SI,2020,Physical Sciences,75,4
+PH,2019,Physical Sciences,100,7
+VN,2015,Life Sciences,43,7
+BG,2016,Physical Sciences,64,1
+UG,2017,Life Sciences,15,1
+UG,2014,Health Sciences,32,1
+UG,2021,Physical Sciences,28,1
+SK,2014,Life Sciences,72,5
+CU,2021,Social Sciences,55,1
+SK,2020,Life Sciences,78,4
+SK,2016,Life Sciences,86,5
+JO,2013,Social Sciences,25,1
+VE,2016,Health Sciences,32,3
+BG,2018,Health Sciences,101,6
+SA,2013,Physical Sciences,62,6
+CU,2016,Social Sciences,51,4
+MT,2020,Physical Sciences,9,1
+AM,2019,Physical Sciences,12,2
+CU,2015,Physical Sciences,24,2
+BD,2014,Social Sciences,43,7
+PR,2019,Physical Sciences,26,3
+CM,2017,Health Sciences,63,7
+CR,2023,Social Sciences,50,2
+SK,2015,Life Sciences,64,2
+MT,2013,Health Sciences,5,1
+AE,2015,Social Sciences,21,2
+UG,2019,Social Sciences,17,1
+LK,2016,Social Sciences,18,3
+LK,2018,Social Sciences,32,2
+VE,2017,Health Sciences,30,2
+IS,2021,Physical Sciences,14,1
+IS,2017,Health Sciences,10,1
+PR,2016,Health Sciences,13,1
+LK,2013,Physical Sciences,14,1
+VE,2014,Social Sciences,27,1
+CR,2014,Health Sciences,10,1
+BY,2021,Life Sciences,13,1
+PR,2013,Social Sciences,8,1
+US,2014,Unspecified,470,24
+US,2016,Unspecified,457,23
+US,2018,Unspecified,462,24
+BR,2013,Unspecified,36,1
+US,2017,Unspecified,379,24
+MY,2018,Unspecified,2,1
+GB,2017,Unspecified,59,6
+AU,2015,Unspecified,11,1
+CA,2022,Unspecified,35,1
+BR,2018,Unspecified,68,6
+PK,2017,Unspecified,8,2
+BR,2019,Unspecified,69,4
+ID,2023,Unspecified,20,1
+DE,2017,Unspecified,76,2
+VN,2019,Unspecified,7,1
+AT,2017,Unspecified,4,1
+AU,2016,Unspecified,8,2
+GB,2018,Unspecified,60,2
+FR,2022,Unspecified,69,4
+AU,2017,Unspecified,10,1
+CH,2017,Unspecified,8,1
+AU,2014,Unspecified,7,1
+EG,2021,Unspecified,5,1
+NG,2022,Unspecified,10,1
+BY,2015,Life Sciences,9,2
+JO,2016,Social Sciences,20,2
+CM,2016,Social Sciences,16,1
+TZ,2013,Life Sciences,13,1
+BG,2014,Life Sciences,41,4
+AE,2017,Life Sciences,7,1
+AE,2016,Life Sciences,6,1
+HU,2019,Unspecified,5,1
+IE,2016,Unspecified,2,1
+IT,2013,Unspecified,4,1
+SA,2018,Unspecified,4,1
+MT,2014,Physical Sciences,4,2
+AE,2020,Life Sciences,11,1
+PK,2016,Unspecified,7,1
+MT,2015,Social Sciences,1,1
+PK,2014,Unspecified,2,1
+EG,2015,Unspecified,2,1
+GB,2012,Life Sciences,3358,0
+CN,2012,Life Sciences,28709,0
+AR,2012,Life Sciences,741,0
+US,2012,Physical Sciences,40104,0
+DE,2012,Life Sciences,4626,0
+IT,2012,Life Sciences,2293,0
+ID,2012,Physical Sciences,441,0
+ES,2012,Health Sciences,5412,0
+BR,2012,Physical Sciences,4231,0
+FR,2012,Social Sciences,5544,0
+DK,2012,Health Sciences,1054,0
+MY,2012,Life Sciences,148,0
+IN,2012,Physical Sciences,7693,0
+TZ,2017,Physical Sciences,16,0
+KR,2012,Social Sciences,655,0
+CA,2012,Life Sciences,1283,0
+LK,2014,Health Sciences,43,0
+FI,2012,Physical Sciences,507,0
+SA,2012,Health Sciences,132,0
+VE,2021,Physical Sciences,24,0
+MX,2012,Social Sciences,365,0
+RO,2012,Life Sciences,76,0
+NL,2012,Health Sciences,1955,0
+TR,2012,Physical Sciences,968,0
+JP,2012,Social Sciences,1315,0
+GR,2012,Life Sciences,204,0
+RU,2012,Health Sciences,695,0
+CH,2012,Life Sciences,461,0
+PH,2012,Physical Sciences,31,0
+AU,2012,Social Sciences,1025,0
+PL,2012,Social Sciences,938,0
+PH,2022,Physical Sciences,162,0
+DZ,2023,Health Sciences,153,0
+SK,2023,Life Sciences,87,0
+PT,2012,Life Sciences,348,0
+CZ,2012,Health Sciences,369,0
+HU,2012,Life Sciences,294,0
+IL,2012,Physical Sciences,344,0
+VE,2012,Social Sciences,23,0
+HU,2023,Health Sciences,308,0
+IR,2012,Health Sciences,1200,0
+BG,2023,Life Sciences,78,0
+EG,2013,Social Sciences,37,0
+CR,2022,Life Sciences,19,0
+BE,2012,Social Sciences,267,0
+EG,2012,Physical Sciences,416,0
+KE,2013,Life Sciences,25,0
+VE,2023,Physical Sciences,18,0
+NO,2012,Social Sciences,165,0
+LT,2016,Physical Sciences,37,0
+UG,2016,Physical Sciences,8,0
+CR,2021,Physical Sciences,40,0
+TZ,2022,Life Sciences,55,0
+SK,2022,Social Sciences,60,0
+GH,2012,Health Sciences,28,0
+TN,2012,Social Sciences,29,0
+UG,2023,Physical Sciences,23,0
+LT,2021,Social Sciences,57,0
+NG,2012,Social Sciences,140,0
+CL,2012,Life Sciences,93,0
+UA,2013,Health Sciences,65,0
+RS,2012,Life Sciences,72,0
+NZ,2012,Physical Sciences,130,0
+VN,2013,Social Sciences,9,0
+BD,2012,Health Sciences,126,0
+SE,2012,Life Sciences,414,0
+EE,2023,Physical Sciences,48,0
+ZA,2012,Life Sciences,173,0
+IE,2012,Social Sciences,90,0
+BG,2012,Physical Sciences,35,0
+VE,2019,Physical Sciences,16,0
+CO,2012,Health Sciences,224,0
+AT,2012,Social Sciences,78,0
+LT,2015,Health Sciences,24,0
+SK,2012,Life Sciences,48,0
+VE,2020,Life Sciences,23,0
+DZ,2012,Physical Sciences,234,0
+CR,2012,Life Sciences,17,0
+TZ,2020,Life Sciences,41,0
+LK,2022,Social Sciences,80,0
+VE,2013,Physical Sciences,34,0
+CU,2012,Health Sciences,91,0
+CU,2014,Physical Sciences,15,0
+EE,2016,Social Sciences,19,0
+TZ,2015,Life Sciences,15,0
+MW,2023,Social Sciences,15,0
+PK,2012,Health Sciences,192,0
+SI,2016,Life Sciences,25,0
+CM,2015,Life Sciences,39,0
+UA,2012,Life Sciences,41,0
+LK,2023,Life Sciences,72,0
+IS,2015,Social Sciences,6,0
+CM,2013,Life Sciences,31,0
+HR,2012,Life Sciences,31,0
+LT,2014,Physical Sciences,20,0
+TH,2012,Life Sciences,126,0
+SI,2022,Life Sciences,31,0
+CU,2020,Life Sciences,38,0
+KE,2015,Social Sciences,35,0
+IS,2016,Life Sciences,5,0
+LT,2019,Social Sciences,83,0
+MT,2017,Health Sciences,12,0
+KE,2012,Life Sciences,26,0
+PR,2023,Social Sciences,9,0
+AE,2013,Physical Sciences,18,0
+VE,2018,Physical Sciences,24,0
+PH,2013,Life Sciences,27,0
+BY,2022,Physical Sciences,41,0
+JO,2023,Life Sciences,31,0
+LT,2020,Physical Sciences,43,0
+LT,2023,Physical Sciences,33,0
+MW,2014,Physical Sciences,3,0
+PR,2017,Health Sciences,27,0
+GH,2013,Physical Sciences,12,0
+CR,2018,Life Sciences,16,0
+BG,2015,Life Sciences,27,0
+CM,2022,Social Sciences,29,0
+CU,2022,Health Sciences,61,0
+SI,2019,Health Sciences,47,0
+MT,2023,Physical Sciences,10,0
+CR,2019,Life Sciences,16,0
+TZ,2012,Physical Sciences,5,0
+MW,2012,Health Sciences,19,0
+MW,2021,Social Sciences,9,0
+LK,2012,Life Sciences,21,0
+JO,2014,Life Sciences,9,0
+BG,2013,Life Sciences,25,0
+MT,2021,Social Sciences,6,0
+PR,2015,Life Sciences,15,0
+VN,2012,Social Sciences,9,0
+LT,2013,Physical Sciences,30,0
+EE,2021,Health Sciences,21,0
+CU,2023,Life Sciences,14,0
+PR,2012,Health Sciences,6,0
+SI,2012,Social Sciences,47,0
+SI,2013,Social Sciences,34,0
+BY,2016,Health Sciences,9,0
+UG,2013,Life Sciences,6,0
+AM,2015,Physical Sciences,12,0
+AM,2016,Physical Sciences,8,0
+EE,2022,Life Sciences,15,0
+VE,2022,Health Sciences,28,0
+GH,2017,Social Sciences,18,0
+EE,2013,Health Sciences,6,0
+BY,2017,Health Sciences,12,0
+MW,2017,Life Sciences,3,0
+MA,2012,Social Sciences,13,0
+CR,2013,Health Sciences,6,0
+UG,2015,Physical Sciences,4,0
+IS,2022,Physical Sciences,15,0
+LT,2022,Life Sciences,14,0
+LT,2012,Life Sciences,12,0
+TZ,2014,Physical Sciences,9,0
+BY,2018,Physical Sciences,28,0
+JP,2015,Unspecified,25,0
+JP,2014,Unspecified,41,0
+US,2012,Unspecified,369,0
+MY,2021,Unspecified,12,0
+CA,2023,Unspecified,17,0
+BR,2012,Unspecified,22,0
+CA,2021,Unspecified,33,0
+JP,2013,Unspecified,23,0
+KR,2021,Unspecified,6,0
+GR,2020,Unspecified,6,0
+ZA,2014,Unspecified,1,0
+JP,2018,Unspecified,12,0
+ID,2020,Unspecified,14,0
+FR,2021,Unspecified,54,0
+CH,2015,Unspecified,9,0
+CN,2013,Unspecified,13,0
+TR,2012,Unspecified,6,0
+RU,2022,Unspecified,68,0
+TR,2015,Unspecified,5,0
+IN,2012,Unspecified,100,0
+FR,2013,Unspecified,30,0
+CN,2020,Unspecified,79,0
+PL,2023,Unspecified,25,0
+RO,2015,Unspecified,1,0
+RU,2023,Unspecified,34,0
+MX,2020,Unspecified,5,0
+DK,2016,Unspecified,1,0
+BD,2018,Unspecified,4,0
+PL,2022,Unspecified,37,0
+HR,2013,Unspecified,2,0
+NG,2020,Unspecified,8,0
+TR,2023,Unspecified,20,0
+CA,2014,Unspecified,5,0
+GR,2022,Unspecified,4,0
+IT,2022,Unspecified,12,0
+RO,2022,Unspecified,8,0
+BD,2015,Unspecified,6,0
+KR,2020,Unspecified,2,0
+PT,2022,Unspecified,11,0
+BE,2020,Unspecified,4,0
+JP,2020,Unspecified,17,0
+UA,2022,Unspecified,17,0
+PL,2016,Unspecified,9,0
+NL,2022,Unspecified,17,0
+CL,2021,Unspecified,3,0
+MY,2014,Unspecified,1,0
+TR,2014,Unspecified,4,0
+IR,2019,Unspecified,6,0
+MX,2019,Unspecified,7,0
+SA,2020,Unspecified,1,0
+NL,2020,Unspecified,5,0
+BE,2022,Unspecified,8,0
+EG,2020,Unspecified,6,0
+MA,2023,Unspecified,3,0
+CL,2020,Unspecified,2,0
+BE,2023,Unspecified,8,0
+IL,2013,Unspecified,2,0
+CH,2023,Unspecified,5,0
+KE,2016,Unspecified,3,0
+MW,2018,Physical Sciences,2,0
+JO,2015,Life Sciences,10,0
+IS,2023,Social Sciences,13,0
+CM,2012,Health Sciences,12,0
+PR,2014,Life Sciences,9,0
+AE,2012,Health Sciences,12,0
+PR,2022,Health Sciences,19,0
+BY,2023,Social Sciences,5,0
+EE,2012,Health Sciences,12,0
+IS,2014,Social Sciences,3,0
+MT,2012,Physical Sciences,2,0
+AM,2020,Health Sciences,2,0
+AM,2014,Physical Sciences,10,0
+AM,2023,Life Sciences,4,0
+UG,2012,Physical Sciences,5,0
+MW,2020,Social Sciences,6,0
+IS,2019,Life Sciences,7,0
+IS,2020,Health Sciences,9,0
+SE,2020,Unspecified,4,0
+IL,2021,Unspecified,4,0
+AR,2014,Unspecified,2,0
+GR,2019,Unspecified,5,0
+AR,2023,Unspecified,10,0
+AR,2017,Unspecified,5,0
+MX,2015,Unspecified,2,0
+NZ,2021,Unspecified,5,0
+NG,2014,Unspecified,7,0
+ZA,2017,Unspecified,3,0
+BD,2016,Unspecified,1,0
+VN,2020,Unspecified,1,0
+GH,2013,Unspecified,2,0
+HU,2017,Unspecified,1,0
+ID,2015,Unspecified,2,0
+PH,2022,Unspecified,1,0
+BY,2014,Life Sciences,4,0
+JO,2012,Life Sciences,16,0
+MT,2018,Life Sciences,2,0
+BY,2020,Social Sciences,5,0
+IL,2012,Unspecified,2,0
+NZ,2020,Unspecified,2,0
+RO,2023,Unspecified,2,0
+UG,2021,Unspecified,1,0
+DZ,2020,Unspecified,1,0
+BE,2019,Unspecified,1,0
+IT,2023,Unspecified,7,0
+UA,2015,Unspecified,2,0
+EG,2018,Unspecified,5,0
+SI,2020,Unspecified,1,0
+AT,2016,Unspecified,2,0
+BG,2016,Unspecified,2,0
+ZA,2018,Unspecified,3,0
+DK,2013,Unspecified,4,0
+IS,2013,Life Sciences,2,0
+MW,2015,Physical Sciences,3,0
+NG,2013,Unspecified,1,0
+EG,2016,Unspecified,5,0
+PT,2015,Unspecified,1,0
+CH,2014,Unspecified,5,0
+BD,2021,Unspecified,2,0
+CZ,2017,Unspecified,3,0
+MW,2016,Life Sciences,2,0
+BY,2012,Life Sciences,4,0
+HR,2016,Unspecified,1,0
+CO,2018,Unspecified,2,0
+AR,2021,Unspecified,3,0
+TN,2017,Unspecified,2,0
+ZA,2023,Unspecified,1,0
+IL,2019,Unspecified,2,0
+GH,2021,Unspecified,1,0
+GR,2021,Unspecified,1,0
+IE,2013,Unspecified,2,0
+RO,2016,Unspecified,2,0
+DZ,2014,Unspecified,1,0
+MX,2016,Unspecified,3,0
+BY,2013,Social Sciences,4,0
+CM,2023,Unspecified,1,0
+NZ,2012,Unspecified,1,0
+GR,2015,Unspecified,5,0
+IS,2012,Social Sciences,1,0
+MW,2013,Social Sciences,1,0
+BE,2016,Unspecified,1,0
+AR,2013,Unspecified,1,0
+SA,2016,Unspecified,1,0
+AM,2013,Health Sciences,1,0
+EG,2012,Unspecified,1,0
+BE,2015,Unspecified,1,0
+JO,2020,Unspecified,1,0
+ZA,2015,Unspecified,1,0
+SE,2022,Unspecified,1,0
+LT,2016,Unspecified,1,0
+BE,2013,Unspecified,1,0
+FR,2014,Life Sciences,7376,302
+GB,2021,Physical Sciences,5266,304
+GB,2013,Social Sciences,4751,181
+CN,2019,Life Sciences,52349,2496
+JP,2019,Physical Sciences,12166,368
+CN,2013,Health Sciences,37297,1032
+CN,2020,Health Sciences,67061,1526
+JP,2020,Health Sciences,17787,287
+JP,2016,Life Sciences,6508,200
+JP,2017,Social Sciences,1689,58
+CN,2015,Life Sciences,38426,1917
+CN,2016,Social Sciences,9581,410
+CN,2017,Life Sciences,42560,2302
+CN,2023,Life Sciences,78241,211
+TR,2015,Health Sciences,4089,162
+DE,2013,Physical Sciences,8614,268
+FR,2018,Social Sciences,7413,397
+FR,2020,Social Sciences,7373,209
+BR,2018,Health Sciences,8978,323
+IT,2016,Social Sciences,1304,66
+US,2018,Health Sciences,78741,4306
+US,2023,Life Sciences,37845,269
+EG,2014,Physical Sciences,501,24
+RU,2016,Physical Sciences,7012,199
+NL,2021,Social Sciences,970,29
+IN,2020,Physical Sciences,23497,788
+CN,2014,Physical Sciences,104270,3800
+US,2015,Life Sciences,33146,1589
+MX,2014,Physical Sciences,1010,52
+RU,2019,Social Sciences,1784,71
+US,2022,Physical Sciences,44664,975
+CO,2021,Physical Sciences,456,16
+ID,2016,Social Sciences,2753,118
+RU,2020,Social Sciences,2302,62
+HU,2018,Social Sciences,255,12
+US,2019,Physical Sciences,46824,3559
+AR,2018,Physical Sciences,1909,90
+AR,2020,Physical Sciences,2012,47
+JP,2018,Health Sciences,16496,448
+FR,2013,Health Sciences,10199,218
+ID,2022,Physical Sciences,8248,45
+US,2014,Health Sciences,65973,2361
+FR,2016,Physical Sciences,19154,1124
+IE,2015,Health Sciences,378,39
+DE,2021,Physical Sciences,9344,334
+NO,2019,Life Sciences,167,13
+US,2013,Social Sciences,25419,504
+RU,2023,Health Sciences,3273,14
+US,2017,Health Sciences,76103,4068
+DE,2017,Health Sciences,8053,443
+IN,2021,Physical Sciences,25684,501
+BR,2022,Physical Sciences,7784,75
+FR,2019,Physical Sciences,19913,997
+US,2021,Physical Sciences,47234,1624
+SE,2022,Health Sciences,988,15
+IR,2019,Health Sciences,3415,87
+ID,2023,Health Sciences,6294,12
+FR,2023,Social Sciences,7555,32
+JP,2015,Health Sciences,16053,353
+JP,2021,Physical Sciences,10854,156
+CN,2021,Social Sciences,17570,265
+US,2016,Health Sciences,72209,3689
+UA,2013,Physical Sciences,577,15
+FR,2015,Physical Sciences,18699,924
+NL,2023,Social Sciences,1125,12
+JP,2023,Life Sciences,6645,21
+CA,2023,Health Sciences,4698,52
+IT,2023,Health Sciences,11300,55
+BR,2019,Health Sciences,9514,332
+IN,2019,Life Sciences,8426,421
+TR,2020,Social Sciences,3321,89
+IT,2017,Life Sciences,2665,180
+DE,2018,Physical Sciences,8861,705
+US,2020,Social Sciences,32291,972
+BR,2020,Social Sciences,12191,266
+GB,2018,Health Sciences,11799,985
+PL,2015,Social Sciences,1535,43
+ES,2015,Life Sciences,2425,114
+IT,2013,Health Sciences,6801,104
+FR,2021,Health Sciences,12968,166
+FR,2022,Health Sciences,11849,99
+KR,2016,Physical Sciences,6760,369
+UA,2023,Physical Sciences,1531,6
+ID,2015,Health Sciences,462,20
+TR,2021,Social Sciences,3702,54
+PT,2014,Life Sciences,413,28
+DE,2019,Physical Sciences,8898,676
+JP,2014,Health Sciences,14779,292
+BR,2016,Social Sciences,7900,336
+ID,2021,Life Sciences,3304,26
+CN,2022,Social Sciences,18562,148
+BR,2013,Health Sciences,5614,96
+AU,2019,Social Sciences,1370,141
+IN,2023,Life Sciences,15034,61
+TR,2014,Health Sciences,3811,116
+IN,2014,Life Sciences,5066,221
+IN,2015,Physical Sciences,12035,716
+CA,2022,Health Sciences,4357,84
+DE,2022,Life Sciences,3935,85
+GB,2023,Social Sciences,5570,64
+IN,2013,Life Sciences,4441,112
+GB,2017,Health Sciences,11514,967
+MX,2015,Health Sciences,676,30
+IN,2016,Social Sciences,2050,139
+DK,2022,Physical Sciences,472,15
+ES,2022,Social Sciences,2493,35
+BE,2023,Health Sciences,1076,4
+ES,2019,Physical Sciences,2889,200
+FR,2017,Social Sciences,7056,345
+IT,2022,Health Sciences,9542,92
+ES,2021,Life Sciences,2650,55
+AT,2023,Social Sciences,187,2
+TN,2023,Life Sciences,219,2
+GB,2019,Life Sciences,3785,378
+MA,2015,Physical Sciences,245,23
+GB,2015,Life Sciences,3573,271
+MA,2017,Physical Sciences,336,34
+MA,2018,Physical Sciences,426,41
+CA,2020,Physical Sciences,2509,213
+RU,2015,Physical Sciences,7302,167
+CA,2021,Health Sciences,4895,168
+BR,2023,Social Sciences,13358,56
+CN,2018,Social Sciences,11630,624
+KR,2017,Life Sciences,3309,175
+KR,2020,Health Sciences,7058,155
+BR,2021,Social Sciences,11689,182
+JP,2013,Health Sciences,14595,177
+PK,2018,Physical Sciences,1151,182
+IT,2020,Life Sciences,2860,90
+DE,2020,Life Sciences,4368,204
+GB,2020,Physical Sciences,5522,530
+KR,2022,Physical Sciences,7416,91
+ES,2013,Physical Sciences,2807,79
+ES,2020,Physical Sciences,3230,137
+PL,2020,Social Sciences,1863,41
+GR,2020,Health Sciences,1069,27
+SE,2014,Social Sciences,466,19
+SE,2017,Social Sciences,564,48
+PL,2018,Social Sciences,2137,85
+BR,2017,Social Sciences,8908,400
+CA,2013,Life Sciences,1342,41
+IR,2023,Social Sciences,1385,2
+RU,2014,Physical Sciences,6679,120
+TR,2023,Health Sciences,6385,23
+PK,2020,Physical Sciences,1484,100
+AT,2021,Physical Sciences,470,20
+PT,2022,Health Sciences,1626,36
+IN,2022,Life Sciences,10437,94
+IR,2014,Life Sciences,1084,22
+CA,2014,Health Sciences,3174,187
+IR,2016,Life Sciences,1450,47
+AU,2017,Health Sciences,2446,271
+MX,2018,Life Sciences,1096,53
+JP,2022,Social Sciences,1835,16
+RU,2018,Social Sciences,1303,51
+DE,2015,Physical Sciences,8696,504
+TN,2022,Life Sciences,217,2
+CM,2021,Physical Sciences,135,1
+PK,2021,Social Sciences,1119,39
+IL,2018,Life Sciences,509,25
+GB,2022,Life Sciences,3531,81
+CZ,2021,Physical Sciences,627,16
+NL,2014,Life Sciences,770,32
+ES,2017,Social Sciences,1981,130
+MX,2013,Physical Sciences,961,29
+ID,2020,Health Sciences,3007,50
+DK,2021,Physical Sciences,456,19
+UA,2021,Physical Sciences,1195,21
+TR,2013,Life Sciences,696,17
+NZ,2020,Health Sciences,303,20
+MY,2013,Life Sciences,165,4
+MY,2014,Health Sciences,332,23
+MY,2018,Health Sciences,558,48
+BE,2017,Life Sciences,317,26
+NO,2016,Social Sciences,264,15
+NO,2018,Social Sciences,298,10
+NG,2021,Social Sciences,716,9
+CL,2018,Social Sciences,282,31
+IR,2020,Physical Sciences,4182,87
+CO,2013,Health Sciences,276,9
+PT,2017,Life Sciences,457,41
+IR,2018,Physical Sciences,4048,127
+RU,2022,Health Sciences,2671,28
+KR,2023,Physical Sciences,8772,44
+NL,2020,Health Sciences,2943,133
+NL,2022,Health Sciences,2797,50
+ES,2018,Social Sciences,2159,131
+DE,2016,Physical Sciences,8920,652
+MA,2021,Life Sciences,155,3
+MA,2022,Life Sciences,172,4
+UA,2014,Physical Sciences,565,18
+RU,2021,Social Sciences,2846,48
+IR,2022,Life Sciences,1762,7
+GB,2014,Physical Sciences,4511,292
+IR,2015,Physical Sciences,3401,96
+GR,2021,Health Sciences,1015,14
+GR,2022,Health Sciences,983,11
+NO,2013,Physical Sciences,357,10
+IT,2018,Physical Sciences,4176,245
+TR,2018,Physical Sciences,1891,82
+RU,2017,Physical Sciences,6834,245
+NO,2017,Social Sciences,305,20
+JO,2022,Physical Sciences,100,3
+GR,2017,Social Sciences,263,19
+HU,2021,Physical Sciences,305,7
+AU,2020,Physical Sciences,1765,156
+TH,2022,Physical Sciences,530,6
+MY,2022,Social Sciences,1245,12
+ZA,2015,Health Sciences,547,26
+ZA,2020,Life Sciences,297,20
+ZA,2023,Health Sciences,852,5
+BR,2015,Physical Sciences,6065,236
+TR,2022,Physical Sciences,2066,25
+PK,2014,Health Sciences,347,38
+IT,2015,Social Sciences,1299,72
+KR,2013,Life Sciences,3139,74
+IR,2021,Social Sciences,1902,16
+VE,2015,Health Sciences,26,2
+VE,2019,Health Sciences,26,1
+KR,2021,Health Sciences,6830,86
+DK,2013,Health Sciences,1337,32
+PH,2022,Health Sciences,139,1
+BE,2019,Health Sciences,883,46
+CA,2019,Social Sciences,1787,135
+MX,2016,Health Sciences,772,52
+IN,2018,Social Sciences,2764,166
+KR,2014,Social Sciences,883,47
+SE,2020,Health Sciences,1159,38
+AR,2022,Physical Sciences,1743,16
+CH,2014,Health Sciences,893,74
+CH,2015,Health Sciences,991,79
+CH,2017,Health Sciences,1076,103
+GR,2023,Life Sciences,348,3
+MX,2023,Physical Sciences,1841,16
+KR,2015,Life Sciences,3374,167
+BE,2020,Health Sciences,1041,46
+CZ,2014,Physical Sciences,521,26
+DK,2016,Health Sciences,1446,86
+ZA,2021,Social Sciences,564,24
+NO,2023,Physical Sciences,449,4
+CO,2023,Health Sciences,842,12
+EG,2023,Life Sciences,939,7
+DE,2023,Social Sciences,5552,38
+PH,2023,Social Sciences,194,2
+KR,2018,Physical Sciences,6781,381
+KR,2019,Social Sciences,860,61
+BR,2014,Social Sciences,5672,198
+NL,2019,Physical Sciences,988,97
+TH,2017,Physical Sciences,457,22
+PT,2013,Physical Sciences,851,27
+IN,2017,Social Sciences,2448,178
+TR,2019,Life Sciences,1391,54
+MY,2017,Social Sciences,628,32
+PK,2017,Health Sciences,684,108
+IE,2020,Social Sciences,180,14
+VN,2023,Social Sciences,591,4
+CA,2016,Life Sciences,1339,117
+ES,2023,Social Sciences,2584,24
+PK,2022,Life Sciences,1221,23
+EG,2021,Health Sciences,1585,45
+VN,2018,Social Sciences,106,18
+VN,2019,Health Sciences,157,21
+NG,2014,Health Sciences,603,14
+PK,2015,Life Sciences,375,46
+ES,2014,Life Sciences,2401,94
+ES,2016,Life Sciences,2328,117
+CL,2022,Health Sciences,269,3
+HU,2020,Social Sciences,308,4
+PT,2021,Social Sciences,850,19
+ID,2019,Life Sciences,2479,96
+VN,2020,Health Sciences,219,15
+RS,2020,Social Sciences,149,7
+RS,2021,Social Sciences,120,5
+GB,2016,Life Sciences,3603,360
+AU,2016,Health Sciences,2342,239
+BD,2014,Life Sciences,198,20
+BD,2023,Life Sciences,508,1
+PK,2019,Physical Sciences,1327,186
+SE,2015,Physical Sciences,822,47
+EG,2018,Health Sciences,1089,95
+PL,2016,Health Sciences,1337,53
+ID,2018,Life Sciences,1731,74
+NG,2017,Physical Sciences,488,26
+NZ,2021,Health Sciences,315,13
+PT,2020,Life Sciences,568,25
+NL,2018,Physical Sciences,1012,119
+VE,2016,Physical Sciences,34,1
+AU,2015,Health Sciences,2278,204
+IT,2014,Social Sciences,1139,48
+AR,2016,Physical Sciences,1758,62
+PK,2023,Life Sciences,1464,13
+AT,2016,Health Sciences,341,31
+AT,2017,Health Sciences,342,27
+IL,2019,Health Sciences,1375,61
+BE,2013,Health Sciences,719,20
+CH,2019,Physical Sciences,991,148
+DK,2014,Social Sciences,297,17
+RO,2015,Health Sciences,224,8
+NG,2022,Health Sciences,1166,8
+CU,2014,Health Sciences,93,5
+CU,2015,Health Sciences,135,6
+IL,2017,Health Sciences,1389,79
+IL,2021,Health Sciences,1870,30
+GR,2015,Health Sciences,723,27
+GR,2019,Health Sciences,897,42
+EG,2016,Health Sciences,723,58
+EG,2020,Health Sciences,1606,65
+AR,2013,Health Sciences,381,6
+IR,2017,Social Sciences,1342,37
+NG,2020,Health Sciences,1293,25
+TZ,2016,Physical Sciences,16,1
+AT,2013,Physical Sciences,352,9
+CZ,2018,Physical Sciences,524,26
+DE,2014,Social Sciences,3698,163
+FI,2016,Social Sciences,359,16
+MY,2019,Physical Sciences,1418,72
+AR,2014,Health Sciences,413,19
+AR,2017,Health Sciences,598,36
+NL,2013,Physical Sciences,871,22
+NL,2017,Physical Sciences,1014,97
+PT,2015,Health Sciences,1015,83
+NZ,2014,Life Sciences,148,12
+NZ,2015,Life Sciences,126,14
+BD,2018,Health Sciences,291,25
+IL,2014,Life Sciences,426,15
+HU,2023,Physical Sciences,356,5
+SA,2020,Health Sciences,717,40
+TN,2014,Health Sciences,276,13
+UA,2020,Physical Sciences,1124,30
+AU,2021,Social Sciences,1349,60
+AU,2022,Social Sciences,1431,52
+SE,2018,Physical Sciences,815,75
+TN,2013,Physical Sciences,232,9
+RO,2016,Health Sciences,258,19
+DK,2017,Social Sciences,376,37
+TN,2020,Health Sciences,412,21
+MX,2022,Life Sciences,1124,15
+CO,2020,Physical Sciences,441,24
+TH,2021,Life Sciences,346,6
+UA,2019,Life Sciences,273,8
+NO,2015,Physical Sciences,382,33
+NO,2021,Physical Sciences,401,25
+CH,2021,Life Sciences,706,39
+CH,2023,Health Sciences,1650,29
+NL,2015,Life Sciences,800,44
+PK,2016,Health Sciences,548,80
+MY,2016,Physical Sciences,1145,72
+PT,2019,Life Sciences,525,46
+PL,2014,Social Sciences,1345,45
+PL,2017,Social Sciences,1974,74
+MY,2023,Social Sciences,1389,9
+AU,2014,Health Sciences,1923,132
+MY,2020,Social Sciences,940,29
+HU,2015,Physical Sciences,309,10
+LT,2018,Physical Sciences,52,2
+SE,2016,Social Sciences,525,31
+HU,2016,Life Sciences,416,15
+IT,2021,Life Sciences,2687,49
+MX,2020,Health Sciences,1159,44
+BE,2014,Physical Sciences,578,30
+UA,2022,Health Sciences,335,2
+NG,2016,Social Sciences,270,9
+ZA,2018,Health Sciences,623,44
+MX,2021,Life Sciences,1163,22
+CH,2020,Social Sciences,491,38
+TR,2016,Social Sciences,1741,77
+MY,2021,Health Sciences,878,17
+CA,2018,Social Sciences,1787,182
+RU,2013,Life Sciences,1213,10
+IL,2015,Life Sciences,534,17
+ZA,2019,Social Sciences,465,41
+AR,2023,Health Sciences,770,4
+CH,2013,Health Sciences,911,34
+BE,2021,Social Sciences,359,17
+FI,2021,Social Sciences,450,9
+FI,2022,Social Sciences,425,7
+SA,2023,Life Sciences,252,3
+DK,2023,Life Sciences,497,4
+AT,2020,Life Sciences,183,12
+FI,2023,Physical Sciences,524,4
+EG,2017,Physical Sciences,706,58
+MX,2019,Health Sciences,955,52
+DK,2020,Life Sciences,437,22
+SA,2014,Health Sciences,175,14
+PT,2016,Life Sciences,391,31
+BE,2015,Health Sciences,766,48
+BE,2016,Health Sciences,812,50
+RS,2023,Physical Sciences,184,1
+PL,2022,Health Sciences,1245,16
+EG,2019,Social Sciences,112,6
+SI,2017,Physical Sciences,75,4
+RO,2013,Social Sciences,105,3
+RO,2014,Social Sciences,132,2
+NG,2023,Physical Sciences,1372,7
+DZ,2023,Physical Sciences,1094,6
+PT,2023,Life Sciences,593,6
+ID,2017,Life Sciences,1482,62
+EG,2013,Life Sciences,285,6
+CO,2019,Social Sciences,482,40
+CR,2018,Social Sciences,39,1
+SA,2022,Physical Sciences,283,14
+IL,2016,Life Sciences,482,15
+IT,2019,Social Sciences,1647,91
+IL,2022,Social Sciences,393,1
+CA,2017,Social Sciences,1655,141
+SA,2016,Health Sciences,196,18
+KE,2020,Social Sciences,123,3
+AR,2015,Physical Sciences,1607,63
+IE,2023,Physical Sciences,232,10
+DZ,2022,Life Sciences,184,5
+NO,2020,Life Sciences,216,10
+AU,2023,Social Sciences,1468,28
+SK,2021,Life Sciences,77,3
+PL,2019,Life Sciences,745,28
+BE,2022,Health Sciences,921,13
+NG,2019,Physical Sciences,763,30
+CO,2022,Social Sciences,551,10
+DK,2019,Physical Sciences,402,32
+CL,2021,Health Sciences,327,13
+TH,2023,Health Sciences,508,3
+ZA,2014,Health Sciences,533,27
+EG,2022,Social Sciences,251,1
+ID,2013,Social Sciences,807,21
+GH,2022,Social Sciences,154,1
+ZA,2013,Life Sciences,172,4
+AR,2019,Life Sciences,1136,54
+EG,2015,Health Sciences,582,59
+SI,2018,Physical Sciences,66,3
+VE,2013,Health Sciences,35,1
+CL,2020,Health Sciences,293,24
+CO,2018,Health Sciences,482,42
+MA,2020,Physical Sciences,568,27
+TN,2018,Physical Sciences,397,25
+CO,2015,Life Sciences,162,14
+NO,2022,Physical Sciences,402,17
+ID,2014,Life Sciences,511,14
+PL,2023,Health Sciences,1521,5
+HU,2014,Life Sciences,260,9
+ZA,2022,Health Sciences,793,8
+SK,2019,Life Sciences,78,1
+SE,2021,Life Sciences,411,19
+PL,2021,Social Sciences,1614,20
+RO,2021,Social Sciences,188,5
+SI,2021,Health Sciences,74,1
+CR,2019,Social Sciences,38,1
+CR,2022,Social Sciences,34,1
+AU,2018,Social Sciences,1321,162
+MW,2014,Health Sciences,33,2
+MW,2015,Health Sciences,33,2
+LK,2013,Health Sciences,30,2
+BD,2022,Life Sciences,477,9
+PR,2022,Physical Sciences,22,1
+IL,2023,Life Sciences,526,3
+TN,2016,Health Sciences,318,24
+TH,2015,Physical Sciences,368,12
+FI,2019,Physical Sciences,515,32
+PH,2018,Health Sciences,52,1
+SE,2019,Life Sciences,496,51
+IL,2020,Life Sciences,561,21
+CH,2018,Social Sciences,420,45
+NZ,2019,Life Sciences,159,11
+CL,2017,Life Sciences,149,13
+DZ,2017,Physical Sciences,517,25
+CZ,2023,Life Sciences,310,2
+FI,2013,Social Sciences,315,4
+CA,2015,Social Sciences,1508,105
+NZ,2016,Physical Sciences,174,29
+TR,2017,Life Sciences,1242,53
+BE,2018,Social Sciences,328,22
+CM,2019,Health Sciences,84,6
+TH,2013,Physical Sciences,326,4
+DK,2018,Social Sciences,382,39
+NG,2015,Life Sciences,377,15
+DK,2015,Social Sciences,303,22
+AU,2013,Social Sciences,995,38
+DZ,2021,Social Sciences,129,2
+MY,2015,Social Sciences,489,21
+BD,2019,Physical Sciences,400,52
+SK,2017,Physical Sciences,154,9
+SK,2018,Physical Sciences,148,13
+CZ,2017,Health Sciences,369,11
+DZ,2015,Health Sciences,56,2
+HU,2013,Life Sciences,269,5
+NL,2016,Social Sciences,859,67
+HR,2016,Health Sciences,129,5
+RS,2016,Health Sciences,205,17
+BD,2016,Health Sciences,213,27
+FI,2017,Physical Sciences,435,28
+ZA,2016,Health Sciences,583,29
+IE,2022,Physical Sciences,211,12
+IE,2013,Health Sciences,377,26
+MA,2023,Health Sciences,578,1
+TN,2017,Health Sciences,336,24
+CO,2016,Physical Sciences,276,24
+BD,2021,Health Sciences,354,22
+TH,2014,Physical Sciences,350,11
+SI,2022,Social Sciences,82,1
+BG,2019,Physical Sciences,83,3
+RS,2022,Life Sciences,74,2
+SA,2015,Physical Sciences,98,18
+SA,2019,Social Sciences,64,13
+IR,2013,Social Sciences,570,8
+IE,2016,Health Sciences,469,67
+FI,2018,Social Sciences,421,24
+CZ,2016,Social Sciences,210,12
+SE,2013,Social Sciences,448,10
+IE,2019,Physical Sciences,151,19
+BG,2016,Health Sciences,71,4
+CZ,2019,Life Sciences,301,22
+ZA,2017,Health Sciences,572,35
+KE,2017,Social Sciences,57,3
+VN,2021,Life Sciences,272,10
+RO,2018,Life Sciences,96,4
+FI,2015,Life Sciences,297,24
+CO,2017,Physical Sciences,361,41
+PK,2013,Health Sciences,231,14
+RO,2019,Life Sciences,100,6
+BD,2017,Life Sciences,309,32
+PT,2018,Social Sciences,599,57
+MA,2019,Life Sciences,88,11
+AT,2018,Physical Sciences,383,42
+NZ,2017,Life Sciences,135,16
+GR,2013,Social Sciences,187,5
+GR,2018,Life Sciences,274,14
+RO,2017,Life Sciences,108,8
+CL,2023,Physical Sciences,497,11
+VN,2022,Life Sciences,314,8
+HR,2017,Physical Sciences,87,5
+RS,2018,Life Sciences,75,3
+DZ,2020,Health Sciences,104,7
+SE,2023,Life Sciences,414,9
+PL,2013,Social Sciences,1134,20
+BG,2020,Health Sciences,97,4
+PH,2015,Health Sciences,53,3
+SA,2018,Health Sciences,311,41
+RS,2014,Physical Sciences,133,3
+TN,2021,Social Sciences,116,1
+CH,2022,Social Sciences,555,14
+FI,2014,Life Sciences,238,7
+AT,2022,Physical Sciences,493,11
+MX,2017,Social Sciences,639,57
+UG,2014,Physical Sciences,3,1
+IE,2021,Physical Sciences,191,12
+FI,2020,Life Sciences,226,4
+NZ,2022,Life Sciences,149,2
+UG,2021,Health Sciences,115,6
+CH,2016,Life Sciences,468,58
+SK,2016,Social Sciences,49,3
+TH,2018,Social Sciences,123,1
+KE,2022,Health Sciences,115,1
+UA,2015,Health Sciences,109,4
+BY,2017,Physical Sciences,39,1
+DZ,2018,Physical Sciences,732,30
+DZ,2019,Social Sciences,98,3
+CO,2014,Health Sciences,309,29
+AR,2021,Health Sciences,730,19
+GR,2014,Social Sciences,188,8
+NO,2014,Social Sciences,184,7
+RO,2022,Health Sciences,323,4
+LK,2018,Life Sciences,51,4
+HU,2019,Health Sciences,282,13
+SA,2021,Social Sciences,131,6
+CZ,2013,Life Sciences,250,4
+HR,2019,Life Sciences,68,1
+CM,2020,Physical Sciences,123,5
+IL,2013,Health Sciences,1064,22
+MW,2023,Life Sciences,16,2
+GR,2016,Social Sciences,205,9
+PR,2016,Physical Sciences,33,1
+HU,2022,Social Sciences,322,1
+IE,2017,Physical Sciences,165,30
+BD,2020,Social Sciences,161,6
+BD,2015,Health Sciences,161,19
+PH,2019,Health Sciences,81,7
+PH,2020,Health Sciences,93,8
+SA,2017,Social Sciences,39,10
+GH,2021,Health Sciences,131,3
+SA,2013,Health Sciences,130,6
+AT,2015,Health Sciences,372,20
+HR,2022,Physical Sciences,94,2
+SK,2020,Social Sciences,84,5
+MW,2018,Health Sciences,45,7
+MW,2013,Life Sciences,12,1
+HR,2013,Health Sciences,124,3
+CZ,2020,Health Sciences,426,9
+TN,2019,Social Sciences,73,8
+RS,2015,Physical Sciences,148,5
+NG,2018,Social Sciences,361,11
+CL,2019,Health Sciences,232,15
+AE,2019,Health Sciences,32,6
+VE,2018,Health Sciences,16,1
+VN,2016,Social Sciences,41,6
+KE,2015,Life Sciences,49,3
+KE,2021,Physical Sciences,76,3
+DZ,2014,Health Sciences,44,3
+PH,2016,Physical Sciences,58,2
+CZ,2015,Life Sciences,267,13
+HR,2021,Health Sciences,241,2
+CU,2019,Health Sciences,128,5
+AE,2021,Physical Sciences,49,3
+AE,2020,Social Sciences,52,8
+RS,2017,Physical Sciences,176,10
+NZ,2018,Health Sciences,245,31
+RO,2020,Life Sciences,121,5
+IE,2018,Physical Sciences,151,23
+BD,2013,Life Sciences,197,12
+NG,2013,Health Sciences,504,15
+CL,2014,Physical Sciences,188,14
+JO,2020,Health Sciences,67,4
+JO,2021,Physical Sciences,75,3
+IS,2020,Physical Sciences,18,2
+SK,2022,Life Sciences,64,1
+VN,2017,Social Sciences,49,12
+CL,2016,Life Sciences,156,13
+SK,2015,Social Sciences,49,2
+MA,2013,Physical Sciences,116,6
+HR,2018,Health Sciences,145,5
+HU,2017,Health Sciences,259,17
+UG,2016,Health Sciences,47,2
+TH,2016,Social Sciences,94,5
+NZ,2023,Life Sciences,151,3
+TN,2015,Social Sciences,60,6
+AT,2019,Life Sciences,152,12
+TH,2019,Life Sciences,257,14
+LK,2019,Health Sciences,76,7
+IE,2014,Social Sciences,108,9
+CZ,2022,Social Sciences,230,2
+UA,2016,Social Sciences,53,1
+PH,2014,Health Sciences,43,1
+LK,2022,Life Sciences,56,1
+PR,2017,Physical Sciences,29,1
+HR,2015,Physical Sciences,79,2
+UA,2017,Life Sciences,147,7
+UA,2018,Life Sciences,202,6
+CM,2022,Life Sciences,87,1
+PR,2015,Social Sciences,14,1
+JO,2016,Life Sciences,13,2
+HR,2014,Social Sciences,126,4
+KE,2019,Life Sciences,74,6
+CL,2015,Health Sciences,153,13
+SK,2013,Health Sciences,60,2
+JO,2023,Social Sciences,76,1
+GH,2019,Life Sciences,69,7
+CM,2018,Social Sciences,22,1
+IS,2021,Health Sciences,14,1
+PR,2013,Life Sciences,13,2
+SI,2015,Physical Sciences,66,1
+DZ,2016,Health Sciences,54,4
+BY,2016,Physical Sciences,42,2
+CL,2013,Life Sciences,90,5
+JO,2014,Social Sciences,19,1
+JO,2019,Physical Sciences,68,2
+KE,2016,Health Sciences,59,4
+LT,2017,Physical Sciences,27,1
+GH,2020,Social Sciences,73,7
+TZ,2018,Social Sciences,14,1
+AE,2023,Social Sciences,72,2
+PH,2017,Physical Sciences,70,6
+VN,2014,Social Sciences,22,4
+KE,2018,Life Sciences,47,4
+LK,2021,Physical Sciences,104,2
+AE,2018,Physical Sciences,40,7
+VN,2013,Life Sciences,31,4
+KE,2014,Health Sciences,35,3
+BG,2015,Social Sciences,17,1
+PR,2020,Physical Sciences,35,5
+PR,2019,Health Sciences,25,2
+CU,2018,Physical Sciences,26,2
+BG,2018,Physical Sciences,68,6
+CU,2016,Life Sciences,49,5
+EE,2022,Social Sciences,33,1
+TZ,2020,Social Sciences,32,1
+TZ,2017,Health Sciences,66,7
+SI,2019,Physical Sciences,68,2
+CR,2020,Social Sciences,35,1
+NZ,2013,Social Sciences,105,2
+LK,2015,Health Sciences,45,2
+MA,2016,Social Sciences,52,7
+HR,2020,Life Sciences,60,1
+LK,2020,Physical Sciences,106,4
+TZ,2014,Health Sciences,33,4
+EE,2018,Physical Sciences,36,2
+MT,2014,Health Sciences,7,1
+GH,2017,Life Sciences,46,5
+SK,2014,Social Sciences,41,1
+AE,2014,Physical Sciences,13,1
+GH,2015,Physical Sciences,22,1
+SI,2016,Social Sciences,59,3
+VN,2015,Social Sciences,29,3
+AE,2016,Social Sciences,19,2
+AT,2014,Social Sciences,122,9
+CM,2017,Physical Sciences,49,2
+AE,2022,Life Sciences,30,1
+RS,2019,Life Sciences,75,2
+LK,2016,Life Sciences,35,3
+AE,2017,Social Sciences,16,3
+CR,2014,Physical Sciences,10,1
+JO,2018,Social Sciences,33,5
+LK,2017,Physical Sciences,48,4
+CU,2017,Physical Sciences,29,1
+MT,2020,Health Sciences,9,1
+GH,2018,Social Sciences,33,4
+GH,2016,Life Sciences,38,1
+SI,2014,Life Sciences,24,1
+UG,2015,Health Sciences,32,2
+PR,2014,Social Sciences,9,1
+CM,2014,Health Sciences,39,4
+IS,2018,Health Sciences,7,1
+MA,2014,Social Sciences,25,2
+TZ,2015,Social Sciences,11,1
+LK,2014,Physical Sciences,26,4
+IN,2020,Unspecified,294,15
+US,2019,Unspecified,613,34
+DE,2015,Unspecified,213,9
+DE,2019,Unspecified,268,11
+US,2021,Unspecified,447,2
+US,2022,Unspecified,648,6
+IN,2021,Unspecified,211,3
+DE,2018,Unspecified,204,8
+FR,2016,Unspecified,43,2
+DE,2021,Unspecified,282,6
+GB,2020,Unspecified,61,2
+TR,2018,Unspecified,13,1
+UA,2021,Unspecified,20,1
+FR,2019,Unspecified,50,2
+DE,2013,Unspecified,183,5
+IN,2015,Unspecified,117,10
+TN,2018,Unspecified,6,2
+FR,2015,Unspecified,36,2
+EG,2017,Unspecified,13,1
+GB,2021,Unspecified,48,1
+DE,2016,Unspecified,119,6
+BR,2015,Unspecified,23,2
+UA,2020,Unspecified,19,2
+ES,2020,Unspecified,13,1
+MY,2019,Unspecified,7,1
+GB,2014,Unspecified,62,4
+NL,2017,Unspecified,4,1
+CN,2014,Unspecified,27,1
+AT,2018,Unspecified,6,1
+PK,2019,Unspecified,13,1
+DK,2021,Unspecified,5,1
+RU,2016,Unspecified,13,2
+MY,2016,Unspecified,6,1
+CO,2017,Unspecified,6,1
+EE,2020,Social Sciences,28,1
+BY,2018,Health Sciences,14,1
+CR,2015,Life Sciences,20,1
+LT,2014,Health Sciences,16,1
+GH,2014,Physical Sciences,12,1
+PR,2021,Physical Sciences,29,1
+CL,2014,Unspecified,2,1
+MX,2023,Unspecified,4,1
+PK,2018,Unspecified,10,1
+AE,2013,Health Sciences,7,1
+MW,2021,Life Sciences,6,1
+KR,2018,Unspecified,6,1
+AT,2021,Unspecified,4,1
+BD,2019,Unspecified,6,1
+CZ,2018,Unspecified,3,1
+NO,2023,Unspecified,4,1
+BR,2012,Health Sciences,5147,0
+DE,2012,Social Sciences,3214,0
+TR,2012,Health Sciences,2586,0
+EG,2012,Health Sciences,316,0
+JP,2012,Life Sciences,6915,0
+US,2012,Health Sciences,59181,0
+MX,2012,Life Sciences,617,0
+FR,2012,Life Sciences,7214,0
+KR,2012,Life Sciences,2969,0
+ES,2012,Physical Sciences,2876,0
+TN,2012,Life Sciences,94,0
+GB,2012,Social Sciences,4476,0
+BE,2012,Life Sciences,295,0
+CN,2012,Social Sciences,16625,0
+UG,2023,Health Sciences,155,0
+IN,2012,Health Sciences,5147,0
+ID,2012,Health Sciences,152,0
+RU,2012,Physical Sciences,5609,0
+IT,2012,Social Sciences,964,0
+MY,2012,Social Sciences,300,0
+UG,2012,Health Sciences,23,0
+AU,2012,Life Sciences,762,0
+MW,2019,Physical Sciences,6,0
+IR,2012,Physical Sciences,2225,0
+PL,2012,Life Sciences,660,0
+HR,2023,Health Sciences,231,0
+NZ,2012,Health Sciences,193,0
+NO,2012,Life Sciences,148,0
+PK,2012,Physical Sciences,301,0
+KE,2023,Social Sciences,173,0
+NL,2012,Physical Sciences,980,0
+PT,2012,Social Sciences,324,0
+ZA,2012,Social Sciences,280,0
+CA,2012,Social Sciences,1328,0
+CL,2012,Social Sciences,134,0
+AR,2012,Social Sciences,575,0
+HR,2012,Social Sciences,105,0
+AT,2012,Life Sciences,110,0
+GH,2013,Health Sciences,42,0
+DK,2012,Physical Sciences,403,0
+FI,2012,Health Sciences,497,0
+SI,2023,Life Sciences,35,0
+TZ,2021,Health Sciences,105,0
+IS,2017,Physical Sciences,9,0
+HU,2012,Social Sciences,90,0
+EE,2013,Physical Sciences,39,0
+CO,2012,Physical Sciences,180,0
+BD,2012,Physical Sciences,99,0
+MA,2012,Life Sciences,39,0
+RO,2023,Health Sciences,368,0
+LK,2023,Social Sciences,93,0
+BG,2023,Social Sciences,50,0
+CR,2016,Physical Sciences,34,0
+GH,2012,Physical Sciences,12,0
+SE,2012,Social Sciences,485,0
+CM,2023,Health Sciences,146,0
+RO,2012,Social Sciences,66,0
+IL,2012,Health Sciences,895,0
+TH,2020,Social Sciences,122,0
+DZ,2013,Social Sciences,27,0
+GH,2023,Life Sciences,108,0
+SI,2013,Life Sciences,19,0
+PH,2012,Health Sciences,38,0
+VE,2020,Social Sciences,16,0
+PH,2021,Physical Sciences,122,0
+CZ,2012,Physical Sciences,414,0
+BG,2017,Social Sciences,27,0
+RS,2012,Social Sciences,45,0
+VE,2014,Life Sciences,21,0
+SI,2020,Health Sciences,54,0
+CH,2012,Social Sciences,286,0
+EE,2021,Physical Sciences,35,0
+LT,2020,Health Sciences,40,0
+BY,2013,Life Sciences,6,0
+LT,2015,Physical Sciences,41,0
+EE,2016,Life Sciences,17,0
+BY,2020,Life Sciences,8,0
+JO,2017,Life Sciences,23,0
+AM,2018,Physical Sciences,6,0
+RS,2013,Social Sciences,44,0
+CU,2022,Physical Sciences,21,0
+IS,2022,Health Sciences,16,0
+SA,2012,Physical Sciences,63,0
+KE,2013,Social Sciences,18,0
+LT,2019,Life Sciences,15,0
+UG,2020,Physical Sciences,27,0
+MT,2018,Social Sciences,5,0
+GR,2012,Social Sciences,157,0
+UA,2012,Social Sciences,10,0
+CU,2013,Life Sciences,46,0
+UG,2022,Social Sciences,43,0
+VE,2023,Health Sciences,30,0
+PH,2013,Social Sciences,25,0
+LT,2023,Health Sciences,34,0
+CU,2020,Social Sciences,30,0
+NG,2012,Life Sciences,186,0
+CR,2021,Health Sciences,10,0
+IS,2015,Life Sciences,6,0
+BG,2022,Physical Sciences,107,0
+IE,2012,Life Sciences,134,0
+VE,2017,Physical Sciences,29,0
+LT,2013,Health Sciences,16,0
+KE,2012,Social Sciences,16,0
+AE,2015,Life Sciences,7,0
+MT,2012,Health Sciences,10,0
+VN,2012,Life Sciences,19,0
+CR,2012,Social Sciences,23,0
+SK,2023,Social Sciences,65,0
+TH,2012,Social Sciences,43,0
+BG,2021,Physical Sciences,89,0
+CU,2012,Physical Sciences,17,0
+EE,2023,Health Sciences,23,0
+BG,2013,Social Sciences,22,0
+UG,2017,Social Sciences,10,0
+UG,2018,Social Sciences,14,0
+CU,2023,Social Sciences,20,0
+PR,2018,Social Sciences,14,0
+TZ,2019,Social Sciences,15,0
+JO,2015,Social Sciences,19,0
+CR,2017,Life Sciences,15,0
+CR,2023,Life Sciences,28,0
+AM,2017,Physical Sciences,13,0
+LT,2022,Social Sciences,68,0
+TZ,2023,Physical Sciences,46,0
+AE,2012,Physical Sciences,8,0
+EE,2019,Health Sciences,14,0
+VE,2012,Life Sciences,39,0
+CR,2013,Physical Sciences,19,0
+TZ,2013,Social Sciences,5,0
+SI,2012,Life Sciences,25,0
+CU,2021,Life Sciences,33,0
+SK,2012,Social Sciences,25,0
+BG,2012,Health Sciences,24,0
+PR,2012,Physical Sciences,21,0
+IS,2019,Social Sciences,10,0
+BY,2021,Social Sciences,10,0
+AM,2020,Physical Sciences,17,0
+LT,2016,Health Sciences,31,0
+EE,2012,Physical Sciences,27,0
+BY,2019,Health Sciences,16,0
+VE,2022,Physical Sciences,6,0
+MT,2016,Social Sciences,4,0
+IS,2023,Life Sciences,7,0
+EE,2015,Life Sciences,21,0
+BY,2022,Health Sciences,13,0
+JO,2012,Social Sciences,16,0
+TZ,2022,Social Sciences,41,0
+CM,2016,Life Sciences,30,0
+PR,2023,Life Sciences,21,0
+MW,2022,Physical Sciences,4,0
+MT,2022,Social Sciences,9,0
+MT,2017,Physical Sciences,4,0
+AM,2023,Social Sciences,6,0
+LT,2012,Social Sciences,16,0
+UG,2013,Social Sciences,2,0
+BY,2023,Life Sciences,15,0
+EE,2014,Health Sciences,27,0
+VE,2021,Health Sciences,25,0
+DZ,2012,Health Sciences,18,0
+AM,2021,Physical Sciences,13,0
+LT,2021,Life Sciences,11,0
+IS,2014,Life Sciences,4,0
+EE,2017,Life Sciences,18,0
+NG,2019,Unspecified,11,0
+BR,2022,Unspecified,89,0
+MA,2018,Unspecified,3,0
+IR,2020,Unspecified,6,0
+ID,2022,Unspecified,28,0
+HU,2023,Unspecified,1,0
+CL,2023,Unspecified,3,0
+UA,2023,Unspecified,15,0
+JP,2019,Unspecified,24,0
+CZ,2021,Unspecified,2,0
+PK,2012,Unspecified,2,0
+CA,2020,Unspecified,19,0
+CH,2019,Unspecified,6,0
+JP,2021,Unspecified,24,0
+TR,2022,Unspecified,11,0
+KR,2022,Unspecified,3,0
+ES,2012,Unspecified,8,0
+IR,2018,Unspecified,10,0
+NL,2019,Unspecified,7,0
+RU,2012,Unspecified,2,0
+DK,2019,Unspecified,2,0
+HU,2021,Unspecified,10,0
+BD,2012,Unspecified,9,0
+SI,2017,Unspecified,3,0
+PK,2020,Unspecified,6,0
+TH,2017,Unspecified,1,0
+DK,2022,Unspecified,8,0
+IT,2018,Unspecified,24,0
+AR,2016,Unspecified,2,0
+NL,2013,Unspecified,6,0
+NG,2017,Unspecified,10,0
+AU,2020,Unspecified,7,0
+NG,2023,Unspecified,7,0
+ES,2013,Unspecified,9,0
+RU,2015,Unspecified,2,0
+AT,2013,Unspecified,2,0
+DK,2012,Unspecified,5,0
+JO,2013,Life Sciences,5,0
+AM,2013,Physical Sciences,9,0
+CM,2015,Social Sciences,5,0
+IS,2013,Social Sciences,3,0
+TZ,2012,Health Sciences,21,0
+CM,2012,Physical Sciences,16,0
+CM,2013,Social Sciences,3,0
+MT,2023,Health Sciences,13,0
+UG,2019,Life Sciences,13,0
+MW,2016,Social Sciences,5,0
+IS,2016,Social Sciences,4,0
+BG,2014,Social Sciences,7,0
+LK,2012,Social Sciences,10,0
+SA,2022,Unspecified,1,0
+TH,2013,Unspecified,2,0
+SK,2017,Unspecified,1,0
+ES,2019,Unspecified,16,0
+SE,2018,Unspecified,6,0
+CO,2020,Unspecified,3,0
+NL,2012,Unspecified,3,0
+EE,2021,Unspecified,2,0
+RU,2017,Unspecified,5,0
+CO,2021,Unspecified,2,0
+AR,2022,Unspecified,3,0
+PH,2021,Unspecified,2,0
+EG,2014,Unspecified,1,0
+IS,2012,Life Sciences,2,0
+KR,2023,Unspecified,6,0
+BG,2022,Unspecified,1,0
+MT,2019,Physical Sciences,3,0
+AM,2022,Social Sciences,3,0
+BY,2015,Social Sciences,3,0
+MW,2020,Life Sciences,2,0
+KR,2016,Unspecified,2,0
+RU,2014,Unspecified,3,0
+CO,2012,Unspecified,1,0
+AT,2022,Unspecified,2,0
+NL,2018,Unspecified,4,0
+JO,2021,Unspecified,4,0
+CU,2018,Unspecified,1,0
+CO,2016,Unspecified,1,0
+HU,2015,Unspecified,1,0
+BG,2019,Unspecified,1,0
+MA,2017,Unspecified,2,0
+AR,2020,Unspecified,6,0
+AR,2015,Unspecified,4,0
+MT,2015,Life Sciences,1,0
+IR,2015,Unspecified,1,0
+CZ,2014,Unspecified,1,0
+DZ,2023,Unspecified,1,0
+MX,2013,Unspecified,5,0
+MA,2020,Unspecified,3,0
+MT,2021,Life Sciences,2,0
+BE,2014,Unspecified,1,0
+SE,2015,Unspecified,1,0
+AE,2021,Unspecified,1,0
+MW,2017,Social Sciences,2,0
+MW,2012,Physical Sciences,2,0
+SI,2015,Unspecified,1,0
+UG,2020,Unspecified,1,0
+FI,2019,Unspecified,1,0
+FI,2023,Unspecified,1,0
+AR,2018,Unspecified,1,0
+GH,2012,Unspecified,1,0
+PT,2013,Unspecified,2,0
+IE,2017,Unspecified,1,0
+CZ,2012,Unspecified,1,0
+CU,2022,Unspecified,2,0
+PR,2020,Unspecified,1,0
+AM,2012,Life Sciences,1,0
+BY,2012,Social Sciences,1,0
+NO,2013,Unspecified,1,0
+SI,2019,Unspecified,1,0
+NO,2022,Unspecified,1,0
+BG,2021,Unspecified,1,0
+NO,2021,Unspecified,1,0
+CM,2017,Unspecified,1,0
+HR,2017,Unspecified,1,0
+NZ,2016,Unspecified,1,0
+IT,2014,Health Sciences,6837,184
+CN,2019,Physical Sciences,132488,6063
+CN,2020,Social Sciences,14478,435
+CN,2021,Health Sciences,69716,847
+ID,2023,Social Sciences,24879,44
+CN,2018,Health Sciences,48769,2452
+CN,2023,Physical Sciences,216304,719
+CN,2015,Physical Sciences,103581,4357
+DE,2022,Physical Sciences,8799,169
+JP,2022,Health Sciences,17532,117
+FR,2021,Social Sciences,7760,124
+FR,2022,Social Sciences,7510,56
+CN,2014,Life Sciences,35886,1608
+NG,2021,Health Sciences,1197,11
+US,2014,Social Sciences,27082,814
+TR,2016,Health Sciences,4025,188
+TR,2021,Health Sciences,6085,99
+US,2016,Social Sciences,28517,1297
+FR,2013,Social Sciences,5936,137
+BR,2017,Health Sciences,8013,344
+BR,2020,Health Sciences,11092,260
+US,2017,Social Sciences,29049,1544
+DE,2020,Physical Sciences,9072,442
+ES,2022,Health Sciences,7562,102
+GB,2019,Physical Sciences,5169,667
+IN,2014,Physical Sciences,10857,535
+IN,2023,Physical Sciences,35144,171
+JP,2016,Physical Sciences,12722,318
+US,2023,Physical Sciences,51001,527
+CO,2022,Health Sciences,620,14
+RU,2018,Health Sciences,1899,115
+IT,2019,Health Sciences,8672,419
+US,2021,Life Sciences,34458,875
+US,2020,Health Sciences,93518,3072
+DE,2015,Life Sciences,4833,239
+CA,2021,Social Sciences,2059,79
+CN,2017,Physical Sciences,106852,5560
+IT,2017,Physical Sciences,3919,227
+GB,2023,Health Sciences,15026,104
+CA,2019,Health Sciences,4253,384
+US,2018,Social Sciences,29813,1452
+FI,2018,Health Sciences,439,15
+CN,2022,Health Sciences,73455,452
+US,2019,Life Sciences,35634,2074
+TR,2022,Life Sciences,1357,10
+IR,2020,Life Sciences,1934,27
+FR,2017,Health Sciences,12077,500
+FR,2020,Health Sciences,13526,329
+FR,2023,Health Sciences,12715,63
+RO,2015,Social Sciences,161,5
+CN,2016,Health Sciences,41176,2126
+US,2013,Health Sciences,62697,1434
+NO,2018,Health Sciences,481,28
+DE,2013,Life Sciences,4668,151
+DE,2023,Health Sciences,9054,61
+GB,2017,Social Sciences,5076,495
+ES,2016,Physical Sciences,2792,187
+IT,2015,Health Sciences,7561,261
+US,2022,Life Sciences,32629,490
+JP,2021,Life Sciences,6597,81
+CA,2023,Social Sciences,2116,23
+ID,2018,Physical Sciences,4201,199
+CA,2018,Health Sciences,4062,357
+FR,2014,Physical Sciences,18802,785
+BR,2016,Health Sciences,7191,284
+RU,2023,Social Sciences,2600,10
+FR,2015,Life Sciences,7990,371
+MY,2015,Health Sciences,332,19
+GB,2018,Social Sciences,5602,535
+IR,2019,Social Sciences,1648,34
+AT,2013,Life Sciences,138,5
+US,2015,Physical Sciences,43330,2447
+DE,2014,Health Sciences,7927,251
+BR,2018,Social Sciences,9751,426
+GR,2018,Physical Sciences,642,34
+ID,2020,Social Sciences,12214,125
+IT,2018,Life Sciences,2679,125
+IT,2021,Physical Sciences,4515,113
+KR,2017,Physical Sciences,6701,420
+ES,2023,Health Sciences,8780,52
+UA,2022,Social Sciences,809,4
+RU,2022,Social Sciences,2395,18
+VN,2013,Physical Sciences,99,6
+FR,2018,Health Sciences,12485,501
+FR,2019,Life Sciences,8479,386
+BR,2023,Health Sciences,13240,57
+IN,2021,Life Sciences,10605,134
+TR,2023,Social Sciences,3642,12
+ID,2014,Physical Sciences,840,33
+CA,2017,Health Sciences,3784,359
+TR,2020,Health Sciences,5845,152
+HU,2013,Physical Sciences,277,3
+HU,2014,Physical Sciences,314,8
+CA,2015,Health Sciences,3438,232
+EG,2017,Life Sciences,621,62
+NO,2014,Health Sciences,432,14
+CL,2020,Social Sciences,324,21
+PK,2023,Physical Sciences,2282,14
+IN,2015,Life Sciences,5684,294
+IN,2020,Life Sciences,10689,305
+SE,2014,Health Sciences,1105,45
+KR,2022,Life Sciences,2855,24
+IN,2022,Physical Sciences,25430,309
+IN,2019,Physical Sciences,20092,1169
+MX,2018,Physical Sciences,1516,97
+MX,2021,Physical Sciences,1650,46
+MX,2022,Physical Sciences,1637,12
+IT,2016,Health Sciences,7452,315
+GB,2013,Health Sciences,10768,368
+IN,2018,Health Sciences,12768,731
+ES,2020,Life Sciences,2566,66
+JP,2018,Social Sciences,1826,57
+CN,2013,Social Sciences,14664,273
+IT,2013,Social Sciences,1039,26
+FI,2013,Health Sciences,441,3
+IN,2017,Health Sciences,12023,816
+ES,2014,Physical Sciences,2766,149
+JP,2020,Social Sciences,1690,38
+GB,2021,Life Sciences,3743,172
+DK,2015,Health Sciences,1334,60
+DK,2017,Health Sciences,1470,94
+DK,2018,Health Sciences,1532,92
+TR,2017,Physical Sciences,1734,76
+PL,2014,Health Sciences,1195,40
+PL,2017,Health Sciences,1392,50
+DE,2017,Social Sciences,4205,262
+BR,2019,Social Sciences,10434,415
+BR,2021,Health Sciences,11688,160
+ES,2021,Physical Sciences,3163,82
+IR,2018,Life Sciences,1933,69
+JP,2023,Physical Sciences,12218,60
+RU,2019,Health Sciences,2450,138
+NL,2016,Health Sciences,2450,120
+TN,2017,Social Sciences,86,9
+SE,2020,Social Sciences,620,30
+HU,2020,Health Sciences,257,4
+PL,2023,Social Sciences,1745,10
+DK,2013,Social Sciences,299,11
+NL,2020,Social Sciences,955,42
+BE,2022,Social Sciences,372,9
+FR,2016,Life Sciences,8019,398
+ID,2019,Physical Sciences,5447,203
+RU,2013,Physical Sciences,6073,64
+TR,2019,Physical Sciences,2120,87
+SE,2021,Physical Sciences,839,42
+BR,2014,Health Sciences,6209,208
+GB,2014,Life Sciences,3321,206
+SA,2022,Life Sciences,178,4
+DK,2014,Health Sciences,1222,54
+AU,2021,Health Sciences,3033,118
+IR,2016,Physical Sciences,3673,105
+GB,2015,Physical Sciences,4376,385
+IR,2021,Health Sciences,4000,37
+NL,2013,Life Sciences,816,20
+PL,2016,Social Sciences,1725,62
+PL,2022,Social Sciences,1432,8
+RU,2016,Life Sciences,1395,47
+TN,2013,Life Sciences,93,3
+TN,2018,Life Sciences,163,14
+TN,2021,Health Sciences,567,12
+NL,2021,Health Sciences,3091,73
+IR,2015,Life Sciences,1298,32
+IR,2022,Physical Sciences,3517,27
+JP,2017,Health Sciences,17024,500
+IN,2016,Health Sciences,10271,676
+BR,2015,Life Sciences,5391,164
+DK,2016,Social Sciences,355,34
+IL,2013,Social Sciences,246,5
+MY,2021,Social Sciences,1174,25
+CZ,2023,Physical Sciences,631,3
+BR,2013,Social Sciences,4733,103
+IR,2013,Health Sciences,1569,34
+IR,2023,Health Sciences,4030,14
+HU,2019,Social Sciences,214,6
+KR,2015,Physical Sciences,6704,327
+DK,2023,Physical Sciences,513,9
+DZ,2022,Physical Sciences,865,13
+MY,2017,Health Sciences,480,40
+ID,2021,Physical Sciences,7660,54
+ID,2022,Life Sciences,3414,33
+GB,2016,Physical Sciences,4646,515
+CL,2019,Social Sciences,295,23
+IL,2015,Physical Sciences,372,18
+UG,2018,Health Sciences,57,5
+ES,2017,Health Sciences,6944,390
+ES,2018,Health Sciences,7146,340
+ES,2019,Life Sciences,2756,143
+RS,2021,Health Sciences,187,2
+VN,2022,Physical Sciences,897,17
+BR,2022,Life Sciences,5926,50
+SE,2017,Health Sciences,1090,51
+RO,2017,Physical Sciences,338,21
+DE,2016,Life Sciences,4553,316
+DE,2019,Life Sciences,4459,333
+IN,2013,Physical Sciences,9062,293
+IR,2014,Physical Sciences,2832,58
+RO,2018,Physical Sciences,324,13
+NO,2016,Health Sciences,484,28
+KR,2016,Life Sciences,3369,186
+AU,2015,Social Sciences,1140,112
+RS,2020,Health Sciences,188,6
+CO,2023,Social Sciences,617,10
+TH,2020,Health Sciences,345,3
+CA,2016,Physical Sciences,2175,208
+CA,2014,Social Sciences,1405,60
+BE,2013,Social Sciences,299,5
+BE,2015,Social Sciences,341,25
+ZA,2020,Physical Sciences,627,33
+CZ,2013,Physical Sciences,423,10
+RU,2015,Life Sciences,1406,41
+BE,2014,Life Sciences,345,14
+BE,2017,Physical Sciences,516,45
+KR,2019,Health Sciences,7070,276
+AU,2020,Life Sciences,1082,92
+SE,2013,Health Sciences,966,26
+CH,2018,Health Sciences,1115,122
+AR,2020,Life Sciences,1279,29
+GR,2014,Health Sciences,734,23
+PT,2017,Physical Sciences,910,67
+AU,2022,Health Sciences,3003,70
+FI,2022,Health Sciences,549,5
+GB,2020,Life Sciences,4032,256
+CZ,2015,Physical Sciences,509,23
+DE,2021,Life Sciences,4335,134
+ZA,2023,Social Sciences,667,9
+ID,2015,Social Sciences,1741,85
+DK,2019,Life Sciences,435,40
+KR,2020,Social Sciences,929,40
+KR,2013,Physical Sciences,6681,148
+KR,2014,Health Sciences,6865,202
+JP,2013,Social Sciences,1401,19
+KR,2018,Life Sciences,3274,152
+BD,2017,Physical Sciences,254,31
+BD,2019,Life Sciences,384,42
+ID,2017,Physical Sciences,2803,116
+KR,2023,Life Sciences,3547,18
+BD,2020,Health Sciences,368,28
+BD,2022,Physical Sciences,496,6
+BD,2023,Physical Sciences,695,4
+EG,2019,Health Sciences,1372,120
+EG,2022,Health Sciences,1570,26
+JP,2019,Life Sciences,6534,234
+NG,2016,Health Sciences,703,24
+PK,2022,Physical Sciences,1905,37
+IR,2017,Health Sciences,3033,89
+ID,2013,Health Sciences,263,5
+MY,2013,Physical Sciences,902,31
+MY,2018,Social Sciences,790,34
+RU,2021,Health Sciences,3035,42
+HU,2017,Social Sciences,203,10
+CL,2021,Social Sciences,346,18
+PK,2021,Health Sciences,1993,80
+JP,2014,Social Sciences,1475,39
+PT,2013,Life Sciences,359,22
+MX,2014,Life Sciences,682,23
+DE,2018,Life Sciences,4340,303
+RU,2020,Health Sciences,2834,97
+PT,2018,Health Sciences,1169,122
+BD,2013,Physical Sciences,122,11
+PT,2021,Health Sciences,1608,51
+SE,2019,Physical Sciences,851,83
+GB,2022,Physical Sciences,5062,179
+PT,2022,Social Sciences,799,11
+MX,2015,Social Sciences,485,23
+NG,2023,Life Sciences,1052,2
+RU,2014,Life Sciences,1326,30
+PK,2017,Social Sciences,331,48
+PT,2014,Physical Sciences,873,49
+EG,2023,Physical Sciences,1279,7
+ES,2015,Physical Sciences,2737,149
+PL,2015,Health Sciences,1282,39
+KR,2021,Social Sciences,1003,21
+MY,2019,Life Sciences,338,14
+MY,2022,Health Sciences,821,10
+PT,2023,Physical Sciences,1261,9
+MX,2020,Social Sciences,763,33
+AT,2023,Health Sciences,387,6
+NO,2017,Health Sciences,461,24
+IT,2020,Physical Sciences,4729,157
+SA,2023,Physical Sciences,416,6
+GR,2020,Social Sciences,376,14
+AR,2014,Social Sciences,716,47
+NL,2018,Life Sciences,793,62
+IT,2022,Social Sciences,1887,30
+CH,2016,Physical Sciences,842,122
+CH,2021,Physical Sciences,950,59
+AU,2017,Social Sciences,1303,165
+AU,2019,Health Sciences,2887,310
+PK,2019,Life Sciences,724,90
+RO,2014,Health Sciences,202,8
+SE,2016,Health Sciences,1117,55
+NG,2022,Social Sciences,737,6
+TN,2015,Health Sciences,312,23
+GR,2017,Health Sciences,835,37
+CZ,2019,Physical Sciences,540,21
+PK,2018,Life Sciences,647,90
+CH,2023,Social Sciences,583,10
+AU,2023,Health Sciences,3265,40
+CO,2013,Social Sciences,315,7
+AE,2015,Physical Sciences,19,3
+CH,2017,Social Sciences,398,47
+AR,2019,Physical Sciences,1820,89
+MA,2016,Health Sciences,326,14
+CA,2013,Physical Sciences,2160,72
+MX,2017,Health Sciences,833,46
+SA,2021,Health Sciences,894,16
+GR,2023,Physical Sciences,819,3
+VN,2021,Physical Sciences,823,39
+NG,2018,Health Sciences,819,48
+NG,2013,Social Sciences,157,2
+NG,2014,Social Sciences,207,5
+MA,2014,Health Sciences,321,15
+TH,2015,Life Sciences,181,5
+HU,2018,Health Sciences,263,9
+RO,2019,Physical Sciences,374,18
+AU,2013,Health Sciences,1834,73
+IL,2014,Physical Sciences,388,12
+PL,2020,Health Sciences,1421,26
+CA,2022,Social Sciences,1832,48
+UA,2017,Physical Sciences,689,29
+PT,2019,Physical Sciences,993,80
+NL,2023,Health Sciences,2956,22
+CH,2014,Social Sciences,316,28
+MY,2023,Health Sciences,981,7
+RU,2017,Life Sciences,1304,65
+IE,2014,Health Sciences,347,25
+TR,2018,Life Sciences,1407,77
+TN,2019,Health Sciences,394,24
+NZ,2013,Health Sciences,181,5
+HR,2016,Social Sciences,139,4
+CH,2020,Health Sciences,1352,101
+CO,2017,Life Sciences,235,13
+AU,2018,Health Sciences,2650,272
+PL,2018,Health Sciences,1414,52
+HU,2016,Physical Sciences,309,18
+HU,2015,Life Sciences,295,11
+HU,2021,Life Sciences,332,3
+CU,2023,Health Sciences,49,1
+BE,2018,Health Sciences,836,55
+PL,2013,Health Sciences,1198,30
+ZA,2017,Social Sciences,389,29
+ZA,2019,Health Sciences,724,55
+IT,2023,Social Sciences,2222,12
+TN,2023,Physical Sciences,439,1
+NG,2019,Life Sciences,662,19
+AR,2015,Life Sciences,965,38
+AR,2016,Life Sciences,1098,57
+AU,2014,Social Sciences,1157,87
+MA,2022,Physical Sciences,588,16
+MX,2023,Life Sciences,1316,8
+BE,2016,Social Sciences,349,26
+BE,2020,Social Sciences,332,16
+UA,2019,Physical Sciences,981,36
+AR,2018,Life Sciences,1135,47
+PL,2019,Physical Sciences,1500,58
+CL,2017,Physical Sciences,252,38
+UA,2018,Physical Sciences,740,22
+BE,2021,Health Sciences,1038,30
+AT,2021,Life Sciences,155,10
+NL,2014,Physical Sciences,835,49
+NL,2015,Physical Sciences,909,61
+NZ,2017,Physical Sciences,164,22
+RS,2013,Health Sciences,196,7
+SE,2022,Social Sciences,560,4
+RO,2022,Social Sciences,189,2
+CO,2021,Life Sciences,258,7
+LK,2022,Physical Sciences,104,4
+AR,2013,Social Sciences,675,25
+UA,2023,Life Sciences,372,5
+TR,2015,Social Sciences,1240,49
+ES,2013,Life Sciences,2317,66
+TH,2016,Health Sciences,236,10
+NG,2017,Life Sciences,511,17
+PK,2015,Physical Sciences,563,90
+AT,2019,Physical Sciences,412,45
+UA,2020,Life Sciences,282,6
+AR,2021,Social Sciences,1281,27
+EG,2018,Social Sciences,116,7
+HR,2021,Social Sciences,158,3
+AE,2022,Physical Sciences,83,2
+IL,2016,Physical Sciences,377,25
+AR,2022,Life Sciences,1191,8
+CZ,2021,Life Sciences,349,7
+NO,2021,Life Sciences,170,6
+NO,2023,Life Sciences,208,1
+JP,2015,Social Sciences,1637,44
+SE,2023,Physical Sciences,846,12
+GH,2020,Health Sciences,119,4
+TH,2021,Physical Sciences,609,6
+TR,2014,Social Sciences,922,24
+AU,2016,Social Sciences,1245,137
+CU,2019,Social Sciences,46,2
+NG,2020,Social Sciences,688,17
+TR,2013,Physical Sciences,1110,25
+MA,2021,Physical Sciences,556,15
+DK,2020,Physical Sciences,463,38
+GR,2016,Health Sciences,802,25
+AR,2023,Social Sciences,1135,5
+LK,2015,Social Sciences,17,2
+ID,2016,Health Sciences,771,28
+EG,2020,Social Sciences,150,4
+TN,2022,Physical Sciences,407,6
+NZ,2018,Social Sciences,121,12
+DK,2021,Life Sciences,454,12
+TH,2019,Physical Sciences,463,17
+TH,2022,Life Sciences,298,4
+PK,2020,Life Sciences,909,59
+CL,2016,Physical Sciences,235,34
+TZ,2018,Health Sciences,56,5
+IL,2019,Social Sciences,378,27
+IL,2020,Physical Sciences,446,20
+BE,2019,Social Sciences,324,23
+FI,2014,Physical Sciences,468,21
+PR,2019,Social Sciences,15,1
+NL,2017,Life Sciences,841,72
+PH,2022,Social Sciences,129,1
+PL,2021,Health Sciences,1474,26
+MA,2019,Physical Sciences,492,38
+IL,2022,Health Sciences,1678,22
+AT,2017,Social Sciences,123,12
+IL,2021,Social Sciences,396,4
+RO,2021,Health Sciences,362,8
+CO,2014,Social Sciences,335,12
+PT,2016,Physical Sciences,926,45
+PT,2020,Physical Sciences,1043,43
+NO,2020,Physical Sciences,436,30
+FI,2016,Health Sciences,443,10
+SE,2018,Life Sciences,424,33
+ZA,2014,Social Sciences,417,21
+ZA,2022,Social Sciences,588,5
+NO,2019,Physical Sciences,462,46
+NG,2015,Physical Sciences,343,15
+CZ,2017,Social Sciences,226,21
+SA,2019,Health Sciences,426,47
+AR,2017,Social Sciences,997,65
+CA,2020,Life Sciences,1465,94
+DZ,2023,Life Sciences,214,1
+MY,2020,Health Sciences,745,28
+RO,2020,Physical Sciences,351,11
+MX,2019,Social Sciences,726,58
+CZ,2014,Life Sciences,309,7
+CL,2018,Health Sciences,192,16
+ZA,2013,Physical Sciences,373,12
+CU,2018,Life Sciences,65,2
+BG,2013,Health Sciences,37,3
+BD,2014,Physical Sciences,166,16
+NL,2022,Social Sciences,1011,25
+NZ,2014,Physical Sciences,158,11
+NZ,2015,Physical Sciences,160,17
+IL,2017,Social Sciences,330,22
+EE,2014,Social Sciences,32,4
+NL,2019,Life Sciences,881,81
+ZA,2015,Social Sciences,435,25
+GR,2013,Health Sciences,750,13
+FI,2021,Health Sciences,488,3
+TN,2014,Social Sciences,51,5
+FI,2015,Physical Sciences,488,30
+VN,2023,Health Sciences,611,9
+BG,2021,Life Sciences,57,3
+MX,2013,Life Sciences,578,13
+EG,2014,Life Sciences,330,24
+FI,2023,Life Sciences,203,2
+JO,2018,Health Sciences,32,4
+MA,2015,Life Sciences,62,4
+CO,2015,Physical Sciences,284,17
+VN,2017,Health Sciences,108,13
+HR,2020,Physical Sciences,107,3
+BD,2018,Social Sciences,91,15
+SK,2019,Physical Sciences,136,10
+SK,2014,Health Sciences,70,2
+MX,2016,Social Sciences,542,46
+CH,2019,Life Sciences,592,85
+CO,2019,Health Sciences,522,42
+GR,2022,Social Sciences,362,12
+DK,2022,Life Sciences,416,17
+CL,2014,Life Sciences,115,8
+IL,2023,Physical Sciences,528,2
+JO,2013,Physical Sciences,39,4
+JO,2017,Physical Sciences,43,2
+TZ,2019,Health Sciences,68,3
+RO,2013,Health Sciences,214,8
+TZ,2015,Health Sciences,46,4
+ZA,2021,Health Sciences,834,25
+NO,2015,Life Sciences,177,5
+EE,2017,Physical Sciences,38,3
+SE,2015,Life Sciences,426,27
+SA,2016,Social Sciences,27,4
+CH,2022,Health Sciences,1433,44
+CO,2020,Life Sciences,278,13
+GR,2015,Social Sciences,196,14
+IE,2020,Health Sciences,580,43
+FI,2017,Life Sciences,192,9
+SK,2022,Physical Sciences,134,1
+LT,2021,Physical Sciences,37,1
+BG,2015,Health Sciences,58,1
+BG,2017,Health Sciences,69,3
+ZA,2016,Social Sciences,419,32
+IE,2017,Life Sciences,145,17
+IE,2018,Life Sciences,138,17
+VE,2020,Health Sciences,27,2
+MY,2016,Life Sciences,195,12
+CL,2023,Life Sciences,230,3
+SA,2017,Health Sciences,263,31
+FI,2020,Physical Sciences,481,21
+RO,2016,Social Sciences,143,3
+BE,2023,Social Sciences,399,6
+CZ,2020,Social Sciences,275,10
+CZ,2018,Life Sciences,293,12
+TH,2018,Health Sciences,296,10
+RS,2023,Life Sciences,73,1
+IE,2019,Life Sciences,152,22
+PH,2020,Social Sciences,78,4
+GR,2019,Social Sciences,330,21
+MA,2018,Life Sciences,90,8
+IL,2018,Physical Sciences,398,31
+FI,2019,Life Sciences,215,11
+MA,2017,Life Sciences,94,9
+RS,2022,Physical Sciences,166,2
+DZ,2017,Life Sciences,106,7
+SK,2015,Health Sciences,69,2
+CH,2013,Social Sciences,286,18
+MY,2014,Social Sciences,367,16
+DZ,2021,Health Sciences,126,2
+CO,2016,Life Sciences,193,16
+RS,2014,Life Sciences,76,9
+RS,2019,Physical Sciences,165,10
+MA,2020,Life Sciences,117,6
+GH,2016,Physical Sciences,30,2
+AT,2014,Health Sciences,337,8
+CM,2020,Life Sciences,91,3
+UG,2017,Health Sciences,50,3
+UG,2023,Social Sciences,42,2
+PT,2015,Social Sciences,478,33
+HR,2014,Health Sciences,128,3
+CH,2015,Social Sciences,363,32
+VN,2020,Social Sciences,267,24
+DZ,2020,Social Sciences,114,1
+GR,2021,Social Sciences,389,10
+RS,2018,Physical Sciences,185,15
+CZ,2016,Health Sciences,383,24
+CZ,2022,Health Sciences,400,2
+CL,2015,Social Sciences,176,20
+TN,2016,Social Sciences,85,7
+HR,2023,Social Sciences,141,1
+BD,2016,Social Sciences,46,5
+BD,2021,Social Sciences,192,4
+AE,2016,Health Sciences,31,8
+HR,2013,Social Sciences,114,2
+IE,2013,Social Sciences,103,8
+UA,2016,Health Sciences,139,2
+CO,2018,Social Sciences,455,28
+TH,2017,Life Sciences,206,10
+DZ,2018,Life Sciences,117,7
+PK,2013,Social Sciences,110,8
+GH,2017,Physical Sciences,25,2
+GH,2019,Physical Sciences,58,4
+NZ,2021,Social Sciences,130,6
+PK,2014,Social Sciences,136,8
+RS,2015,Life Sciences,62,1
+ZA,2018,Social Sciences,437,28
+PR,2015,Health Sciences,23,2
+TH,2014,Life Sciences,186,2
+EG,2013,Physical Sciences,490,19
+KE,2019,Physical Sciences,59,2
+NZ,2022,Physical Sciences,220,9
+UA,2021,Life Sciences,274,3
+EG,2021,Social Sciences,214,8
+VN,2019,Social Sciences,152,33
+AE,2017,Health Sciences,22,3
+HR,2018,Social Sciences,205,5
+PK,2016,Social Sciences,237,25
+PH,2013,Health Sciences,42,2
+AT,2016,Social Sciences,121,8
+IE,2015,Social Sciences,135,5
+TZ,2013,Health Sciences,20,2
+NZ,2016,Life Sciences,160,22
+NZ,2019,Physical Sciences,171,24
+VE,2014,Physical Sciences,38,2
+HR,2019,Physical Sciences,95,5
+UG,2019,Physical Sciences,11,1
+BG,2023,Health Sciences,111,1
+IE,2016,Social Sciences,120,17
+AE,2020,Health Sciences,47,6
+DZ,2013,Health Sciences,37,2
+CL,2022,Social Sciences,350,13
+VN,2018,Health Sciences,125,23
+CU,2020,Health Sciences,149,6
+MT,2016,Health Sciences,10,1
+PH,2017,Life Sciences,36,4
+NZ,2023,Physical Sciences,214,7
+PH,2018,Social Sciences,41,4
+PH,2021,Life Sciences,87,3
+DZ,2019,Health Sciences,93,6
+AE,2019,Social Sciences,43,11
+MW,2017,Health Sciences,50,6
+UA,2014,Life Sciences,71,1
+AT,2015,Social Sciences,124,18
+JO,2021,Life Sciences,15,3
+IE,2023,Life Sciences,152,4
+SK,2018,Life Sciences,77,2
+AT,2020,Physical Sciences,485,36
+JO,2016,Physical Sciences,45,4
+BG,2016,Social Sciences,17,1
+BG,2018,Life Sciences,56,2
+SI,2020,Social Sciences,65,1
+KE,2021,Life Sciences,85,4
+AT,2022,Life Sciences,121,6
+TH,2013,Life Sciences,157,4
+SA,2018,Social Sciences,43,8
+CM,2018,Health Sciences,77,4
+IS,2018,Social Sciences,4,2
+PR,2022,Life Sciences,16,1
+GH,2022,Health Sciences,157,1
+CM,2017,Life Sciences,37,3
+SI,2014,Physical Sciences,83,3
+NO,2022,Life Sciences,166,4
+EG,2015,Social Sciences,67,6
+SA,2020,Social Sciences,99,12
+IE,2021,Life Sciences,194,10
+AT,2018,Life Sciences,159,11
+JO,2022,Life Sciences,24,1
+NZ,2020,Social Sciences,136,6
+JO,2020,Social Sciences,51,2
+DZ,2016,Social Sciences,51,2
+KE,2016,Social Sciences,42,1
+CU,2021,Physical Sciences,29,1
+GH,2021,Social Sciences,109,2
+EG,2016,Social Sciences,68,6
+SI,2019,Life Sciences,28,3
+SI,2015,Life Sciences,27,2
+LK,2021,Life Sciences,70,2
+LK,2023,Health Sciences,181,1
+PR,2020,Life Sciences,15,2
+KE,2018,Physical Sciences,58,8
+KE,2017,Health Sciences,78,5
+CL,2013,Physical Sciences,146,4
+SK,2021,Physical Sciences,135,2
+SK,2016,Health Sciences,89,5
+AE,2023,Health Sciences,92,1
+JO,2023,Health Sciences,112,1
+PR,2018,Health Sciences,19,1
+CM,2015,Health Sciences,35,3
+MW,2016,Health Sciences,26,6
+BG,2014,Health Sciences,57,1
+LT,2020,Social Sciences,61,3
+LK,2019,Social Sciences,48,3
+PH,2019,Social Sciences,49,1
+KE,2020,Health Sciences,95,3
+SI,2023,Physical Sciences,83,4
+GH,2018,Health Sciences,65,2
+RS,2017,Life Sciences,65,2
+CR,2020,Health Sciences,20,1
+TZ,2020,Health Sciences,87,4
+LK,2016,Physical Sciences,40,2
+UG,2020,Life Sciences,32,3
+LK,2014,Life Sciences,20,2
+SA,2013,Social Sciences,12,1
+LT,2016,Social Sciences,44,1
+LK,2018,Physical Sciences,57,4
+TN,2020,Social Sciences,94,4
+CM,2019,Social Sciences,19,1
+VN,2015,Health Sciences,46,7
+UA,2015,Social Sciences,37,1
+VN,2016,Health Sciences,64,7
+EE,2016,Physical Sciences,41,1
+LT,2019,Physical Sciences,44,1
+CR,2018,Health Sciences,14,3
+GH,2015,Life Sciences,24,1
+KE,2014,Social Sciences,23,1
+SI,2017,Life Sciences,29,1
+BD,2015,Social Sciences,55,11
+VN,2014,Health Sciences,40,8
+BG,2020,Social Sciences,31,3
+CM,2013,Health Sciences,33,2
+SK,2017,Life Sciences,65,3
+MA,2013,Life Sciences,49,1
+BY,2020,Physical Sciences,41,1
+CR,2021,Social Sciences,28,2
+PR,2013,Physical Sciences,40,3
+CR,2015,Physical Sciences,25,4
+RS,2016,Social Sciences,119,10
+DZ,2015,Social Sciences,49,1
+CM,2016,Physical Sciences,48,2
+TZ,2014,Social Sciences,9,1
+BG,2019,Life Sciences,54,3
+VE,2017,Life Sciences,23,1
+PR,2014,Health Sciences,15,1
+VE,2018,Social Sciences,12,1
+AE,2013,Social Sciences,8,1
+LT,2017,Life Sciences,17,1
+SA,2015,Life Sciences,52,9
+JO,2015,Health Sciences,20,2
+AE,2021,Life Sciences,14,2
+EE,2020,Health Sciences,20,1
+CU,2017,Life Sciences,44,2
+MW,2020,Physical Sciences,5,1
+JO,2019,Life Sciences,16,1
+LK,2017,Life Sciences,37,4
+TZ,2016,Life Sciences,22,4
+LK,2013,Social Sciences,9,1
+VE,2019,Social Sciences,19,1
+IS,2016,Health Sciences,9,1
+CU,2015,Social Sciences,24,2
+CR,2019,Health Sciences,14,2
+IS,2017,Life Sciences,5,1
+CU,2016,Physical Sciences,24,2
+MT,2018,Health Sciences,9,1
+US,2023,Unspecified,452,2
+IN,2022,Unspecified,222,1
+US,2015,Unspecified,461,14
+GB,2015,Unspecified,50,2
+PK,2022,Unspecified,6,1
+IN,2019,Unspecified,271,16
+DE,2020,Unspecified,308,14
+IN,2013,Unspecified,87,3
+SE,2019,Unspecified,14,1
+FR,2014,Unspecified,29,1
+GB,2016,Unspecified,73,4
+ID,2018,Unspecified,16,2
+CN,2015,Unspecified,24,2
+CN,2017,Unspecified,54,5
+CH,2016,Unspecified,4,1
+CN,2019,Unspecified,89,2
+DE,2022,Unspecified,270,4
+GB,2019,Unspecified,61,3
+IN,2014,Unspecified,110,3
+JP,2016,Unspecified,52,1
+IT,2020,Unspecified,13,2
+ES,2014,Unspecified,18,1
+ES,2021,Unspecified,13,1
+CA,2013,Unspecified,19,1
+CA,2016,Unspecified,24,6
+JP,2023,Unspecified,15,1
+GH,2014,Life Sciences,31,1
+PR,2021,Life Sciences,24,2
+LK,2020,Life Sciences,40,1
+CR,2016,Life Sciences,21,1
+CR,2014,Life Sciences,15,1
+SA,2014,Social Sciences,12,1
+AR,2019,Unspecified,4,1
+ID,2017,Unspecified,10,1
+EE,2017,Unspecified,2,1
+VN,2021,Unspecified,7,2
+EG,2013,Unspecified,3,1
+DK,2020,Unspecified,5,1
+TZ,2017,Social Sciences,13,1
+AE,2018,Life Sciences,11,1
+IS,2021,Social Sciences,8,1
+PT,2014,Unspecified,4,1
+NL,2014,Unspecified,5,1
+US,2012,Social Sciences,24393,0
+IT,2012,Health Sciences,6305,0
+FR,2012,Physical Sciences,17684,0
+CN,2012,Health Sciences,33741,0
+GR,2012,Health Sciences,717,0
+ID,2012,Social Sciences,486,0
+MA,2012,Physical Sciences,123,0
+DE,2012,Health Sciences,7672,0
+GB,2012,Health Sciences,10421,0
+KR,2012,Physical Sciences,6293,0
+CA,2012,Health Sciences,2923,0
+BR,2012,Social Sciences,4159,0
+MX,2012,Physical Sciences,920,0
+JP,2012,Physical Sciences,12959,0
+KE,2023,Health Sciences,125,0
+PT,2012,Health Sciences,655,0
+ES,2012,Life Sciences,2227,0
+RO,2023,Social Sciences,250,0
+SE,2012,Health Sciences,1000,0
+IN,2012,Social Sciences,869,0
+MY,2012,Health Sciences,226,0
+NO,2013,Life Sciences,144,0
+BD,2012,Life Sciences,134,0
+NL,2012,Life Sciences,815,0
+CR,2022,Health Sciences,17,0
+NO,2012,Physical Sciences,335,0
+CH,2012,Health Sciences,889,0
+CR,2023,Physical Sciences,26,0
+BY,2013,Physical Sciences,27,0
+RO,2012,Health Sciences,160,0
+UA,2013,Life Sciences,61,0
+TN,2012,Physical Sciences,204,0
+BE,2012,Physical Sciences,406,0
+SI,2022,Health Sciences,75,0
+PL,2012,Physical Sciences,1165,0
+FI,2012,Social Sciences,281,0
+PR,2023,Physical Sciences,38,0
+BY,2012,Health Sciences,6,0
+AU,2012,Physical Sciences,1263,0
+MA,2023,Social Sciences,168,0
+EE,2023,Social Sciences,36,0
+AR,2012,Health Sciences,326,0
+IE,2022,Life Sciences,142,0
+RU,2012,Life Sciences,1092,0
+AT,2012,Physical Sciences,283,0
+SK,2012,Health Sciences,41,0
+CZ,2012,Life Sciences,236,0
+HU,2023,Life Sciences,284,0
+PK,2012,Life Sciences,172,0
+KE,2015,Physical Sciences,33,0
+SI,2021,Social Sciences,84,0
+TZ,2022,Health Sciences,80,0
+RS,2012,Health Sciences,155,0
+VE,2021,Social Sciences,21,0
+DK,2012,Life Sciences,354,0
+TR,2012,Social Sciences,469,0
+GH,2013,Social Sciences,17,0
+HU,2012,Health Sciences,217,0
+CM,2022,Physical Sciences,113,0
+LK,2012,Health Sciences,38,0
+KE,2022,Social Sciences,142,0
+NG,2012,Physical Sciences,165,0
+UG,2022,Health Sciences,104,0
+DZ,2014,Social Sciences,30,0
+LT,2013,Social Sciences,25,0
+HU,2022,Health Sciences,310,0
+BG,2022,Life Sciences,61,0
+CM,2021,Life Sciences,101,0
+CL,2012,Health Sciences,116,0
+TH,2023,Social Sciences,235,0
+HR,2017,Life Sciences,68,0
+HR,2022,Life Sciences,60,0
+VE,2012,Physical Sciences,44,0
+ZA,2012,Health Sciences,394,0
+IR,2012,Life Sciences,743,0
+IL,2012,Social Sciences,239,0
+TZ,2023,Life Sciences,70,0
+LT,2014,Social Sciences,50,0
+CR,2013,Life Sciences,10,0
+CR,2017,Physical Sciences,25,0
+BY,2016,Life Sciences,5,0
+PH,2014,Social Sciences,13,0
+PH,2015,Social Sciences,31,0
+LT,2023,Social Sciences,68,0
+IS,2019,Health Sciences,9,0
+PH,2016,Life Sciences,30,0
+PR,2012,Life Sciences,25,0
+VE,2015,Social Sciences,28,0
+UG,2016,Social Sciences,15,0
+VN,2012,Physical Sciences,77,0
+IE,2012,Physical Sciences,155,0
+SK,2020,Health Sciences,116,0
+GH,2023,Physical Sciences,107,0
+PH,2023,Health Sciences,174,0
+CU,2022,Life Sciences,25,0
+SI,2012,Physical Sciences,65,0
+UA,2012,Health Sciences,27,0
+TH,2012,Health Sciences,145,0
+CU,2012,Life Sciences,46,0
+SK,2023,Health Sciences,104,0
+SI,2013,Physical Sciences,69,0
+KE,2012,Health Sciences,29,0
+LT,2022,Health Sciences,28,0
+MT,2020,Social Sciences,8,0
+HR,2012,Health Sciences,92,0
+KE,2013,Health Sciences,30,0
+SK,2013,Social Sciences,34,0
+MT,2022,Health Sciences,12,0
+NZ,2012,Social Sciences,78,0
+CO,2012,Life Sciences,144,0
+AE,2012,Life Sciences,3,0
+BG,2012,Social Sciences,3,0
+UG,2015,Social Sciences,7,0
+UG,2021,Social Sciences,24,0
+BY,2014,Health Sciences,8,0
+CR,2012,Health Sciences,8,0
+GH,2012,Life Sciences,14,0
+VE,2023,Social Sciences,16,0
+AM,2012,Physical Sciences,10,0
+VE,2022,Life Sciences,12,0
+CM,2023,Social Sciences,51,0
+PH,2012,Social Sciences,12,0
+IS,2014,Physical Sciences,10,0
+UG,2013,Health Sciences,26,0
+CM,2014,Social Sciences,10,0
+EE,2015,Physical Sciences,28,0
+CM,2012,Life Sciences,13,0
+SI,2016,Health Sciences,48,0
+EE,2022,Health Sciences,12,0
+PR,2016,Life Sciences,12,0
+DZ,2012,Social Sciences,26,0
+MW,2014,Social Sciences,3,0
+VE,2016,Life Sciences,34,0
+EG,2012,Social Sciences,34,0
+AM,2016,Social Sciences,3,0
+MT,2021,Physical Sciences,5,0
+JO,2014,Health Sciences,25,0
+LT,2015,Life Sciences,19,0
+JO,2012,Health Sciences,14,0
+BY,2023,Physical Sciences,23,0
+TZ,2021,Social Sciences,31,0
+EE,2019,Social Sciences,27,0
+SI,2018,Life Sciences,18,0
+IS,2012,Physical Sciences,9,0
+MW,2022,Life Sciences,15,0
+MT,2023,Social Sciences,5,0
+SA,2012,Life Sciences,21,0
+PR,2017,Life Sciences,16,0
+HR,2015,Life Sciences,38,0
+EE,2018,Life Sciences,14,0
+EE,2021,Life Sciences,12,0
+IS,2015,Physical Sciences,9,0
+VE,2013,Social Sciences,35,0
+CU,2014,Social Sciences,10,0
+BY,2015,Health Sciences,8,0
+AU,2012,Unspecified,11,0
+GB,2022,Unspecified,57,0
+ID,2019,Unspecified,21,0
+TN,2022,Unspecified,1,0
+LK,2018,Unspecified,1,0
+MX,2018,Unspecified,7,0
+IN,2023,Unspecified,246,0
+KR,2015,Unspecified,2,0
+UA,2018,Unspecified,8,0
+FR,2012,Unspecified,21,0
+IT,2021,Unspecified,13,0
+CN,2023,Unspecified,64,0
+TR,2019,Unspecified,13,0
+UA,2019,Unspecified,25,0
+DK,2023,Unspecified,14,0
+IL,2016,Unspecified,2,0
+JP,2012,Unspecified,19,0
+HU,2014,Unspecified,3,0
+HR,2019,Unspecified,5,0
+HU,2013,Unspecified,2,0
+IT,2017,Unspecified,17,0
+NG,2012,Unspecified,4,0
+UA,2017,Unspecified,6,0
+MX,2021,Unspecified,6,0
+ID,2021,Unspecified,17,0
+BD,2017,Unspecified,7,0
+PK,2023,Unspecified,17,0
+ES,2015,Unspecified,18,0
+PL,2019,Unspecified,15,0
+HR,2020,Unspecified,2,0
+EE,2012,Life Sciences,9,0
+CU,2013,Physical Sciences,6,0
+MW,2021,Physical Sciences,5,0
+MW,2023,Physical Sciences,9,0
+BY,2018,Social Sciences,2,0
+EE,2013,Life Sciences,6,0
+BY,2021,Health Sciences,17,0
+IS,2023,Physical Sciences,21,0
+UG,2012,Social Sciences,5,0
+IS,2020,Life Sciences,6,0
+AM,2023,Health Sciences,4,0
+IS,2013,Health Sciences,7,0
+MT,2015,Physical Sciences,3,0
+LT,2012,Health Sciences,11,0
+CZ,2023,Unspecified,2,0
+NZ,2023,Unspecified,4,0
+BD,2022,Unspecified,3,0
+KR,2013,Unspecified,7,0
+EG,2023,Unspecified,3,0
+ZA,2013,Unspecified,1,0
+FI,2014,Unspecified,1,0
+MY,2013,Unspecified,1,0
+IR,2022,Unspecified,6,0
+KR,2012,Unspecified,4,0
+VN,2022,Unspecified,3,0
+ES,2016,Unspecified,11,0
+SE,2023,Unspecified,3,0
+NZ,2022,Unspecified,9,0
+SE,2021,Unspecified,2,0
+RO,2020,Unspecified,8,0
+NZ,2017,Unspecified,1,0
+IL,2020,Unspecified,2,0
+BD,2014,Unspecified,1,0
+GH,2017,Unspecified,2,0
+TZ,2012,Social Sciences,8,0
+SK,2019,Unspecified,1,0
+AT,2020,Unspecified,3,0
+MW,2018,Social Sciences,5,0
+LT,2018,Life Sciences,16,0
+IS,2022,Social Sciences,9,0
+MW,2019,Life Sciences,4,0
+BY,2022,Social Sciences,4,0
+UG,2014,Life Sciences,5,0
+MW,2015,Social Sciences,3,0
+BY,2017,Life Sciences,3,0
+GR,2018,Unspecified,3,0
+PT,2017,Unspecified,2,0
+TR,2017,Unspecified,7,0
+NO,2012,Unspecified,4,0
+CZ,2019,Unspecified,2,0
+PT,2020,Unspecified,7,0
+AT,2019,Unspecified,3,0
+KR,2017,Unspecified,3,0
+MA,2019,Unspecified,2,0
+PT,2023,Unspecified,4,0
+FI,2015,Unspecified,1,0
+BD,2013,Unspecified,5,0
+PL,2012,Unspecified,4,0
+SK,2022,Unspecified,6,0
+AE,2014,Life Sciences,1,0
+BE,2017,Unspecified,4,0
+NO,2020,Unspecified,1,0
+GH,2023,Unspecified,1,0
+CH,2021,Unspecified,1,0
+RS,2019,Unspecified,1,0
+AT,2012,Unspecified,1,0
+RO,2018,Unspecified,1,0
+RO,2017,Unspecified,5,0
+MX,2022,Unspecified,2,0
+CO,2015,Unspecified,2,0
+DZ,2022,Unspecified,1,0
+RU,2013,Unspecified,1,0
+MA,2021,Unspecified,2,0
+MT,2019,Life Sciences,3,0
+MW,2012,Life Sciences,2,0
+NO,2019,Unspecified,1,0
+BD,2023,Unspecified,3,0
+GR,2023,Unspecified,1,0
+RS,2022,Unspecified,2,0
+KE,2019,Unspecified,2,0
+IR,2016,Unspecified,3,0
+NZ,2015,Unspecified,1,0
+NG,2015,Unspecified,6,0
+AM,2013,Life Sciences,1,0
+MT,2014,Social Sciences,2,0
+VN,2013,Unspecified,1,0
+RS,2018,Unspecified,1,0
+GH,2019,Unspecified,1,0
+BE,2012,Unspecified,1,0
+FI,2020,Unspecified,1,0
+LT,2019,Unspecified,1,0
+ZA,2020,Unspecified,3,0
+CZ,2015,Unspecified,1,0
+AM,2014,Social Sciences,1,0
+AM,2022,Health Sciences,1,0
+SI,2023,Unspecified,1,0
+SA,2023,Unspecified,1,0
+SI,2014,Unspecified,1,0
+MT,2012,Social Sciences,1,0
+AM,2020,Life Sciences,1,0
+IL,2023,Unspecified,1,0
+MW,2020,Unspecified,1,0
+RO,2019,Unspecified,1,0
+CL,2013,Unspecified,1,0
+NZ,2014,Unspecified,1,0
+PT,2019,Unspecified,1,0
+ID,2014,Unspecified,1,0

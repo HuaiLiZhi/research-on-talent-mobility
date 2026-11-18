@@ -1,0 +1,9 @@
+{
+  "status": "Secondary sensitivity specified after observing that adding own-layer degree does not improve the simpler history model.",
+  "reason": "Use the simpler strong history model as the comparator so a redundant degree predictor does not obscure cross-layer information.",
+  "models": [
+    "mass+access+own_history+other_local",
+    "mass+access+own_history+other_local+network_exposure"
+  ],
+  "primary_comparisons_retained": true
+}

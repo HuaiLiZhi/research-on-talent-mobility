@@ -1,0 +1,48 @@
+{
+  "purpose": "Illustrative real maps for city identity resolution; not mobility observations or an LLM validation experiment",
+  "figure_backend": "Python/Matplotlib; all boundaries, roads and footprints from sourced geometry",
+  "local_bbox_wgs84": [
+    121.49,
+    31.226,
+    121.512,
+    31.242
+  ],
+  "all_selected_features_retained": true,
+  "local_geometry_counts": {
+    "building": 567,
+    "road": 1308,
+    "water": 19,
+    "park": 9
+  },
+  "century_avenue_segments": 30,
+  "century_avenue_locator": [
+    121.501,
+    31.234
+  ],
+  "local_centroid_within_pudong_and_shanghai": true,
+  "shanghai_context_districts": 16,
+  "boundary_sources": [
+    {
+      "boundaryID": "CHN-ADM3-62558664",
+      "boundaryYearRepresented": "2017",
+      "boundarySource": "Lee Beryman, OpenStreetMap",
+      "boundaryLicense": "Open Data Commons Open Database License 1.0",
+      "boundarySourceURL": "wambachers-osm.website/boundaries/",
+      "gjDownloadURL": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3.geojson"
+    }
+  ],
+  "shanghai_boundary_derivation": "Dissolve all 16 Shanghai district geometries from the same ADM3 source; no manually invented outlines",
+  "pudong_outside_shanghai_area": 0.0,
+  "unused_boundary_sources": "The independent 2019 ADM1 simplification and downloaded current OSM maritime municipality geometry are archived, not drawn",
+  "osm_source": "https://api.openstreetmap.org/api/0.6/map?bbox=121.490,31.226,121.512,31.242",
+  "attribution": "geoBoundaries; © OpenStreetMap contributors",
+  "osm_license": "Open Database License 1.0",
+  "osm_license_url": "https://www.openstreetmap.org/copyright",
+  "style_reference": "User-supplied RegionDCL diagram: compact map crops, highlighted matching regions and dashed zoom connectors; no contrastive-learning claim",
+  "sha256": {
+    "shanghai_pudong.geojson": "0fbf9a9e0e665a6bed5b02bd8facc4ee3467973540c0724ed72cc8be256432b0",
+    "shanghai_districts.geojson": "0535c9c7614e16932454e89049025319fe2d5f71f86119b672a6a507fec9a805",
+    "century_avenue_local.geojson": "03c08649fbd595b46902d1db2607b8be6522e6c41469e24b4813760942ca3f05",
+    "lujiazui_osm.osm": "322bbf2e89e622c8b5fdfec022749fe18afabd7b9b0e2cea44bcf28fc8e6039b"
+  }
+}

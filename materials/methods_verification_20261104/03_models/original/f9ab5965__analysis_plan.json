@@ -1,0 +1,18 @@
+{
+  "question": "Compare observed annual domestic city indices with conditional reconstructed indices, using the saved reference and user-requested international model.",
+  "international_model": "A_all_international_signals",
+  "selection": "User-requested full-model display, not re-selection using annual index errors.",
+  "years": [
+    2002,
+    2025
+  ],
+  "countries": 76,
+  "no_interpolation": true,
+  "no_refitting": true,
+  "predictors": "Use the same preceding-four-year-block features and candidate destinations as the saved design; hold these fixed within each target block.",
+  "conditioning": "Each year supplies its own actual origin totals within candidate cells. All other domestic flows remain observed.",
+  "city_pool": "Within each country-year use the union of observed city endpoints and the corresponding candidate destinations, retaining zero strengths for Gini in all series.",
+  "aggregation": "Each annual curve is the median of the same 76 countries. Annual calculations use expected city strengths, not the earlier multinomial replicate means.",
+  "inference": "2002-2013 overlaps model fitting; 2014-2017 validation; 2018-2025 temporal evaluation already explored. Not an unconditional forecast.",
+  "gap": "No pre-study lag network is available for 1998-2001; do not manufacture modeled values for those years."
+}

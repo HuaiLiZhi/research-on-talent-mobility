@@ -1,0 +1,219 @@
+{
+  "role": "Internal detailed vector schematic",
+  "archetype": "schematic-led composite",
+  "message": "Affiliation records support parallel coverage/distribution analyses disciplinary comparisons and a domestic allocation model with international, domestic and disciplinary inputs.",
+  "backend": "Python / Matplotlib",
+  "dimensions_mm": [
+    180.0,
+    63.8961038961039
+  ],
+  "arrow_colors": {
+    "data_processing": "#000000",
+    "international": "#7E99F4",
+    "domestic": "#7AB656",
+    "disciplinary_input": "#A88A44",
+    "model_output": "#000000"
+  },
+  "compact_layout": "Native 180-mm artwork; Data and BRIDGE retain matching edges and heights. Data Processing contains equal square map cards, operation captions and parallel rails. LLM is labelled only on the city-merging step. Geometry is proportional to the established layout, with typography set independently at final size.",
+  "formatting": {
+    "profile": "journal",
+    "width_mm": 180.0,
+    "body_reference_pt": [
+      11,
+      12
+    ],
+    "ordinary_text_pt": [
+      7,
+      7
+    ],
+    "panel_letter_pt": 7,
+    "axis_label_pt": 7,
+    "tick_and_legend_pt": 7,
+    "inset_axis_text_pt": 7,
+    "font": "Arial",
+    "insertion_width_mm": 180,
+    "major_grid": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid",
+      "major_ticks_only": false,
+      "minor_grid": {
+        "color": "#E1E4E8",
+        "linewidth_pt": 0.35,
+        "alpha": 0.85,
+        "linestyle": "solid",
+        "per_major_interval": 1
+      },
+      "text_clearance_pt": 2.4,
+      "zorder": 0.25,
+      "complete_plot_boundaries": false,
+      "extend_intermediate_spacing_to_edges": true,
+      "extend_major_spacing_to_edges": true
+    },
+    "instruction": "Insert at 180 mm without further reduction; manuscript and journal files have independent native typography."
+  },
+  "style_adaptation": "General thin outlines, rounded containers, pale fills, compact local-to-regional map thumbnails, isometric city glyphs and feature cells; all drawn anew. Reference reused for style only.",
+  "empirical_data": "The left panel illustrates attribute families actually used in record linkage and mobility construction, without quantities. The two unlabeled national/city map cards use sourced boundaries and city coordinates. Candidate selection, table rows/columns, networks, feature cells, matrix shades and share bars are illustrative.",
+  "data_attribute_families": {
+    "Identifiers": [
+      "work identifier",
+      "author identifier",
+      "institution identifier"
+    ],
+    "Time": [
+      "publication year",
+      "event year"
+    ],
+    "Geography": [
+      "country",
+      "region",
+      "city",
+      "coordinates",
+      "stable city identifier"
+    ],
+    "Affiliations": [
+      "affiliation institution",
+      "distinct affiliated works"
+    ],
+    "Discipline": [
+      "work field",
+      "author primary field"
+    ],
+    "Flows": [
+      "origin",
+      "destination",
+      "flow count",
+      "event classification"
+    ]
+  },
+  "data_quantities_displayed": false,
+  "model": "Gravity-based allocation; blue international, green domestic and gold disciplinary inputs.",
+  "model_outer_container_displayed": false,
+  "model_display_label": "Gravity Model",
+  "model_node_label_font_pt": 7.0,
+  "international_feature_cells": 9,
+  "reference_predictor_cells": 9,
+  "panel_backgrounds": "White; colours are retained for geographic features, attribute glyphs, feature cells and flow information",
+  "connector_layout": "Continuous shafts/heads; rounded elbows; upper/lower model inputs mirrored about y=40 mm",
+  "output_display_label": "Output",
+  "data_display_labels": [
+    "Fields",
+    "Extracted Data"
+  ],
+  "map_operation_captions": [
+    "Primary Affiliation Selection",
+    "City Merging (LLM)"
+  ],
+  "model_icon": "Editable globe with latitude/longitude lines and an orange arced connection",
+  "label_capitalization": "Initial capital for every displayed word; BRIDGE and LLM retained",
+  "international_input_path": [
+    "International city network",
+    "Network feature vector",
+    "Gravity model"
+  ],
+  "disciplinary_input_path": [
+    "Disciplines",
+    "Discipline feature vector",
+    "Gravity model"
+  ],
+  "external_edges": [
+    "Gravity Model -> Output"
+  ],
+  "data_processing_scope": "Primary affiliation selected by publication-count rules; LLM assists city-name disambiguation and identity harmonization",
+  "geographic_example": "Two equal square maps: one selected green city among red candidate cities on a real national map; a red district inside a green parent city. No place names or street map displayed.",
+  "parallel_data_preparation": {
+    "branches": [
+      "Primary affiliation",
+      "City harmonization"
+    ],
+    "inter_branch_edges": [],
+    "joint_output": "Annual researcher locations",
+    "external_input_endpoint_mm": [
+      45.1948051948052,
+      31.16883116883117
+    ],
+    "input_stops_at_frame_boundary": true,
+    "module_inside_bridge": true,
+    "heading": "Data Processing",
+    "llm_branch": "City harmonization only",
+    "map_orientation": "Vertical"
+  },
+  "map_provenance": [
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_shanghai_real_maps_20261103\\manifest.json",
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_square_maps_20261103\\manifest.json",
+    "D:\\\u793e\u4f1a\u7269\u7406\u5b66\u8bba\u6587\\code\\research-on-talent-mobility\\data\\raw\\fig1_map_context_20261103\\manifest.json"
+  ],
+  "surrounding_geographic_context": "Both square maps show sourced neighboring geography in neutral gray, with no place names",
+  "disciplinary_display": "Four original domain icons: atom, DNA, heart/pulse and people; short labels Physical, Life, Health and Social",
+  "disciplinary_direct_input": "Shared field-tagged event stream -> Disciplines; international and domestic inputs also retained",
+  "text_reduction": "Data Processing is the module heading; LLM is attached only to city merging. Short operation captions remain below the maps. Fields and Extracted Data replace longer labels. Attribute icons and coloured columns express data richness. Displayed words have initial capitals. Output receives only reconstructed flows from the gravity model; coverage and share glyphs are labelled individually.",
+  "descriptive_summaries_feed_model": false,
+  "reference_model_displayed": false,
+  "no_causal_or_forecasting_claim": true,
+  "schematic_frames_mm": {
+    "data": {
+      "x": 1.5584415584415585,
+      "y": 1.5584415584415585,
+      "width": 37.40259740259741,
+      "height": 59.22077922077922
+    },
+    "bridge": {
+      "x": 42.07792207792208,
+      "y": 1.5584415584415585,
+      "width": 116.88311688311688,
+      "height": 59.22077922077922
+    },
+    "llm_processing": {
+      "x": 45.1948051948052,
+      "y": 6.233766233766234,
+      "width": 22.5974025974026,
+      "height": 49.87012987012987
+    },
+    "international": {
+      "x": 70.9090909090909,
+      "y": 38.961038961038966,
+      "width": 38.961038961038966,
+      "height": 18.701298701298704
+    },
+    "domestic": {
+      "x": 70.9090909090909,
+      "y": 4.675324675324676,
+      "width": 38.961038961038966,
+      "height": 18.701298701298704
+    },
+    "country_summary": {
+      "x": 113.76623376623377,
+      "y": 41.2987012987013,
+      "width": 42.07792207792208,
+      "height": 16.363636363636363
+    },
+    "city_summary": {
+      "x": 113.76623376623377,
+      "y": 4.675324675324676,
+      "width": 42.07792207792208,
+      "height": 16.363636363636363
+    },
+    "disciplinary": {
+      "x": 70.9090909090909,
+      "y": 25.714285714285715,
+      "width": 38.961038961038966,
+      "height": 10.90909090909091
+    },
+    "gravity_model": {
+      "x": 132.85714285714286,
+      "y": 24.7012987012987,
+      "width": 14.025974025974026,
+      "height": 12.935064935064936
+    },
+    "output": {
+      "x": 162.85714285714286,
+      "y": 22.5974025974026,
+      "width": 15.584415584415584,
+      "height": 17.142857142857142
+    }
+  },
+  "repeated_container_geometry": "Corresponding left edges, widths and heights equal by construction",
+  "current_manuscript_modified": "Fig.1\u20136 share native 180-mm width and final-size Arial typography",
+  "submission_eligibility": "Not assessed for this internal design draft"
+}

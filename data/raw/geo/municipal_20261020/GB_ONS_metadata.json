@@ -1,0 +1,85 @@
+{
+  "item": {
+    "id": "6a05f93297cf4a438d08e972099f54b9",
+    "owner": "ONSGeography_data",
+    "created": 1736357451000,
+    "modified": 1754900610000,
+    "guid": null,
+    "name": "Local_Authority_Districts_December_2024_Boundaries_UK_BGC",
+    "title": "Local Authority Districts (December 2024) Boundaries UK BGC",
+    "type": "Feature Service",
+    "typeKeywords": [
+      "ArcGIS Server",
+      "Data",
+      "Feature Access",
+      "Feature Service",
+      "Metadata",
+      "Service",
+      "Singlelayer",
+      "Hosted Service"
+    ],
+    "description": "<p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Open Sans&quot;, &quot;Avenir Next&quot;; font-size:16px; margin-bottom:12px; margin-top:0px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><span style='box-sizing:border-box; max-width:100%;'>This file contains the digital vector boundaries for Local Authority Districts, in the United Kingdom, as at December 2024.</span></span></p><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><span style='box-sizing:border-box; max-width:100%;'>The boundaries available are: (BGC) Generalised (20m) - clipped to the coastline (Mean High Water mark).</span></span></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><span style='box-sizing:border-box; max-width:100%;'><br /></span></span></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><span style='box-sizing:border-box; max-width:100%;'>Contains both Ordnance Survey and ONS Intellectual Property Rights.</span></span></div><div><br /></div><div><div>REST URL of Feature Access Service – <a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/FeatureServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/FeatureServer</a></div></div><div><br /></div><div></div><div>REST URL of WFS Server –<a href='https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/WFSServer?service=wfs&amp;request=getcapabilities' target='_blank' rel='nofollow ugc noopener noreferrer'>https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/WFSServer?service=wfs&amp;request=getcapabilities</a></div><div><br /></div><div></div><div>REST URL of Map Server –<a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/MapServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/MapServer</a></div>",
+    "tags": [
+      "Boundaries",
+      "Administrative Boundaries",
+      "BDY_ADM",
+      "Local Authority Districts",
+      "BDY_LAD",
+      "United Kingdom",
+      "UK",
+      "2024",
+      "DEC_2024"
+    ],
+    "snippet": "Boundaries",
+    "thumbnail": "thumbnail/6a05f93297cf4a438d08e972099f54b9.png",
+    "documentation": null,
+    "extent": [
+      [
+        -9.332048418167641,
+        49.81402913674581
+      ],
+      [
+        2.6981711300122337,
+        60.86609314211901
+      ]
+    ],
+    "categories": [
+      "/Categories/ONS Geography Open Data",
+      "/Categories/Boundaries - Administrative/2024"
+    ],
+    "spatialReference": "27700",
+    "accessInformation": "Office for National Statistics",
+    "classification": null,
+    "licenseInfo": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>",
+    "culture": "en-gb",
+    "properties": null,
+    "advancedSettings": null,
+    "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/FeatureServer",
+    "proxyFilter": null,
+    "access": "public",
+    "size": -1,
+    "subInfo": 0,
+    "appCategories": [],
+    "industries": [],
+    "languages": [],
+    "largeThumbnail": "largethumbnail/6a05f93297cf4a438d08e972099f54b9.png",
+    "banner": null,
+    "screenshots": [],
+    "listed": false,
+    "numComments": 0,
+    "numRatings": 0,
+    "avgRating": 0,
+    "numViews": 64227,
+    "contentStatus": "public_authoritative",
+    "orgId": "ESMARspQHYMw9BZ9",
+    "scoreCompleteness": 85,
+    "groupDesignations": null,
+    "apiToken1ExpirationDate": -1,
+    "apiToken2ExpirationDate": -1,
+    "lastViewed": 1792472400000,
+    "source": "Office for National Statistics",
+    "licenseConstraintId": "custom"
+  },
+  "query_url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2024_Boundaries_UK_BGC/FeatureServer/0/query?where=1%3D1&outFields=%2A&outSR=4326&f=geojson&resultRecordCount=2000",
+  "features": 361
+}

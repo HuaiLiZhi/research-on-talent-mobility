@@ -1,0 +1,544 @@
+{
+  "task": "Collect and explain existing data-enhancement and gravity-model evidence",
+  "no_recomputation": true,
+  "canonical_dataset": "D:/社会物理学论文/code/research-on-talent-mobility/data/processed/mobility_city_harmonized_20261020",
+  "cleaning_summary": {
+    "raw_place_instances": 16484,
+    "unique_cleaned_city_ids": 14820,
+    "match_methods": {
+      "original_id_name_coordinate_country_repair": 1080,
+      "unmatched": 614,
+      "original_geonames_id": 14711,
+      "same_country_name_coordinate": 70,
+      "official_us_polygon_identity": 9
+    },
+    "merge_rules": {
+      "retain_identified_place": 9560,
+      "country_municipality_admin_codes": 1894,
+      "official_us_place_polygon": 4059,
+      "retain_for_review": 614,
+      "china_direct_municipality": 24,
+      "geonames_explicit_subcity_parent": 208,
+      "administrative_name_to_city_seat": 102,
+      "documented_city_component": 5,
+      "china_city_administrative_name": 7,
+      "china_verified_urban_district": 11
+    },
+    "review_reasons": {
+      "place_identity_unresolved": 614,
+      "administrative_feature_needs_city_review": 148,
+      "subcity_parent_unresolved": 17,
+      "historical_or_government_feature": 9,
+      "coordinate_conflict_over_100km": 401,
+      "country_conflict_needs_review": 1
+    },
+    "country_corrections": 1082,
+    "analysis_ready_place_instances": 15294
+  },
+  "cleaning_validation": {
+    "raw_place_ids_unique": true,
+    "city_catalog_unique": true,
+    "one_metadata_record_per_city": true,
+    "no_identified_geonames_place_split": true,
+    "confirmed_component_merge_tests": [
+      {
+        "country": "US",
+        "parent": "new york",
+        "components": [
+          "brooklyn",
+          "manhattan",
+          "the bronx",
+          "staten island"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "US",
+        "parent": "san diego",
+        "components": [
+          "la jolla"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "CN",
+        "parent": "shanghai",
+        "components": [
+          "pudong"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "CN",
+        "parent": "nanjing",
+        "components": [
+          "jiangning"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "CA",
+        "parent": "toronto",
+        "components": [
+          "etobicoke",
+          "north york",
+          "scarborough"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "AU",
+        "parent": "melbourne",
+        "components": [
+          "parkville",
+          "carlton"
+        ],
+        "pass_check": true
+      },
+      {
+        "country": "DE",
+        "parent": "planegg",
+        "components": [
+          "martinsried"
+        ],
+        "pass_check": true
+      }
+    ],
+    "independent_city_safeguards": 6,
+    "all_independent_city_safeguards_passed": true,
+    "flow_conservation_all_datasets_and_tiers": true,
+    "clean_files_have_no_self_loops_or_duplicate_od_keys": true,
+    "comparison_scope": "Counts reflect both geographic harmonization and explicit exclusion of records needing review; country repairs may restore previously omitted flows",
+    "selected_2025_counts": [
+      {
+        "country": "AU",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 182,
+        "cleaned_count": 62,
+        "cleaned_flow": 8552.0,
+        "count_change": -120
+      },
+      {
+        "country": "CA",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 160,
+        "cleaned_count": 154,
+        "cleaned_flow": 11775.0,
+        "count_change": -6
+      },
+      {
+        "country": "CN",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 427,
+        "cleaned_count": 348,
+        "cleaned_flow": 636862.0,
+        "count_change": -79
+      },
+      {
+        "country": "DE",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 560,
+        "cleaned_count": 547,
+        "cleaned_flow": 30122.0,
+        "count_change": -13
+      },
+      {
+        "country": "FR",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 415,
+        "cleaned_count": 385,
+        "cleaned_flow": 50971.0,
+        "count_change": -30
+      },
+      {
+        "country": "GB",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 515,
+        "cleaned_count": 485,
+        "cleaned_flow": 29885.0,
+        "count_change": -30
+      },
+      {
+        "country": "JP",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 413,
+        "cleaned_count": 385,
+        "cleaned_flow": 52884.0,
+        "count_change": -28
+      },
+      {
+        "country": "US",
+        "year": "2025",
+        "side": "inflow",
+        "existing_count": 2772,
+        "cleaned_count": 2693,
+        "cleaned_flow": 245781.0,
+        "count_change": -79
+      }
+    ]
+  },
+  "cleaning_policy": {
+    "years": [
+      1998,
+      2025
+    ],
+    "original_inputs_preserved": true,
+    "city_definition": "Independent city or named standalone settlement with confirmed internal districts, neighbourhoods and suburbs assigned to its parent city; not a global morphological-urban-area or FUA boundary product",
+    "identity": "Restore original GeoNames identifiers; otherwise exact normalized name and coordinate matching, or official US place polygon containment",
+    "no_nearest_city_merge": true,
+    "references": {
+      "GeoNames": "Fixed downloaded snapshot 2026-10-20; CC BY 4.0",
+      "US_Census": "Fixed 2024 places, 1:500000 cartographic polygons",
+      "municipality_codes": "DE and FR ADM4, CH ADM3; country-specific municipal hierarchy, not a universal ADM-level rule"
+    },
+    "confirmed_parent_rules": [
+      "GeoNames PPLX with explicit parent populated place",
+      "country-specific municipality containment codes",
+      "confirmed Chinese urban districts and direct-administered municipalities",
+      "documented, cited city-component overrides"
+    ],
+    "country_scope_mapping_source": "results/figure_revision_20261015/unified_country_scope/data_manifest.json",
+    "review_policy": "Keep contradictory country-coordinate-name cases, unverified subcity parents, unresolved identity and coarse administrative-only features in separate audit ledgers",
+    "intercity_policy": "After mapping both endpoints, same-city events are retained separately and excluded from clean intercity data",
+    "tier_policy": "Retain annual/career impact tiers separately; never sum overlapping tiers",
+    "temporal_policy": "Apply the fixed reference geography consistently to the whole 1998-2025 period",
+    "data_use": "Use clean files for confirmed intercity analyses; consult the review ledger and source scope before changing manuscript sample definitions"
+  },
+  "model_later_period_comparisons": [
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "P_partner_country",
+      "countries": "76",
+      "median_deviance_reduction_pct": "0.26665785097652606",
+      "CI_low": "0.09425847347475091",
+      "CI_high": "0.4654695978880352",
+      "countries_better": "50",
+      "median_CPC_gain": "0.00037887533209884916",
+      "CPC_CI_low": "4.313760946372813e-05",
+      "CPC_CI_high": "0.0006707204203405537",
+      "median_R2_gain": "0.00028414417315864027",
+      "sign_p": "0.007905180027859783",
+      "sign_p_holm": "0.023715540083579352"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "G_international_gateway",
+      "countries": "76",
+      "median_deviance_reduction_pct": "0.6830674020665617",
+      "CI_low": "0.33014118338471343",
+      "CI_high": "0.9810590604592218",
+      "countries_better": "60",
+      "median_CPC_gain": "0.0007365325079459195",
+      "CPC_CI_low": "0.00045172052566122556",
+      "CPC_CI_high": "0.0012144143582224487",
+      "median_R2_gain": "0.0011444262291096519",
+      "sign_p": "3.850977823529725e-07",
+      "sign_p_holm": "2.6956844764708075e-06"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "R_foreign_city_reach",
+      "countries": "76",
+      "median_deviance_reduction_pct": "0.29849962831722254",
+      "CI_low": "0.11241072869085933",
+      "CI_high": "0.4335612428187696",
+      "countries_better": "53",
+      "median_CPC_gain": "0.00031323596668858533",
+      "CPC_CI_low": "0.00018284048578154355",
+      "CPC_CI_high": "0.0006036122170491875",
+      "median_R2_gain": "0.0002953401669237854",
+      "sign_p": "0.0007645817391550476",
+      "sign_p_holm": "0.0030583269566201903"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "C_international_centrality",
+      "countries": "76",
+      "median_deviance_reduction_pct": "0.8628202540641949",
+      "CI_low": "0.46461727538352204",
+      "CI_high": "1.631643647523523",
+      "countries_better": "49",
+      "median_CPC_gain": "0.0025200284391080907",
+      "CPC_CI_low": "0.0012107317511382831",
+      "CPC_CI_high": "0.0036727710390057067",
+      "median_R2_gain": "0.002623142297993597",
+      "sign_p": "0.01544026202090637",
+      "sign_p_holm": "0.023715540083579352"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "S_shared_foreign_cities",
+      "countries": "76",
+      "median_deviance_reduction_pct": "1.423129891154623",
+      "CI_low": "0.8027729315756404",
+      "CI_high": "2.290990086939837",
+      "countries_better": "50",
+      "median_CPC_gain": "0.0008895630505307839",
+      "CPC_CI_low": "-0.00023042278585444498",
+      "CPC_CI_high": "0.002414867386589137",
+      "median_R2_gain": "0.0005643036997504125",
+      "sign_p": "0.007905180027859783",
+      "sign_p_holm": "0.023715540083579352"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "T_foreign_two_step",
+      "countries": "76",
+      "median_deviance_reduction_pct": "3.4807005443673766",
+      "CI_low": "1.7169167148126385",
+      "CI_high": "5.9809363850819475",
+      "countries_better": "56",
+      "median_CPC_gain": "0.0048686614395259675",
+      "CPC_CI_low": "0.001645358334042779",
+      "CPC_CI_high": "0.007873597556465994",
+      "median_R2_gain": "0.008442443683329137",
+      "sign_p": "4.3689322062244415e-05",
+      "sign_p_holm": "0.00021844661031122207"
+    },
+    {
+      "split": "test",
+      "base": "B_history_field",
+      "new": "A_all_international_signals",
+      "countries": "76",
+      "median_deviance_reduction_pct": "4.497706267716889",
+      "CI_low": "2.4819472800004236",
+      "CI_high": "7.0015654082599905",
+      "countries_better": "58",
+      "median_CPC_gain": "0.004872259509680399",
+      "CPC_CI_low": "0.0021148224744527155",
+      "CPC_CI_high": "0.010153381849115128",
+      "median_R2_gain": "0.011379586044147016",
+      "sign_p": "4.713242239575157e-06",
+      "sign_p_holm": "2.8279453437450942e-05"
+    }
+  ],
+  "model_later_period_absolute_metrics": [
+    {
+      "split": "test",
+      "model": "A_all_international_signals",
+      "countries": "76",
+      "CPC_median": "0.8444317371878292",
+      "R2_raw_median": "0.9440238807494057",
+      "R2_log1p_median": "0.8568871203018023"
+    },
+    {
+      "split": "test",
+      "model": "B_history_field",
+      "countries": "76",
+      "CPC_median": "0.8390926976738424",
+      "R2_raw_median": "0.9281618609033886",
+      "R2_log1p_median": "0.8546316915593783"
+    },
+    {
+      "split": "test",
+      "model": "C_international_centrality",
+      "countries": "76",
+      "CPC_median": "0.8432656716347048",
+      "R2_raw_median": "0.9317304598674283",
+      "R2_log1p_median": "0.855869182875799"
+    },
+    {
+      "split": "test",
+      "model": "G_international_gateway",
+      "countries": "76",
+      "CPC_median": "0.8399510866081197",
+      "R2_raw_median": "0.9300600341963179",
+      "R2_log1p_median": "0.8554432231230844"
+    },
+    {
+      "split": "test",
+      "model": "P_partner_country",
+      "countries": "76",
+      "CPC_median": "0.839397389014735",
+      "R2_raw_median": "0.9289823663691432",
+      "R2_log1p_median": "0.8548133304821095"
+    },
+    {
+      "split": "test",
+      "model": "R_foreign_city_reach",
+      "countries": "76",
+      "CPC_median": "0.8394135449451945",
+      "R2_raw_median": "0.9284058009093565",
+      "R2_log1p_median": "0.8544663620694919"
+    },
+    {
+      "split": "test",
+      "model": "S_shared_foreign_cities",
+      "countries": "76",
+      "CPC_median": "0.8387100322216565",
+      "R2_raw_median": "0.9379138717753613",
+      "R2_log1p_median": "0.8537970242742613"
+    },
+    {
+      "split": "test",
+      "model": "T_foreign_two_step",
+      "countries": "76",
+      "CPC_median": "0.8434277546778808",
+      "R2_raw_median": "0.9451747286815158",
+      "R2_log1p_median": "0.8579840765499989"
+    }
+  ],
+  "model_validation_selection": {
+    "criterion": "2014-2017 country-median deviance reduction; no test-based selection",
+    "ranking": [
+      {
+        "new": "T_foreign_two_step",
+        "median_deviance_reduction_pct": 2.8278970453172736,
+        "median_CPC_gain": 0.0035223628821417496
+      },
+      {
+        "new": "A_all_international_signals",
+        "median_deviance_reduction_pct": 2.8248659570424604,
+        "median_CPC_gain": 0.0061942615868267326
+      },
+      {
+        "new": "S_shared_foreign_cities",
+        "median_deviance_reduction_pct": 0.5984292139578629,
+        "median_CPC_gain": 0.0008936806223360239
+      },
+      {
+        "new": "G_international_gateway",
+        "median_deviance_reduction_pct": 0.5013751230732555,
+        "median_CPC_gain": 0.0006714597400870326
+      },
+      {
+        "new": "C_international_centrality",
+        "median_deviance_reduction_pct": 0.4848758072182713,
+        "median_CPC_gain": 0.0023167998035338866
+      },
+      {
+        "new": "R_foreign_city_reach",
+        "median_deviance_reduction_pct": 0.16568320957712768,
+        "median_CPC_gain": 0.0003395795290626613
+      }
+    ],
+    "selected": "T_foreign_two_step"
+  },
+  "two_step_randomization": {
+    "countries": 76,
+    "randomizations": 100,
+    "actual_gain_median_pct": 3.4807005443672656,
+    "randomized_gain_median_pct": 4.43201365141025,
+    "randomized_median_q025_pct": 3.937865275685097,
+    "randomized_median_q975_pct": 4.731304713942448,
+    "countries_actual_above_null_median": 19,
+    "median_paired_actual_minus_null_pct": -0.5597029153771804,
+    "actual_minus_null_country_bootstrap_CI": [
+      -0.9823952152898487,
+      -0.30118080647017176
+    ],
+    "note": "Conditional fixed-coefficient feature disruption, not refitted null models; not a causal or independent confirmation test."
+  },
+  "two_step_simulation": {
+    "countries": 76,
+    "periods": [
+      5,
+      6
+    ],
+    "simulations": 200,
+    "modeled_events": 6984347.0,
+    "all_events": 8808637.0,
+    "delta_Gini_pp": {
+      "median": -0.09218878443766812,
+      "q25": -0.544192594902217,
+      "q75": 0.4469361069722247,
+      "country_bootstrap_CI": [
+        -0.33686249974486393,
+        0.142099618138323
+      ],
+      "countries_positive": 35
+    },
+    "delta_HHI": {
+      "median": -0.0015124630155364358,
+      "q25": -0.006498760501089932,
+      "q75": 0.002168637362021544,
+      "country_bootstrap_CI": [
+        -0.004002411515510084,
+        -0.0008028278922923273
+      ],
+      "countries_positive": 29
+    },
+    "delta_Gini_positive_only_pp": {
+      "median": -0.16101629377861845,
+      "q25": -0.5776987663655978,
+      "q75": 0.29417236379434963,
+      "country_bootstrap_CI": [
+        -0.37086719629240816,
+        -0.017683989407737744
+      ],
+      "countries_positive": 30
+    },
+    "Gini_error": {
+      "countries_improved": 44,
+      "baseline_median_error": 0.009484990402268911,
+      "international_median_error": 0.008403068854867163
+    },
+    "HHI_error": {
+      "countries_improved": 39,
+      "baseline_median_error": 0.007510259151848681,
+      "international_median_error": 0.0061849341259540835
+    }
+  },
+  "integrated_annual_errors": [
+    {
+      "metric": "Gini",
+      "model": "reference",
+      "MAE": "1.4278991475845686",
+      "RMSE": "2.018797044302386",
+      "MedAE": "0.9909835547786683",
+      "units": "percentage points",
+      "countries": "76",
+      "country_years": "608"
+    },
+    {
+      "metric": "Gini",
+      "model": "international",
+      "MAE": "1.267972979607433",
+      "RMSE": "1.8377047319862028",
+      "MedAE": "0.8815597776683393",
+      "units": "percentage points",
+      "countries": "76",
+      "country_years": "608"
+    },
+    {
+      "metric": "HHI",
+      "model": "reference",
+      "MAE": "0.010217963858929896",
+      "RMSE": "0.014620294609705573",
+      "MedAE": "0.007629524994123553",
+      "units": "dimensionless",
+      "countries": "76",
+      "country_years": "608"
+    },
+    {
+      "metric": "HHI",
+      "model": "international",
+      "MAE": "0.009030001436200794",
+      "RMSE": "0.013501000742939298",
+      "MedAE": "0.006360071736291155",
+      "units": "dimensionless",
+      "countries": "76",
+      "country_years": "608"
+    }
+  ],
+  "search_scope": {
+    "openalex_top_level_python_files": 50,
+    "canonical_cleaning_files": 7,
+    "AI_execution_marker_hits": 0,
+    "caveat": "A bounded local-code search; absence of archived calls does not disprove author-reported external LLM use."
+  },
+  "LLM_model_name_provenance": "User confirmed DeepSeek-V4.1-Flash; access/API/snapshot/prompts/validation not recovered"
+}

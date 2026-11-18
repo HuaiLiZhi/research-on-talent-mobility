@@ -1,0 +1,24 @@
+{
+  "visual_review": "Reviewed all panels at native 180mm width. The c legend sits outside the grid; a uses the existing red/blue family, b keeps contrast against neutral comparators, d/e share dimensions, time axis and model colour meanings.",
+  "alignment": "PASS",
+  "pdf_minimum_glyph_pt": 7.5,
+  "collision_fail": 0,
+  "collision_warn": 0,
+  "published": [
+    {
+      "name": "Fig6.pdf",
+      "sha256": "fefda41fa1630dbc917e8619cbf79023ecd7e2573121865972afe7b5c1f6f668"
+    },
+    {
+      "name": "Fig6.svg",
+      "sha256": "a0d8fe3a70190f8b36cf5aa688160f9e446e2687fd35fcbed9c945032f9a3cb4"
+    },
+    {
+      "name": "Fig6.png",
+      "sha256": "54a036a40ee270ff29e5b914d20b466478b9c136606614e58a210ec22a93a130"
+    }
+  ],
+  "annual_series_country_years": 1824,
+  "annual_curve_statistics": "Same76-country medians, actual annual event totals with saved preceding-block predictors; expected-strength curves, not interpolated period indices. Shaded evaluation2018-2025.",
+  "other_figures_unchanged": true
+}

@@ -1,0 +1,7 @@
+quantity,base_domain,comparison_domain,countries,median_paired_difference,CI_low,CI_high,p_wilcoxon,p_holm_six_pairs
+matched_HHI_excess_percent,Physical Sciences,Life Sciences,35,1.435019744317767,-3.198906176881633,3.9227689522286493,0.5987840640591457,1.0
+matched_HHI_excess_percent,Physical Sciences,Health Sciences,35,0.35407606298687444,-1.8867771043261912,2.0744296991558775,0.5436307483469136,1.0
+matched_HHI_excess_percent,Physical Sciences,Social Sciences,35,-0.14840313600765764,-5.23563324105466,3.158237115805595,0.5544616600964218,1.0
+matched_HHI_excess_percent,Life Sciences,Health Sciences,35,-2.1351693828127294,-4.775260664772452,1.7770536481519161,0.2254295740276575,1.0
+matched_HHI_excess_percent,Life Sciences,Social Sciences,35,0.643465057974757,-8.699003876886646,4.609976475984768,0.35070493788225576,1.0
+matched_HHI_excess_percent,Health Sciences,Social Sciences,35,-0.18320360132002556,-5.567164322542796,6.5504635230136055,0.954866194690112,1.0

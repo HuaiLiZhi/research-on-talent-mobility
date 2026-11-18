@@ -1,0 +1,10 @@
+{
+  "status": "Secondary diagnostics specified after primary comparison; not a preregistration.",
+  "reason": "Separate the increment of own-layer history from own-layer partner degree; compare with direct lagged-share persistence.",
+  "models": {
+    "H0": "Mass + accessibility + own inflow history, no degree.",
+    "Persistence": "Previous inflow shares with exactly one mass-proportional pseudo-event per country-period."
+  },
+  "interpretation": "Held-out predictive memory is not causal behavioral path dependence.",
+  "primary_results_unchanged": true
+}

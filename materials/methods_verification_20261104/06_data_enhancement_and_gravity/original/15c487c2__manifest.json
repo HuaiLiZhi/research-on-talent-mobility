@@ -1,0 +1,40 @@
+{
+  "purpose": "Neutral surrounding land/boundaries for map context; not mobility observations",
+  "viewports_wgs84": {
+    "national": [
+      65.0,
+      4.0,
+      144.0,
+      68.7
+    ],
+    "city": [
+      120.15,
+      30.2,
+      122.75,
+      32.4
+    ]
+  },
+  "sources": {
+    "national": "results\\NHB_Fig1\\20260913\\ne_110m_admin_0_countries.geojson",
+    "city": "data\\raw\\geo\\municipal_20261020\\gb_CHN_ADM3.geojson"
+  },
+  "national_provider": "Natural Earth, 1:110m admin-0 countries; https://www.naturalearthdata.com/",
+  "city_provider": "geoBoundaries, CHN ADM3, same 2017 source as highlighted city/district geometry",
+  "city_source_license": "Open Database License 1.0; \u00a9 OpenStreetMap contributors",
+  "extraction": "All features intersecting each rectangular display viewport; clipped to that viewport; no invented geography",
+  "displayed_place_names": false,
+  "counts_and_hashes": {
+    "national": {
+      "source_features": 177,
+      "viewport_features": 28,
+      "source_sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+      "output_sha256": "16becafb2e206e025d14c93edf71df4b698021a69ad4b15b9244e146cf11ff73"
+    },
+    "city": {
+      "source_features": 2864,
+      "viewport_features": 69,
+      "source_sha256": "ea64fe24f193e319ce48895f229a5b3f46d2a60f3f3df67e6172ab037e4cc8fd",
+      "output_sha256": "8641d18a2217f2d64dc607fef067ae0ea71bd3d2268372bbe220c78406a104ec"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "entry_plan": {
+    "sample": "Same frozen 76 countries, combined domestic strength, 1998-2025",
+    "groups": {
+      "C": "Positive flow in all 28 years",
+      "I": "First recorded in 1998, not C; active this year",
+      "E": "First recorded after 1998; active this year"
+    },
+    "reference": "C; preserve full-network city margins, renormalize selected city weights",
+    "attribution": "Average the two insertion orders of I and E",
+    "primary": "Gini and normalized equivalent-city proportion R; HHI retained as directional check",
+    "trends": "OLS on the same 28 annual observations for each component",
+    "scope": "Descriptive distribution-composition attribution; no causal identification",
+    "reporting": "All76; no contribution ratios for near-zero total slopes; no sum-of-medians identity"
+  },
+  "entry_input_hashes": {
+    "outputs\\mechanism_validation_20261030\\domestic_domain_city_year.parquet": "4118c639b8a85e887a1ad5b86785695a16cd57d6a7d3f59428778e3765e09cb3",
+    "outputs\\mechanism_validation_20261030\\sample76.csv": "44fd21424abc91ec5e8fd1e67369ae0bc518fdcf23a3adf6c511fa33ae7d082e"
+  },
+  "national_change_definition": "Positive endpoint share change divided by all positive endpoint share changes, 1998-2025",
+  "scripts": [
+    "outputs\\results_rewrite_20261111\\analyze_entry_components.py",
+    "outputs\\results_rewrite_20261111\\install_rewrite.py"
+  ],
+  "files": {
+    "country_share_changes.csv": "b36291ac185d1738c19c82ed61868d14906c5bfeab4e3d46d9f0b64f86b78d33",
+    "entrant_2025.csv": "367c09456ed0d55dde001f81bd66183e0c04ad8d0ed1728f176dfc4c9e34de01",
+    "entry_components_annual.csv": "c6b61378776d20aefbdca541ef994463f6a43fd0ae14be5f028ac88227aa6399",
+    "entry_components_summary.csv": "1cd1dc88430d5160041fc1a7068701ed2063c003218270d61e39f7967e48541f",
+    "entry_components_trends.csv": "4dd8937e505413fe3b20818e739cd1de639d77f7f9bf26db81a8c8f8ee8dfdfb",
+    "paired_34_country_domain_scope.csv": "9b66526a1c776ccedabb278341c64ca9c328d4b357f3397075f55021079e2488",
+    "top_five_country_share_changes.csv": "6eb0fe6cc06b8ff05072d11e1d52f27564fb32485f031422136888c4465a0589",
+    "T_group_share_growth.csv": "f200343773068e724745ac2039fc88646bf5a8f1e76727052e5ace954744c369"
+  },
+  "T_group_share_growth": {
+    "membership_source": "outputs/results_network_revision_20261030/artwork/source_data/trajectory_membership.csv",
+    "membership_sha256": "078b64eef0852ba95346cbb8920a05a1c53f68b3bbd90ea6938815904a9294b3",
+    "country_change_source": "country_share_changes.csv",
+    "positive_denominator_pp": 26.884161810938792,
+    "rule": "Sum positive country endpoint changes within each fixed T group; net changes retain both signs"
+  }
+}

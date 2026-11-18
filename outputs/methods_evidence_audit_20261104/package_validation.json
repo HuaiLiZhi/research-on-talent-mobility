@@ -1,0 +1,12 @@
+{
+  "scope": "Original-file retrieval and metadata/result-table checks only; no new model fits, indicators, rarefaction or data cleaning",
+  "file_index_rows": 192,
+  "unique_original_files": 189,
+  "copied_index_rows": 159,
+  "large_or_binary_path_only_index_rows": 33,
+  "historical_hash_matches": 13,
+  "historical_hash_mismatches": 0,
+  "copy_errors": [],
+  "manuscript_sources_unchanged": true,
+  "generated_exports_are_marked_as_new_views": true
+}

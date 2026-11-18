@@ -1,0 +1,80 @@
+[
+  {
+    "file": "IE_LA2024_metadata.json",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer?f=json",
+    "bytes": 3961,
+    "sha256": "2c8823ed9d515afd280017e787056bab6bfd212ae8541c3a249a4f57516f09f2"
+  },
+  {
+    "file": "IE_LA2024_item.json",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/ed592af6f0444bf1b0becdb5925f9477?f=json",
+    "bytes": 6635,
+    "sha256": "a4ab2aee688fe85ce8c918d43d535a8ef7cdcd29e3f867439819248273281c49"
+  },
+  {
+    "file": "IE_LA2024_count.json",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json",
+    "bytes": 14,
+    "sha256": "71104d3895dd170dbda2a2853d63933626de84d1479d882066973a211d02d9fd"
+  },
+  {
+    "file": "IE_LA2024_page_0.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=0&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 713972,
+    "sha256": "72a7047012f393ef63daace3538fe0a754368348e37c0a4116c50be90e72ee7e"
+  },
+  {
+    "file": "IE_LA2024_page_1000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=1000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 1127299,
+    "sha256": "c9fadb8f5f9a022491ebe5e9a3a292a4b01e928d208443acdb87ef5be3039f6a"
+  },
+  {
+    "file": "IE_LA2024_page_2000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=2000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 1224911,
+    "sha256": "eafcc62951e4fd6d3feb1f6773ec799e53df786aa989a4ce33ac3335c410f09c"
+  },
+  {
+    "file": "IE_LA2024_page_3000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=3000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 683261,
+    "sha256": "c7c3e81a117976784c0bd7b966837023dacbc5e2e8685f6b29c90c3f10e32bb5"
+  },
+  {
+    "file": "IE_LA2024_page_4000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=4000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 755645,
+    "sha256": "dcbf36627c4c584f063ea9f6d02e9cd908641facf51e32969ae3ffc7937c6163"
+  },
+  {
+    "file": "IE_LA2024_page_5000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=5000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 1899201,
+    "sha256": "45f02af4fa410d27f52dbae32c79808e124b51bae8cadb2548439e8b3ad56323"
+  },
+  {
+    "file": "IE_LA2024_page_6000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=6000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 1318908,
+    "sha256": "07f772af9fd66b8219c500664ec8a108b09238bdd1ca2d25921a0572d444c91f"
+  },
+  {
+    "file": "IE_LA2024_page_7000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=7000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 826869,
+    "sha256": "856036e0941ae89fe3aedd7fd7a4a314c0e58f105577a2005d9aa5f6d580b28e"
+  },
+  {
+    "file": "IE_LA2024_page_8000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=8000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 553576,
+    "sha256": "84cd642fe36fde09988c4036dddff36f0af96cfa534798619e56dc461c1d8c8c"
+  },
+  {
+    "file": "IE_LA2024_page_9000.geojson",
+    "url": "https://services-eu1.arcgis.com/FH5XCsx8rYXqnjF5/arcgis/rest/services/LocalAuthorities_NationalStatutoryBoundaries_Ungeneralised_2024/FeatureServer/0/query?where=1%3D1&outFields=BDY_ID%2CENG_NAME_VALUE%2COBJECTID&outSR=4326&f=geojson&returnGeometry=true&resultOffset=9000&resultRecordCount=1000&orderByFields=OBJECTID&geometryPrecision=6&maxAllowableOffset=5e-05",
+    "bytes": 168061,
+    "sha256": "03fd221affac74b6f9a896138772fdbbb7c1acf99cf7bf3fca73f06c1c669b8c"
+  }
+]

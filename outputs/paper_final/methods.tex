@@ -1,0 +1,155 @@
+\section{Methods}
+
+We linked publication, author and institution records to identify candidate affiliation changes, then harmonized their geographic endpoints and constructed the final mobility networks. We defined country and disciplinary samples, measured geographic coverage and flow distributions, and compared annual city sets with newly recorded and continuously recorded cities. Equal-event sampling assessed sensitivity to recorded volume. Complementary domestic flow-allocation models and their evaluation are reported in Supplementary Methods~M1--M2 and Supplementary Results~S5--S6.
+
+\subsection{Data Sources}
+
+We used OpenAlex work, author and institution records and topic classifications\cite{ref021} to reconstruct researcher mobility. OpenAlex entities were linked through their OpenAlex identifiers. Work and authorship records supplied publication years, author and institution identifiers, and affiliation relations; institution records supplied the initial affiliation locations; and topic records supplied disciplinary information. All researchers represented in the input were eligible, with no research-impact threshold. The main analyses used one all-researcher tier and did not combine overlapping impact tiers. Mobility events were analysed for 1998--2025.
+
+A fixed GeoNames download dated 20 October 2026 supplied place identifiers, standardized names, coordinates, feature types, administrative codes and parent--child relations. The 2024 U.S. Census Bureau cartographic place boundaries at 1:500,000 supplied official place polygons and GEOIDs for spatial-containment checks and identification of independent places. A source-documented city-component table supplied confirmed relations between districts, neighbourhoods or suburbs and their parent cities, together with provenance and applicable conditions, including distance where specified. These geographic sources were used to resolve and harmonize affiliation locations; they added no researcher-mobility observations. The harmonized geographic analysis dataset was prepared on 20 October 2026; this is not the date or version of the OpenAlex source snapshot.
+
+\subsection{Record Linkage, Primary Affiliations and Candidate Mobility Events}
+
+Author-year institution records were constructed from work years spanning 1900--2026, whereas events were retained only for 1998--2025. Thus, a valid observation before 1998 could serve as the origin of an event dated 1998. We excluded records without an author identifier or valid publication year, removed exact duplicate work--affiliation records, and retained the latest \texttt{updated\_date} record for each \texttt{institution\_id}. A work linked to multiple institutions contributed to each linked institution before primary-affiliation selection. For each author-year, we counted distinct \texttt{work\_id} values per institution and selected the institution with the largest count. Ties were resolved by sorting \texttt{institution\_id} and selecting the first. Researcher identity followed the OpenAlex author identifier.
+
+The initial location key used an institution's GeoNames city identifier when available. Otherwise, it combined country code and lowercased city name, without a region field. Consequently, distinct same-country places with the same fallback name could yield no candidate transition; later harmonization mapped retained candidates and could not recover transitions omitted at this stage.
+
+For each researcher, we ordered valid author-year locations and compared successive observations, whether or not the observed years were consecutive. A change of country formed an international candidate; a change of location within a country formed a domestic intercity candidate, consistent with affiliation-based approaches to scientific mobility\cite{ref004,ref013}. Each candidate was dated to the later observation year. Return moves and repeated moves in different years were counted separately.
+
+Candidate events were aggregated by origin location, destination location, event year and author field, with distinct authors counted within each cell. Summed event weights are counts of events across these cells, not counts of unique researchers or rows in an aggregated table.
+
+\subsection{Multisource Place Resolution and Geographic Harmonization}
+\label{methods:geography}
+
+We extracted both endpoints of each candidate flow and retained their original country, region, city name and coordinates. Country codes were trimmed and converted to uppercase; region and city names were trimmed and converted to lowercase; coordinates were rounded to five decimal places. The combination of these fields formed the raw-location key, so records sharing a name but differing in region or coordinates remained distinct at this stage.
+
+We first sought to recover the original GeoNames identifier from author-location geography, checking candidate identity against name, coordinates and region. When the original identifier could not be recovered, we matched within the same country using normalized name and coordinates; name-matched candidates were limited to a distance of 25\,km. Where supported by coordinate consistency, a recovered GeoNames identity was used to complete or correct the original country label.
+
+Place-identity matching and assignment to a parent city were separate steps. Parent-city decisions combined GeoNames place types and explicit parent--child relations, country-specific municipal relationships, confirmed urban-district relationships in China, and sourced city-component rules with their stated provenance and applicable conditions. U.S. place polygons and GEOIDs were used to check spatial containment and protect independently identified places. For a recovered GeoNames place with coordinate consistency, its reference coordinates were used for containment checks where applicable, reducing splits caused by coordinate variants. Geographic proximity alone was not sufficient to merge a location into the nearest city.
+
+The same geographic references and rules were applied throughout 1998--2025. The city unit comprised independent cities or separately named settlements and their confirmed components; it was not a global functional or morphological urban-area definition.
+
+\subsection{LLM-Assisted City Identity Resolution}
+
+DeepSeek-V4.1-Flash (DeepSeek) assisted judgments about ambiguous city identities and candidate parent-city assignments, an entity-matching application of language models\cite{narayan2022,peeters2025}. Its role concerned geographic identity and merging. Primary-affiliation selection used the publication-count rule above, and researcher identities followed OpenAlex identifiers.
+
+Final city assignments used the geographic evidence described in Section~\ref{methods:geography} and were encoded in the crosswalk. The retained location fields, mapping evidence and review reasons connect city-identity decisions to event reclassification and aggregation. Unresolved cases remained in the review ledger.
+
+\subsection{Integrated Crosswalk, Event Reclassification and Quality Checks}
+
+The crosswalk retained each raw-location key, name, region and coordinate; recovered source-place identity; final city identifier, country, region and harmonized coordinates; and the mapping or merger rule, evidence source, review reason and status. It contained 16,484 raw-location mappings, of which 15,294 were marked analysis-ready; 1,082 mappings recorded a completed or corrected country label. These are counts of location mappings and field repairs, not researchers or estimates of matching accuracy.
+
+We joined each candidate event to the crosswalk for both endpoints and recorded its raw and final endpoints, original and revised country relationship, year, author field, analysis tier and event weight in an event ledger. Final classification followed this order: an event with either endpoint unconfirmed was assigned to geographic review; among the remaining events, endpoints with the same final city identifier were classified as within-city changes, different cities in the same country as domestic intercity events, and cities in different countries as international events. Country-label repair and city-identity resolution therefore preceded final international/domestic classification.
+
+In the study window, the all-researcher candidate-event weight was 30,335,569. This comprised 183,001 within-city changes, 449,344 events requiring geographic review and 29,703,224 retained intercity events, including 11,529,374 international and 18,173,850 domestic events. These totals are sums of event weights, not numbers of aggregated rows. Each retained event contributed once to event volume and once to its origin outflow and destination inflow. A place's combined strength is its inflow plus outflow; summed combined strengths therefore equal twice the retained event weight.
+
+Archived validation checks tested raw-location-key uniqueness, city-metadata consistency, seven specified sets of component merges and six safeguards protecting independent places, and conservation of event weights through reclassification. They also checked final aggregation keys for duplicates, self-loops, non-positive flows and years outside the study window. These are rule and internal-consistency checks, not accuracy estimates against an independent gold standard.
+
+\subsection{Field Assignment and Analysis Samples}
+
+Field labels came from the field classification of a work's primary OpenAlex topic. If that topic lacked both field and subfield classifications, we used the first topic-list item. Each author's primary field was the field assigned to the largest number of distinct works used to construct the trajectory, and all of that author's events received the same label. For tied maxima, we retained the assignment produced by the original aggregation, which specified no secondary field-code ordering. Geographic harmonization preserved these saved field labels. The overall analysis retained events without a specified field; disciplinary comparisons used 26 named fields.
+
+For Fig.~\ref{fig:fig6}, the 26 fields were grouped into four OpenAlex domains: physical sciences (ten fields), life sciences (five), health sciences (five) and social sciences (six). Flows were summed within domains before calculating indices.
+
+The international analysis included all countries with positive combined international flows in each year. Fixed-country comparisons used the 203 countries with positive combined flows in every study year; an inflow, an outflow or both qualified a country. We retained their full international flows, including exchanges with countries outside the group, and renormalized fixed-country shares within the group. This comparison held country membership constant while preserving each country's international margins.
+
+The main domestic sample comprised 76 countries with domestic flows and at least two origin cities and two destination cities in every year from 1998 to 2025. City indicators were calculated within each country and then summarized across countries; annual medians and interquartile ranges gave each country equal weight. For cross-domain analyses, we used the same 45 countries in all four domains, all drawn from the 76-country domestic sample. Each country had at least two cities with positive combined domestic strength in every year in every domain. This matched set supports comparisons across domains; the 76-country sample defines the main domestic analysis.
+
+International Gini used all countries with positive combined international flows in the relevant domain and year; domestic Gini was calculated within each of the same 45 countries.
+
+\subsection{Geographic Coverage and Flow Distributions}
+
+Geographic coverage was measured by counts of countries, cities and directed OD pairs with positive flows. Each pair counted as one connection in a year, with the reverse direction counted separately. Domestic city counts were calculated within countries; the total number of domestic connections summed directed city pairs across countries.
+
+The connection-based prediction in Figs.~\ref{fig:fig2}a and \ref{fig:fig4}a holds initial mean recorded flow per connection constant. With $F_t$ denoting the event total, $L_t$ the number of directed connections and $t_0$ the initial study year,
+\begin{equation*}
+F_t^{\mathrm{ref}}=\frac{F_{t_0}}{L_{t_0}}L_t.
+\end{equation*}
+International connections are country pairs; domestic connections are city pairs within countries. The prediction separates growth associated with connection counts from growth in average events per recorded connection. It uses the same observation process as the recorded series.
+
+To measure destination reach, we counted distinct sources for each destination with inflows and calculated the percentage connected to at least each source-count threshold. International percentages used destination countries. Domestic percentages were calculated within each of the 76 countries and then averaged with equal country weights. Country-level international volume combined inflows and outflows, and partner coverage counted the union of countries connected in either direction. Domestic event volume counts each event once, and recorded domestic city coverage counts the union of origin and destination cities.
+
+For the comparison across five-year periods, we used the public origin--destination flow table accompanying Zhao et al. (2023)\cite{ref039}, retaining total flows across genders. Their four periods were 1998--2002, 2003--2007, 2008--2012 and 2013--2017. We pooled our annual inflows and outflows within the same periods before calculating HHI. External country labels were matched to ISO codes and our existing geographic scope. Flows that became internal to an aggregated geographic unit were removed. We calculated full-network country margins before retaining the same 181 countries with positive combined flow in both sources in all four periods and renormalizing their combined shares. Thus, selected countries retained their flows with partners outside the pool. The comparison concerns HHI of global national shares, rather than the country-specific migration-spread measure in the original paper. Endpoint declines compare the first and last pooled periods.
+
+For the annual comparison, we matched our series with the published Scopus-based international flow data accompanying Yenilmez (2026)\cite{yenilmez2026} over 1998--2023. We retained the same 147 countries with positive combined international flows in every year in both sources and aligned geographic units. Country margins retained flows with partners outside this pool and were renormalized within it. Endpoint declines were calculated as the 1998 value minus the 2023 value, divided by the 1998 value and expressed as a percentage.
+
+For the 2025 entrant shares, newly recorded cities were those first recorded after 1998 and active in 2025. Within each of the 76 countries, their city-count share was their number divided by the total participating city count, and their flow share was their combined domestic strength divided by total combined city strength. We summarized the two shares separately by their cross-country medians.
+
+For an international distribution, a country's combined flow was divided by worldwide combined flows in that year. Fixed-country shares used the total full combined flow of the fixed group. Domestic shares used a city's combined domestic strength divided by total combined strength in its country-year. Directional analyses used the corresponding inflow or outflow total. Top-ten countries were re-ranked annually by combined international flow, and their worldwide shares were summed.
+
+Let $s_{i,t}$ be the strength of place $i$ and $N_t$ the number of places in the comparison. Using the established HHI concentration measure\cite{rhoades1993}, we calculated shares and concentration as
+\begin{equation*}
+p_{i,t}=\frac{s_{i,t}}{\sum_{j=1}^{N_t}s_{j,t}},\qquad
+\mathrm{HHI}_t=\sum_{i=1}^{N_t}p_{i,t}^{2}.
+\end{equation*}
+Higher HHI indicates greater concentration, with larger shares contributing more heavily to the index. Following the effective-number formulation\cite{hill1973,ref043}, we expressed inverse concentration as an equivalent location count. For comparisons across changing place counts, we divided this count by the number of places:
+\begin{equation*}
+N_{\mathrm{eq},t}=\frac{1}{\mathrm{HHI}_t},\qquad
+R_t=\frac{N_{\mathrm{eq},t}}{N_t}.
+\end{equation*}
+We use equivalent country count and equivalent city count at the respective scales. The normalized equivalent count $R_t$ compares the effective number of equally weighted places with the number of places in the comparison; higher values indicate more even weights relative to that number. We applied the Gini coefficient\cite{gini1921} to flow strengths using its pairwise-difference form, with $\bar{s}_t$ denoting mean strength:
+\begin{equation*}
+G_t=\frac{\sum_{i=1}^{N_t}\sum_{j=1}^{N_t}|s_{i,t}-s_{j,t}|}
+{2N_t^{2}\bar{s}_t}.
+\end{equation*}
+Higher Gini indicates larger pairwise disparities in flow strength. Descriptive distributions used places with positive strength. The common city pools for model evaluation included zero strengths (Supplementary Methods~M2). HHI emphasizes larger shares, Gini summarizes pairwise disparities, and the normalized equivalent count expresses the effective number of places relative to the comparison-set size. Because $R_t$ also depends on $N_t$, declining HHI and rising equivalent counts can coexist with falling $R_t$ and rising Gini as city coverage expands.
+
+\subsection{Temporal Trends and International-Share Trajectories}
+
+Full-period trends used all 28 annual observations. Ordinary least-squares regression on year estimated changes in Gini and normalized equivalent counts. Fig.~\ref{fig:fig5}a compares all-city and initial-city Gini slopes, and Fig.~\ref{fig:fig6}a compares Gini slopes across disciplinary domains. Index slopes were multiplied by 100 to give percentage points per year. The annual percentage-point trend in $R_t$ is denoted by $\beta_R$. Domestic concentration was classified jointly by a negative $R_t$ trend and positive Gini trend; the opposite combination defined deconcentration. Other sign combinations were retained as mixed. These classifications describe fitted trends without imposing a significance threshold. The disciplinary comparison in Fig.~\ref{fig:fig6} was Gini-based and did not apply this joint two-index classification.
+
+For each positive count, volume or share series, we fitted the following log-linear model by ordinary least squares using all 28 annual observations:
+\begin{equation*}
+\log X_t=a+b(t-t_0)+\varepsilon_t,\qquad
+g=100[\exp(b)-1],
+\end{equation*}
+where $t_0=1998$ and $g$ is the annual percentage growth rate. This fit was applied separately to each series, including international shares in Fig.~\ref{fig:fig2}c and city counts in Fig.~\ref{fig:fig6}c--f.
+
+In Fig.~\ref{fig:fig6}b, annual international Gini changes were measured from the corresponding domain's 1998 value. Domestic changes were measured from each country's own 1998 value before calculating the median across countries. The international and domestic trajectories share the year and Gini-change axes.
+
+For national share growth, we calculated each country's change in its worldwide combined-flow share between 1998 and 2025. Countries absent from an endpoint had zero recorded flow at that endpoint. Fig.~\ref{fig:fig3}b plots the 76 trajectory countries' signed endpoint changes against their 1998 shares. For Supplementary Table~1, we counted countries with positive endpoint changes and summed their percentage-point increases in each T1--T4 group and among countries outside the 76-country sample. We divided these values by the worldwide count of countries with positive changes and the worldwide sum of their increases, respectively.
+
+International-share trajectories organize the 76 domestic-comparison countries by fitted full-period growth in their worldwide international-flow shares. For country $i$ in year $t$, the share was
+\begin{equation*}
+p_{i,t}=\frac{f^{\mathrm{in}}_{i,t}+f^{\mathrm{out}}_{i,t}}
+{\sum_j\left(f^{\mathrm{in}}_{j,t}+f^{\mathrm{out}}_{j,t}\right)},
+\end{equation*}
+where $f^{\mathrm{in}}_{i,t}$ and $f^{\mathrm{out}}_{i,t}$ denote international inflows and outflows, and $j$ spans all countries with recorded international flows in year $t$. We applied the log-linear fit defined above to each country's share series and denoted its annual percentage growth rate by $g_i$.
+
+We defined $m_-$ as the median over countries with $g_i<0$ and $m_+$ as the median over countries with $g_i>0$. T1 contains $g_i\leq m_-$, T2 $m_-<g_i<0$, T3 $0<g_i\leq m_+$, and T4 $g_i>m_+$. Group medians and assignments used unrounded growth rates. These groups contain 15, 14, 24 and 23 countries, respectively. No country had $g_i=0$; values equal to $m_-$ or $m_+$ were assigned to T1 or T3, respectively. Membership remains fixed across Figs.~\ref{fig:fig1}--\ref{fig:fig5}; it is descriptive and is not a model predictor.
+
+The histogram in Fig.~\ref{fig:fig1} and the points in Fig.~\ref{fig:fig2}c use these same country assignments. For Fig.~\ref{fig:fig2}d--g, domestic Gini slopes were multiplied by 1,000 to express percentage points per decade. Group distributions used Gaussian kernel density estimates with a common fixed absolute bandwidth of 1.6844 percentage points per decade. Each country contributes one full-period trend; all 76 countries are retained.
+
+Fig.~\ref{fig:fig3}a shows annual median country shares and summed group shares on separate scales. Others is the disjoint complement of the matched 76-country sample, so summed group shares and Others exhaust the worldwide total. For Fig.~\ref{fig:fig3}c, we summed the squared national shares within each group in every year and expressed that sum relative to its 1998 value.
+\begin{equation*}
+\Delta\mathrm{HHI}_{g,t}=\sum_{i\in g}\left(p_{i,t}^{2}-p_{i,1998}^{2}\right).
+\end{equation*}
+Here $p_{i,t}$ uses the worldwide denominator in year $t$. A country has zero share in a year with no recorded flow. T1--T4 and Others together cover every country recorded during the study period. The sum of $\Delta\mathrm{HHI}_{g,t}$ across the five groups equals the worldwide HHI change from 1998 to year $t$.
+
+For the illustrative country histories in Fig.~\ref{fig:fig5}b--e, eligibility required at least 100,000 domestic events overall, at least 1,000 in every year and at least 30 active cities in every year. Within each of T1--T4, we selected the eligible country with the largest arithmetic mean of the annual all-city minus initial-city Gini difference across all 28 years.
+
+\subsection{Newly Recorded and Fixed-City Comparisons}
+
+A city's first recorded year was its earliest year with positive combined domestic strength in the study window. For each country-year, the cumulative entrant group included cities first recorded after the initial year and active in the year being examined. We calculated its shares of cities with flows and of combined domestic strength. The comparison covered 76 countries over 1999--2025, giving 2,052 country-year observations. The flow share concerns combined city strength, rather than the proportion of unique events involving at least one entrant city.
+
+Continuously recorded cities had positive combined domestic strength in every study year, through inflows, outflows or both. All 76 countries had at least two such cities. Their fixed city lists were held constant. Each listed city's annual combined strength included its full-network domestic inflows and outflows, including flows involving cities outside the fixed list; shares were then renormalized within the fixed list. The network was not truncated to OD pairs between fixed cities. We also reported the fraction of total country strength carried by the list. Cities present initially but absent in some later years belong to neither the cumulative entrant group nor the continuously recorded group. These comparisons distinguish entrant contributions from redistribution among persistent participants; they do not form an exhaustive decomposition of overall change.
+
+We decomposed domestic distributions into continuously recorded cities (C), cities recorded in 1998 but not continuously thereafter (I), and cities first recorded after 1998 (E). I and E included their active members in each year. Each city retained its full-network combined strength. For Gini, HHI and normalized equivalent counts, we recalculated distributions on C, C plus I, C plus E, and all cities. The contribution of each added group was its average marginal change across the two insertion orders. These components sum exactly to the annual all-city index; their full-period ordinary least-squares slopes also add within each country. The initial-city comparisons in Figs.~\ref{fig:fig4}b,c and \ref{fig:fig5} used C plus the active members of I, with the same T1--T4 memberships as the international analysis. We subtract each initial-city slope from its all-city slope to calculate the median within-country difference and the count with positive differences. Negative-to-positive sign changes use the fitted initial-city and all-city slopes. The attribution describes the composition of recorded distributions, rather than an intervention on actual events (Supplementary Results~S2). For the disciplinary fixed-city comparison, 34 of the common 45 countries had at least two cities with positive strength in all 28 years in every domain. Within each country, the same city list was used in all four domains and years.
+
+\subsection{Equal-Event Sampling}
+
+We adapted count-based rarefaction\cite{gotelli2001} to compare years with equal recorded event volumes. Within each country, we sampled its minimum annual event total from every year's directed OD count vector, without replacement, using a multivariate hypergeometric distribution. Across 200 repetitions with random seed 20261048, we recalculated combined city strengths, positive-flow city counts, Gini, HHI and normalized equivalent counts. Trend classifications used the full annual series of replicate-mean indices. The archived outputs retain means, quantiles and fitted summaries rather than individual sampled count vectors. We repeated it for the 19 countries with at least 1,000 events in every year (Supplementary Results~S3) and applied the same procedure to worldwide international country OD counts. Equal event counts standardize recorded volume while retaining differences in the composition and visibility of the underlying records.
+
+\subsection{Statistical Analysis and Reproducibility}
+
+Domestic medians and interquartile ranges describe equally weighted countries. Spearman rank correlations\cite{spearman1904} summarize associations between country-level quantities. Domain coverage-growth comparisons in Fig.~\ref{fig:fig6}c--f used ordinary least-squares lines displayed over a common horizontal range. Pointwise 95\% intervals in the source data were calculated from 2,000 country bootstrap resamples\cite{efron1979}.
+
+Across the 76 domestic-comparison countries, we used Spearman rank correlation to compare fitted international-share growth with full-period domestic Gini slopes, separately for all recorded cities and initial cities. These measures combined inflows and outflows. Separate annual regressions estimated direction-specific associations between international shares and domestic Gini or normalized equivalent city counts, using country and year fixed effects. The annual estimates were standardized after removing both effects, with country-clustered confidence intervals and Holm adjustment across four tests (Supplementary Methods~M3 and Supplementary Table~3).
+
+Destination-coverage percentages used equally weighted country means, as specified above. Country interquartile ranges describe between-country variation; regression confidence intervals describe estimation uncertainty; sampling quantiles describe variation under the sampling procedure.
+
+Both cross-source comparisons are descriptive. We estimated annual HHI and Gini slopes by ordinary least squares for the Yenilmez comparison; no slope-difference test or uncertainty interval was estimated for either comparison. Gini was calculated on the same annual 147-country pool reported in Supplementary Results~S1. Geographic matching and temporal aggregation standardize the distributions being compared, while database coverage and migration-event identification remain source-specific.
+
+Analyses and figures used Python with DuckDB, NumPy, pandas, SciPy, statsmodels and Matplotlib. Saved outputs retain annual flows, location and connection counts, indices, sample memberships, field-domain mappings, crosswalks, review ledgers and sampling summaries. Supplementary Table~3 reports the direction-specific association estimates. Saved model fits retain coefficients and training transformations for recalculation without refitting.
+
+For Fig.~\ref{fig:fig1}, Natural Earth, geoBoundaries and OpenStreetMap-derived geometry were used for map display, not event-endpoint harmonization. OpenStreetMap-derived geometry is credited to \textcopyright\ OpenStreetMap contributors (\url{https://www.openstreetmap.org/copyright}).

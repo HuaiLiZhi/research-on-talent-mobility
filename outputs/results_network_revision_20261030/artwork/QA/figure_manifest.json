@@ -1,0 +1,351 @@
+{
+  "figure": "Fig2",
+  "edition": "v3",
+  "archetype": "asymmetric mixed-modality figure",
+  "claim": "Observed mobility volumes and geographic coverage in international and domestic mobility, with comparable country-specific expansion trajectories.",
+  "dimensions_mm": [
+    179.99999491373697,
+    166.84027921888563
+  ],
+  "fonts_pdf": [
+    "Helvetica",
+    "Helvetica-Bold"
+  ],
+  "country_sample_n": 76,
+  "selected_countries": [
+    "US",
+    "DE",
+    "GB",
+    "JP",
+    "CN"
+  ],
+  "layout_compaction": {
+    "second_to_third_row_gap_reduction_pt": 35.0,
+    "gap_reduced_from_previous_by_pt": 25.0,
+    "second_to_third_plot_area_gap_pt": 36.1106299,
+    "physical_panel_sizes_preserved": false,
+    "overall_height_reduced_by_pt": 35.0
+  },
+  "selected_country_rule": "The same five country examples retained from the previous Fig2, in the same order",
+  "panels": {
+    "a": "Complete international event totals: five separately labelled destination countries plus all other countries; million events",
+    "b": "Complete domestic intercity event totals: the same five countries plus all other countries; million events; x axis starts at 1998",
+    "c": "Four-year nested bubbles, area proportional to incoming source-country count; 76 countries",
+    "d": "Four-year nested bubbles, area proportional to domestic inflow-city count; same 76 countries",
+    "e-i": "Two solid raw-count series per country: the union of international source/destination countries on the left and domestic origin/destination cities on the right; country-specific axis ranges"
+  },
+  "event_volume_unit": "Million events in both a and b; complete totals including an Others layer",
+  "palette": {
+    "countries": {
+      "US": "#397F8E",
+      "DE": "#8DBCC8",
+      "GB": "#D69C7A",
+      "JP": "#E5CBA5",
+      "CN": "#89A99E"
+    },
+    "other_countries": "#E0E3E6",
+    "years": {
+      "1998": "#7E99F4",
+      "2007": "#CC7C71",
+      "2016": "#7AB656",
+      "2025": "#C9A45C"
+    },
+    "country_year_colours_disjoint": true,
+    "country_palette": "Lake blue, pale cyan-blue, apricot, light sand and sage; Others in light grey"
+  },
+  "international_city_flow_excluded": true,
+  "bubble_encoding": "Circle radius equals the square root of the plotted count; equal-sized axes share an identical coordinate extent, giving both bubble panels the same area per count",
+  "common_bubble_coordinate_extent": 115.69242359238623,
+  "bubble_counts": {
+    "c": 304,
+    "d": 304
+  },
+  "bubble_country_labels": {
+    "c": {
+      "labelled": 41,
+      "full_names": 0,
+      "too_small": 35
+    },
+    "d": {
+      "labelled": 17,
+      "full_names": 0,
+      "too_small": 59
+    }
+  },
+  "bubble_label_rule": "Use ISO 3166-1 alpha-2 codes for every labelled country; all text fits its outer country circle with a 0.65-pt margin and a 5.2-pt font floor; all labels remain editable text",
+  "bubble_size_legends": {
+    "placement": "One vertical ticked straight ruler in the upper-right of each bubble panel; no reference circles",
+    "c": [
+      0,
+      50,
+      200
+    ],
+    "d": [
+      0,
+      100,
+      500,
+      1000
+    ],
+    "scale": "Distance from zero to each tick equals the actual plotted bubble diameter: 2*sqrt(count) times the physical data scale"
+  },
+  "circle_container_radii": {
+    "c": 112.69242359238623,
+    "d": 111.17180602358428
+  },
+  "selected_country_outer_borders": false,
+  "connectors": "Ten colour-matched country-identification leaders, five from each bubble panel; not migration edges or causal arrows",
+  "bottom_axes": {
+    "left": "Union of international source and destination countries",
+    "right": "Union of domestic origin and destination cities",
+    "limits_by_country": {
+      "US": {
+        "left_countries": [
+          180.0,
+          230.0
+        ],
+        "right_cities": [
+          2100.0,
+          3300.0
+        ]
+      },
+      "DE": {
+        "left_countries": [
+          120.0,
+          200.0
+        ],
+        "right_cities": [
+          300.0,
+          700.0
+        ]
+      },
+      "GB": {
+        "left_countries": [
+          125.0,
+          225.0
+        ],
+        "right_cities": [
+          400.0,
+          600.0
+        ]
+      },
+      "JP": {
+        "left_countries": [
+          100.0,
+          200.0
+        ],
+        "right_cities": [
+          330.0,
+          450.0
+        ]
+      },
+      "CN": {
+        "left_countries": [
+          90.0,
+          210.0
+        ],
+        "right_cities": [
+          120.0,
+          420.0
+        ]
+      }
+    },
+    "years": [
+      1998,
+      2025
+    ],
+    "source_rows": 140,
+    "plotted_values": 280,
+    "colour_rule": "Blue countries on the left; red cities on the right",
+    "line_rule": "Two solid lines, combining inflow and outflow",
+    "axis_colour": "Black spines, tick marks, tick labels and y-axis titles on both sides",
+    "quantity_definition": "Distinct countries/cities with positive inflow OR outflow in the year; union, not the sum of directional counts"
+  },
+  "legend_placement": {
+    "a_b": "No separate country legend; five ISO2 codes label 2025 layer ends with short elbow leaders and parallel horizontal terminal segments; Others is written inside its residual band",
+    "a_b_insets": "Vertical four-year legends inside the upper-right of each inset; complete observed curves end at 64% of the logarithmic x span, reserving internal right-hand white space",
+    "c_d": "Vertical four-year legend in each bubble panel upper-left",
+    "bottom": "Two entries: countries (inflow or outflow) in blue; cities (inflow or outflow) in red; both solid"
+  },
+  "comparison_data_provenance": {
+    "selected_countries": [
+      "US",
+      "DE",
+      "GB",
+      "JP",
+      "CN"
+    ],
+    "event_count_unit": "One observed mobility event counted once",
+    "international_direction": "Inflow to each selected country from all other countries",
+    "domestic_direction": "All intercity mobility events within each selected country; destination margins counted once",
+    "stack_scope": "Five separately labelled countries plus all remaining countries combined in Other countries",
+    "other_country_rule": "Complete annual total minus the sum of the five separately labelled countries",
+    "all_28_stacked_totals_reconciled": true,
+    "displayed_unit": "Million events in both a and b",
+    "incoming_partner_count": "Distinct source countries with positive annual flow",
+    "outgoing_partner_count": "Distinct destination countries with positive annual flow",
+    "domestic_city_directions": "Positive-flow destination cities for inflow; positive-flow origin cities for outflow",
+    "all_28_global_years_reconciled": true,
+    "all_five_country_flow_series_reconciled": true,
+    "combined_country_count": "Union of source and destination countries, deduplicated per country-year",
+    "combined_domestic_city_count": "Union of domestic origin and destination stable city IDs per country-year"
+  },
+  "inset_partner_data_provenance": {
+    "source_parquet": "data\\processed\\mobility_city_harmonized_20261020\\analysis\\flow_top100.parquet",
+    "source_sha256": "46eb86e73e0d20db619bb15b4b130d940c3cb14eaacfcb65d539054099ea5265",
+    "geographic_scope_manifest": "data\\processed\\mobility_city_harmonized_20261020\\manifest.json",
+    "directed_edges": "Positive-flow distinct year, origin city, destination city across all fields; same-city edges excluded after geographic harmonization",
+    "international_destination_countries": {
+      "1998": 204,
+      "2007": 211,
+      "2016": 219,
+      "2025": 221
+    },
+    "domestic_city_records_all_countries": 30454,
+    "domestic_city_records_fixed_countries": 29458,
+    "domestic_country_n": 76,
+    "domestic_weighting": "Within-country city fractions averaged with equal country weights",
+    "years": [
+      1998,
+      2007,
+      2016,
+      2025
+    ],
+    "reconciliation": "All selected-year event totals, geographic node counts and edge counts exactly match existing plotted source tables"
+  },
+  "cleaned_data_provenance": {
+    "source_parquet": "data\\processed\\mobility_city_harmonized_20261020\\analysis\\flow_top100.parquet",
+    "source_sha256": "46eb86e73e0d20db619bb15b4b130d940c3cb14eaacfcb65d539054099ea5265",
+    "cleaning_manifest": "data\\processed\\mobility_city_harmonized_20261020\\manifest.json",
+    "city_identifier": "Cleaned stable origin/destination IDs; no new concatenation with region or city names",
+    "source_tier": "Annual top100pct; one tier only",
+    "years": [
+      1998,
+      2025
+    ],
+    "international_events": 11529374.0,
+    "domestic_intercity_events": 18173850.0,
+    "counted_events": 29703224.0,
+    "event_scope": "Confirmed international and domestic intercity events; within-city and unresolved records excluded",
+    "original_fixed_sample_n": 78,
+    "fixed_sample_n": 76,
+    "fixed_country_codes": [
+      "AE",
+      "AM",
+      "AR",
+      "AT",
+      "AU",
+      "BD",
+      "BE",
+      "BG",
+      "BR",
+      "BY",
+      "CA",
+      "CH",
+      "CL",
+      "CM",
+      "CN",
+      "CO",
+      "CR",
+      "CU",
+      "CZ",
+      "DE",
+      "DK",
+      "DZ",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GH",
+      "GR",
+      "HR",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IN",
+      "IR",
+      "IS",
+      "IT",
+      "JO",
+      "JP",
+      "KE",
+      "KR",
+      "LK",
+      "LT",
+      "MA",
+      "MT",
+      "MW",
+      "MX",
+      "MY",
+      "NG",
+      "NL",
+      "NO",
+      "NZ",
+      "PH",
+      "PK",
+      "PL",
+      "PR",
+      "PT",
+      "RO",
+      "RS",
+      "RU",
+      "SA",
+      "SE",
+      "SI",
+      "SK",
+      "TH",
+      "TN",
+      "TR",
+      "TZ",
+      "UA",
+      "UG",
+      "US",
+      "VE",
+      "VN",
+      "ZA"
+    ],
+    "sample_exclusions": [
+      {
+        "country": "KW",
+        "years_with_domestic_inflow": 22,
+        "years_with_domestic_outflow": 22
+      },
+      {
+        "country": "RE",
+        "years_with_domestic_inflow": 20,
+        "years_with_domestic_outflow": 20
+      }
+    ],
+    "sample_rule": "From the complete cleaned data, require at least two domestic origin cities and two destination cities in every year 1998–2025",
+    "cleaned_domestic_margin_table_matches_exactly": true
+  },
+  "source_hashes": {
+    "data\\processed\\mobility_city_harmonized_20261020\\analysis\\flow_top100.parquet": "46eb86e73e0d20db619bb15b4b130d940c3cb14eaacfcb65d539054099ea5265",
+    "data\\processed\\mobility_city_harmonized_20261020\\manifest.json": "bf7eeb154a2e7478a91d2f7ed3bf02bf0c1b476cce9d1cb594b467e42ccf253b",
+    "data\\processed\\mobility_city_harmonized_20261020\\city_crosswalk.csv": "2550e474c062c59179f8195ef026b913c31a78b94c60f4bedea31d316eb6e629",
+    "data\\processed\\mobility_city_harmonized_20261020\\cleaning_policy.json": "5324df348f4b20c475a7eb8849594a09e745de18d44eb60db1f36ae7040af710"
+  },
+  "uncertainty": "Descriptive observed counts; no fitted trend or confidence interval",
+  "data_boundary": "Confirmed events from the 20261020 cleaned data; stable city IDs; within-city and unresolved records excluded",
+  "formatting": {
+    "profile": "manuscript",
+    "width_mm": 180.0,
+    "body_reference_pt": [
+      11,
+      12
+    ],
+    "ordinary_text_pt": [
+      7,
+      9
+    ],
+    "panel_letter_pt": 10,
+    "axis_label_pt": 9,
+    "tick_and_legend_pt": 8,
+    "inset_axis_text_pt": 7.5,
+    "font": "Helvetica",
+    "insertion_width_mm": 180,
+    "instruction": "Insert at 180 mm without further reduction; manuscript and journal files have independent native typography."
+  }
+}

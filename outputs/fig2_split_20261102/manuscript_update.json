@@ -1,0 +1,25 @@
+{
+  "international_figure": 2,
+  "domestic_expansion_figure": 4,
+  "domestic_distribution_figure": 5,
+  "disciplinary_figure": 6,
+  "unchanged_international_concentration_figure": 3,
+  "width_mm": 180,
+  "rows_per_split_figure": 1,
+  "panels_per_split_figure": 3,
+  "all_quantitative_source_values_preserved": true,
+  "results_paragraphs_changed": "Panel references and two captions only",
+  "methods_changed": "Figure and panel references only",
+  "no_unresolved_references": true,
+  "collision_WARN_review": "The four fill-edge warnings concern bounding rectangles of diagonal confidence bands. Actual band polygons are above the lower-right legend labels; the PDF/PNG has no overlap. Grid paths stop around legend extents.",
+  "artwork_hashes": {
+    "Fig1.pdf": "71fab5498610a876b24a6d03a1c7df806cf768811efab6c641fc96f83d84d526",
+    "Fig2.pdf": "77e71aa76a399a416c6a3913f8c20a0b021912213bbe3b1754554dca9d38e4d8",
+    "Fig3.pdf": "d3f069bb91e154d18f995d91506a0aaac3ca0f1ef635c52ccdf4dd863030b95a",
+    "Fig4.pdf": "18ceec9e2c9ce73cc5f1dbbf88b46461d1c5e528c35236e1ede50046830bd42a",
+    "Fig5.pdf": "95ac85249805e2ff50f6ec7433a9164498b75fa01bbad29c1a3756908d0e40bc",
+    "Fig6.pdf": "0b97c127aecec36d86724ee024cf7a8edfa757a4308fe53cf815264c64d6bab7"
+  },
+  "main_compile": "success, built-in desktop editor compiler",
+  "final_QA": "Alignment PASS for both; minimum glyph 7.5 pt; zero collision FAIL; four conservative fill-bounds WARN inspected and cleared visually; unchanged artwork verified by byte comparison."
+}

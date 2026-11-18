@@ -1,0 +1,23 @@
+{
+  "canonical_total": 29703224,
+  "canonical_domestic_combined_strength_equals_twice_events": true,
+  "five_year_entry_records": 1810380,
+  "five_year_domestic_continuations": 319402,
+  "adjusted_domain_record_total": 1687769,
+  "same_actual_event_window_domestic_denominator": 9339789,
+  "domain_label_mismatch_fraction": 0.31939728216395935,
+  "prior_exact_HHI_reference_reproduced": true,
+  "manuscript_and_final_figures_modified": false,
+  "person_identifiers_in_deliverable_exports": false,
+  "source_domain_gravity_primary_definition": "Shared all-science capacity sensitivity; original annual-domain capacity results diagnostic only.",
+  "scripts": {
+    "prepare_mechanism_validation_20261030.py": "d02849ba621014cd391dc22f9a8e4fd40f1ae0bd35f45d9ecc234a059d105227",
+    "fit_cross_scale_gravity_20261030.py": "a49a0afc2e20454a267d3317430d8f2a6d60b7d92d61167cf770d20103ae14d5",
+    "analyze_mechanism_domains_20261030.py": "c345d90ebb42b430409ea6b4a937501950aaee2d501dd7c7839b20fea5df3849",
+    "check_domain_mechanism_comparability_20261030.py": "7f41548f4986be9d2d5efc6479b892161915dd5d884b34bc34b1233253e8768d",
+    "validate_international_to_domestic_allocation_20261030.py": "d74a72791b2ec914cdc7daf608df78122cd3d62cf0c94d60b9d0fab908bf8590",
+    "adjust_domain_continuation_probabilities_20261030.py": "23fad3d2cb3df864627f2499ffe94927108494be134e1c5d7d4d02775f0e4ac6",
+    "check_shared_capacity_domain_gravity_20261030.py": "125747da21316dddb7fb5fb4f01aac24bee87fe91e1d3f2d493a35dab06cea09",
+    "report_mechanism_validation_20261030.py": "e8ffc3c8598069ae5595d02fd30615e13163fb14d3626a971443f7a9ac9379c4"
+  }
+}

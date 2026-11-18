@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-30",
+  "status": "exploratory; recorded before new model results",
+  "seed": 20261030,
+  "section4_question": "Does lagged domestic city partner count add to research size, physical distance and prior international inflows when explaining international arrival-city allocation?",
+  "section4_primary": "Conditional gravity: foreign source city x destination country x period margins held fixed. All eligible destination cities with positive lagged observable author mass and confirmed coordinates. Top 100 foreign source cities per country selected only using 1998-2013 international events. Actual source-city distances. Predictors lagged one four-year period.",
+  "periods": [
+    "1998-2001",
+    "2002-2005",
+    "2006-2009",
+    "2010-2013",
+    "2014-2017",
+    "2018-2021",
+    "2022-2025"
+  ],
+  "train": [
+    1,
+    2,
+    3
+  ],
+  "validation": [
+    4
+  ],
+  "test": [
+    5,
+    6
+  ],
+  "section4_models": [
+    "mass+distance",
+    "mass+distance+domestic_degree",
+    "mass+distance+prior_international_inflow",
+    "mass+distance+prior_international_inflow+domestic_degree"
+  ],
+  "section4_sensitivity": [
+    "city fixed effects if estimation feasible",
+    "degree shuffled within country-period lag-mass deciles on held-out predictions"
+  ],
+  "section4_decision": "Require held-out improvement beyond both mass-distance and prior-international-history baselines; assess countries equally as well as events. Positive coefficients alone are insufficient. This is conditional allocation, not effect on total national inflows.",
+  "section5_question": "How much does first domestic continuation after observed international entry redistribute the same cohort, and how much does its conditional allocation change the full domestic distribution?",
+  "section5_primary": "Reproduce existing matched HHI; replace only target destination margins in the same verified microdata subset and same 2012-2023 calendar window by finite-sample conditional expected margins; retain origins and totals. Report contribution fraction before interpreting aggregate consequence.",
+  "section5_endpoints": [
+    "same-cohort entry-to-next HHI",
+    "conditional-reference HHI excess",
+    "full-domestic Gini and HHI changes after replacing target destination margins"
+  ],
+  "limits": [
+    "Individual subset is not fully reconciled to canonical data; raw difference previously 314.",
+    "Publication observation is not residential retention.",
+    "Reference scenarios are descriptive/model-based, not causal interventions.",
+    "Keep degree, history and aggregate concentration failures visible; do not search for new endpoints after seeing results."
+  ],
+  "manuscript_modified": false
+}

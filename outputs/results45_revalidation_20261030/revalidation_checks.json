@@ -1,0 +1,44 @@
+{
+  "international_refit_max_abs_metric_difference": 4.440892098500626e-16,
+  "domestic_refit_max_abs_metric_difference": 0.0,
+  "matched_HHI_max_abs_difference": 0.0,
+  "continuation_contribution_same_event_window": {
+    "target": 319402,
+    "domestic_events": 9339789,
+    "percent": 3.419798884107553
+  },
+  "domestic_before_international": {
+    "departures": 3096675,
+    "preceded_by_domestic": 391931,
+    "percent": 12.65651061218888
+  },
+  "canonical_flow_columns": [
+    "year",
+    "origin_country",
+    "destination_country",
+    "origin_region",
+    "destination_region",
+    "origin_city",
+    "destination_city",
+    "origin_lat",
+    "origin_lon",
+    "destination_lat",
+    "destination_lon",
+    "field",
+    "flow",
+    "origin",
+    "destination"
+  ],
+  "manuscript_unchanged": true,
+  "script_sha256": "15ed393e361dce79ffcb19a5cc9726725aab2d5d4f60ccb6df6eb39c72da6c62",
+  "canonical_recount": [
+    {
+      "geography": "domestic",
+      "events": 18173850
+    },
+    {
+      "geography": "international",
+      "events": 11529374
+    }
+  ]
+}

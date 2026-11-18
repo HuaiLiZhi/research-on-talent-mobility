@@ -1,0 +1,41 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.err
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.zip
+*.bundle
+# Input corpus and local databases
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+/data/input/
+/data/openalex/
+/data/processed/mobility_city_harmonized_20261020/analysis/flow_top100.parquet
+# Regenerated visual checks and editor backups
+**/QA/
+**/*_QA/
+**/.$*
+/tmp/
+/out/
+
+# Canonical figure exports are in outputs/paper_final/figures/
+/outputs/**/artwork/*.png
+/outputs/**/artwork/*.svg

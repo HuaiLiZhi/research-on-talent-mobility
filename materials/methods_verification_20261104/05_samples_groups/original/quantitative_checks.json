@@ -1,0 +1,22 @@
+{
+  "international_domestic": {
+    "countries": 76,
+    "Spearman_rho": 0.5194258373205741
+  },
+  "international_coverage": {
+    "countries": 76,
+    "Spearman_rho": 0.7412166780587833
+  },
+  "domestic_coverage": {
+    "countries": 76,
+    "Spearman_rho": 0.7145591250854408
+  },
+  "median_partner_growth_pct": 3.078015511558193,
+  "median_city_growth_pct": 2.4917797920503295,
+  "tier_sizes": {
+    "T1": 19,
+    "T2": 19,
+    "T3": 19,
+    "T4": 19
+  }
+}

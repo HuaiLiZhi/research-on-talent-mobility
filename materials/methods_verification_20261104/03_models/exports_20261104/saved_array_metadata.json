@@ -1,0 +1,78 @@
+{
+  "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\logical_distance_validation_20261030\\domestic_design.npz": {
+    "x.npy": {
+      "shape": [
+        3069435,
+        9
+      ],
+      "dtype": "float32",
+      "fortran": false
+    },
+    "y.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "float32",
+      "fortran": false
+    },
+    "country.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "int16",
+      "fortran": false
+    },
+    "p.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "int8",
+      "fortran": false
+    },
+    "group.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "int32",
+      "fortran": false
+    },
+    "country_codes.npy": {
+      "shape": [
+        76
+      ],
+      "dtype": "<U2",
+      "fortran": false
+    }
+  },
+  "D:\\社会物理学论文\\code\\research-on-talent-mobility\\outputs\\international_signal_validation_20261030\\international_features.npz": {
+    "x.npy": {
+      "shape": [
+        3069435,
+        9
+      ],
+      "dtype": "float32",
+      "fortran": false
+    },
+    "origin_index.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "int32",
+      "fortran": false
+    },
+    "destination_index.npy": {
+      "shape": [
+        3069435
+      ],
+      "dtype": "int32",
+      "fortran": false
+    },
+    "city_codes.npy": {
+      "shape": [
+        13664
+      ],
+      "dtype": "<U21",
+      "fortran": false
+    }
+  }
+}

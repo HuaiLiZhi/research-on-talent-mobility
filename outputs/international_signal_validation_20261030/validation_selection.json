@@ -1,0 +1,36 @@
+{
+  "criterion": "2014-2017 country-median deviance reduction; no test-based selection",
+  "ranking": [
+    {
+      "new": "T_foreign_two_step",
+      "median_deviance_reduction_pct": 2.8278970453172736,
+      "median_CPC_gain": 0.0035223628821417496
+    },
+    {
+      "new": "A_all_international_signals",
+      "median_deviance_reduction_pct": 2.8248659570424604,
+      "median_CPC_gain": 0.0061942615868267326
+    },
+    {
+      "new": "S_shared_foreign_cities",
+      "median_deviance_reduction_pct": 0.5984292139578629,
+      "median_CPC_gain": 0.0008936806223360239
+    },
+    {
+      "new": "G_international_gateway",
+      "median_deviance_reduction_pct": 0.5013751230732555,
+      "median_CPC_gain": 0.0006714597400870326
+    },
+    {
+      "new": "C_international_centrality",
+      "median_deviance_reduction_pct": 0.4848758072182713,
+      "median_CPC_gain": 0.0023167998035338866
+    },
+    {
+      "new": "R_foreign_city_reach",
+      "median_deviance_reduction_pct": 0.16568320957712768,
+      "median_CPC_gain": 0.0003395795290626613
+    }
+  ],
+  "selected": "T_foreign_two_step"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "target_period": 5,
+    "event_stubs": 1904270,
+    "country_pair_blocks": 14724,
+    "all_city_inout_margins_exact": true,
+    "all_city_partner_country_margins_exact_by_construction": true
+  },
+  {
+    "target_period": 6,
+    "event_stubs": 2267411,
+    "country_pair_blocks": 16656,
+    "all_city_inout_margins_exact": true,
+    "all_city_partner_country_margins_exact_by_construction": true
+  }
+]

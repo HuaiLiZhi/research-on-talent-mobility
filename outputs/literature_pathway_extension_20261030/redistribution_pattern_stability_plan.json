@@ -1,0 +1,11 @@
+{
+  "purpose": "Validate whether the four descriptive redistribution-result quadrants persist across entry cohorts",
+  "classification": "sign of cohort nextHHI-entryHHI and sign of nextHHI-exact matched reference expectation",
+  "cohorts": [
+    "2012-2014",
+    "2015-2018"
+  ],
+  "common_sample": "at least100 paired domestic continuations in each cohort; threshold500 as sensitivity",
+  "no_optimization": "do not alter axes, cutoffs or cohort windows after inspecting stability",
+  "caution": "types use outcome quantities, so their HHI differences cannot validate them; cohort calendar follow-up overlaps"
+}

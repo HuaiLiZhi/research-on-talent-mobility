@@ -1,0 +1,25 @@
+{
+  "script_sha256": "23fad3d2cb3df864627f2499ffe94927108494be134e1c5d7d4d02775f0e4ac6",
+  "status": "Additional exploratory covariate-adjustment after raw paired-domain comparisons; not preregistered.",
+  "observations": 1687769,
+  "countries": 45,
+  "aggregate_rows": 149325,
+  "parameters": 159,
+  "gradient": 7.137114547291724e-08,
+  "iterations": 357,
+  "source_categories": 104,
+  "Hessian_condition_number": 116548.80099016646,
+  "outcome": "First observed intercity continuation within five years is domestic; unresolved next locations excluded. No recorded change and next international move are non-domestic categories.",
+  "sample": "First observed confirmed international entry per author/destination country in2012-2018, sufficient later publication observation; same45 countries.",
+  "controls": [
+    "destination-country fixed effects",
+    "entry-year fixed effects",
+    "observed career-span bands",
+    "previous source-country groups"
+  ],
+  "fitting": "Equal total weight to destination countries; grouped binomial maximum likelihood without regularization.",
+  "inference": "Country-cluster sandwich covariance with finite-sample correction; t44 reference; delta-method standardization, six paired probability contrasts Holm-adjusted.",
+  "standardization": "For each domain retain pooled observed country/source/year/career distribution, weight countries equally. This is adjusted association, not causal intervention.",
+  "domestic_records_with_known_entry_next_domain": 310394,
+  "entry_next_domain_disagreement": 99139
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/materials/methods_verification_20261104/05_samples_groups/exports_20261104/fixed203_countries.csv",
+    "manuscript_copy": "figures/source_data/fixed203_countries.csv",
+    "sha256": "86d52054e19a434e2c5056504d1546a5ba941a50af7f5a1cea3fc7fc50584575"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/materials/methods_verification_20261104/05_samples_groups/original/sample76.csv",
+    "manuscript_copy": "figures/source_data/domestic76_countries.csv",
+    "sha256": "44fd21424abc91ec5e8fd1e67369ae0bc518fdcf23a3adf6c511fa33ae7d082e"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/materials/methods_verification_20261104/05_samples_groups/original/common45.csv",
+    "manuscript_copy": "figures/source_data/domain45_countries.csv",
+    "sha256": "3e2e7bc838e2e4531fea9b5f1e2f417d60320020d35cc48ee1fa543999fa09d6"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/materials/methods_verification_20261104/05_samples_groups/exports_20261104/T1_T4_membership.csv",
+    "manuscript_copy": "figures/source_data/T1_T4_membership.csv",
+    "sha256": "5dccef6060b94f502924c15d9e7636d8871c394f611400df697b02b371b9f17b"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/materials/methods_verification_20261104/05_samples_groups/original/Fig5_field_domain_mapping.csv",
+    "manuscript_copy": "figures/source_data/field_domain_mapping.csv",
+    "sha256": "d58f702a39b9667aa97de91724fed51d0591c1d10a95e1ee797f1d96d39bc851"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/international_signal_validation_20261030/comparison_summary.csv",
+    "manuscript_copy": "figures/source_data/gravity_model_comparisons.csv",
+    "sha256": "296bfa59103d06e7ca16967e372e1369db3ded1c36fc149fcac1ee6c5ae0faf1"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/international_signal_validation_20261030/absolute_metrics.csv",
+    "manuscript_copy": "figures/source_data/gravity_model_absolute_metrics.csv",
+    "sha256": "b77cb3bbb4882fb4a053b2bfb68195db1bc4d812c2543ae74637b8eacca4e6ca"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/fig6_integrated_axes_20261030/artwork/source_data/Fig6_evaluation_errors.csv",
+    "manuscript_copy": "figures/source_data/gravity_annual_reconstruction_errors.csv",
+    "sha256": "3f325887554e8e424ec9600cc05c78fd73bccd6c44e56a805b7e836b297a8235"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/results_network_revision_20261030/analysis/network_randomization_summary.json",
+    "manuscript_copy": "figures/source_data/two_step_randomization_summary.json",
+    "sha256": "e8a466b938999e496d11c61fbc3d06e9d403726abd6b58d0e69a69586c5f5077"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/results_network_revision_20261030/analysis/distribution_simulation_summary.json",
+    "manuscript_copy": "figures/source_data/two_step_distribution_simulation_summary.json",
+    "sha256": "a46ebe5565a51ffa09e59e79b339767f4463f1e9b0c49927d1a2fd116e186b32"
+  },
+  {
+    "source_path": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/cross_scale_mechanism_validation_20261030/rarefaction_200_independent_seed/event_rarefaction_summary.json",
+    "manuscript_copy": "figures/source_data/equal_event_sampling_summary.json",
+    "sha256": "416228d1825ac85b77e7237851ce47450c81bed7831dcea6154fe2f65c3ad430"
+  }
+]

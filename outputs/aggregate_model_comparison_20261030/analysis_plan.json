@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-30",
+  "status": "Exploratory, specified before computing these alternative models.",
+  "units": "Country-city-four-year-period aggregates; no individual data or individual paths read.",
+  "periods": [
+    "1998-2001",
+    "2002-2005",
+    "2006-2009",
+    "2010-2013",
+    "2014-2017",
+    "2018-2021",
+    "2022-2025"
+  ],
+  "train": [
+    1,
+    2,
+    3
+  ],
+  "validation": [
+    4
+  ],
+  "test": [
+    5,
+    6
+  ],
+  "seed": 20261030,
+  "scope": "Same manuscript 76 countries. Candidate cities have positive verified author mass and coordinates in the preceding period. Outcomes include recorded zero inflow cities on that candidate list.",
+  "target": "International and domestic CITY INFLOWS; directional mechanism diagnostics, not manuscript combined-strength concentration.",
+  "baseline": "Conditional city allocation: lag research mass and geographic accessibility. Domestic access is sum other-city mass / true distance. International access uses lag-mass-weighted foreign-country centroids (approximation).",
+  "models": [
+    "G0_mass_access",
+    "H1_own_history_degree",
+    "C2_local_cross_layer",
+    "N3_network_cross_layer",
+    "Radiation_domestic_only"
+  ],
+  "network": "D/I are directed aggregate OD matrices; P_s row-normalizes layer s. International signal P_I.T @ domestic_inflow; domestic signal P_D.T @ international_inflow. Counts are exposure indices, not same-person continuation.",
+  "radiation": "Finite, row-normalized radiation probabilities using research mass as opportunities; lag domestic outflow weights supply origin mixture. Strictly closer opportunities; equal-distance ties share the same opportunity count.",
+  "primary": "Country-equal training and country-paired held-out log loss. CPC and same-candidate HHI/Gini errors secondary. No model selected on test data.",
+  "limits": [
+    "Conditional on observed country-period total, not future total prediction.",
+    "Aggregated network lag does not identify causal spillover.",
+    "Candidate support excludes cities without prior mapped stock.",
+    "International accessibility baseline uses approximate foreign centroids; exact-distance OD check planned for any claimed international network increment.",
+    "All model families and negative results will be reported."
+  ],
+  "manuscript_modified": false
+}

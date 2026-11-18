@@ -1,0 +1,62 @@
+{
+  "years": [
+    2002,
+    2025
+  ],
+  "country_years": 1824,
+  "countries": 76,
+  "evaluation_modeled_events": 6984347.0,
+  "evaluation_all_events": 8808637.0,
+  "endpoints": [
+    {
+      "year": 2002,
+      "countries": 76,
+      "phase": "Fitting",
+      "observed_Gini": 0.8220384720420564,
+      "observed_Gini_q25": 0.7160714285714285,
+      "observed_Gini_q75": 0.8732004276211593,
+      "reference_Gini": 0.777204621337547,
+      "reference_Gini_q25": 0.6758891434492693,
+      "reference_Gini_q75": 0.8548305298934242,
+      "international_Gini": 0.7843501574429746,
+      "international_Gini_q25": 0.6825343585255603,
+      "international_Gini_q75": 0.8561551108148303,
+      "observed_HHI": 0.18567789119236072,
+      "observed_HHI_q25": 0.1237033188247106,
+      "observed_HHI_q75": 0.2567447916666667,
+      "reference_HHI": 0.16763099067522785,
+      "reference_HHI_q25": 0.1251791451055859,
+      "reference_HHI_q75": 0.21034256886255814,
+      "international_HHI": 0.16991944872841563,
+      "international_HHI_q25": 0.1221722821802731,
+      "international_HHI_q75": 0.21589916325865446
+    },
+    {
+      "year": 2025,
+      "countries": 76,
+      "phase": "Evaluation",
+      "observed_Gini": 0.7771945310625062,
+      "observed_Gini_q25": 0.6940870148051654,
+      "observed_Gini_q75": 0.8533311468276294,
+      "reference_Gini": 0.7861733376019153,
+      "reference_Gini_q25": 0.6803894730595603,
+      "reference_Gini_q75": 0.8587901305023254,
+      "international_Gini": 0.7851294337919971,
+      "international_Gini_q25": 0.6860270268825839,
+      "international_Gini_q75": 0.8561925890039103,
+      "observed_HHI": 0.1389349995065371,
+      "observed_HHI_q25": 0.09812290050115131,
+      "observed_HHI_q75": 0.199080536339554,
+      "reference_HHI": 0.14755082797607333,
+      "reference_HHI_q25": 0.11069922483399457,
+      "reference_HHI_q75": 0.20717353673646843,
+      "international_HHI": 0.1444182290580835,
+      "international_HHI_q25": 0.10493583239476202,
+      "international_HHI_q75": 0.2067695499410016
+    }
+  ],
+  "reference_Gini_median_abs_error_evaluation": 0.009909835547786683,
+  "international_Gini_median_abs_error_evaluation": 0.008496285776874557,
+  "reference_HHI_median_abs_error_evaluation": 0.007629524994123504,
+  "international_HHI_median_abs_error_evaluation": 0.006447835235549204
+}

@@ -1,0 +1,23 @@
+{
+  "raw_changes": 30335255,
+  "unreconciled_raw_difference": 314,
+  "micro_event_accounting": [
+    {
+      "category": "international",
+      "records": 11371366
+    },
+    {
+      "category": "unresolved",
+      "records": 1010886
+    },
+    {
+      "category": "domestic",
+      "records": 17871776
+    }
+  ],
+  "adequately_observed_entry_records": 1810380,
+  "person_ids_exported": false,
+  "five_year_routes_reproduced": true,
+  "reverse_chain": "Previous observed intercity event domestic in departure country, within five years; conditional on recorded international departure, not a domestic-to-international transition hazard.",
+  "entry_field": "Field recorded at international entry. Matched HHI uses field recorded at next domestic move; these are distinct assignments."
+}

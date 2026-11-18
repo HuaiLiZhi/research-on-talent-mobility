@@ -1,0 +1,19 @@
+{
+  "purpose": "Descriptive feasibility check for user requested minimal figure redesign; no outcomes used to choose boundaries.",
+  "window": "1998-2025",
+  "binary_threshold": 0,
+  "negative_median": -1.306275622469295,
+  "positive_median": 3.309193363508075,
+  "binary_sizes": {
+    "declining": 29,
+    "gaining": 47
+  },
+  "display_group_sizes": {
+    "T1": 15,
+    "T2": 14,
+    "T3": 24,
+    "T4": 23
+  },
+  "labels_changed_from_current": 17,
+  "manuscript_and_figures_modified": false
+}

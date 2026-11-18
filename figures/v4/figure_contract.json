@@ -1,0 +1,88 @@
+{
+  "figure": "Fig6",
+  "version": "v4",
+  "question": "Does the contrast between national deconcentration and domestic urban concentration occur in each of the four disciplinary domains?",
+  "claim": "All four pooled domains have declining national Gini trends, while most continuously observed countries have increasing domestic urban Gini trends; their annual trajectories and between-country variation differ.",
+  "archetype": "quantitative grid",
+  "backend": "python",
+  "panels": {
+    "a": "Matched-country domestic Gini trend swarm, with international-domain trend diamonds and domestic medians.",
+    "b": "Annual international Gini change in four domains.",
+    "c": "Median domestic Gini changes with between-country IQR.",
+    "d-g": "Country-level city-count growth versus domestic Gini trend for four domains, with OLS fits and country-bootstrap confidence bands."
+  },
+  "data_policy": "Sum cleaned event flows across fields within each official domain before recomputing indices. Domestic inflow and outflow strengths are combined before calculation. Use the same 45-country continuous cohort in all four domains and all 28 years. National indices include every country with positive corresponding strength.",
+  "preservation": "All existing v1/v2/v3 outputs remain unchanged.",
+  "export": {
+    "width_mm": 180,
+    "height_mm": 140,
+    "plot_area_side_pt": 105,
+    "layout": "Three panels above four square association panels; a and d left axes align.",
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ],
+    "font": "Helvetica",
+    "profiles": [
+      "manuscript",
+      "journal"
+    ],
+    "glyph_floor_pt": 5,
+    "editable_vector_text": true,
+    "source_data": true,
+    "alignment_tolerance_pt": 1.5,
+    "collision_failures_allowed": 0
+  },
+  "review_risks": [
+    "A national index and the distribution of individual domestic-country slopes are distinct estimands; identify the diamond and dots explicitly.",
+    "Country dots are the same matched countries across domains, not independent replicated observations for a significance test.",
+    "Gini reflects the distribution over positive-flow cities; a rising Gini does not imply a rising HHI or a gain by a fixed group of leading cities.",
+    "The domestic annual curve is a median of country-specific baseline changes, not the change in a median index and not the median of fitted slopes.",
+    "The pointwise IQR is between-country spread, not a confidence interval."
+  ],
+  "background_grid": {
+    "style": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid"
+    },
+    "intermediate": {
+      "color": "#E1E4E8",
+      "linewidth_pt": 0.35,
+      "alpha": 0.85,
+      "linestyle": "solid",
+      "per_major_interval": 1
+    },
+    "placement": "Continue both the major-tick intervals and their midpoint guides beyond the outermost labelled ticks, stopping at plot limits. Use display-space intervals on logarithmic axes.",
+    "text_clearance_pt": 2.4,
+    "primary_axes_only": true,
+    "preserve_data_and_layout": true,
+    "legend_footprints_clear": true,
+    "complete_plot_boundaries": false,
+    "extend_intermediate_spacing_to_edges": true,
+    "preserve_ticks_limits_data_and_layout": true,
+    "boundary_text_policy": "No added perimeter. Keep all interior grid guides clear of text and legend footprints.",
+    "extend_major_spacing_to_edges": true,
+    "boundary_rule": "No added perimeter; continue regular interior major and midpoint grids up to plot limits."
+  },
+  "lower_point_style": {
+    "size_pt2": 18,
+    "alpha": 0.9,
+    "original_size_pt2": 9,
+    "original_alpha": 0.65,
+    "colours": "Existing domain palette"
+  },
+  "lower_annotation_placement": "Spearman coefficients between each domain title and the plot top, outside the grid.",
+  "swarm_point_style": {
+    "size_pt2": 7,
+    "alpha": 0.9
+  },
+  "annual_linewidth_pt": 2,
+  "lower_fit_line_common_xlim": [
+    -1,
+    18.5
+  ],
+  "lower_fit_display_policy": "Evaluate the original OLS coefficients across the full common x-axis range. Retain confidence bands only within each domain observed x range."
+}

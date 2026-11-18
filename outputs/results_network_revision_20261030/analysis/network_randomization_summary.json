@@ -1,0 +1,15 @@
+{
+  "countries": 76,
+  "randomizations": 100,
+  "actual_gain_median_pct": 3.4807005443672656,
+  "randomized_gain_median_pct": 4.43201365141025,
+  "randomized_median_q025_pct": 3.937865275685097,
+  "randomized_median_q975_pct": 4.731304713942448,
+  "countries_actual_above_null_median": 19,
+  "median_paired_actual_minus_null_pct": -0.5597029153771804,
+  "actual_minus_null_country_bootstrap_CI": [
+    -0.9823952152898487,
+    -0.30118080647017176
+  ],
+  "note": "Conditional fixed-coefficient feature disruption, not refitted null models; not a causal or independent confirmation test."
+}

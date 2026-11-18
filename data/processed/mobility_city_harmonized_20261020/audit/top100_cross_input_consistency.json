@@ -1,0 +1,9 @@
+{
+  "annual_career_top100_od_and_field_hashes_match": true,
+  "annual_baseline_top100_spatial_od_year_totals_match": true,
+  "annual_baseline_field_labels_differ": true,
+  "field_od_year_cells_with_different_counts": 1923177,
+  "total_absolute_field_od_difference": 2025328,
+  "explanation": "Baseline and current tiered inputs contain different disciplinary allocations. Cleaning preserves each original allocation; after summing disciplines, their spatial OD/year event totals agree exactly.",
+  "recommended_primary_input": "count_mobility_flow_annual_clean.parquet"
+}

@@ -1,0 +1,6 @@
+{
+  "issue": "Matching strata include a required_last_year threshold. Some other-domestic records can appear in more than one threshold-defined reference risk set.",
+  "correction": "The exactHHI computation defines independent finite draws within each conditional risk set. It is not a single globally consistent label permutation across mutually disjoint strata, and it is not a randomized-treatment null.",
+  "numerical_expectation": "Unchanged and verified relative to the explicitly independent-stratum resampling design.",
+  "reporting": "Use conditional matched resampling reference, avoid claims of a global exact permutation test or causal effect."
+}

@@ -1,0 +1,22 @@
+﻿topic,status,evidence,note
+数据版本,吻合,10月20日manifest与10月23日base_recalculation.json,均指向city_harmonized主Parquet的历史SHA-256；大文件本次未重新哈希。
+事件数量,吻合,audit/event_accounting.json；base_recalculation.json,"29,703,224=11,529,374+18,173,850；原始总数分解一致。"
+主要机构规则,代码一致，运行版本待绑定,OpenAlex/s27_build_tiered_flow.py:72–76,按count(DISTINCT work_id)降序、institution_id排序；本机没有上游运行时散列。
+主要学科并列,待明确,OpenAlex/s27_build_tiered_flow.py:78–81,使用arg_max，未见显式并列排序；不能补写未执行的tie-break规则。
+城市归并程序,已核验版本,清洗manifest的scripts字段,7个程序与历史哈希全部匹配；映射表也匹配。
+LLM清洗过程,缺少实际调用证据,现有地理映射表、审核清单；未检出独立LLM调用日志,仅可核验规则和映射证据；模型版本、prompt、调用记录及独立审核还需实际材料。
+固定城市,吻合,verify_combined_cities.py；combined_city_checks.json,每个国家每年合计流量为正；固定名单28年；本次恢复名单逐国数量匹配历史N_fixed。
+固定城市分类,吻合,combined_fixed_city_trends.csv；分类对照导出,20集中、46去集中、10混合；35/63反向。对照表为本次连接保存结果。
+新增城市,吻合,combined_post1998_city_cohort.csv,初始年后首次出现且当前年活跃；占比使用合计城市强度。
+等事件200次,吻合,rarefaction_200_independent_seed/event_rarefaction_plan.json,实际plan为200、seed=20261048；默认脚本50须传参数200。
+200次逐次原始结果,未保存,validate_event_rarefaction_20261030.py的输出部分,只有均值、分位数和趋势，未找到replicate层面的抽样数组；本次没有重跑。
+等事件19国,吻合,200次趋势CSV及summary,rarefied_events>=1000，19国，集中分类11降至4。
+模型样本与时段,吻合,logical_distance的设计数组；international_signal的plan和validation,"3,069,435候选单元；训练2002–2013、验证2014–2017、后期2018–2025。"
+模型拟合版本,已核验版本,两个核心程序与runtime/validation的script_sha256,validate_logical_distance和validate_international_signals的历史哈希均匹配。
+模型版本选择,需区分两步与综合,validation_selection.json；full-model analysis_plan.json,验证集选中两步；年度综合重建明确指定A_all_international_signals；脚本默认两步，综合需--full。
+模型年度重建,吻合,fig6_full_model_revision/analysis/annual_country_indices.csv,"2002–2025共1,824行；2018–2025评价608行。未插值、未重新拟合。"
+MAE/RMSE,吻合，但注意旧summary指标,Fig6_evaluation_errors.csv及原绘图代码74–111行,原annual_summary的median_abs_error是MedAE，不是MAE；Gini误差单位百分点。
+203/76/45样本,已找到并核对,样本与分组目录的原文件和导出,203名单需筛included=1；原表224候选；76与45为独立既有样本文件。
+T1–T4,当前文件吻合，旧汇总过期,trajectory_membership.csv；sign_and_nested_display_proposal.json,当前15/14/24/23；10月29日旧quantitative_checks仍19/19/19/19。
+26学科映射,吻合,Fig5_field_domain_mapping.csv,物理10、生命5、健康5、社会6，总计26。
+学科固定城市敏感性,已有历史结果，正文需核对,mechanism_validation_20261030/canonical_domain_fixed_city_annual.csv等,10月30日已经计算并保存；Results笼统写remain to be conducted应按实际范围调整。

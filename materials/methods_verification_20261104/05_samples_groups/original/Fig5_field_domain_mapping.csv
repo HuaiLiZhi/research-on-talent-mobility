@@ -1,0 +1,27 @@
+﻿field,field_id,domain,domain_id,domain_zh
+Dentistry,https://openalex.org/fields/35,Health Sciences,https://openalex.org/domains/4,健康科学
+Health Professions,https://openalex.org/fields/36,Health Sciences,https://openalex.org/domains/4,健康科学
+Medicine,https://openalex.org/fields/27,Health Sciences,https://openalex.org/domains/4,健康科学
+Nursing,https://openalex.org/fields/29,Health Sciences,https://openalex.org/domains/4,健康科学
+Veterinary,https://openalex.org/fields/34,Health Sciences,https://openalex.org/domains/4,健康科学
+Agricultural and Biological Sciences,https://openalex.org/fields/11,Life Sciences,https://openalex.org/domains/1,生命科学
+"Biochemistry, Genetics and Molecular Biology",https://openalex.org/fields/13,Life Sciences,https://openalex.org/domains/1,生命科学
+Immunology and Microbiology,https://openalex.org/fields/24,Life Sciences,https://openalex.org/domains/1,生命科学
+Neuroscience,https://openalex.org/fields/28,Life Sciences,https://openalex.org/domains/1,生命科学
+"Pharmacology, Toxicology and Pharmaceutics",https://openalex.org/fields/30,Life Sciences,https://openalex.org/domains/1,生命科学
+Chemical Engineering,https://openalex.org/fields/15,Physical Sciences,https://openalex.org/domains/3,理工科学
+Chemistry,https://openalex.org/fields/16,Physical Sciences,https://openalex.org/domains/3,理工科学
+Computer Science,https://openalex.org/fields/17,Physical Sciences,https://openalex.org/domains/3,理工科学
+Earth and Planetary Sciences,https://openalex.org/fields/19,Physical Sciences,https://openalex.org/domains/3,理工科学
+Energy,https://openalex.org/fields/21,Physical Sciences,https://openalex.org/domains/3,理工科学
+Engineering,https://openalex.org/fields/22,Physical Sciences,https://openalex.org/domains/3,理工科学
+Environmental Science,https://openalex.org/fields/23,Physical Sciences,https://openalex.org/domains/3,理工科学
+Materials Science,https://openalex.org/fields/25,Physical Sciences,https://openalex.org/domains/3,理工科学
+Mathematics,https://openalex.org/fields/26,Physical Sciences,https://openalex.org/domains/3,理工科学
+Physics and Astronomy,https://openalex.org/fields/31,Physical Sciences,https://openalex.org/domains/3,理工科学
+Arts and Humanities,https://openalex.org/fields/12,Social Sciences,https://openalex.org/domains/2,人文社会科学
+"Business, Management and Accounting",https://openalex.org/fields/14,Social Sciences,https://openalex.org/domains/2,人文社会科学
+Decision Sciences,https://openalex.org/fields/18,Social Sciences,https://openalex.org/domains/2,人文社会科学
+"Economics, Econometrics and Finance",https://openalex.org/fields/20,Social Sciences,https://openalex.org/domains/2,人文社会科学
+Psychology,https://openalex.org/fields/32,Social Sciences,https://openalex.org/domains/2,人文社会科学
+Social Sciences,https://openalex.org/fields/33,Social Sciences,https://openalex.org/domains/2,人文社会科学

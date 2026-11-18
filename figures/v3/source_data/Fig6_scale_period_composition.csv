@@ -1,0 +1,157 @@
+﻿field,scale,category,periods,denominator_periods,share_percent
+Agricultural and Biological Sciences,country,Relative concentration,1,4,25.0
+Agricultural and Biological Sciences,country,Deconcentration,3,4,75.0
+Agricultural and Biological Sciences,country,Mixed changes,0,4,0.0
+Agricultural and Biological Sciences,domestic_city,Relative concentration,4,4,100.0
+Agricultural and Biological Sciences,domestic_city,Deconcentration,0,4,0.0
+Agricultural and Biological Sciences,domestic_city,Mixed changes,0,4,0.0
+Arts and Humanities,country,Relative concentration,0,4,0.0
+Arts and Humanities,country,Deconcentration,2,4,50.0
+Arts and Humanities,country,Mixed changes,2,4,50.0
+Arts and Humanities,domestic_city,Relative concentration,3,4,75.0
+Arts and Humanities,domestic_city,Deconcentration,0,4,0.0
+Arts and Humanities,domestic_city,Mixed changes,1,4,25.0
+"Biochemistry, Genetics and Molecular Biology",country,Relative concentration,1,4,25.0
+"Biochemistry, Genetics and Molecular Biology",country,Deconcentration,2,4,50.0
+"Biochemistry, Genetics and Molecular Biology",country,Mixed changes,1,4,25.0
+"Biochemistry, Genetics and Molecular Biology",domestic_city,Relative concentration,3,4,75.0
+"Biochemistry, Genetics and Molecular Biology",domestic_city,Deconcentration,0,4,0.0
+"Biochemistry, Genetics and Molecular Biology",domestic_city,Mixed changes,1,4,25.0
+"Business, Management and Accounting",country,Relative concentration,2,4,50.0
+"Business, Management and Accounting",country,Deconcentration,2,4,50.0
+"Business, Management and Accounting",country,Mixed changes,0,4,0.0
+"Business, Management and Accounting",domestic_city,Relative concentration,3,4,75.0
+"Business, Management and Accounting",domestic_city,Deconcentration,0,4,0.0
+"Business, Management and Accounting",domestic_city,Mixed changes,1,4,25.0
+Chemical Engineering,country,Relative concentration,3,4,75.0
+Chemical Engineering,country,Deconcentration,0,4,0.0
+Chemical Engineering,country,Mixed changes,1,4,25.0
+Chemical Engineering,domestic_city,Relative concentration,4,4,100.0
+Chemical Engineering,domestic_city,Deconcentration,0,4,0.0
+Chemical Engineering,domestic_city,Mixed changes,0,4,0.0
+Chemistry,country,Relative concentration,1,4,25.0
+Chemistry,country,Deconcentration,3,4,75.0
+Chemistry,country,Mixed changes,0,4,0.0
+Chemistry,domestic_city,Relative concentration,2,4,50.0
+Chemistry,domestic_city,Deconcentration,2,4,50.0
+Chemistry,domestic_city,Mixed changes,0,4,0.0
+Computer Science,country,Relative concentration,2,4,50.0
+Computer Science,country,Deconcentration,2,4,50.0
+Computer Science,country,Mixed changes,0,4,0.0
+Computer Science,domestic_city,Relative concentration,4,4,100.0
+Computer Science,domestic_city,Deconcentration,0,4,0.0
+Computer Science,domestic_city,Mixed changes,0,4,0.0
+Decision Sciences,country,Relative concentration,3,4,75.0
+Decision Sciences,country,Deconcentration,0,4,0.0
+Decision Sciences,country,Mixed changes,1,4,25.0
+Decision Sciences,domestic_city,Relative concentration,4,4,100.0
+Decision Sciences,domestic_city,Deconcentration,0,4,0.0
+Decision Sciences,domestic_city,Mixed changes,0,4,0.0
+Dentistry,country,Relative concentration,3,4,75.0
+Dentistry,country,Deconcentration,1,4,25.0
+Dentistry,country,Mixed changes,0,4,0.0
+Dentistry,domestic_city,Relative concentration,3,4,75.0
+Dentistry,domestic_city,Deconcentration,1,4,25.0
+Dentistry,domestic_city,Mixed changes,0,4,0.0
+Earth and Planetary Sciences,country,Relative concentration,0,4,0.0
+Earth and Planetary Sciences,country,Deconcentration,2,4,50.0
+Earth and Planetary Sciences,country,Mixed changes,2,4,50.0
+Earth and Planetary Sciences,domestic_city,Relative concentration,3,4,75.0
+Earth and Planetary Sciences,domestic_city,Deconcentration,0,4,0.0
+Earth and Planetary Sciences,domestic_city,Mixed changes,1,4,25.0
+"Economics, Econometrics and Finance",country,Relative concentration,1,4,25.0
+"Economics, Econometrics and Finance",country,Deconcentration,3,4,75.0
+"Economics, Econometrics and Finance",country,Mixed changes,0,4,0.0
+"Economics, Econometrics and Finance",domestic_city,Relative concentration,4,4,100.0
+"Economics, Econometrics and Finance",domestic_city,Deconcentration,0,4,0.0
+"Economics, Econometrics and Finance",domestic_city,Mixed changes,0,4,0.0
+Energy,country,Relative concentration,3,4,75.0
+Energy,country,Deconcentration,1,4,25.0
+Energy,country,Mixed changes,0,4,0.0
+Energy,domestic_city,Relative concentration,4,4,100.0
+Energy,domestic_city,Deconcentration,0,4,0.0
+Energy,domestic_city,Mixed changes,0,4,0.0
+Engineering,country,Relative concentration,2,4,50.0
+Engineering,country,Deconcentration,2,4,50.0
+Engineering,country,Mixed changes,0,4,0.0
+Engineering,domestic_city,Relative concentration,4,4,100.0
+Engineering,domestic_city,Deconcentration,0,4,0.0
+Engineering,domestic_city,Mixed changes,0,4,0.0
+Environmental Science,country,Relative concentration,0,4,0.0
+Environmental Science,country,Deconcentration,3,4,75.0
+Environmental Science,country,Mixed changes,1,4,25.0
+Environmental Science,domestic_city,Relative concentration,4,4,100.0
+Environmental Science,domestic_city,Deconcentration,0,4,0.0
+Environmental Science,domestic_city,Mixed changes,0,4,0.0
+Health Professions,country,Relative concentration,1,4,25.0
+Health Professions,country,Deconcentration,1,4,25.0
+Health Professions,country,Mixed changes,2,4,50.0
+Health Professions,domestic_city,Relative concentration,4,4,100.0
+Health Professions,domestic_city,Deconcentration,0,4,0.0
+Health Professions,domestic_city,Mixed changes,0,4,0.0
+Immunology and Microbiology,country,Relative concentration,1,4,25.0
+Immunology and Microbiology,country,Deconcentration,1,4,25.0
+Immunology and Microbiology,country,Mixed changes,2,4,50.0
+Immunology and Microbiology,domestic_city,Relative concentration,4,4,100.0
+Immunology and Microbiology,domestic_city,Deconcentration,0,4,0.0
+Immunology and Microbiology,domestic_city,Mixed changes,0,4,0.0
+Materials Science,country,Relative concentration,2,4,50.0
+Materials Science,country,Deconcentration,2,4,50.0
+Materials Science,country,Mixed changes,0,4,0.0
+Materials Science,domestic_city,Relative concentration,4,4,100.0
+Materials Science,domestic_city,Deconcentration,0,4,0.0
+Materials Science,domestic_city,Mixed changes,0,4,0.0
+Mathematics,country,Relative concentration,2,4,50.0
+Mathematics,country,Deconcentration,1,4,25.0
+Mathematics,country,Mixed changes,1,4,25.0
+Mathematics,domestic_city,Relative concentration,3,4,75.0
+Mathematics,domestic_city,Deconcentration,0,4,0.0
+Mathematics,domestic_city,Mixed changes,1,4,25.0
+Medicine,country,Relative concentration,0,4,0.0
+Medicine,country,Deconcentration,4,4,100.0
+Medicine,country,Mixed changes,0,4,0.0
+Medicine,domestic_city,Relative concentration,4,4,100.0
+Medicine,domestic_city,Deconcentration,0,4,0.0
+Medicine,domestic_city,Mixed changes,0,4,0.0
+Neuroscience,country,Relative concentration,2,4,50.0
+Neuroscience,country,Deconcentration,2,4,50.0
+Neuroscience,country,Mixed changes,0,4,0.0
+Neuroscience,domestic_city,Relative concentration,4,4,100.0
+Neuroscience,domestic_city,Deconcentration,0,4,0.0
+Neuroscience,domestic_city,Mixed changes,0,4,0.0
+Nursing,country,Relative concentration,2,4,50.0
+Nursing,country,Deconcentration,1,4,25.0
+Nursing,country,Mixed changes,1,4,25.0
+Nursing,domestic_city,Relative concentration,4,4,100.0
+Nursing,domestic_city,Deconcentration,0,4,0.0
+Nursing,domestic_city,Mixed changes,0,4,0.0
+"Pharmacology, Toxicology and Pharmaceutics",country,Relative concentration,3,4,75.0
+"Pharmacology, Toxicology and Pharmaceutics",country,Deconcentration,1,4,25.0
+"Pharmacology, Toxicology and Pharmaceutics",country,Mixed changes,0,4,0.0
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,Relative concentration,3,4,75.0
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,Deconcentration,1,4,25.0
+"Pharmacology, Toxicology and Pharmaceutics",domestic_city,Mixed changes,0,4,0.0
+Physics and Astronomy,country,Relative concentration,2,4,50.0
+Physics and Astronomy,country,Deconcentration,1,4,25.0
+Physics and Astronomy,country,Mixed changes,1,4,25.0
+Physics and Astronomy,domestic_city,Relative concentration,3,4,75.0
+Physics and Astronomy,domestic_city,Deconcentration,1,4,25.0
+Physics and Astronomy,domestic_city,Mixed changes,0,4,0.0
+Psychology,country,Relative concentration,1,4,25.0
+Psychology,country,Deconcentration,3,4,75.0
+Psychology,country,Mixed changes,0,4,0.0
+Psychology,domestic_city,Relative concentration,4,4,100.0
+Psychology,domestic_city,Deconcentration,0,4,0.0
+Psychology,domestic_city,Mixed changes,0,4,0.0
+Social Sciences,country,Relative concentration,0,4,0.0
+Social Sciences,country,Deconcentration,4,4,100.0
+Social Sciences,country,Mixed changes,0,4,0.0
+Social Sciences,domestic_city,Relative concentration,4,4,100.0
+Social Sciences,domestic_city,Deconcentration,0,4,0.0
+Social Sciences,domestic_city,Mixed changes,0,4,0.0
+Veterinary,country,Relative concentration,3,4,75.0
+Veterinary,country,Deconcentration,1,4,25.0
+Veterinary,country,Mixed changes,0,4,0.0
+Veterinary,domestic_city,Relative concentration,3,4,75.0
+Veterinary,domestic_city,Deconcentration,0,4,0.0
+Veterinary,domestic_city,Mixed changes,1,4,25.0

@@ -1,0 +1,27 @@
+{
+  "years": [
+    1998,
+    2025
+  ],
+  "original_inputs_preserved": true,
+  "city_definition": "Independent city or named standalone settlement with confirmed internal districts, neighbourhoods and suburbs assigned to its parent city; not a global morphological-urban-area or FUA boundary product",
+  "identity": "Restore original GeoNames identifiers; otherwise exact normalized name and coordinate matching, or official US place polygon containment",
+  "no_nearest_city_merge": true,
+  "references": {
+    "GeoNames": "Fixed downloaded snapshot 2026-10-20; CC BY 4.0",
+    "US_Census": "Fixed 2024 places, 1:500000 cartographic polygons",
+    "municipality_codes": "DE and FR ADM4, CH ADM3; country-specific municipal hierarchy, not a universal ADM-level rule"
+  },
+  "confirmed_parent_rules": [
+    "GeoNames PPLX with explicit parent populated place",
+    "country-specific municipality containment codes",
+    "confirmed Chinese urban districts and direct-administered municipalities",
+    "documented, cited city-component overrides"
+  ],
+  "country_scope_mapping_source": "results/figure_revision_20261015/unified_country_scope/data_manifest.json",
+  "review_policy": "Keep contradictory country-coordinate-name cases, unverified subcity parents, unresolved identity and coarse administrative-only features in separate audit ledgers",
+  "intercity_policy": "After mapping both endpoints, same-city events are retained separately and excluded from clean intercity data",
+  "tier_policy": "Retain annual/career impact tiers separately; never sum overlapping tiers",
+  "temporal_policy": "Apply the fixed reference geography consistently to the whole 1998-2025 period",
+  "data_use": "Use clean files for confirmed intercity analyses; consult the review ledger and source scope before changing manuscript sample definitions"
+}

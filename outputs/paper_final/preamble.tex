@@ -1,0 +1,43 @@
+\usepackage[margin=1in]{geometry}
+
+% Core packages
+\usepackage{amsmath,amssymb}
+\usepackage{tikz-cd}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{svg}
+\usepackage[super,sort&compress]{natbib}
+\usepackage{caption}
+\usepackage{placeins}
+\usepackage{needspace}
+\usepackage{textcomp}
+\usepackage[hyphens]{url}
+\Urlmuskip=0mu plus 2mu
+
+% Paragraphs
+\brokenpenalty=10000 % Keep hyphenated words on the same page.
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip plus 1pt minus 1pt}
+\renewcommand{\figurename}{Fig.}
+
+% Figure layout: consistent width, compact captions, and top-aligned float pages.
+\captionsetup[figure]{font=small,labelfont=bf,labelsep=space,
+  justification=raggedright,singlelinecheck=false,skip=7pt}
+\setlength{\textfloatsep}{14pt plus 3pt minus 2pt}
+\setlength{\floatsep}{14pt plus 3pt minus 2pt}
+\setlength{\intextsep}{12pt plus 3pt minus 2pt}
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.90}
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\floatpagefraction}{0.75}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@fpsep}{14pt}
+\setlength{\@fpbot}{0pt plus 1fil}
+\makeatother
+\raggedbottom
+
+

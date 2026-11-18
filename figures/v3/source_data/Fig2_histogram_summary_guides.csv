@@ -1,0 +1,17 @@
+﻿panel,period,statistic,value,line_style,colour
+e,1998,arithmetic_mean,1983.1184210526317,solid,#7E99F4
+e,1998,median,404.0,dashed,#7E99F4
+e,2007,arithmetic_mean,3766.3026315789475,solid,#CC7C71
+e,2007,median,944.0,dashed,#CC7C71
+e,2016,arithmetic_mean,6068.815789473684,solid,#7AB656
+e,2016,median,2455.5,dashed,#7AB656
+e,2025,arithmetic_mean,11538.223684210527,solid,#C9A45C
+e,2025,median,4760.5,dashed,#C9A45C
+f,1998,arithmetic_mean,70.07894736842105,solid,#7E99F4
+f,1998,median,12.0,dashed,#7E99F4
+f,2007,arithmetic_mean,90.78947368421052,solid,#CC7C71
+f,2007,median,26.0,dashed,#CC7C71
+f,2016,arithmetic_mean,107.6842105263158,solid,#7AB656
+f,2016,median,36.5,dashed,#7AB656
+f,2025,arithmetic_mean,119.05263157894737,solid,#C9A45C
+f,2025,median,42.0,dashed,#C9A45C

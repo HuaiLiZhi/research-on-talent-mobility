@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-30",
+  "purpose": "Exploratory validation of cross-scale process hypotheses; analysis choices fixed before fitting this extension, not a preregistration.",
+  "canonical_sample": "29,703,224 harmonized events; geography-verified microdata subset separately accounted.",
+  "gravity": "Conditional destination-choice Poisson/multinomial gravity. Train 2005-2018; hold out 2019-2025. Candidate cities have positive lagged distinct author-year mass and valid coordinates. Condition on source-country/destination-country/period totals.",
+  "models": [
+    "M0 lagged mass + approximate geographic distance",
+    "M1 M0 + lagged international city inflow",
+    "M2 M1 + lagged domestic partner-city count"
+  ],
+  "primary_contrast": "M2 versus M1 in held-out period; equal-country fitting and country-level validation; M1 vs M0 documents importance of international history.",
+  "domains": "Four prespecified OpenAlex domains; same45-country sample for domain comparisons. Pooled model76 countries. Compare effects directly across matched countries, not significant vs nonsignificant.",
+  "pathways": "Entry2012-2018; first next observed event within3/5 years; sufficient later publication observation; same-subject entry and domestic continuation comparison.",
+  "matched_reference": "Reuse strictly matched country/origin/year/field/career/followup risk sets. Stratify by next-move field domain; exact finite conditional-resampling HHI expectation. Risk sets may overlap; not one global label permutation.",
+  "inference": "Country bootstrap intervals, paired country contrasts; sign-test family Holm across4 domains; no causal claims.",
+  "unknown_fields": "Retain in pooled accounting, exclude from named-domain comparisons; report exclusions.",
+  "scope": "No edits to manuscript or final figures; do not force T1-T4 or mechanism-positive conclusions."
+}

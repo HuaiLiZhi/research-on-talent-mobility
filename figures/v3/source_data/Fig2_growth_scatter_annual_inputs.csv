@@ -1,0 +1,4257 @@
+﻿country,mobility_type,year,flow_events,coverage_count
+AE,International,1998,95.0,25
+AE,International,1999,84.0,27
+AE,International,2000,118.0,30
+AE,International,2001,149.0,32
+AE,International,2002,136.0,34
+AE,International,2003,211.0,41
+AE,International,2004,189.0,39
+AE,International,2005,218.0,47
+AE,International,2006,237.0,45
+AE,International,2007,257.0,43
+AE,International,2008,310.0,46
+AE,International,2009,327.0,42
+AE,International,2010,401.0,57
+AE,International,2011,464.0,55
+AE,International,2012,619.0,66
+AE,International,2013,572.0,63
+AE,International,2014,719.0,63
+AE,International,2015,891.0,69
+AE,International,2016,988.0,78
+AE,International,2017,1240.0,74
+AE,International,2018,1505.0,89
+AE,International,2019,1521.0,87
+AE,International,2020,1716.0,87
+AE,International,2021,1716.0,88
+AE,International,2022,2069.0,108
+AE,International,2023,2672.0,98
+AE,International,2024,3228.0,109
+AE,International,2025,4586.0,124
+AM,International,1998,85.0,23
+AM,International,1999,81.0,21
+AM,International,2000,81.0,24
+AM,International,2001,76.0,21
+AM,International,2002,68.0,21
+AM,International,2003,61.0,19
+AM,International,2004,75.0,23
+AM,International,2005,85.0,25
+AM,International,2006,91.0,25
+AM,International,2007,85.0,27
+AM,International,2008,107.0,25
+AM,International,2009,78.0,25
+AM,International,2010,91.0,27
+AM,International,2011,108.0,31
+AM,International,2012,140.0,27
+AM,International,2013,666.0,49
+AM,International,2014,601.0,51
+AM,International,2015,456.0,46
+AM,International,2016,611.0,40
+AM,International,2017,607.0,48
+AM,International,2018,1033.0,47
+AM,International,2019,678.0,51
+AM,International,2020,1187.0,50
+AM,International,2021,1255.0,56
+AM,International,2022,951.0,59
+AM,International,2023,554.0,57
+AM,International,2024,1920.0,64
+AM,International,2025,550.0,58
+AR,International,1998,675.0,50
+AR,International,1999,713.0,53
+AR,International,2000,887.0,49
+AR,International,2001,837.0,46
+AR,International,2002,876.0,56
+AR,International,2003,968.0,58
+AR,International,2004,1162.0,65
+AR,International,2005,1206.0,64
+AR,International,2006,1414.0,64
+AR,International,2007,1590.0,70
+AR,International,2008,1696.0,69
+AR,International,2009,1784.0,69
+AR,International,2010,1946.0,63
+AR,International,2011,2188.0,78
+AR,International,2012,2183.0,75
+AR,International,2013,2427.0,83
+AR,International,2014,2613.0,77
+AR,International,2015,2695.0,78
+AR,International,2016,2820.0,86
+AR,International,2017,3016.0,88
+AR,International,2018,3398.0,91
+AR,International,2019,3286.0,96
+AR,International,2020,3701.0,89
+AR,International,2021,3891.0,90
+AR,International,2022,2935.0,85
+AR,International,2023,4011.0,97
+AR,International,2024,4132.0,95
+AR,International,2025,4866.0,107
+AT,International,1998,1417.0,59
+AT,International,1999,1514.0,59
+AT,International,2000,1649.0,66
+AT,International,2001,1597.0,59
+AT,International,2002,1795.0,70
+AT,International,2003,1855.0,64
+AT,International,2004,2071.0,73
+AT,International,2005,2186.0,68
+AT,International,2006,2299.0,80
+AT,International,2007,2463.0,75
+AT,International,2008,2735.0,77
+AT,International,2009,2936.0,82
+AT,International,2010,2963.0,90
+AT,International,2011,3205.0,88
+AT,International,2012,4130.0,97
+AT,International,2013,3910.0,88
+AT,International,2014,3858.0,95
+AT,International,2015,3756.0,87
+AT,International,2016,4167.0,108
+AT,International,2017,4651.0,102
+AT,International,2018,3987.0,102
+AT,International,2019,4617.0,99
+AT,International,2020,5056.0,108
+AT,International,2021,4518.0,100
+AT,International,2022,4715.0,108
+AT,International,2023,4912.0,106
+AT,International,2024,4977.0,107
+AT,International,2025,5401.0,114
+AU,International,1998,5188.0,99
+AU,International,1999,5134.0,93
+AU,International,2000,5649.0,101
+AU,International,2001,5768.0,105
+AU,International,2002,6621.0,110
+AU,International,2003,6828.0,109
+AU,International,2004,7143.0,116
+AU,International,2005,7846.0,112
+AU,International,2006,8794.0,127
+AU,International,2007,9291.0,122
+AU,International,2008,9874.0,125
+AU,International,2009,10712.0,122
+AU,International,2010,11211.0,131
+AU,International,2011,12021.0,129
+AU,International,2012,12779.0,141
+AU,International,2013,15224.0,137
+AU,International,2014,14165.0,141
+AU,International,2015,15042.0,151
+AU,International,2016,15565.0,135
+AU,International,2017,16412.0,146
+AU,International,2018,16832.0,147
+AU,International,2019,18855.0,148
+AU,International,2020,17466.0,145
+AU,International,2021,17355.0,148
+AU,International,2022,14904.0,143
+AU,International,2023,17589.0,161
+AU,International,2024,20618.0,151
+AU,International,2025,24608.0,172
+BD,International,1998,167.0,29
+BD,International,1999,179.0,37
+BD,International,2000,191.0,28
+BD,International,2001,224.0,36
+BD,International,2002,241.0,35
+BD,International,2003,242.0,39
+BD,International,2004,316.0,36
+BD,International,2005,325.0,42
+BD,International,2006,375.0,40
+BD,International,2007,513.0,53
+BD,International,2008,564.0,48
+BD,International,2009,663.0,59
+BD,International,2010,753.0,57
+BD,International,2011,794.0,59
+BD,International,2012,1325.0,70
+BD,International,2013,1385.0,70
+BD,International,2014,1580.0,74
+BD,International,2015,1733.0,83
+BD,International,2016,1806.0,85
+BD,International,2017,1973.0,90
+BD,International,2018,2185.0,89
+BD,International,2019,2386.0,91
+BD,International,2020,2902.0,98
+BD,International,2021,3129.0,97
+BD,International,2022,2995.0,98
+BD,International,2023,3606.0,106
+BD,International,2024,5034.0,111
+BD,International,2025,6750.0,122
+BE,International,1998,1800.0,76
+BE,International,1999,1913.0,75
+BE,International,2000,1995.0,84
+BE,International,2001,1926.0,85
+BE,International,2002,2284.0,84
+BE,International,2003,2387.0,88
+BE,International,2004,2579.0,95
+BE,International,2005,2898.0,98
+BE,International,2006,3024.0,94
+BE,International,2007,3073.0,101
+BE,International,2008,3609.0,102
+BE,International,2009,3609.0,105
+BE,International,2010,3909.0,102
+BE,International,2011,4059.0,106
+BE,International,2012,4461.0,106
+BE,International,2013,4605.0,121
+BE,International,2014,4836.0,112
+BE,International,2015,5533.0,120
+BE,International,2016,5011.0,117
+BE,International,2017,5168.0,120
+BE,International,2018,5537.0,122
+BE,International,2019,5481.0,128
+BE,International,2020,5828.0,128
+BE,International,2021,5929.0,127
+BE,International,2022,5606.0,131
+BE,International,2023,6485.0,137
+BE,International,2024,6647.0,132
+BE,International,2025,7358.0,140
+BG,International,1998,270.0,36
+BG,International,1999,302.0,39
+BG,International,2000,323.0,44
+BG,International,2001,337.0,41
+BG,International,2002,349.0,44
+BG,International,2003,362.0,46
+BG,International,2004,381.0,48
+BG,International,2005,422.0,52
+BG,International,2006,423.0,54
+BG,International,2007,486.0,52
+BG,International,2008,518.0,53
+BG,International,2009,575.0,60
+BG,International,2010,536.0,59
+BG,International,2011,583.0,57
+BG,International,2012,561.0,63
+BG,International,2013,621.0,61
+BG,International,2014,704.0,63
+BG,International,2015,730.0,69
+BG,International,2016,697.0,65
+BG,International,2017,709.0,68
+BG,International,2018,750.0,69
+BG,International,2019,706.0,71
+BG,International,2020,814.0,73
+BG,International,2021,847.0,83
+BG,International,2022,857.0,74
+BG,International,2023,1048.0,95
+BG,International,2024,1153.0,90
+BG,International,2025,1903.0,95
+BR,International,1998,1943.0,68
+BR,International,1999,2258.0,84
+BR,International,2000,2428.0,86
+BR,International,2001,2629.0,90
+BR,International,2002,3007.0,89
+BR,International,2003,3337.0,102
+BR,International,2004,3642.0,91
+BR,International,2005,3785.0,96
+BR,International,2006,4612.0,100
+BR,International,2007,5058.0,106
+BR,International,2008,5238.0,109
+BR,International,2009,6185.0,120
+BR,International,2010,6495.0,121
+BR,International,2011,7326.0,125
+BR,International,2012,8075.0,122
+BR,International,2013,8803.0,131
+BR,International,2014,9812.0,125
+BR,International,2015,11357.0,142
+BR,International,2016,11051.0,141
+BR,International,2017,12343.0,138
+BR,International,2018,12289.0,140
+BR,International,2019,12800.0,140
+BR,International,2020,13913.0,149
+BR,International,2021,13603.0,155
+BR,International,2022,11575.0,144
+BR,International,2023,17439.0,162
+BR,International,2024,22459.0,158
+BR,International,2025,24147.0,158
+BY,International,1998,125.0,23
+BY,International,1999,126.0,25
+BY,International,2000,182.0,33
+BY,International,2001,175.0,28
+BY,International,2002,205.0,28
+BY,International,2003,161.0,30
+BY,International,2004,169.0,28
+BY,International,2005,212.0,35
+BY,International,2006,184.0,25
+BY,International,2007,213.0,35
+BY,International,2008,189.0,34
+BY,International,2009,239.0,44
+BY,International,2010,217.0,32
+BY,International,2011,258.0,38
+BY,International,2012,266.0,36
+BY,International,2013,295.0,41
+BY,International,2014,312.0,49
+BY,International,2015,323.0,44
+BY,International,2016,329.0,45
+BY,International,2017,391.0,52
+BY,International,2018,363.0,50
+BY,International,2019,481.0,62
+BY,International,2020,451.0,61
+BY,International,2021,522.0,54
+BY,International,2022,464.0,56
+BY,International,2023,515.0,54
+BY,International,2024,628.0,70
+BY,International,2025,845.0,62
+CA,International,1998,7096.0,110
+CA,International,1999,7557.0,110
+CA,International,2000,7815.0,118
+CA,International,2001,8201.0,116
+CA,International,2002,10135.0,124
+CA,International,2003,10478.0,122
+CA,International,2004,11163.0,120
+CA,International,2005,12607.0,126
+CA,International,2006,13387.0,125
+CA,International,2007,13206.0,132
+CA,International,2008,14066.0,129
+CA,International,2009,14935.0,137
+CA,International,2010,15227.0,139
+CA,International,2011,15804.0,142
+CA,International,2012,16404.0,145
+CA,International,2013,17188.0,144
+CA,International,2014,17633.0,147
+CA,International,2015,18043.0,149
+CA,International,2016,18305.0,147
+CA,International,2017,18801.0,151
+CA,International,2018,20022.0,153
+CA,International,2019,20739.0,148
+CA,International,2020,21675.0,156
+CA,International,2021,21926.0,157
+CA,International,2022,20215.0,155
+CA,International,2023,23917.0,164
+CA,International,2024,26186.0,170
+CA,International,2025,30406.0,174
+CH,International,1998,3836.0,71
+CH,International,1999,3914.0,84
+CH,International,2000,4098.0,88
+CH,International,2001,4071.0,85
+CH,International,2002,4411.0,89
+CH,International,2003,5018.0,96
+CH,International,2004,5153.0,95
+CH,International,2005,5359.0,94
+CH,International,2006,5885.0,102
+CH,International,2007,6163.0,102
+CH,International,2008,6561.0,107
+CH,International,2009,6789.0,116
+CH,International,2010,7606.0,111
+CH,International,2011,7780.0,117
+CH,International,2012,8527.0,120
+CH,International,2013,9128.0,125
+CH,International,2014,9411.0,117
+CH,International,2015,9721.0,132
+CH,International,2016,9294.0,136
+CH,International,2017,10103.0,133
+CH,International,2018,9781.0,128
+CH,International,2019,10276.0,141
+CH,International,2020,10766.0,132
+CH,International,2021,10891.0,148
+CH,International,2022,10432.0,130
+CH,International,2023,12749.0,150
+CH,International,2024,12243.0,141
+CH,International,2025,13654.0,159
+CL,International,1998,420.0,43
+CL,International,1999,471.0,48
+CL,International,2000,514.0,47
+CL,International,2001,565.0,50
+CL,International,2002,736.0,51
+CL,International,2003,779.0,54
+CL,International,2004,820.0,52
+CL,International,2005,845.0,53
+CL,International,2006,1057.0,61
+CL,International,2007,1092.0,63
+CL,International,2008,1194.0,55
+CL,International,2009,1339.0,66
+CL,International,2010,1582.0,61
+CL,International,2011,1743.0,74
+CL,International,2012,1825.0,66
+CL,International,2013,1925.0,67
+CL,International,2014,2195.0,72
+CL,International,2015,2472.0,75
+CL,International,2016,2764.0,78
+CL,International,2017,2856.0,78
+CL,International,2018,3044.0,78
+CL,International,2019,3201.0,79
+CL,International,2020,3467.0,89
+CL,International,2021,3369.0,89
+CL,International,2022,2989.0,84
+CL,International,2023,3796.0,98
+CL,International,2024,4190.0,96
+CL,International,2025,4840.0,99
+CM,International,1998,59.0,18
+CM,International,1999,80.0,23
+CM,International,2000,67.0,17
+CM,International,2001,81.0,17
+CM,International,2002,95.0,21
+CM,International,2003,71.0,26
+CM,International,2004,87.0,22
+CM,International,2005,111.0,24
+CM,International,2006,93.0,20
+CM,International,2007,98.0,28
+CM,International,2008,126.0,33
+CM,International,2009,107.0,35
+CM,International,2010,129.0,38
+CM,International,2011,143.0,33
+CM,International,2012,128.0,36
+CM,International,2013,189.0,41
+CM,International,2014,207.0,49
+CM,International,2015,239.0,42
+CM,International,2016,247.0,47
+CM,International,2017,263.0,54
+CM,International,2018,252.0,56
+CM,International,2019,316.0,61
+CM,International,2020,355.0,62
+CM,International,2021,349.0,62
+CM,International,2022,334.0,61
+CM,International,2023,422.0,76
+CM,International,2024,465.0,79
+CM,International,2025,573.0,78
+CN,International,1998,6072.0,90
+CN,International,1999,6514.0,87
+CN,International,2000,8795.0,89
+CN,International,2001,10420.0,97
+CN,International,2002,14251.0,107
+CN,International,2003,16974.0,100
+CN,International,2004,21486.0,111
+CN,International,2005,25748.0,121
+CN,International,2006,30458.0,113
+CN,International,2007,33210.0,128
+CN,International,2008,35376.0,127
+CN,International,2009,37359.0,126
+CN,International,2010,39866.0,133
+CN,International,2011,43017.0,133
+CN,International,2012,42359.0,134
+CN,International,2013,45820.0,133
+CN,International,2014,47001.0,144
+CN,International,2015,47075.0,140
+CN,International,2016,46892.0,144
+CN,International,2017,49195.0,139
+CN,International,2018,51234.0,151
+CN,International,2019,54721.0,155
+CN,International,2020,57757.0,162
+CN,International,2021,61879.0,161
+CN,International,2022,59119.0,159
+CN,International,2023,70566.0,165
+CN,International,2024,93010.0,171
+CN,International,2025,103075.0,176
+CO,International,1998,286.0,40
+CO,International,1999,329.0,41
+CO,International,2000,387.0,47
+CO,International,2001,510.0,40
+CO,International,2002,513.0,47
+CO,International,2003,586.0,46
+CO,International,2004,660.0,53
+CO,International,2005,823.0,53
+CO,International,2006,1005.0,51
+CO,International,2007,1078.0,62
+CO,International,2008,1295.0,65
+CO,International,2009,1503.0,63
+CO,International,2010,1714.0,67
+CO,International,2011,1787.0,66
+CO,International,2012,2109.0,77
+CO,International,2013,2313.0,79
+CO,International,2014,2388.0,77
+CO,International,2015,2773.0,81
+CO,International,2016,3004.0,91
+CO,International,2017,3377.0,83
+CO,International,2018,3347.0,88
+CO,International,2019,3570.0,93
+CO,International,2020,4026.0,87
+CO,International,2021,3961.0,98
+CO,International,2022,3354.0,91
+CO,International,2023,5013.0,104
+CO,International,2024,5292.0,109
+CO,International,2025,6077.0,116
+CR,International,1998,59.0,21
+CR,International,1999,115.0,27
+CR,International,2000,127.0,30
+CR,International,2001,122.0,24
+CR,International,2002,134.0,31
+CR,International,2003,137.0,28
+CR,International,2004,139.0,27
+CR,International,2005,204.0,27
+CR,International,2006,207.0,36
+CR,International,2007,245.0,33
+CR,International,2008,214.0,33
+CR,International,2009,318.0,36
+CR,International,2010,333.0,37
+CR,International,2011,418.0,36
+CR,International,2012,375.0,36
+CR,International,2013,496.0,43
+CR,International,2014,575.0,47
+CR,International,2015,653.0,49
+CR,International,2016,661.0,55
+CR,International,2017,700.0,49
+CR,International,2018,677.0,50
+CR,International,2019,811.0,51
+CR,International,2020,902.0,50
+CR,International,2021,853.0,56
+CR,International,2022,676.0,52
+CR,International,2023,753.0,63
+CR,International,2024,789.0,62
+CR,International,2025,1058.0,69
+CU,International,1998,196.0,38
+CU,International,1999,234.0,38
+CU,International,2000,271.0,37
+CU,International,2001,271.0,27
+CU,International,2002,299.0,40
+CU,International,2003,320.0,38
+CU,International,2004,372.0,41
+CU,International,2005,399.0,39
+CU,International,2006,435.0,38
+CU,International,2007,523.0,40
+CU,International,2008,618.0,49
+CU,International,2009,599.0,47
+CU,International,2010,697.0,51
+CU,International,2011,726.0,57
+CU,International,2012,756.0,48
+CU,International,2013,883.0,59
+CU,International,2014,935.0,52
+CU,International,2015,964.0,56
+CU,International,2016,1083.0,59
+CU,International,2017,971.0,69
+CU,International,2018,1061.0,58
+CU,International,2019,1078.0,64
+CU,International,2020,1182.0,63
+CU,International,2021,1148.0,63
+CU,International,2022,734.0,51
+CU,International,2023,729.0,71
+CU,International,2024,652.0,63
+CU,International,2025,733.0,53
+CZ,International,1998,926.0,68
+CZ,International,1999,1035.0,68
+CZ,International,2000,1101.0,75
+CZ,International,2001,1155.0,72
+CZ,International,2002,1203.0,75
+CZ,International,2003,1175.0,71
+CZ,International,2004,1339.0,77
+CZ,International,2005,1346.0,74
+CZ,International,2006,1657.0,78
+CZ,International,2007,1686.0,76
+CZ,International,2008,1807.0,82
+CZ,International,2009,1885.0,86
+CZ,International,2010,2003.0,88
+CZ,International,2011,1892.0,83
+CZ,International,2012,2320.0,96
+CZ,International,2013,2340.0,82
+CZ,International,2014,2732.0,95
+CZ,International,2015,2940.0,97
+CZ,International,2016,2789.0,95
+CZ,International,2017,2854.0,102
+CZ,International,2018,2920.0,99
+CZ,International,2019,3224.0,109
+CZ,International,2020,3768.0,110
+CZ,International,2021,3536.0,106
+CZ,International,2022,3295.0,115
+CZ,International,2023,3880.0,115
+CZ,International,2024,4220.0,120
+CZ,International,2025,5194.0,122
+DE,International,1998,10368.0,114
+DE,International,1999,10401.0,115
+DE,International,2000,11292.0,119
+DE,International,2001,11247.0,117
+DE,International,2002,13032.0,122
+DE,International,2003,13176.0,122
+DE,International,2004,14200.0,121
+DE,International,2005,14962.0,136
+DE,International,2006,15525.0,131
+DE,International,2007,15882.0,131
+DE,International,2008,17088.0,135
+DE,International,2009,17923.0,137
+DE,International,2010,19092.0,136
+DE,International,2011,19538.0,131
+DE,International,2012,20460.0,142
+DE,International,2013,20831.0,150
+DE,International,2014,22061.0,139
+DE,International,2015,22682.0,148
+DE,International,2016,22988.0,152
+DE,International,2017,23315.0,156
+DE,International,2018,24709.0,149
+DE,International,2019,25086.0,152
+DE,International,2020,26452.0,156
+DE,International,2021,26008.0,153
+DE,International,2022,24621.0,163
+DE,International,2023,28627.0,158
+DE,International,2024,29829.0,165
+DE,International,2025,34196.0,168
+DK,International,1998,1185.0,53
+DK,International,1999,1240.0,65
+DK,International,2000,1284.0,65
+DK,International,2001,1316.0,71
+DK,International,2002,1463.0,63
+DK,International,2003,1512.0,78
+DK,International,2004,1487.0,72
+DK,International,2005,1757.0,82
+DK,International,2006,1733.0,78
+DK,International,2007,2295.0,81
+DK,International,2008,2347.0,89
+DK,International,2009,2389.0,89
+DK,International,2010,2507.0,99
+DK,International,2011,3025.0,90
+DK,International,2012,3307.0,103
+DK,International,2013,3592.0,101
+DK,International,2014,3838.0,110
+DK,International,2015,3915.0,105
+DK,International,2016,4039.0,106
+DK,International,2017,4214.0,110
+DK,International,2018,4259.0,103
+DK,International,2019,4167.0,110
+DK,International,2020,4413.0,109
+DK,International,2021,4430.0,111
+DK,International,2022,4407.0,106
+DK,International,2023,4935.0,120
+DK,International,2024,4739.0,119
+DK,International,2025,5489.0,124
+DZ,International,1998,102.0,15
+DZ,International,1999,125.0,19
+DZ,International,2000,125.0,20
+DZ,International,2001,159.0,22
+DZ,International,2002,180.0,22
+DZ,International,2003,189.0,26
+DZ,International,2004,279.0,28
+DZ,International,2005,230.0,34
+DZ,International,2006,304.0,34
+DZ,International,2007,368.0,39
+DZ,International,2008,422.0,46
+DZ,International,2009,463.0,45
+DZ,International,2010,467.0,43
+DZ,International,2011,480.0,50
+DZ,International,2012,607.0,48
+DZ,International,2013,664.0,58
+DZ,International,2014,730.0,61
+DZ,International,2015,834.0,65
+DZ,International,2016,887.0,72
+DZ,International,2017,879.0,70
+DZ,International,2018,1029.0,73
+DZ,International,2019,900.0,71
+DZ,International,2020,998.0,80
+DZ,International,2021,1021.0,78
+DZ,International,2022,903.0,78
+DZ,International,2023,1086.0,79
+DZ,International,2024,1222.0,92
+DZ,International,2025,1395.0,94
+EE,International,1998,57.0,14
+EE,International,1999,99.0,19
+EE,International,2000,113.0,24
+EE,International,2001,98.0,18
+EE,International,2002,118.0,21
+EE,International,2003,119.0,23
+EE,International,2004,154.0,33
+EE,International,2005,183.0,28
+EE,International,2006,221.0,28
+EE,International,2007,222.0,30
+EE,International,2008,213.0,38
+EE,International,2009,232.0,41
+EE,International,2010,209.0,39
+EE,International,2011,261.0,40
+EE,International,2012,274.0,45
+EE,International,2013,334.0,47
+EE,International,2014,315.0,48
+EE,International,2015,331.0,42
+EE,International,2016,361.0,51
+EE,International,2017,338.0,44
+EE,International,2018,335.0,46
+EE,International,2019,468.0,59
+EE,International,2020,474.0,61
+EE,International,2021,474.0,61
+EE,International,2022,473.0,59
+EE,International,2023,532.0,57
+EE,International,2024,494.0,63
+EE,International,2025,777.0,65
+EG,International,1998,388.0,54
+EG,International,1999,453.0,50
+EG,International,2000,508.0,55
+EG,International,2001,452.0,58
+EG,International,2002,601.0,57
+EG,International,2003,598.0,64
+EG,International,2004,591.0,64
+EG,International,2005,696.0,68
+EG,International,2006,950.0,74
+EG,International,2007,932.0,77
+EG,International,2008,1163.0,74
+EG,International,2009,1264.0,77
+EG,International,2010,1478.0,82
+EG,International,2011,1616.0,85
+EG,International,2012,1833.0,92
+EG,International,2013,2166.0,97
+EG,International,2014,2577.0,91
+EG,International,2015,2657.0,97
+EG,International,2016,3012.0,98
+EG,International,2017,3013.0,103
+EG,International,2018,3585.0,108
+EG,International,2019,3706.0,105
+EG,International,2020,4221.0,110
+EG,International,2021,4392.0,111
+EG,International,2022,4065.0,112
+EG,International,2023,5124.0,111
+EG,International,2024,5947.0,129
+EG,International,2025,6827.0,125
+ES,International,1998,3235.0,93
+ES,International,1999,3262.0,92
+ES,International,2000,4114.0,101
+ES,International,2001,4315.0,101
+ES,International,2002,4491.0,90
+ES,International,2003,4875.0,92
+ES,International,2004,5201.0,108
+ES,International,2005,5824.0,97
+ES,International,2006,6303.0,102
+ES,International,2007,6620.0,120
+ES,International,2008,7340.0,120
+ES,International,2009,8450.0,108
+ES,International,2010,8618.0,123
+ES,International,2011,9540.0,120
+ES,International,2012,9574.0,129
+ES,International,2013,9855.0,125
+ES,International,2014,9987.0,125
+ES,International,2015,10804.0,129
+ES,International,2016,11490.0,132
+ES,International,2017,12238.0,136
+ES,International,2018,12438.0,143
+ES,International,2019,13456.0,133
+ES,International,2020,14168.0,140
+ES,International,2021,14100.0,145
+ES,International,2022,13042.0,149
+ES,International,2023,16133.0,145
+ES,International,2024,17415.0,151
+ES,International,2025,21235.0,163
+FI,International,1998,800.0,50
+FI,International,1999,823.0,54
+FI,International,2000,867.0,58
+FI,International,2001,929.0,57
+FI,International,2002,1103.0,54
+FI,International,2003,1190.0,65
+FI,International,2004,1065.0,61
+FI,International,2005,1231.0,64
+FI,International,2006,1388.0,63
+FI,International,2007,1241.0,63
+FI,International,2008,1361.0,66
+FI,International,2009,1524.0,70
+FI,International,2010,1504.0,74
+FI,International,2011,1534.0,74
+FI,International,2012,1654.0,84
+FI,International,2013,1727.0,77
+FI,International,2014,1822.0,81
+FI,International,2015,1776.0,85
+FI,International,2016,1876.0,87
+FI,International,2017,1916.0,93
+FI,International,2018,1913.0,90
+FI,International,2019,2285.0,101
+FI,International,2020,2405.0,101
+FI,International,2021,2478.0,97
+FI,International,2022,2544.0,98
+FI,International,2023,2654.0,97
+FI,International,2024,2746.0,101
+FI,International,2025,3524.0,112
+FR,International,1998,7762.0,124
+FR,International,1999,7743.0,133
+FR,International,2000,8300.0,129
+FR,International,2001,8322.0,128
+FR,International,2002,9447.0,139
+FR,International,2003,9798.0,136
+FR,International,2004,10756.0,144
+FR,International,2005,11815.0,144
+FR,International,2006,12560.0,151
+FR,International,2007,13726.0,153
+FR,International,2008,14831.0,153
+FR,International,2009,15213.0,152
+FR,International,2010,15577.0,154
+FR,International,2011,16643.0,148
+FR,International,2012,17258.0,166
+FR,International,2013,18084.0,160
+FR,International,2014,18443.0,157
+FR,International,2015,18863.0,159
+FR,International,2016,18945.0,168
+FR,International,2017,19378.0,161
+FR,International,2018,19751.0,164
+FR,International,2019,19646.0,170
+FR,International,2020,19856.0,172
+FR,International,2021,21042.0,167
+FR,International,2022,19057.0,169
+FR,International,2023,21489.0,177
+FR,International,2024,21258.0,168
+FR,International,2025,23688.0,171
+GB,International,1998,16286.0,133
+GB,International,1999,16798.0,139
+GB,International,2000,18027.0,144
+GB,International,2001,17894.0,136
+GB,International,2002,19225.0,160
+GB,International,2003,20032.0,146
+GB,International,2004,20207.0,145
+GB,International,2005,22006.0,150
+GB,International,2006,24459.0,146
+GB,International,2007,25514.0,161
+GB,International,2008,27034.0,155
+GB,International,2009,27741.0,165
+GB,International,2010,29535.0,163
+GB,International,2011,30401.0,168
+GB,International,2012,32081.0,161
+GB,International,2013,33032.0,168
+GB,International,2014,34801.0,168
+GB,International,2015,35939.0,172
+GB,International,2016,36972.0,167
+GB,International,2017,38033.0,167
+GB,International,2018,39123.0,172
+GB,International,2019,40074.0,176
+GB,International,2020,42896.0,182
+GB,International,2021,44033.0,183
+GB,International,2022,39396.0,185
+GB,International,2023,47068.0,186
+GB,International,2024,51524.0,187
+GB,International,2025,59244.0,189
+GH,International,1998,69.0,15
+GH,International,1999,88.0,18
+GH,International,2000,74.0,16
+GH,International,2001,91.0,22
+GH,International,2002,75.0,17
+GH,International,2003,117.0,25
+GH,International,2004,123.0,23
+GH,International,2005,115.0,32
+GH,International,2006,137.0,32
+GH,International,2007,190.0,29
+GH,International,2008,151.0,31
+GH,International,2009,200.0,36
+GH,International,2010,212.0,34
+GH,International,2011,239.0,37
+GH,International,2012,306.0,53
+GH,International,2013,312.0,51
+GH,International,2014,383.0,54
+GH,International,2015,409.0,50
+GH,International,2016,419.0,59
+GH,International,2017,475.0,64
+GH,International,2018,487.0,67
+GH,International,2019,1069.0,72
+GH,International,2020,838.0,80
+GH,International,2021,815.0,80
+GH,International,2022,792.0,80
+GH,International,2023,992.0,88
+GH,International,2024,990.0,82
+GH,International,2025,1370.0,97
+GR,International,1998,812.0,46
+GR,International,1999,804.0,42
+GR,International,2000,848.0,47
+GR,International,2001,934.0,46
+GR,International,2002,995.0,53
+GR,International,2003,1094.0,53
+GR,International,2004,1160.0,57
+GR,International,2005,1234.0,55
+GR,International,2006,1306.0,55
+GR,International,2007,1320.0,67
+GR,International,2008,1487.0,67
+GR,International,2009,1455.0,68
+GR,International,2010,1452.0,64
+GR,International,2011,1529.0,66
+GR,International,2012,1527.0,70
+GR,International,2013,1728.0,73
+GR,International,2014,1626.0,75
+GR,International,2015,1599.0,77
+GR,International,2016,1916.0,74
+GR,International,2017,1876.0,76
+GR,International,2018,2107.0,84
+GR,International,2019,2377.0,86
+GR,International,2020,2753.0,88
+GR,International,2021,2778.0,96
+GR,International,2022,2000.0,92
+GR,International,2023,2487.0,103
+GR,International,2024,2364.0,99
+GR,International,2025,2729.0,101
+HR,International,1998,165.0,34
+HR,International,1999,205.0,34
+HR,International,2000,206.0,33
+HR,International,2001,172.0,38
+HR,International,2002,254.0,41
+HR,International,2003,245.0,43
+HR,International,2004,270.0,42
+HR,International,2005,265.0,45
+HR,International,2006,326.0,42
+HR,International,2007,369.0,39
+HR,International,2008,423.0,44
+HR,International,2009,410.0,48
+HR,International,2010,458.0,51
+HR,International,2011,454.0,53
+HR,International,2012,567.0,57
+HR,International,2013,557.0,59
+HR,International,2014,608.0,60
+HR,International,2015,586.0,58
+HR,International,2016,627.0,66
+HR,International,2017,685.0,66
+HR,International,2018,732.0,69
+HR,International,2019,697.0,64
+HR,International,2020,746.0,68
+HR,International,2021,747.0,69
+HR,International,2022,682.0,77
+HR,International,2023,833.0,77
+HR,International,2024,809.0,73
+HR,International,2025,1018.0,75
+HU,International,1998,747.0,52
+HU,International,1999,733.0,57
+HU,International,2000,796.0,55
+HU,International,2001,793.0,60
+HU,International,2002,854.0,65
+HU,International,2003,804.0,62
+HU,International,2004,879.0,56
+HU,International,2005,1082.0,68
+HU,International,2006,962.0,71
+HU,International,2007,1056.0,67
+HU,International,2008,1012.0,62
+HU,International,2009,1055.0,70
+HU,International,2010,1071.0,69
+HU,International,2011,1042.0,67
+HU,International,2012,1071.0,61
+HU,International,2013,1245.0,76
+HU,International,2014,1281.0,71
+HU,International,2015,1279.0,74
+HU,International,2016,1384.0,79
+HU,International,2017,1469.0,84
+HU,International,2018,1515.0,90
+HU,International,2019,1610.0,91
+HU,International,2020,1852.0,93
+HU,International,2021,1877.0,98
+HU,International,2022,1886.0,98
+HU,International,2023,2201.0,100
+HU,International,2024,2389.0,108
+HU,International,2025,3159.0,101
+ID,International,1998,152.0,31
+ID,International,1999,187.0,34
+ID,International,2000,249.0,35
+ID,International,2001,261.0,39
+ID,International,2002,275.0,46
+ID,International,2003,334.0,49
+ID,International,2004,377.0,51
+ID,International,2005,474.0,48
+ID,International,2006,465.0,54
+ID,International,2007,585.0,67
+ID,International,2008,593.0,60
+ID,International,2009,786.0,65
+ID,International,2010,955.0,71
+ID,International,2011,1086.0,75
+ID,International,2012,1329.0,87
+ID,International,2013,1568.0,86
+ID,International,2014,1787.0,95
+ID,International,2015,2155.0,100
+ID,International,2016,2684.0,102
+ID,International,2017,3371.0,110
+ID,International,2018,4338.0,123
+ID,International,2019,5134.0,134
+ID,International,2020,5694.0,138
+ID,International,2021,6722.0,141
+ID,International,2022,6565.0,145
+ID,International,2023,9235.0,148
+ID,International,2024,10639.0,154
+ID,International,2025,12158.0,161
+IE,International,1998,1233.0,50
+IE,International,1999,1028.0,45
+IE,International,2000,1090.0,58
+IE,International,2001,1175.0,55
+IE,International,2002,1306.0,67
+IE,International,2003,1518.0,64
+IE,International,2004,1737.0,71
+IE,International,2005,2150.0,75
+IE,International,2006,2303.0,68
+IE,International,2007,2427.0,71
+IE,International,2008,2682.0,83
+IE,International,2009,2774.0,78
+IE,International,2010,2975.0,85
+IE,International,2011,3003.0,84
+IE,International,2012,3012.0,80
+IE,International,2013,3187.0,84
+IE,International,2014,3348.0,90
+IE,International,2015,3434.0,93
+IE,International,2016,3637.0,97
+IE,International,2017,3677.0,102
+IE,International,2018,3811.0,98
+IE,International,2019,4025.0,100
+IE,International,2020,4135.0,110
+IE,International,2021,4468.0,104
+IE,International,2022,3813.0,105
+IE,International,2023,5286.0,112
+IE,International,2024,5218.0,113
+IE,International,2025,6659.0,124
+IL,International,1998,1297.0,53
+IL,International,1999,1379.0,60
+IL,International,2000,1411.0,61
+IL,International,2001,1399.0,61
+IL,International,2002,1602.0,64
+IL,International,2003,1510.0,68
+IL,International,2004,1526.0,65
+IL,International,2005,1491.0,70
+IL,International,2006,1601.0,65
+IL,International,2007,1684.0,69
+IL,International,2008,1714.0,69
+IL,International,2009,1821.0,76
+IL,International,2010,1855.0,70
+IL,International,2011,1941.0,76
+IL,International,2012,2085.0,73
+IL,International,2013,2256.0,82
+IL,International,2014,2386.0,84
+IL,International,2015,2778.0,82
+IL,International,2016,3224.0,88
+IL,International,2017,2933.0,84
+IL,International,2018,2955.0,89
+IL,International,2019,3034.0,88
+IL,International,2020,3562.0,96
+IL,International,2021,3679.0,97
+IL,International,2022,2902.0,93
+IL,International,2023,3519.0,99
+IL,International,2024,3653.0,105
+IL,International,2025,4325.0,121
+IN,International,1998,2552.0,78
+IN,International,1999,2524.0,84
+IN,International,2000,2766.0,79
+IN,International,2001,3061.0,89
+IN,International,2002,3355.0,91
+IN,International,2003,3880.0,94
+IN,International,2004,4106.0,97
+IN,International,2005,4727.0,103
+IN,International,2006,5239.0,107
+IN,International,2007,5724.0,110
+IN,International,2008,6380.0,112
+IN,International,2009,7011.0,112
+IN,International,2010,8162.0,115
+IN,International,2011,9819.0,125
+IN,International,2012,11021.0,123
+IN,International,2013,12184.0,131
+IN,International,2014,13742.0,143
+IN,International,2015,13686.0,138
+IN,International,2016,15266.0,146
+IN,International,2017,15799.0,149
+IN,International,2018,16917.0,144
+IN,International,2019,17012.0,157
+IN,International,2020,20412.0,160
+IN,International,2021,21961.0,156
+IN,International,2022,20913.0,170
+IN,International,2023,28045.0,178
+IN,International,2024,35894.0,175
+IN,International,2025,43081.0,178
+IR,International,1998,187.0,25
+IR,International,1999,211.0,26
+IR,International,2000,270.0,33
+IR,International,2001,302.0,36
+IR,International,2002,380.0,30
+IR,International,2003,511.0,46
+IR,International,2004,573.0,45
+IR,International,2005,714.0,56
+IR,International,2006,824.0,58
+IR,International,2007,1039.0,61
+IR,International,2008,1193.0,60
+IR,International,2009,1295.0,74
+IR,International,2010,1436.0,73
+IR,International,2011,1828.0,89
+IR,International,2012,1937.0,87
+IR,International,2013,2118.0,90
+IR,International,2014,2442.0,98
+IR,International,2015,2667.0,101
+IR,International,2016,2989.0,106
+IR,International,2017,3145.0,99
+IR,International,2018,3349.0,102
+IR,International,2019,3249.0,104
+IR,International,2020,3408.0,109
+IR,International,2021,3780.0,104
+IR,International,2022,2888.0,108
+IR,International,2023,3350.0,108
+IR,International,2024,4120.0,116
+IR,International,2025,5388.0,116
+IS,International,1998,48.0,13
+IS,International,1999,60.0,12
+IS,International,2000,79.0,12
+IS,International,2001,69.0,17
+IS,International,2002,104.0,20
+IS,International,2003,105.0,22
+IS,International,2004,99.0,20
+IS,International,2005,103.0,20
+IS,International,2006,106.0,27
+IS,International,2007,134.0,22
+IS,International,2008,156.0,23
+IS,International,2009,139.0,24
+IS,International,2010,157.0,26
+IS,International,2011,158.0,34
+IS,International,2012,144.0,32
+IS,International,2013,147.0,31
+IS,International,2014,161.0,33
+IS,International,2015,182.0,35
+IS,International,2016,156.0,35
+IS,International,2017,227.0,41
+IS,International,2018,220.0,38
+IS,International,2019,226.0,49
+IS,International,2020,198.0,43
+IS,International,2021,310.0,48
+IS,International,2022,260.0,56
+IS,International,2023,319.0,50
+IS,International,2024,309.0,61
+IS,International,2025,369.0,55
+IT,International,1998,3798.0,87
+IT,International,1999,3899.0,96
+IT,International,2000,4283.0,105
+IT,International,2001,4392.0,97
+IT,International,2002,4729.0,99
+IT,International,2003,4971.0,104
+IT,International,2004,5119.0,112
+IT,International,2005,5557.0,107
+IT,International,2006,5964.0,113
+IT,International,2007,6253.0,109
+IT,International,2008,6660.0,116
+IT,International,2009,6947.0,114
+IT,International,2010,7349.0,128
+IT,International,2011,7644.0,124
+IT,International,2012,8032.0,122
+IT,International,2013,8585.0,125
+IT,International,2014,9128.0,136
+IT,International,2015,9046.0,134
+IT,International,2016,9376.0,137
+IT,International,2017,9909.0,140
+IT,International,2018,10273.0,137
+IT,International,2019,10307.0,141
+IT,International,2020,11216.0,152
+IT,International,2021,11812.0,154
+IT,International,2022,11488.0,148
+IT,International,2023,13213.0,146
+IT,International,2024,14454.0,151
+IT,International,2025,16706.0,164
+JO,International,1998,86.0,19
+JO,International,1999,96.0,26
+JO,International,2000,91.0,29
+JO,International,2001,75.0,20
+JO,International,2002,114.0,29
+JO,International,2003,110.0,25
+JO,International,2004,114.0,27
+JO,International,2005,174.0,31
+JO,International,2006,171.0,30
+JO,International,2007,188.0,37
+JO,International,2008,250.0,33
+JO,International,2009,273.0,40
+JO,International,2010,244.0,34
+JO,International,2011,301.0,42
+JO,International,2012,337.0,42
+JO,International,2013,338.0,51
+JO,International,2014,380.0,46
+JO,International,2015,394.0,57
+JO,International,2016,443.0,61
+JO,International,2017,458.0,54
+JO,International,2018,519.0,57
+JO,International,2019,672.0,61
+JO,International,2020,719.0,65
+JO,International,2021,725.0,67
+JO,International,2022,690.0,67
+JO,International,2023,1022.0,75
+JO,International,2024,1148.0,73
+JO,International,2025,1594.0,78
+JP,International,1998,8131.0,101
+JP,International,1999,8232.0,105
+JP,International,2000,8979.0,109
+JP,International,2001,9031.0,104
+JP,International,2002,11046.0,115
+JP,International,2003,9904.0,116
+JP,International,2004,9827.0,115
+JP,International,2005,10488.0,112
+JP,International,2006,10615.0,115
+JP,International,2007,10274.0,111
+JP,International,2008,10555.0,111
+JP,International,2009,10614.0,111
+JP,International,2010,10587.0,105
+JP,International,2011,11275.0,115
+JP,International,2012,11120.0,114
+JP,International,2013,11711.0,113
+JP,International,2014,11442.0,123
+JP,International,2015,11769.0,127
+JP,International,2016,11652.0,132
+JP,International,2017,12205.0,126
+JP,International,2018,12778.0,138
+JP,International,2019,12457.0,139
+JP,International,2020,13051.0,132
+JP,International,2021,12071.0,137
+JP,International,2022,10908.0,126
+JP,International,2023,12264.0,138
+JP,International,2024,13973.0,144
+JP,International,2025,16988.0,158
+KE,International,1998,135.0,35
+KE,International,1999,134.0,32
+KE,International,2000,130.0,30
+KE,International,2001,206.0,37
+KE,International,2002,221.0,40
+KE,International,2003,214.0,49
+KE,International,2004,264.0,39
+KE,International,2005,223.0,44
+KE,International,2006,266.0,44
+KE,International,2007,300.0,52
+KE,International,2008,312.0,55
+KE,International,2009,340.0,51
+KE,International,2010,391.0,61
+KE,International,2011,427.0,65
+KE,International,2012,467.0,64
+KE,International,2013,502.0,70
+KE,International,2014,612.0,77
+KE,International,2015,616.0,69
+KE,International,2016,621.0,80
+KE,International,2017,697.0,81
+KE,International,2018,732.0,85
+KE,International,2019,807.0,90
+KE,International,2020,817.0,88
+KE,International,2021,941.0,88
+KE,International,2022,819.0,87
+KE,International,2023,1019.0,91
+KE,International,2024,1114.0,101
+KE,International,2025,1462.0,101
+KR,International,1998,2196.0,51
+KR,International,1999,2346.0,49
+KR,International,2000,2659.0,57
+KR,International,2001,2917.0,57
+KR,International,2002,3681.0,63
+KR,International,2003,3999.0,66
+KR,International,2004,4210.0,70
+KR,International,2005,4649.0,78
+KR,International,2006,5558.0,81
+KR,International,2007,5573.0,75
+KR,International,2008,6114.0,81
+KR,International,2009,6175.0,82
+KR,International,2010,6654.0,87
+KR,International,2011,7152.0,89
+KR,International,2012,7775.0,96
+KR,International,2013,7934.0,97
+KR,International,2014,7862.0,95
+KR,International,2015,7952.0,96
+KR,International,2016,7989.0,106
+KR,International,2017,7608.0,103
+KR,International,2018,7699.0,102
+KR,International,2019,7773.0,107
+KR,International,2020,7803.0,107
+KR,International,2021,8096.0,113
+KR,International,2022,7610.0,109
+KR,International,2023,10050.0,112
+KR,International,2024,11733.0,122
+KR,International,2025,14915.0,133
+LK,International,1998,91.0,14
+LK,International,1999,88.0,25
+LK,International,2000,92.0,24
+LK,International,2001,111.0,16
+LK,International,2002,92.0,24
+LK,International,2003,123.0,22
+LK,International,2004,129.0,28
+LK,International,2005,132.0,29
+LK,International,2006,169.0,31
+LK,International,2007,163.0,33
+LK,International,2008,190.0,37
+LK,International,2009,282.0,38
+LK,International,2010,237.0,41
+LK,International,2011,291.0,39
+LK,International,2012,327.0,49
+LK,International,2013,319.0,37
+LK,International,2014,346.0,43
+LK,International,2015,395.0,50
+LK,International,2016,417.0,48
+LK,International,2017,409.0,52
+LK,International,2018,467.0,56
+LK,International,2019,523.0,55
+LK,International,2020,644.0,54
+LK,International,2021,740.0,63
+LK,International,2022,525.0,58
+LK,International,2023,740.0,65
+LK,International,2024,800.0,80
+LK,International,2025,1135.0,90
+LT,International,1998,71.0,21
+LT,International,1999,80.0,21
+LT,International,2000,72.0,24
+LT,International,2001,68.0,17
+LT,International,2002,90.0,24
+LT,International,2003,125.0,28
+LT,International,2004,108.0,33
+LT,International,2005,153.0,33
+LT,International,2006,113.0,33
+LT,International,2007,117.0,29
+LT,International,2008,144.0,35
+LT,International,2009,138.0,37
+LT,International,2010,222.0,38
+LT,International,2011,258.0,40
+LT,International,2012,262.0,48
+LT,International,2013,223.0,49
+LT,International,2014,224.0,51
+LT,International,2015,215.0,48
+LT,International,2016,265.0,55
+LT,International,2017,251.0,56
+LT,International,2018,284.0,57
+LT,International,2019,321.0,62
+LT,International,2020,342.0,60
+LT,International,2021,295.0,57
+LT,International,2022,354.0,64
+LT,International,2023,355.0,65
+LT,International,2024,415.0,69
+LT,International,2025,524.0,73
+MA,International,1998,578.0,31
+MA,International,1999,667.0,31
+MA,International,2000,712.0,35
+MA,International,2001,683.0,39
+MA,International,2002,708.0,32
+MA,International,2003,742.0,43
+MA,International,2004,779.0,43
+MA,International,2005,825.0,43
+MA,International,2006,883.0,52
+MA,International,2007,956.0,47
+MA,International,2008,886.0,47
+MA,International,2009,914.0,53
+MA,International,2010,959.0,57
+MA,International,2011,1035.0,61
+MA,International,2012,1107.0,68
+MA,International,2013,1180.0,69
+MA,International,2014,1179.0,73
+MA,International,2015,1101.0,74
+MA,International,2016,937.0,69
+MA,International,2017,1047.0,79
+MA,International,2018,1014.0,83
+MA,International,2019,1076.0,76
+MA,International,2020,1314.0,93
+MA,International,2021,1291.0,95
+MA,International,2022,1153.0,85
+MA,International,2023,1483.0,104
+MA,International,2024,1643.0,104
+MA,International,2025,2098.0,114
+MT,International,1998,30.0,10
+MT,International,1999,54.0,15
+MT,International,2000,43.0,9
+MT,International,2001,39.0,8
+MT,International,2002,46.0,13
+MT,International,2003,35.0,9
+MT,International,2004,36.0,13
+MT,International,2005,51.0,15
+MT,International,2006,43.0,11
+MT,International,2007,59.0,18
+MT,International,2008,60.0,14
+MT,International,2009,72.0,18
+MT,International,2010,78.0,19
+MT,International,2011,87.0,18
+MT,International,2012,108.0,25
+MT,International,2013,98.0,24
+MT,International,2014,122.0,32
+MT,International,2015,103.0,28
+MT,International,2016,130.0,33
+MT,International,2017,160.0,32
+MT,International,2018,192.0,32
+MT,International,2019,150.0,34
+MT,International,2020,157.0,36
+MT,International,2021,176.0,41
+MT,International,2022,168.0,46
+MT,International,2023,196.0,50
+MT,International,2024,222.0,53
+MT,International,2025,279.0,58
+MW,International,1998,22.0,10
+MW,International,1999,24.0,5
+MW,International,2000,27.0,9
+MW,International,2001,28.0,10
+MW,International,2002,28.0,11
+MW,International,2003,39.0,14
+MW,International,2004,38.0,10
+MW,International,2005,43.0,12
+MW,International,2006,49.0,18
+MW,International,2007,56.0,17
+MW,International,2008,50.0,16
+MW,International,2009,64.0,16
+MW,International,2010,49.0,20
+MW,International,2011,76.0,22
+MW,International,2012,82.0,24
+MW,International,2013,96.0,31
+MW,International,2014,94.0,21
+MW,International,2015,124.0,26
+MW,International,2016,112.0,31
+MW,International,2017,134.0,34
+MW,International,2018,141.0,29
+MW,International,2019,134.0,26
+MW,International,2020,194.0,41
+MW,International,2021,182.0,37
+MW,International,2022,150.0,41
+MW,International,2023,223.0,44
+MW,International,2024,254.0,48
+MW,International,2025,406.0,63
+MX,International,1998,1155.0,64
+MX,International,1999,1187.0,64
+MX,International,2000,1300.0,72
+MX,International,2001,1399.0,69
+MX,International,2002,1611.0,68
+MX,International,2003,1716.0,68
+MX,International,2004,1946.0,79
+MX,International,2005,2059.0,78
+MX,International,2006,2309.0,74
+MX,International,2007,2467.0,81
+MX,International,2008,2546.0,86
+MX,International,2009,2897.0,84
+MX,International,2010,3043.0,84
+MX,International,2011,3506.0,85
+MX,International,2012,3741.0,87
+MX,International,2013,3917.0,90
+MX,International,2014,4207.0,91
+MX,International,2015,4483.0,92
+MX,International,2016,4918.0,104
+MX,International,2017,4997.0,100
+MX,International,2018,5378.0,106
+MX,International,2019,5487.0,103
+MX,International,2020,5509.0,102
+MX,International,2021,5640.0,106
+MX,International,2022,5346.0,112
+MX,International,2023,7394.0,118
+MX,International,2024,8637.0,129
+MX,International,2025,11102.0,125
+MY,International,1998,172.0,35
+MY,International,1999,253.0,34
+MY,International,2000,252.0,41
+MY,International,2001,249.0,42
+MY,International,2002,402.0,47
+MY,International,2003,357.0,43
+MY,International,2004,465.0,46
+MY,International,2005,449.0,48
+MY,International,2006,635.0,57
+MY,International,2007,695.0,62
+MY,International,2008,1025.0,65
+MY,International,2009,1105.0,73
+MY,International,2010,1456.0,79
+MY,International,2011,1808.0,84
+MY,International,2012,2082.0,86
+MY,International,2013,2447.0,86
+MY,International,2014,2689.0,97
+MY,International,2015,2649.0,97
+MY,International,2016,2599.0,95
+MY,International,2017,2886.0,91
+MY,International,2018,3146.0,97
+MY,International,2019,3213.0,102
+MY,International,2020,3372.0,99
+MY,International,2021,3738.0,111
+MY,International,2022,3190.0,105
+MY,International,2023,4589.0,114
+MY,International,2024,6090.0,121
+MY,International,2025,7301.0,121
+NG,International,1998,125.0,31
+NG,International,1999,146.0,32
+NG,International,2000,189.0,39
+NG,International,2001,157.0,31
+NG,International,2002,182.0,37
+NG,International,2003,193.0,39
+NG,International,2004,235.0,47
+NG,International,2005,262.0,46
+NG,International,2006,226.0,45
+NG,International,2007,364.0,56
+NG,International,2008,342.0,60
+NG,International,2009,386.0,57
+NG,International,2010,506.0,72
+NG,International,2011,614.0,77
+NG,International,2012,687.0,82
+NG,International,2013,741.0,82
+NG,International,2014,991.0,94
+NG,International,2015,1066.0,95
+NG,International,2016,1257.0,96
+NG,International,2017,1408.0,104
+NG,International,2018,1591.0,98
+NG,International,2019,1917.0,104
+NG,International,2020,2271.0,115
+NG,International,2021,2358.0,119
+NG,International,2022,2037.0,122
+NG,International,2023,2947.0,126
+NG,International,2024,3713.0,147
+NG,International,2025,4964.0,147
+NL,International,1998,3022.0,84
+NL,International,1999,3131.0,78
+NL,International,2000,3454.0,101
+NL,International,2001,3438.0,93
+NL,International,2002,3916.0,90
+NL,International,2003,4184.0,95
+NL,International,2004,4560.0,109
+NL,International,2005,4554.0,93
+NL,International,2006,4762.0,97
+NL,International,2007,4787.0,104
+NL,International,2008,5155.0,108
+NL,International,2009,5526.0,103
+NL,International,2010,5911.0,115
+NL,International,2011,6419.0,113
+NL,International,2012,6674.0,116
+NL,International,2013,6722.0,118
+NL,International,2014,7035.0,113
+NL,International,2015,7259.0,124
+NL,International,2016,7954.0,125
+NL,International,2017,8090.0,125
+NL,International,2018,8607.0,135
+NL,International,2019,9118.0,124
+NL,International,2020,9320.0,126
+NL,International,2021,9567.0,131
+NL,International,2022,8633.0,128
+NL,International,2023,10018.0,138
+NL,International,2024,10152.0,128
+NL,International,2025,11308.0,138
+NO,International,1998,879.0,54
+NO,International,1999,933.0,65
+NO,International,2000,1006.0,65
+NO,International,2001,1054.0,59
+NO,International,2002,1059.0,66
+NO,International,2003,1081.0,77
+NO,International,2004,1198.0,71
+NO,International,2005,1372.0,68
+NO,International,2006,1447.0,81
+NO,International,2007,1565.0,85
+NO,International,2008,1678.0,85
+NO,International,2009,1911.0,92
+NO,International,2010,1985.0,86
+NO,International,2011,2158.0,96
+NO,International,2012,2354.0,91
+NO,International,2013,2374.0,94
+NO,International,2014,2593.0,99
+NO,International,2015,2619.0,91
+NO,International,2016,2989.0,100
+NO,International,2017,3077.0,99
+NO,International,2018,3106.0,101
+NO,International,2019,3346.0,104
+NO,International,2020,3400.0,108
+NO,International,2021,3871.0,109
+NO,International,2022,3422.0,115
+NO,International,2023,4185.0,115
+NO,International,2024,4226.0,112
+NO,International,2025,4681.0,135
+NZ,International,1998,1016.0,62
+NZ,International,1999,1129.0,55
+NZ,International,2000,1142.0,64
+NZ,International,2001,1097.0,51
+NZ,International,2002,1230.0,60
+NZ,International,2003,1352.0,64
+NZ,International,2004,1412.0,68
+NZ,International,2005,1603.0,64
+NZ,International,2006,1654.0,62
+NZ,International,2007,1800.0,74
+NZ,International,2008,1870.0,72
+NZ,International,2009,1902.0,77
+NZ,International,2010,2035.0,72
+NZ,International,2011,2168.0,86
+NZ,International,2012,2243.0,83
+NZ,International,2013,2184.0,81
+NZ,International,2014,2364.0,83
+NZ,International,2015,2412.0,86
+NZ,International,2016,2543.0,88
+NZ,International,2017,2674.0,84
+NZ,International,2018,2606.0,97
+NZ,International,2019,2873.0,103
+NZ,International,2020,2997.0,103
+NZ,International,2021,2853.0,108
+NZ,International,2022,2443.0,97
+NZ,International,2023,2895.0,101
+NZ,International,2024,3163.0,100
+NZ,International,2025,3875.0,106
+PH,International,1998,144.0,25
+PH,International,1999,160.0,36
+PH,International,2000,148.0,26
+PH,International,2001,147.0,26
+PH,International,2002,187.0,27
+PH,International,2003,214.0,30
+PH,International,2004,176.0,33
+PH,International,2005,221.0,39
+PH,International,2006,238.0,35
+PH,International,2007,282.0,42
+PH,International,2008,328.0,37
+PH,International,2009,331.0,46
+PH,International,2010,376.0,53
+PH,International,2011,376.0,46
+PH,International,2012,449.0,51
+PH,International,2013,510.0,61
+PH,International,2014,623.0,53
+PH,International,2015,690.0,59
+PH,International,2016,639.0,65
+PH,International,2017,658.0,64
+PH,International,2018,764.0,76
+PH,International,2019,816.0,75
+PH,International,2020,957.0,80
+PH,International,2021,1039.0,79
+PH,International,2022,1026.0,83
+PH,International,2023,1763.0,90
+PH,International,2024,2345.0,96
+PH,International,2025,3104.0,116
+PK,International,1998,348.0,44
+PK,International,1999,319.0,48
+PK,International,2000,418.0,48
+PK,International,2001,376.0,50
+PK,International,2002,415.0,57
+PK,International,2003,505.0,56
+PK,International,2004,579.0,70
+PK,International,2005,681.0,59
+PK,International,2006,801.0,72
+PK,International,2007,885.0,76
+PK,International,2008,1084.0,82
+PK,International,2009,1299.0,88
+PK,International,2010,1375.0,85
+PK,International,2011,1680.0,100
+PK,International,2012,2083.0,91
+PK,International,2013,2466.0,95
+PK,International,2014,3041.0,99
+PK,International,2015,3207.0,97
+PK,International,2016,3359.0,99
+PK,International,2017,3865.0,105
+PK,International,2018,4322.0,106
+PK,International,2019,5055.0,113
+PK,International,2020,5836.0,122
+PK,International,2021,6675.0,122
+PK,International,2022,6483.0,120
+PK,International,2023,7776.0,135
+PK,International,2024,9974.0,139
+PK,International,2025,14355.0,151
+PL,International,1998,1415.0,61
+PL,International,1999,1328.0,66
+PL,International,2000,1434.0,71
+PL,International,2001,1398.0,72
+PL,International,2002,1488.0,70
+PL,International,2003,1635.0,73
+PL,International,2004,1626.0,70
+PL,International,2005,1832.0,79
+PL,International,2006,1790.0,79
+PL,International,2007,1846.0,80
+PL,International,2008,1882.0,75
+PL,International,2009,2007.0,81
+PL,International,2010,2033.0,89
+PL,International,2011,2306.0,85
+PL,International,2012,2510.0,89
+PL,International,2013,2858.0,89
+PL,International,2014,3181.0,96
+PL,International,2015,3149.0,98
+PL,International,2016,3433.0,104
+PL,International,2017,3427.0,105
+PL,International,2018,3462.0,106
+PL,International,2019,3438.0,108
+PL,International,2020,3586.0,101
+PL,International,2021,3640.0,113
+PL,International,2022,3612.0,105
+PL,International,2023,4201.0,115
+PL,International,2024,4530.0,108
+PL,International,2025,5615.0,130
+PR,International,1998,160.0,22
+PR,International,1999,145.0,22
+PR,International,2000,166.0,28
+PR,International,2001,151.0,24
+PR,International,2002,190.0,29
+PR,International,2003,219.0,29
+PR,International,2004,230.0,35
+PR,International,2005,251.0,35
+PR,International,2006,342.0,37
+PR,International,2007,279.0,28
+PR,International,2008,314.0,41
+PR,International,2009,318.0,34
+PR,International,2010,327.0,35
+PR,International,2011,320.0,40
+PR,International,2012,411.0,41
+PR,International,2013,363.0,39
+PR,International,2014,392.0,44
+PR,International,2015,462.0,36
+PR,International,2016,463.0,36
+PR,International,2017,526.0,46
+PR,International,2018,532.0,40
+PR,International,2019,576.0,48
+PR,International,2020,677.0,52
+PR,International,2021,545.0,50
+PR,International,2022,430.0,45
+PR,International,2023,579.0,53
+PR,International,2024,624.0,53
+PR,International,2025,963.0,67
+PT,International,1998,551.0,45
+PT,International,1999,677.0,48
+PT,International,2000,670.0,49
+PT,International,2001,679.0,56
+PT,International,2002,987.0,59
+PT,International,2003,945.0,62
+PT,International,2004,988.0,64
+PT,International,2005,1219.0,73
+PT,International,2006,1563.0,67
+PT,International,2007,1435.0,76
+PT,International,2008,1835.0,78
+PT,International,2009,1979.0,82
+PT,International,2010,2394.0,83
+PT,International,2011,2705.0,84
+PT,International,2012,3026.0,91
+PT,International,2013,3300.0,88
+PT,International,2014,3546.0,94
+PT,International,2015,3544.0,99
+PT,International,2016,3906.0,99
+PT,International,2017,4100.0,103
+PT,International,2018,4333.0,107
+PT,International,2019,5167.0,107
+PT,International,2020,5237.0,109
+PT,International,2021,5606.0,114
+PT,International,2022,5130.0,119
+PT,International,2023,5996.0,121
+PT,International,2024,6566.0,122
+PT,International,2025,7988.0,127
+RO,International,1998,277.0,31
+RO,International,1999,256.0,40
+RO,International,2000,270.0,36
+RO,International,2001,288.0,40
+RO,International,2002,366.0,42
+RO,International,2003,361.0,43
+RO,International,2004,370.0,48
+RO,International,2005,403.0,47
+RO,International,2006,452.0,50
+RO,International,2007,602.0,55
+RO,International,2008,732.0,59
+RO,International,2009,817.0,65
+RO,International,2010,907.0,59
+RO,International,2011,902.0,60
+RO,International,2012,939.0,69
+RO,International,2013,1147.0,64
+RO,International,2014,1216.0,73
+RO,International,2015,1315.0,73
+RO,International,2016,1208.0,78
+RO,International,2017,1292.0,88
+RO,International,2018,1220.0,85
+RO,International,2019,1364.0,82
+RO,International,2020,1385.0,89
+RO,International,2021,1471.0,92
+RO,International,2022,1325.0,87
+RO,International,2023,1516.0,88
+RO,International,2024,1715.0,86
+RO,International,2025,2200.0,108
+RS,International,1998,257.0,36
+RS,International,1999,240.0,34
+RS,International,2000,248.0,41
+RS,International,2001,254.0,39
+RS,International,2002,398.0,55
+RS,International,2003,485.0,52
+RS,International,2004,539.0,47
+RS,International,2005,569.0,47
+RS,International,2006,552.0,52
+RS,International,2007,664.0,51
+RS,International,2008,689.0,53
+RS,International,2009,891.0,63
+RS,International,2010,857.0,64
+RS,International,2011,914.0,63
+RS,International,2012,1037.0,68
+RS,International,2013,937.0,68
+RS,International,2014,1019.0,71
+RS,International,2015,1140.0,76
+RS,International,2016,1117.0,72
+RS,International,2017,970.0,71
+RS,International,2018,1055.0,82
+RS,International,2019,1078.0,78
+RS,International,2020,1053.0,84
+RS,International,2021,1069.0,86
+RS,International,2022,1149.0,82
+RS,International,2023,1171.0,90
+RS,International,2024,959.0,76
+RS,International,2025,1311.0,90
+RU,International,1998,2275.0,68
+RU,International,1999,2238.0,76
+RU,International,2000,2714.0,82
+RU,International,2001,2739.0,83
+RU,International,2002,2852.0,76
+RU,International,2003,2730.0,80
+RU,International,2004,2926.0,88
+RU,International,2005,3316.0,88
+RU,International,2006,3298.0,93
+RU,International,2007,3563.0,92
+RU,International,2008,3555.0,89
+RU,International,2009,3655.0,100
+RU,International,2010,4220.0,91
+RU,International,2011,4551.0,111
+RU,International,2012,4678.0,103
+RU,International,2013,5080.0,103
+RU,International,2014,6069.0,116
+RU,International,2015,7080.0,112
+RU,International,2016,6855.0,123
+RU,International,2017,7025.0,124
+RU,International,2018,7975.0,126
+RU,International,2019,9369.0,133
+RU,International,2020,9889.0,135
+RU,International,2021,9803.0,134
+RU,International,2022,7797.0,124
+RU,International,2023,9300.0,143
+RU,International,2024,9750.0,134
+RU,International,2025,11018.0,143
+SA,International,1998,268.0,39
+SA,International,1999,249.0,32
+SA,International,2000,299.0,43
+SA,International,2001,281.0,40
+SA,International,2002,306.0,44
+SA,International,2003,325.0,42
+SA,International,2004,377.0,46
+SA,International,2005,346.0,48
+SA,International,2006,396.0,41
+SA,International,2007,442.0,46
+SA,International,2008,605.0,53
+SA,International,2009,721.0,55
+SA,International,2010,1111.0,67
+SA,International,2011,1552.0,79
+SA,International,2012,1827.0,76
+SA,International,2013,2207.0,75
+SA,International,2014,2449.0,83
+SA,International,2015,2764.0,83
+SA,International,2016,2836.0,85
+SA,International,2017,3047.0,85
+SA,International,2018,3334.0,95
+SA,International,2019,3884.0,94
+SA,International,2020,4752.0,95
+SA,International,2021,4537.0,108
+SA,International,2022,4476.0,103
+SA,International,2023,5521.0,112
+SA,International,2024,6281.0,116
+SA,International,2025,7392.0,119
+SE,International,1998,1984.0,88
+SE,International,1999,2114.0,84
+SE,International,2000,2178.0,89
+SE,International,2001,2360.0,85
+SE,International,2002,2447.0,90
+SE,International,2003,2626.0,92
+SE,International,2004,2748.0,93
+SE,International,2005,2754.0,91
+SE,International,2006,2939.0,88
+SE,International,2007,3027.0,96
+SE,International,2008,3396.0,94
+SE,International,2009,3557.0,99
+SE,International,2010,3689.0,101
+SE,International,2011,3917.0,105
+SE,International,2012,4287.0,105
+SE,International,2013,4493.0,115
+SE,International,2014,5143.0,109
+SE,International,2015,4853.0,105
+SE,International,2016,5403.0,116
+SE,International,2017,5142.0,115
+SE,International,2018,5379.0,118
+SE,International,2019,5534.0,116
+SE,International,2020,5799.0,125
+SE,International,2021,5713.0,120
+SE,International,2022,5443.0,120
+SE,International,2023,6122.0,129
+SE,International,2024,6348.0,120
+SE,International,2025,6986.0,124
+SI,International,1998,185.0,35
+SI,International,1999,177.0,34
+SI,International,2000,186.0,33
+SI,International,2001,202.0,39
+SI,International,2002,219.0,38
+SI,International,2003,266.0,36
+SI,International,2004,276.0,38
+SI,International,2005,329.0,42
+SI,International,2006,353.0,40
+SI,International,2007,389.0,44
+SI,International,2008,380.0,49
+SI,International,2009,427.0,45
+SI,International,2010,419.0,53
+SI,International,2011,485.0,48
+SI,International,2012,434.0,52
+SI,International,2013,559.0,49
+SI,International,2014,621.0,61
+SI,International,2015,671.0,59
+SI,International,2016,655.0,61
+SI,International,2017,650.0,61
+SI,International,2018,710.0,65
+SI,International,2019,716.0,66
+SI,International,2020,774.0,66
+SI,International,2021,810.0,78
+SI,International,2022,722.0,77
+SI,International,2023,871.0,76
+SI,International,2024,899.0,80
+SI,International,2025,1470.0,99
+SK,International,1998,447.0,45
+SK,International,1999,425.0,45
+SK,International,2000,513.0,54
+SK,International,2001,502.0,43
+SK,International,2002,525.0,48
+SK,International,2003,515.0,45
+SK,International,2004,603.0,52
+SK,International,2005,583.0,49
+SK,International,2006,650.0,57
+SK,International,2007,641.0,57
+SK,International,2008,725.0,56
+SK,International,2009,793.0,61
+SK,International,2010,793.0,59
+SK,International,2011,721.0,61
+SK,International,2012,814.0,66
+SK,International,2013,873.0,64
+SK,International,2014,994.0,71
+SK,International,2015,935.0,72
+SK,International,2016,1029.0,76
+SK,International,2017,1012.0,70
+SK,International,2018,1076.0,72
+SK,International,2019,1145.0,76
+SK,International,2020,1154.0,83
+SK,International,2021,1082.0,77
+SK,International,2022,997.0,79
+SK,International,2023,1201.0,90
+SK,International,2024,1308.0,83
+SK,International,2025,1877.0,93
+TH,International,1998,275.0,32
+TH,International,1999,290.0,37
+TH,International,2000,334.0,35
+TH,International,2001,357.0,36
+TH,International,2002,428.0,41
+TH,International,2003,581.0,36
+TH,International,2004,531.0,43
+TH,International,2005,616.0,45
+TH,International,2006,814.0,53
+TH,International,2007,725.0,56
+TH,International,2008,812.0,52
+TH,International,2009,812.0,53
+TH,International,2010,969.0,57
+TH,International,2011,907.0,62
+TH,International,2012,998.0,61
+TH,International,2013,1073.0,61
+TH,International,2014,1159.0,64
+TH,International,2015,1299.0,73
+TH,International,2016,1367.0,67
+TH,International,2017,1477.0,82
+TH,International,2018,1402.0,74
+TH,International,2019,1465.0,79
+TH,International,2020,1573.0,80
+TH,International,2021,1943.0,89
+TH,International,2022,1742.0,81
+TH,International,2023,2181.0,87
+TH,International,2024,2487.0,87
+TH,International,2025,3016.0,103
+TN,International,1998,148.0,19
+TN,International,1999,141.0,22
+TN,International,2000,196.0,27
+TN,International,2001,212.0,21
+TN,International,2002,198.0,25
+TN,International,2003,257.0,28
+TN,International,2004,361.0,35
+TN,International,2005,367.0,40
+TN,International,2006,478.0,38
+TN,International,2007,562.0,43
+TN,International,2008,579.0,50
+TN,International,2009,637.0,55
+TN,International,2010,685.0,55
+TN,International,2011,789.0,57
+TN,International,2012,790.0,59
+TN,International,2013,809.0,63
+TN,International,2014,941.0,68
+TN,International,2015,1035.0,67
+TN,International,2016,1037.0,65
+TN,International,2017,1019.0,72
+TN,International,2018,1005.0,76
+TN,International,2019,973.0,80
+TN,International,2020,972.0,77
+TN,International,2021,1170.0,80
+TN,International,2022,930.0,75
+TN,International,2023,1081.0,93
+TN,International,2024,1256.0,83
+TN,International,2025,1442.0,93
+TR,International,1998,495.0,57
+TR,International,1999,585.0,46
+TR,International,2000,635.0,51
+TR,International,2001,748.0,52
+TR,International,2002,845.0,70
+TR,International,2003,1036.0,66
+TR,International,2004,1179.0,69
+TR,International,2005,1187.0,73
+TR,International,2006,1385.0,66
+TR,International,2007,1363.0,67
+TR,International,2008,1275.0,76
+TR,International,2009,1518.0,74
+TR,International,2010,1635.0,80
+TR,International,2011,1928.0,85
+TR,International,2012,2121.0,97
+TR,International,2013,2497.0,101
+TR,International,2014,2855.0,105
+TR,International,2015,3028.0,101
+TR,International,2016,3137.0,111
+TR,International,2017,3148.0,109
+TR,International,2018,3335.0,112
+TR,International,2019,3673.0,119
+TR,International,2020,4029.0,129
+TR,International,2021,4452.0,129
+TR,International,2022,3879.0,127
+TR,International,2023,5184.0,136
+TR,International,2024,5414.0,128
+TR,International,2025,6565.0,134
+TZ,International,1998,70.0,23
+TZ,International,1999,90.0,24
+TZ,International,2000,83.0,25
+TZ,International,2001,98.0,28
+TZ,International,2002,97.0,27
+TZ,International,2003,92.0,24
+TZ,International,2004,108.0,27
+TZ,International,2005,115.0,28
+TZ,International,2006,165.0,30
+TZ,International,2007,169.0,41
+TZ,International,2008,149.0,33
+TZ,International,2009,174.0,39
+TZ,International,2010,212.0,40
+TZ,International,2011,214.0,42
+TZ,International,2012,243.0,49
+TZ,International,2013,312.0,48
+TZ,International,2014,268.0,52
+TZ,International,2015,429.0,57
+TZ,International,2016,306.0,50
+TZ,International,2017,293.0,55
+TZ,International,2018,336.0,56
+TZ,International,2019,339.0,58
+TZ,International,2020,390.0,65
+TZ,International,2021,487.0,64
+TZ,International,2022,449.0,77
+TZ,International,2023,601.0,76
+TZ,International,2024,628.0,85
+TZ,International,2025,847.0,93
+UA,International,1998,516.0,49
+UA,International,1999,528.0,48
+UA,International,2000,605.0,53
+UA,International,2001,592.0,54
+UA,International,2002,673.0,53
+UA,International,2003,609.0,50
+UA,International,2004,625.0,51
+UA,International,2005,624.0,58
+UA,International,2006,684.0,59
+UA,International,2007,670.0,53
+UA,International,2008,732.0,57
+UA,International,2009,759.0,56
+UA,International,2010,786.0,56
+UA,International,2011,817.0,57
+UA,International,2012,955.0,64
+UA,International,2013,1110.0,70
+UA,International,2014,1125.0,71
+UA,International,2015,1250.0,67
+UA,International,2016,1474.0,74
+UA,International,2017,1706.0,83
+UA,International,2018,2012.0,89
+UA,International,2019,2580.0,90
+UA,International,2020,3086.0,96
+UA,International,2021,3174.0,94
+UA,International,2022,2660.0,92
+UA,International,2023,3470.0,108
+UA,International,2024,3500.0,103
+UA,International,2025,3847.0,107
+UG,International,1998,71.0,21
+UG,International,1999,76.0,26
+UG,International,2000,78.0,21
+UG,International,2001,83.0,22
+UG,International,2002,78.0,19
+UG,International,2003,107.0,31
+UG,International,2004,119.0,35
+UG,International,2005,126.0,33
+UG,International,2006,126.0,34
+UG,International,2007,147.0,34
+UG,International,2008,133.0,34
+UG,International,2009,178.0,34
+UG,International,2010,188.0,35
+UG,International,2011,190.0,40
+UG,International,2012,228.0,47
+UG,International,2013,260.0,47
+UG,International,2014,317.0,47
+UG,International,2015,285.0,51
+UG,International,2016,287.0,57
+UG,International,2017,329.0,65
+UG,International,2018,346.0,63
+UG,International,2019,348.0,58
+UG,International,2020,476.0,69
+UG,International,2021,477.0,65
+UG,International,2022,481.0,76
+UG,International,2023,630.0,84
+UG,International,2024,742.0,90
+UG,International,2025,1337.0,106
+US,International,1998,40102.0,168
+US,International,1999,42170.0,169
+US,International,2000,45079.0,182
+US,International,2001,47495.0,170
+US,International,2002,57545.0,174
+US,International,2003,58216.0,175
+US,International,2004,59643.0,179
+US,International,2005,64354.0,185
+US,International,2006,67387.0,187
+US,International,2007,68786.0,177
+US,International,2008,73385.0,186
+US,International,2009,77345.0,190
+US,International,2010,81579.0,189
+US,International,2011,86421.0,183
+US,International,2012,91187.0,191
+US,International,2013,94113.0,194
+US,International,2014,98961.0,191
+US,International,2015,100771.0,194
+US,International,2016,103054.0,201
+US,International,2017,107387.0,199
+US,International,2018,110264.0,202
+US,International,2019,115493.0,206
+US,International,2020,125521.0,209
+US,International,2021,116186.0,203
+US,International,2022,109392.0,205
+US,International,2023,142682.0,210
+US,International,2024,159055.0,208
+US,International,2025,202526.0,214
+VE,International,1998,223.0,32
+VE,International,1999,260.0,38
+VE,International,2000,305.0,28
+VE,International,2001,314.0,38
+VE,International,2002,422.0,40
+VE,International,2003,473.0,38
+VE,International,2004,417.0,40
+VE,International,2005,518.0,43
+VE,International,2006,634.0,43
+VE,International,2007,780.0,48
+VE,International,2008,760.0,40
+VE,International,2009,731.0,40
+VE,International,2010,792.0,48
+VE,International,2011,744.0,45
+VE,International,2012,701.0,45
+VE,International,2013,748.0,39
+VE,International,2014,750.0,44
+VE,International,2015,664.0,49
+VE,International,2016,640.0,41
+VE,International,2017,616.0,44
+VE,International,2018,567.0,45
+VE,International,2019,519.0,45
+VE,International,2020,597.0,50
+VE,International,2021,720.0,54
+VE,International,2022,622.0,45
+VE,International,2023,776.0,48
+VE,International,2024,736.0,57
+VE,International,2025,818.0,51
+VN,International,1998,161.0,30
+VN,International,1999,185.0,31
+VN,International,2000,286.0,39
+VN,International,2001,323.0,40
+VN,International,2002,357.0,37
+VN,International,2003,434.0,36
+VN,International,2004,371.0,45
+VN,International,2005,404.0,40
+VN,International,2006,467.0,44
+VN,International,2007,457.0,45
+VN,International,2008,573.0,48
+VN,International,2009,674.0,53
+VN,International,2010,676.0,49
+VN,International,2011,781.0,57
+VN,International,2012,930.0,61
+VN,International,2013,1045.0,71
+VN,International,2014,1211.0,66
+VN,International,2015,1273.0,65
+VN,International,2016,1499.0,72
+VN,International,2017,1799.0,85
+VN,International,2018,1972.0,84
+VN,International,2019,2504.0,80
+VN,International,2020,2897.0,88
+VN,International,2021,2901.0,88
+VN,International,2022,2759.0,89
+VN,International,2023,3551.0,104
+VN,International,2024,4331.0,103
+VN,International,2025,5638.0,118
+ZA,International,1998,678.0,57
+ZA,International,1999,802.0,65
+ZA,International,2000,803.0,66
+ZA,International,2001,794.0,71
+ZA,International,2002,921.0,72
+ZA,International,2003,945.0,83
+ZA,International,2004,1103.0,85
+ZA,International,2005,1170.0,81
+ZA,International,2006,1268.0,83
+ZA,International,2007,1250.0,80
+ZA,International,2008,1409.0,88
+ZA,International,2009,1435.0,84
+ZA,International,2010,1504.0,94
+ZA,International,2011,1791.0,94
+ZA,International,2012,1834.0,100
+ZA,International,2013,2104.0,109
+ZA,International,2014,2233.0,105
+ZA,International,2015,2226.0,102
+ZA,International,2016,2368.0,109
+ZA,International,2017,2236.0,104
+ZA,International,2018,2504.0,114
+ZA,International,2019,2544.0,115
+ZA,International,2020,2540.0,119
+ZA,International,2021,2335.0,110
+ZA,International,2022,2367.0,119
+ZA,International,2023,2827.0,125
+ZA,International,2024,3366.0,129
+ZA,International,2025,3997.0,125
+AE,Domestic intercity,1998,7.0,3
+AE,Domestic intercity,1999,9.0,3
+AE,Domestic intercity,2000,5.0,3
+AE,Domestic intercity,2001,7.0,3
+AE,Domestic intercity,2002,11.0,4
+AE,Domestic intercity,2003,6.0,4
+AE,Domestic intercity,2004,7.0,2
+AE,Domestic intercity,2005,13.0,3
+AE,Domestic intercity,2006,14.0,4
+AE,Domestic intercity,2007,14.0,4
+AE,Domestic intercity,2008,30.0,5
+AE,Domestic intercity,2009,17.0,4
+AE,Domestic intercity,2010,33.0,4
+AE,Domestic intercity,2011,37.0,5
+AE,Domestic intercity,2012,36.0,5
+AE,Domestic intercity,2013,34.0,5
+AE,Domestic intercity,2014,39.0,5
+AE,Domestic intercity,2015,71.0,6
+AE,Domestic intercity,2016,81.0,6
+AE,Domestic intercity,2017,83.0,6
+AE,Domestic intercity,2018,100.0,6
+AE,Domestic intercity,2019,132.0,7
+AE,Domestic intercity,2020,164.0,7
+AE,Domestic intercity,2021,178.0,7
+AE,Domestic intercity,2022,241.0,6
+AE,Domestic intercity,2023,344.0,6
+AE,Domestic intercity,2024,353.0,7
+AE,Domestic intercity,2025,495.0,7
+AM,Domestic intercity,1998,10.0,3
+AM,Domestic intercity,1999,15.0,3
+AM,Domestic intercity,2000,10.0,3
+AM,Domestic intercity,2001,5.0,3
+AM,Domestic intercity,2002,15.0,2
+AM,Domestic intercity,2003,11.0,2
+AM,Domestic intercity,2004,11.0,2
+AM,Domestic intercity,2005,14.0,4
+AM,Domestic intercity,2006,6.0,2
+AM,Domestic intercity,2007,12.0,2
+AM,Domestic intercity,2008,15.0,2
+AM,Domestic intercity,2009,13.0,3
+AM,Domestic intercity,2010,20.0,4
+AM,Domestic intercity,2011,10.0,3
+AM,Domestic intercity,2012,11.0,3
+AM,Domestic intercity,2013,11.0,3
+AM,Domestic intercity,2014,11.0,2
+AM,Domestic intercity,2015,13.0,3
+AM,Domestic intercity,2016,12.0,2
+AM,Domestic intercity,2017,13.0,3
+AM,Domestic intercity,2018,6.0,4
+AM,Domestic intercity,2019,14.0,2
+AM,Domestic intercity,2020,20.0,2
+AM,Domestic intercity,2021,15.0,4
+AM,Domestic intercity,2022,20.0,4
+AM,Domestic intercity,2023,30.0,4
+AM,Domestic intercity,2024,27.0,5
+AM,Domestic intercity,2025,29.0,4
+AR,Domestic intercity,1998,519.0,30
+AR,Domestic intercity,1999,584.0,35
+AR,Domestic intercity,2000,732.0,36
+AR,Domestic intercity,2001,767.0,33
+AR,Domestic intercity,2002,873.0,37
+AR,Domestic intercity,2003,948.0,36
+AR,Domestic intercity,2004,986.0,39
+AR,Domestic intercity,2005,1151.0,42
+AR,Domestic intercity,2006,1343.0,40
+AR,Domestic intercity,2007,1483.0,40
+AR,Domestic intercity,2008,1741.0,42
+AR,Domestic intercity,2009,2034.0,39
+AR,Domestic intercity,2010,2420.0,45
+AR,Domestic intercity,2011,2609.0,47
+AR,Domestic intercity,2012,2892.0,47
+AR,Domestic intercity,2013,3256.0,48
+AR,Domestic intercity,2014,3520.0,49
+AR,Domestic intercity,2015,3843.0,51
+AR,Domestic intercity,2016,4302.0,50
+AR,Domestic intercity,2017,4505.0,49
+AR,Domestic intercity,2018,4754.0,51
+AR,Domestic intercity,2019,4732.0,51
+AR,Domestic intercity,2020,5256.0,52
+AR,Domestic intercity,2021,5086.0,49
+AR,Domestic intercity,2022,4739.0,53
+AR,Domestic intercity,2023,5023.0,51
+AR,Domestic intercity,2024,5431.0,51
+AR,Domestic intercity,2025,5848.0,53
+AT,Domestic intercity,1998,382.0,27
+AT,Domestic intercity,1999,407.0,23
+AT,Domestic intercity,2000,426.0,30
+AT,Domestic intercity,2001,460.0,28
+AT,Domestic intercity,2002,605.0,30
+AT,Domestic intercity,2003,577.0,30
+AT,Domestic intercity,2004,593.0,31
+AT,Domestic intercity,2005,620.0,32
+AT,Domestic intercity,2006,631.0,32
+AT,Domestic intercity,2007,781.0,32
+AT,Domestic intercity,2008,790.0,40
+AT,Domestic intercity,2009,846.0,41
+AT,Domestic intercity,2010,807.0,40
+AT,Domestic intercity,2011,827.0,38
+AT,Domestic intercity,2012,778.0,37
+AT,Domestic intercity,2013,911.0,38
+AT,Domestic intercity,2014,955.0,38
+AT,Domestic intercity,2015,1030.0,44
+AT,Domestic intercity,2016,979.0,47
+AT,Domestic intercity,2017,996.0,41
+AT,Domestic intercity,2018,1057.0,45
+AT,Domestic intercity,2019,1081.0,46
+AT,Domestic intercity,2020,1220.0,45
+AT,Domestic intercity,2021,1240.0,48
+AT,Domestic intercity,2022,1169.0,44
+AT,Domestic intercity,2023,1257.0,47
+AT,Domestic intercity,2024,1267.0,46
+AT,Domestic intercity,2025,1411.0,52
+AU,Domestic intercity,1998,1929.0,43
+AU,Domestic intercity,1999,2073.0,46
+AU,Domestic intercity,2000,2265.0,46
+AU,Domestic intercity,2001,2314.0,48
+AU,Domestic intercity,2002,2584.0,49
+AU,Domestic intercity,2003,2766.0,49
+AU,Domestic intercity,2004,3002.0,48
+AU,Domestic intercity,2005,3059.0,47
+AU,Domestic intercity,2006,3308.0,53
+AU,Domestic intercity,2007,3670.0,54
+AU,Domestic intercity,2008,3742.0,56
+AU,Domestic intercity,2009,4118.0,51
+AU,Domestic intercity,2010,4351.0,54
+AU,Domestic intercity,2011,4674.0,51
+AU,Domestic intercity,2012,4798.0,54
+AU,Domestic intercity,2013,5011.0,63
+AU,Domestic intercity,2014,5382.0,60
+AU,Domestic intercity,2015,5719.0,58
+AU,Domestic intercity,2016,6172.0,58
+AU,Domestic intercity,2017,6344.0,61
+AU,Domestic intercity,2018,6738.0,60
+AU,Domestic intercity,2019,7042.0,60
+AU,Domestic intercity,2020,7542.0,61
+AU,Domestic intercity,2021,7188.0,62
+AU,Domestic intercity,2022,7059.0,61
+AU,Domestic intercity,2023,7756.0,64
+AU,Domestic intercity,2024,7925.0,65
+AU,Domestic intercity,2025,8552.0,62
+BD,Domestic intercity,1998,14.0,4
+BD,Domestic intercity,1999,20.0,6
+BD,Domestic intercity,2000,29.0,7
+BD,Domestic intercity,2001,29.0,7
+BD,Domestic intercity,2002,35.0,6
+BD,Domestic intercity,2003,40.0,7
+BD,Domestic intercity,2004,29.0,7
+BD,Domestic intercity,2005,39.0,7
+BD,Domestic intercity,2006,64.0,8
+BD,Domestic intercity,2007,112.0,9
+BD,Domestic intercity,2008,96.0,9
+BD,Domestic intercity,2009,124.0,9
+BD,Domestic intercity,2010,140.0,9
+BD,Domestic intercity,2011,159.0,9
+BD,Domestic intercity,2012,388.0,13
+BD,Domestic intercity,2013,498.0,13
+BD,Domestic intercity,2014,594.0,14
+BD,Domestic intercity,2015,712.0,14
+BD,Domestic intercity,2016,869.0,15
+BD,Domestic intercity,2017,923.0,15
+BD,Domestic intercity,2018,1063.0,17
+BD,Domestic intercity,2019,1220.0,17
+BD,Domestic intercity,2020,1466.0,18
+BD,Domestic intercity,2021,1586.0,18
+BD,Domestic intercity,2022,1612.0,17
+BD,Domestic intercity,2023,2037.0,19
+BD,Domestic intercity,2024,2523.0,21
+BD,Domestic intercity,2025,2886.0,16
+BE,Domestic intercity,1998,792.0,42
+BE,Domestic intercity,1999,841.0,41
+BE,Domestic intercity,2000,958.0,38
+BE,Domestic intercity,2001,913.0,44
+BE,Domestic intercity,2002,1018.0,49
+BE,Domestic intercity,2003,1026.0,54
+BE,Domestic intercity,2004,1106.0,52
+BE,Domestic intercity,2005,1263.0,49
+BE,Domestic intercity,2006,1276.0,60
+BE,Domestic intercity,2007,1395.0,57
+BE,Domestic intercity,2008,1465.0,57
+BE,Domestic intercity,2009,1520.0,53
+BE,Domestic intercity,2010,1624.0,54
+BE,Domestic intercity,2011,1620.0,62
+BE,Domestic intercity,2012,1670.0,59
+BE,Domestic intercity,2013,1886.0,65
+BE,Domestic intercity,2014,1941.0,69
+BE,Domestic intercity,2015,2021.0,67
+BE,Domestic intercity,2016,1984.0,61
+BE,Domestic intercity,2017,2000.0,67
+BE,Domestic intercity,2018,2055.0,67
+BE,Domestic intercity,2019,2088.0,72
+BE,Domestic intercity,2020,2342.0,68
+BE,Domestic intercity,2021,2359.0,73
+BE,Domestic intercity,2022,2275.0,67
+BE,Domestic intercity,2023,2538.0,69
+BE,Domestic intercity,2024,2546.0,69
+BE,Domestic intercity,2025,2786.0,76
+BG,Domestic intercity,1998,40.0,7
+BG,Domestic intercity,1999,31.0,7
+BG,Domestic intercity,2000,31.0,8
+BG,Domestic intercity,2001,36.0,9
+BG,Domestic intercity,2002,37.0,7
+BG,Domestic intercity,2003,46.0,9
+BG,Domestic intercity,2004,41.0,10
+BG,Domestic intercity,2005,48.0,11
+BG,Domestic intercity,2006,58.0,12
+BG,Domestic intercity,2007,75.0,11
+BG,Domestic intercity,2008,65.0,11
+BG,Domestic intercity,2009,78.0,11
+BG,Domestic intercity,2010,86.0,12
+BG,Domestic intercity,2011,110.0,9
+BG,Domestic intercity,2012,95.0,11
+BG,Domestic intercity,2013,127.0,12
+BG,Domestic intercity,2014,181.0,14
+BG,Domestic intercity,2015,174.0,15
+BG,Domestic intercity,2016,209.0,15
+BG,Domestic intercity,2017,239.0,14
+BG,Domestic intercity,2018,292.0,15
+BG,Domestic intercity,2019,264.0,13
+BG,Domestic intercity,2020,279.0,16
+BG,Domestic intercity,2021,284.0,15
+BG,Domestic intercity,2022,337.0,14
+BG,Domestic intercity,2023,384.0,16
+BG,Domestic intercity,2024,387.0,16
+BG,Domestic intercity,2025,406.0,17
+BR,Domestic intercity,1998,1839.0,87
+BR,Domestic intercity,1999,2222.0,107
+BR,Domestic intercity,2000,2595.0,103
+BR,Domestic intercity,2001,3131.0,127
+BR,Domestic intercity,2002,3796.0,131
+BR,Domestic intercity,2003,4567.0,134
+BR,Domestic intercity,2004,5344.0,156
+BR,Domestic intercity,2005,6139.0,147
+BR,Domestic intercity,2006,7283.0,162
+BR,Domestic intercity,2007,8887.0,172
+BR,Domestic intercity,2008,10192.0,177
+BR,Domestic intercity,2009,11892.0,186
+BR,Domestic intercity,2010,13782.0,189
+BR,Domestic intercity,2011,15827.0,193
+BR,Domestic intercity,2012,17843.0,195
+BR,Domestic intercity,2013,19680.0,194
+BR,Domestic intercity,2014,22243.0,203
+BR,Domestic intercity,2015,25033.0,205
+BR,Domestic intercity,2016,27498.0,212
+BR,Domestic intercity,2017,30520.0,213
+BR,Domestic intercity,2018,33781.0,208
+BR,Domestic intercity,2019,35619.0,211
+BR,Domestic intercity,2020,40524.0,221
+BR,Domestic intercity,2021,38908.0,219
+BR,Domestic intercity,2022,34742.0,214
+BR,Domestic intercity,2023,44652.0,218
+BR,Domestic intercity,2024,46942.0,216
+BR,Domestic intercity,2025,49823.0,227
+BY,Domestic intercity,1998,19.0,4
+BY,Domestic intercity,1999,25.0,4
+BY,Domestic intercity,2000,26.0,5
+BY,Domestic intercity,2001,32.0,6
+BY,Domestic intercity,2002,33.0,5
+BY,Domestic intercity,2003,26.0,5
+BY,Domestic intercity,2004,27.0,5
+BY,Domestic intercity,2005,45.0,6
+BY,Domestic intercity,2006,35.0,8
+BY,Domestic intercity,2007,37.0,6
+BY,Domestic intercity,2008,41.0,7
+BY,Domestic intercity,2009,40.0,6
+BY,Domestic intercity,2010,36.0,6
+BY,Domestic intercity,2011,37.0,6
+BY,Domestic intercity,2012,36.0,6
+BY,Domestic intercity,2013,40.0,7
+BY,Domestic intercity,2014,49.0,8
+BY,Domestic intercity,2015,60.0,5
+BY,Domestic intercity,2016,57.0,6
+BY,Domestic intercity,2017,54.0,8
+BY,Domestic intercity,2018,51.0,8
+BY,Domestic intercity,2019,80.0,9
+BY,Domestic intercity,2020,66.0,10
+BY,Domestic intercity,2021,84.0,8
+BY,Domestic intercity,2022,70.0,8
+BY,Domestic intercity,2023,59.0,6
+BY,Domestic intercity,2024,52.0,10
+BY,Domestic intercity,2025,62.0,10
+CA,Domestic intercity,1998,3559.0,98
+CA,Domestic intercity,1999,3586.0,99
+CA,Domestic intercity,2000,3906.0,100
+CA,Domestic intercity,2001,3872.0,100
+CA,Domestic intercity,2002,4704.0,109
+CA,Domestic intercity,2003,4995.0,110
+CA,Domestic intercity,2004,5202.0,105
+CA,Domestic intercity,2005,5686.0,105
+CA,Domestic intercity,2006,6023.0,117
+CA,Domestic intercity,2007,6319.0,115
+CA,Domestic intercity,2008,6497.0,108
+CA,Domestic intercity,2009,7091.0,118
+CA,Domestic intercity,2010,7211.0,116
+CA,Domestic intercity,2011,7600.0,121
+CA,Domestic intercity,2012,7760.0,122
+CA,Domestic intercity,2013,7862.0,130
+CA,Domestic intercity,2014,8170.0,132
+CA,Domestic intercity,2015,8473.0,135
+CA,Domestic intercity,2016,8765.0,134
+CA,Domestic intercity,2017,9045.0,133
+CA,Domestic intercity,2018,9726.0,147
+CA,Domestic intercity,2019,10026.0,138
+CA,Domestic intercity,2020,10643.0,140
+CA,Domestic intercity,2021,11103.0,146
+CA,Domestic intercity,2022,10038.0,149
+CA,Domestic intercity,2023,11157.0,152
+CA,Domestic intercity,2024,11056.0,152
+CA,Domestic intercity,2025,11775.0,154
+CH,Domestic intercity,1998,1174.0,60
+CH,Domestic intercity,1999,1200.0,63
+CH,Domestic intercity,2000,1314.0,73
+CH,Domestic intercity,2001,1441.0,75
+CH,Domestic intercity,2002,1514.0,73
+CH,Domestic intercity,2003,1599.0,89
+CH,Domestic intercity,2004,1582.0,86
+CH,Domestic intercity,2005,1785.0,86
+CH,Domestic intercity,2006,1896.0,83
+CH,Domestic intercity,2007,1863.0,85
+CH,Domestic intercity,2008,1917.0,100
+CH,Domestic intercity,2009,2093.0,96
+CH,Domestic intercity,2010,2140.0,98
+CH,Domestic intercity,2011,2178.0,109
+CH,Domestic intercity,2012,2349.0,112
+CH,Domestic intercity,2013,2472.0,107
+CH,Domestic intercity,2014,2514.0,107
+CH,Domestic intercity,2015,2770.0,112
+CH,Domestic intercity,2016,2734.0,115
+CH,Domestic intercity,2017,2933.0,113
+CH,Domestic intercity,2018,3131.0,120
+CH,Domestic intercity,2019,3174.0,114
+CH,Domestic intercity,2020,3497.0,127
+CH,Domestic intercity,2021,3724.0,122
+CH,Domestic intercity,2022,3730.0,125
+CH,Domestic intercity,2023,4179.0,120
+CH,Domestic intercity,2024,4006.0,114
+CH,Domestic intercity,2025,4299.0,130
+CL,Domestic intercity,1998,78.0,11
+CL,Domestic intercity,1999,91.0,10
+CL,Domestic intercity,2000,99.0,14
+CL,Domestic intercity,2001,99.0,10
+CL,Domestic intercity,2002,129.0,13
+CL,Domestic intercity,2003,159.0,15
+CL,Domestic intercity,2004,172.0,14
+CL,Domestic intercity,2005,207.0,15
+CL,Domestic intercity,2006,232.0,18
+CL,Domestic intercity,2007,259.0,16
+CL,Domestic intercity,2008,324.0,16
+CL,Domestic intercity,2009,423.0,19
+CL,Domestic intercity,2010,392.0,19
+CL,Domestic intercity,2011,507.0,21
+CL,Domestic intercity,2012,538.0,20
+CL,Domestic intercity,2013,572.0,21
+CL,Domestic intercity,2014,649.0,19
+CL,Domestic intercity,2015,704.0,19
+CL,Domestic intercity,2016,854.0,22
+CL,Domestic intercity,2017,930.0,22
+CL,Domestic intercity,2018,1064.0,22
+CL,Domestic intercity,2019,1160.0,22
+CL,Domestic intercity,2020,1312.0,25
+CL,Domestic intercity,2021,1372.0,24
+CL,Domestic intercity,2022,1292.0,22
+CL,Domestic intercity,2023,1621.0,23
+CL,Domestic intercity,2024,1642.0,24
+CL,Domestic intercity,2025,1673.0,24
+CM,Domestic intercity,1998,17.0,5
+CM,Domestic intercity,1999,7.0,4
+CM,Domestic intercity,2000,12.0,6
+CM,Domestic intercity,2001,11.0,6
+CM,Domestic intercity,2002,18.0,5
+CM,Domestic intercity,2003,13.0,5
+CM,Domestic intercity,2004,19.0,6
+CM,Domestic intercity,2005,21.0,5
+CM,Domestic intercity,2006,20.0,4
+CM,Domestic intercity,2007,25.0,7
+CM,Domestic intercity,2008,22.0,5
+CM,Domestic intercity,2009,35.0,7
+CM,Domestic intercity,2010,32.0,8
+CM,Domestic intercity,2011,40.0,8
+CM,Domestic intercity,2012,43.0,8
+CM,Domestic intercity,2013,94.0,7
+CM,Domestic intercity,2014,105.0,9
+CM,Domestic intercity,2015,105.0,9
+CM,Domestic intercity,2016,144.0,8
+CM,Domestic intercity,2017,168.0,9
+CM,Domestic intercity,2018,214.0,9
+CM,Domestic intercity,2019,233.0,9
+CM,Domestic intercity,2020,388.0,9
+CM,Domestic intercity,2021,402.0,9
+CM,Domestic intercity,2022,353.0,9
+CM,Domestic intercity,2023,464.0,9
+CM,Domestic intercity,2024,437.0,10
+CM,Domestic intercity,2025,406.0,9
+CN,Domestic intercity,1998,5365.0,146
+CN,Domestic intercity,1999,6341.0,152
+CN,Domestic intercity,2000,8772.0,199
+CN,Domestic intercity,2001,11633.0,239
+CN,Domestic intercity,2002,16710.0,267
+CN,Domestic intercity,2003,22432.0,275
+CN,Domestic intercity,2004,33508.0,307
+CN,Domestic intercity,2005,48873.0,314
+CN,Domestic intercity,2006,68614.0,318
+CN,Domestic intercity,2007,89247.0,324
+CN,Domestic intercity,2008,111890.0,328
+CN,Domestic intercity,2009,133281.0,332
+CN,Domestic intercity,2010,156122.0,340
+CN,Domestic intercity,2011,177495.0,339
+CN,Domestic intercity,2012,181673.0,337
+CN,Domestic intercity,2013,191645.0,341
+CN,Domestic intercity,2014,194640.0,337
+CN,Domestic intercity,2015,198178.0,338
+CN,Domestic intercity,2016,191184.0,335
+CN,Domestic intercity,2017,207924.0,336
+CN,Domestic intercity,2018,230803.0,339
+CN,Domestic intercity,2019,255796.0,338
+CN,Domestic intercity,2020,283196.0,343
+CN,Domestic intercity,2021,318144.0,345
+CN,Domestic intercity,2022,329946.0,342
+CN,Domestic intercity,2023,414279.0,344
+CN,Domestic intercity,2024,532664.0,347
+CN,Domestic intercity,2025,636862.0,348
+CO,Domestic intercity,1998,46.0,11
+CO,Domestic intercity,1999,36.0,11
+CO,Domestic intercity,2000,67.0,15
+CO,Domestic intercity,2001,79.0,17
+CO,Domestic intercity,2002,73.0,14
+CO,Domestic intercity,2003,86.0,17
+CO,Domestic intercity,2004,119.0,23
+CO,Domestic intercity,2005,170.0,26
+CO,Domestic intercity,2006,210.0,28
+CO,Domestic intercity,2007,274.0,27
+CO,Domestic intercity,2008,353.0,26
+CO,Domestic intercity,2009,448.0,30
+CO,Domestic intercity,2010,536.0,34
+CO,Domestic intercity,2011,645.0,37
+CO,Domestic intercity,2012,775.0,35
+CO,Domestic intercity,2013,929.0,37
+CO,Domestic intercity,2014,997.0,37
+CO,Domestic intercity,2015,1159.0,41
+CO,Domestic intercity,2016,1297.0,38
+CO,Domestic intercity,2017,1527.0,42
+CO,Domestic intercity,2018,1499.0,40
+CO,Domestic intercity,2019,1639.0,43
+CO,Domestic intercity,2020,1933.0,46
+CO,Domestic intercity,2021,1998.0,43
+CO,Domestic intercity,2022,1798.0,41
+CO,Domestic intercity,2023,2283.0,42
+CO,Domestic intercity,2024,2276.0,46
+CO,Domestic intercity,2025,2309.0,44
+CR,Domestic intercity,1998,5.0,4
+CR,Domestic intercity,1999,11.0,5
+CR,Domestic intercity,2000,8.0,5
+CR,Domestic intercity,2001,13.0,5
+CR,Domestic intercity,2002,14.0,4
+CR,Domestic intercity,2003,11.0,6
+CR,Domestic intercity,2004,23.0,7
+CR,Domestic intercity,2005,28.0,7
+CR,Domestic intercity,2006,31.0,9
+CR,Domestic intercity,2007,28.0,6
+CR,Domestic intercity,2008,24.0,4
+CR,Domestic intercity,2009,38.0,8
+CR,Domestic intercity,2010,34.0,7
+CR,Domestic intercity,2011,44.0,7
+CR,Domestic intercity,2012,64.0,7
+CR,Domestic intercity,2013,58.0,9
+CR,Domestic intercity,2014,67.0,8
+CR,Domestic intercity,2015,100.0,9
+CR,Domestic intercity,2016,107.0,10
+CR,Domestic intercity,2017,83.0,8
+CR,Domestic intercity,2018,89.0,9
+CR,Domestic intercity,2019,89.0,9
+CR,Domestic intercity,2020,99.0,8
+CR,Domestic intercity,2021,103.0,8
+CR,Domestic intercity,2022,91.0,9
+CR,Domestic intercity,2023,125.0,8
+CR,Domestic intercity,2024,137.0,10
+CR,Domestic intercity,2025,139.0,10
+CU,Domestic intercity,1998,17.0,6
+CU,Domestic intercity,1999,25.0,6
+CU,Domestic intercity,2000,36.0,9
+CU,Domestic intercity,2001,32.0,9
+CU,Domestic intercity,2002,47.0,9
+CU,Domestic intercity,2003,46.0,8
+CU,Domestic intercity,2004,55.0,11
+CU,Domestic intercity,2005,60.0,11
+CU,Domestic intercity,2006,75.0,9
+CU,Domestic intercity,2007,77.0,12
+CU,Domestic intercity,2008,114.0,12
+CU,Domestic intercity,2009,133.0,13
+CU,Domestic intercity,2010,189.0,13
+CU,Domestic intercity,2011,166.0,13
+CU,Domestic intercity,2012,170.0,12
+CU,Domestic intercity,2013,153.0,13
+CU,Domestic intercity,2014,157.0,13
+CU,Domestic intercity,2015,229.0,12
+CU,Domestic intercity,2016,321.0,12
+CU,Domestic intercity,2017,278.0,13
+CU,Domestic intercity,2018,272.0,14
+CU,Domestic intercity,2019,241.0,12
+CU,Domestic intercity,2020,253.0,14
+CU,Domestic intercity,2021,279.0,13
+CU,Domestic intercity,2022,136.0,12
+CU,Domestic intercity,2023,99.0,10
+CU,Domestic intercity,2024,99.0,12
+CU,Domestic intercity,2025,91.0,12
+CZ,Domestic intercity,1998,300.0,20
+CZ,Domestic intercity,1999,383.0,24
+CZ,Domestic intercity,2000,429.0,26
+CZ,Domestic intercity,2001,468.0,24
+CZ,Domestic intercity,2002,502.0,31
+CZ,Domestic intercity,2003,557.0,34
+CZ,Domestic intercity,2004,611.0,32
+CZ,Domestic intercity,2005,634.0,33
+CZ,Domestic intercity,2006,720.0,33
+CZ,Domestic intercity,2007,740.0,38
+CZ,Domestic intercity,2008,841.0,40
+CZ,Domestic intercity,2009,912.0,42
+CZ,Domestic intercity,2010,981.0,45
+CZ,Domestic intercity,2011,1108.0,44
+CZ,Domestic intercity,2012,1104.0,55
+CZ,Domestic intercity,2013,1151.0,49
+CZ,Domestic intercity,2014,1298.0,57
+CZ,Domestic intercity,2015,1264.0,60
+CZ,Domestic intercity,2016,1424.0,64
+CZ,Domestic intercity,2017,1474.0,58
+CZ,Domestic intercity,2018,1505.0,63
+CZ,Domestic intercity,2019,1521.0,60
+CZ,Domestic intercity,2020,1584.0,65
+CZ,Domestic intercity,2021,1695.0,72
+CZ,Domestic intercity,2022,1566.0,58
+CZ,Domestic intercity,2023,1665.0,56
+CZ,Domestic intercity,2024,1550.0,62
+CZ,Domestic intercity,2025,1653.0,80
+DE,Domestic intercity,1998,13617.0,347
+DE,Domestic intercity,1999,14074.0,347
+DE,Domestic intercity,2000,14446.0,376
+DE,Domestic intercity,2001,14376.0,371
+DE,Domestic intercity,2002,16729.0,389
+DE,Domestic intercity,2003,17470.0,390
+DE,Domestic intercity,2004,18970.0,414
+DE,Domestic intercity,2005,19721.0,405
+DE,Domestic intercity,2006,20610.0,442
+DE,Domestic intercity,2007,20804.0,458
+DE,Domestic intercity,2008,22977.0,464
+DE,Domestic intercity,2009,23168.0,461
+DE,Domestic intercity,2010,23637.0,471
+DE,Domestic intercity,2011,23699.0,485
+DE,Domestic intercity,2012,24230.0,501
+DE,Domestic intercity,2013,24840.0,484
+DE,Domestic intercity,2014,25345.0,506
+DE,Domestic intercity,2015,26478.0,498
+DE,Domestic intercity,2016,26158.0,519
+DE,Domestic intercity,2017,25410.0,521
+DE,Domestic intercity,2018,25848.0,527
+DE,Domestic intercity,2019,26373.0,516
+DE,Domestic intercity,2020,27502.0,539
+DE,Domestic intercity,2021,27632.0,532
+DE,Domestic intercity,2022,26202.0,528
+DE,Domestic intercity,2023,29400.0,524
+DE,Domestic intercity,2024,28670.0,534
+DE,Domestic intercity,2025,30122.0,547
+DK,Domestic intercity,1998,944.0,39
+DK,Domestic intercity,1999,977.0,39
+DK,Domestic intercity,2000,1008.0,38
+DK,Domestic intercity,2001,1026.0,38
+DK,Domestic intercity,2002,1100.0,40
+DK,Domestic intercity,2003,1179.0,45
+DK,Domestic intercity,2004,1248.0,44
+DK,Domestic intercity,2005,1258.0,41
+DK,Domestic intercity,2006,1362.0,46
+DK,Domestic intercity,2007,1633.0,46
+DK,Domestic intercity,2008,1624.0,47
+DK,Domestic intercity,2009,1864.0,48
+DK,Domestic intercity,2010,1928.0,49
+DK,Domestic intercity,2011,2071.0,45
+DK,Domestic intercity,2012,2132.0,50
+DK,Domestic intercity,2013,2426.0,50
+DK,Domestic intercity,2014,2300.0,53
+DK,Domestic intercity,2015,2510.0,50
+DK,Domestic intercity,2016,2620.0,47
+DK,Domestic intercity,2017,2704.0,47
+DK,Domestic intercity,2018,2800.0,48
+DK,Domestic intercity,2019,2790.0,48
+DK,Domestic intercity,2020,2985.0,53
+DK,Domestic intercity,2021,3102.0,50
+DK,Domestic intercity,2022,2943.0,50
+DK,Domestic intercity,2023,3378.0,51
+DK,Domestic intercity,2024,3520.0,52
+DK,Domestic intercity,2025,3777.0,56
+DZ,Domestic intercity,1998,17.0,7
+DZ,Domestic intercity,1999,13.0,8
+DZ,Domestic intercity,2000,24.0,14
+DZ,Domestic intercity,2001,16.0,9
+DZ,Domestic intercity,2002,41.0,13
+DZ,Domestic intercity,2003,41.0,16
+DZ,Domestic intercity,2004,67.0,22
+DZ,Domestic intercity,2005,74.0,25
+DZ,Domestic intercity,2006,90.0,25
+DZ,Domestic intercity,2007,90.0,27
+DZ,Domestic intercity,2008,112.0,32
+DZ,Domestic intercity,2009,131.0,30
+DZ,Domestic intercity,2010,149.0,35
+DZ,Domestic intercity,2011,208.0,40
+DZ,Domestic intercity,2012,312.0,39
+DZ,Domestic intercity,2013,408.0,40
+DZ,Domestic intercity,2014,479.0,45
+DZ,Domestic intercity,2015,599.0,45
+DZ,Domestic intercity,2016,662.0,46
+DZ,Domestic intercity,2017,755.0,45
+DZ,Domestic intercity,2018,1032.0,46
+DZ,Domestic intercity,2019,1105.0,47
+DZ,Domestic intercity,2020,1132.0,48
+DZ,Domestic intercity,2021,1329.0,48
+DZ,Domestic intercity,2022,1240.0,48
+DZ,Domestic intercity,2023,1535.0,48
+DZ,Domestic intercity,2024,1674.0,48
+DZ,Domestic intercity,2025,1658.0,49
+EE,Domestic intercity,1998,33.0,2
+EE,Domestic intercity,1999,26.0,2
+EE,Domestic intercity,2000,26.0,2
+EE,Domestic intercity,2001,22.0,2
+EE,Domestic intercity,2002,29.0,2
+EE,Domestic intercity,2003,30.0,2
+EE,Domestic intercity,2004,26.0,2
+EE,Domestic intercity,2005,36.0,2
+EE,Domestic intercity,2006,43.0,3
+EE,Domestic intercity,2007,55.0,3
+EE,Domestic intercity,2008,39.0,2
+EE,Domestic intercity,2009,43.0,2
+EE,Domestic intercity,2010,73.0,3
+EE,Domestic intercity,2011,67.0,2
+EE,Domestic intercity,2012,68.0,3
+EE,Domestic intercity,2013,67.0,3
+EE,Domestic intercity,2014,122.0,4
+EE,Domestic intercity,2015,95.0,3
+EE,Domestic intercity,2016,95.0,3
+EE,Domestic intercity,2017,107.0,3
+EE,Domestic intercity,2018,89.0,3
+EE,Domestic intercity,2019,96.0,3
+EE,Domestic intercity,2020,107.0,4
+EE,Domestic intercity,2021,102.0,4
+EE,Domestic intercity,2022,99.0,2
+EE,Domestic intercity,2023,129.0,3
+EE,Domestic intercity,2024,108.0,4
+EE,Domestic intercity,2025,130.0,3
+EG,Domestic intercity,1998,196.0,18
+EG,Domestic intercity,1999,211.0,21
+EG,Domestic intercity,2000,269.0,18
+EG,Domestic intercity,2001,246.0,21
+EG,Domestic intercity,2002,312.0,20
+EG,Domestic intercity,2003,343.0,20
+EG,Domestic intercity,2004,316.0,21
+EG,Domestic intercity,2005,353.0,21
+EG,Domestic intercity,2006,475.0,21
+EG,Domestic intercity,2007,510.0,21
+EG,Domestic intercity,2008,532.0,22
+EG,Domestic intercity,2009,642.0,22
+EG,Domestic intercity,2010,806.0,23
+EG,Domestic intercity,2011,897.0,22
+EG,Domestic intercity,2012,1058.0,23
+EG,Domestic intercity,2013,1234.0,23
+EG,Domestic intercity,2014,1417.0,23
+EG,Domestic intercity,2015,1668.0,23
+EG,Domestic intercity,2016,2022.0,23
+EG,Domestic intercity,2017,2314.0,23
+EG,Domestic intercity,2018,2634.0,23
+EG,Domestic intercity,2019,3174.0,24
+EG,Domestic intercity,2020,3570.0,25
+EG,Domestic intercity,2021,3704.0,26
+EG,Domestic intercity,2022,3716.0,26
+EG,Domestic intercity,2023,4676.0,26
+EG,Domestic intercity,2024,5356.0,27
+EG,Domestic intercity,2025,5849.0,25
+ES,Domestic intercity,1998,3402.0,116
+ES,Domestic intercity,1999,3653.0,115
+ES,Domestic intercity,2000,4337.0,125
+ES,Domestic intercity,2001,4700.0,137
+ES,Domestic intercity,2002,5291.0,134
+ES,Domestic intercity,2003,5686.0,134
+ES,Domestic intercity,2004,6351.0,147
+ES,Domestic intercity,2005,6952.0,139
+ES,Domestic intercity,2006,7582.0,144
+ES,Domestic intercity,2007,8076.0,149
+ES,Domestic intercity,2008,8832.0,151
+ES,Domestic intercity,2009,10086.0,161
+ES,Domestic intercity,2010,10694.0,157
+ES,Domestic intercity,2011,11725.0,160
+ES,Domestic intercity,2012,12058.0,168
+ES,Domestic intercity,2013,12280.0,166
+ES,Domestic intercity,2014,12732.0,168
+ES,Domestic intercity,2015,13151.0,170
+ES,Domestic intercity,2016,13547.0,166
+ES,Domestic intercity,2017,14187.0,169
+ES,Domestic intercity,2018,14716.0,174
+ES,Domestic intercity,2019,15771.0,173
+ES,Domestic intercity,2020,17291.0,179
+ES,Domestic intercity,2021,17310.0,179
+ES,Domestic intercity,2022,16112.0,178
+ES,Domestic intercity,2023,18104.0,179
+ES,Domestic intercity,2024,19043.0,183
+ES,Domestic intercity,2025,21174.0,182
+FI,Domestic intercity,1998,736.0,28
+FI,Domestic intercity,1999,786.0,30
+FI,Domestic intercity,2000,859.0,26
+FI,Domestic intercity,2001,845.0,29
+FI,Domestic intercity,2002,977.0,29
+FI,Domestic intercity,2003,977.0,29
+FI,Domestic intercity,2004,1029.0,29
+FI,Domestic intercity,2005,1065.0,28
+FI,Domestic intercity,2006,1224.0,26
+FI,Domestic intercity,2007,1209.0,34
+FI,Domestic intercity,2008,1288.0,33
+FI,Domestic intercity,2009,1430.0,33
+FI,Domestic intercity,2010,1832.0,33
+FI,Domestic intercity,2011,1622.0,30
+FI,Domestic intercity,2012,1528.0,35
+FI,Domestic intercity,2013,1422.0,33
+FI,Domestic intercity,2014,1431.0,32
+FI,Domestic intercity,2015,1569.0,34
+FI,Domestic intercity,2016,1474.0,29
+FI,Domestic intercity,2017,1457.0,31
+FI,Domestic intercity,2018,1528.0,35
+FI,Domestic intercity,2019,1681.0,32
+FI,Domestic intercity,2020,1595.0,29
+FI,Domestic intercity,2021,1663.0,30
+FI,Domestic intercity,2022,1690.0,30
+FI,Domestic intercity,2023,1782.0,33
+FI,Domestic intercity,2024,1856.0,30
+FI,Domestic intercity,2025,1962.0,29
+FR,Domestic intercity,1998,16424.0,271
+FR,Domestic intercity,1999,16825.0,263
+FR,Domestic intercity,2000,17598.0,300
+FR,Domestic intercity,2001,18256.0,276
+FR,Domestic intercity,2002,21084.0,293
+FR,Domestic intercity,2003,21386.0,284
+FR,Domestic intercity,2004,23959.0,309
+FR,Domestic intercity,2005,25999.0,317
+FR,Domestic intercity,2006,27826.0,327
+FR,Domestic intercity,2007,30029.0,328
+FR,Domestic intercity,2008,32477.0,325
+FR,Domestic intercity,2009,34523.0,337
+FR,Domestic intercity,2010,35921.0,347
+FR,Domestic intercity,2011,38232.0,350
+FR,Domestic intercity,2012,40862.0,354
+FR,Domestic intercity,2013,42110.0,345
+FR,Domestic intercity,2014,43944.0,362
+FR,Domestic intercity,2015,45341.0,356
+FR,Domestic intercity,2016,46749.0,363
+FR,Domestic intercity,2017,48002.0,368
+FR,Domestic intercity,2018,49501.0,380
+FR,Domestic intercity,2019,49471.0,364
+FR,Domestic intercity,2020,51704.0,369
+FR,Domestic intercity,2021,50971.0,365
+FR,Domestic intercity,2022,48556.0,360
+FR,Domestic intercity,2023,50919.0,386
+FR,Domestic intercity,2024,51619.0,379
+FR,Domestic intercity,2025,50971.0,385
+GB,Domestic intercity,1998,12208.0,384
+GB,Domestic intercity,1999,12817.0,395
+GB,Domestic intercity,2000,13658.0,392
+GB,Domestic intercity,2001,13966.0,399
+GB,Domestic intercity,2002,14901.0,411
+GB,Domestic intercity,2003,15277.0,421
+GB,Domestic intercity,2004,15345.0,412
+GB,Domestic intercity,2005,16570.0,429
+GB,Domestic intercity,2006,17671.0,418
+GB,Domestic intercity,2007,18117.0,437
+GB,Domestic intercity,2008,18949.0,419
+GB,Domestic intercity,2009,19088.0,432
+GB,Domestic intercity,2010,19977.0,451
+GB,Domestic intercity,2011,21042.0,441
+GB,Domestic intercity,2012,22336.0,431
+GB,Domestic intercity,2013,23131.0,444
+GB,Domestic intercity,2014,23641.0,460
+GB,Domestic intercity,2015,24121.0,440
+GB,Domestic intercity,2016,24636.0,464
+GB,Domestic intercity,2017,25456.0,468
+GB,Domestic intercity,2018,26367.0,475
+GB,Domestic intercity,2019,26656.0,471
+GB,Domestic intercity,2020,28956.0,466
+GB,Domestic intercity,2021,29220.0,470
+GB,Domestic intercity,2022,26726.0,458
+GB,Domestic intercity,2023,30601.0,480
+GB,Domestic intercity,2024,30506.0,466
+GB,Domestic intercity,2025,29885.0,485
+GH,Domestic intercity,1998,4.0,4
+GH,Domestic intercity,1999,3.0,3
+GH,Domestic intercity,2000,9.0,4
+GH,Domestic intercity,2001,15.0,7
+GH,Domestic intercity,2002,21.0,7
+GH,Domestic intercity,2003,11.0,4
+GH,Domestic intercity,2004,23.0,6
+GH,Domestic intercity,2005,27.0,9
+GH,Domestic intercity,2006,32.0,7
+GH,Domestic intercity,2007,47.0,7
+GH,Domestic intercity,2008,32.0,7
+GH,Domestic intercity,2009,56.0,11
+GH,Domestic intercity,2010,54.0,8
+GH,Domestic intercity,2011,49.0,10
+GH,Domestic intercity,2012,69.0,10
+GH,Domestic intercity,2013,87.0,12
+GH,Domestic intercity,2014,93.0,13
+GH,Domestic intercity,2015,113.0,18
+GH,Domestic intercity,2016,154.0,16
+GH,Domestic intercity,2017,153.0,18
+GH,Domestic intercity,2018,188.0,14
+GH,Domestic intercity,2019,263.0,19
+GH,Domestic intercity,2020,395.0,18
+GH,Domestic intercity,2021,474.0,20
+GH,Domestic intercity,2022,538.0,19
+GH,Domestic intercity,2023,597.0,20
+GH,Domestic intercity,2024,660.0,19
+GH,Domestic intercity,2025,748.0,19
+GR,Domestic intercity,1998,364.0,21
+GR,Domestic intercity,1999,368.0,25
+GR,Domestic intercity,2000,431.0,23
+GR,Domestic intercity,2001,550.0,29
+GR,Domestic intercity,2002,642.0,34
+GR,Domestic intercity,2003,807.0,37
+GR,Domestic intercity,2004,921.0,38
+GR,Domestic intercity,2005,1128.0,34
+GR,Domestic intercity,2006,1259.0,37
+GR,Domestic intercity,2007,1270.0,40
+GR,Domestic intercity,2008,1432.0,45
+GR,Domestic intercity,2009,1382.0,49
+GR,Domestic intercity,2010,1488.0,42
+GR,Domestic intercity,2011,1600.0,42
+GR,Domestic intercity,2012,1534.0,46
+GR,Domestic intercity,2013,1701.0,46
+GR,Domestic intercity,2014,1721.0,45
+GR,Domestic intercity,2015,1666.0,41
+GR,Domestic intercity,2016,1821.0,47
+GR,Domestic intercity,2017,1918.0,45
+GR,Domestic intercity,2018,2016.0,47
+GR,Domestic intercity,2019,2283.0,44
+GR,Domestic intercity,2020,2576.0,48
+GR,Domestic intercity,2021,2474.0,46
+GR,Domestic intercity,2022,2508.0,47
+GR,Domestic intercity,2023,2723.0,46
+GR,Domestic intercity,2024,2631.0,47
+GR,Domestic intercity,2025,2742.0,48
+HR,Domestic intercity,1998,54.0,9
+HR,Domestic intercity,1999,51.0,8
+HR,Domestic intercity,2000,60.0,9
+HR,Domestic intercity,2001,63.0,10
+HR,Domestic intercity,2002,60.0,12
+HR,Domestic intercity,2003,84.0,12
+HR,Domestic intercity,2004,105.0,13
+HR,Domestic intercity,2005,117.0,13
+HR,Domestic intercity,2006,132.0,13
+HR,Domestic intercity,2007,166.0,19
+HR,Domestic intercity,2008,200.0,14
+HR,Domestic intercity,2009,255.0,18
+HR,Domestic intercity,2010,265.0,15
+HR,Domestic intercity,2011,314.0,20
+HR,Domestic intercity,2012,292.0,19
+HR,Domestic intercity,2013,317.0,21
+HR,Domestic intercity,2014,372.0,19
+HR,Domestic intercity,2015,443.0,20
+HR,Domestic intercity,2016,399.0,18
+HR,Domestic intercity,2017,460.0,19
+HR,Domestic intercity,2018,518.0,16
+HR,Domestic intercity,2019,505.0,25
+HR,Domestic intercity,2020,523.0,22
+HR,Domestic intercity,2021,538.0,21
+HR,Domestic intercity,2022,510.0,24
+HR,Domestic intercity,2023,547.0,22
+HR,Domestic intercity,2024,493.0,21
+HR,Domestic intercity,2025,535.0,21
+HU,Domestic intercity,1998,376.0,20
+HU,Domestic intercity,1999,383.0,18
+HU,Domestic intercity,2000,450.0,20
+HU,Domestic intercity,2001,487.0,21
+HU,Domestic intercity,2002,499.0,18
+HU,Domestic intercity,2003,551.0,18
+HU,Domestic intercity,2004,592.0,20
+HU,Domestic intercity,2005,636.0,22
+HU,Domestic intercity,2006,674.0,19
+HU,Domestic intercity,2007,628.0,25
+HU,Domestic intercity,2008,671.0,23
+HU,Domestic intercity,2009,678.0,26
+HU,Domestic intercity,2010,698.0,26
+HU,Domestic intercity,2011,731.0,25
+HU,Domestic intercity,2012,886.0,25
+HU,Domestic intercity,2013,882.0,25
+HU,Domestic intercity,2014,925.0,28
+HU,Domestic intercity,2015,981.0,25
+HU,Domestic intercity,2016,1154.0,27
+HU,Domestic intercity,2017,1121.0,29
+HU,Domestic intercity,2018,1165.0,28
+HU,Domestic intercity,2019,1096.0,28
+HU,Domestic intercity,2020,1174.0,32
+HU,Domestic intercity,2021,1286.0,29
+HU,Domestic intercity,2022,1294.0,33
+HU,Domestic intercity,2023,1345.0,33
+HU,Domestic intercity,2024,1283.0,32
+HU,Domestic intercity,2025,1482.0,33
+ID,Domestic intercity,1998,26.0,6
+ID,Domestic intercity,1999,32.0,11
+ID,Domestic intercity,2000,35.0,11
+ID,Domestic intercity,2001,33.0,12
+ID,Domestic intercity,2002,59.0,17
+ID,Domestic intercity,2003,50.0,12
+ID,Domestic intercity,2004,82.0,19
+ID,Domestic intercity,2005,144.0,29
+ID,Domestic intercity,2006,167.0,28
+ID,Domestic intercity,2007,232.0,30
+ID,Domestic intercity,2008,276.0,37
+ID,Domestic intercity,2009,414.0,46
+ID,Domestic intercity,2010,585.0,57
+ID,Domestic intercity,2011,853.0,59
+ID,Domestic intercity,2012,1430.0,74
+ID,Domestic intercity,2013,2099.0,87
+ID,Domestic intercity,2014,2846.0,102
+ID,Domestic intercity,2015,4209.0,119
+ID,Domestic intercity,2016,6488.0,134
+ID,Domestic intercity,2017,10185.0,145
+ID,Domestic intercity,2018,14618.0,146
+ID,Domestic intercity,2019,20005.0,151
+ID,Domestic intercity,2020,25303.0,153
+ID,Domestic intercity,2021,30971.0,157
+ID,Domestic intercity,2022,34884.0,162
+ID,Domestic intercity,2023,49132.0,160
+ID,Domestic intercity,2024,49055.0,161
+ID,Domestic intercity,2025,56469.0,156
+IE,Domestic intercity,1998,217.0,20
+IE,Domestic intercity,1999,190.0,13
+IE,Domestic intercity,2000,230.0,18
+IE,Domestic intercity,2001,277.0,18
+IE,Domestic intercity,2002,308.0,22
+IE,Domestic intercity,2003,301.0,21
+IE,Domestic intercity,2004,364.0,25
+IE,Domestic intercity,2005,440.0,24
+IE,Domestic intercity,2006,478.0,27
+IE,Domestic intercity,2007,475.0,26
+IE,Domestic intercity,2008,514.0,28
+IE,Domestic intercity,2009,607.0,34
+IE,Domestic intercity,2010,654.0,33
+IE,Domestic intercity,2011,707.0,32
+IE,Domestic intercity,2012,744.0,34
+IE,Domestic intercity,2013,767.0,32
+IE,Domestic intercity,2014,728.0,37
+IE,Domestic intercity,2015,783.0,39
+IE,Domestic intercity,2016,898.0,37
+IE,Domestic intercity,2017,930.0,38
+IE,Domestic intercity,2018,997.0,40
+IE,Domestic intercity,2019,1042.0,37
+IE,Domestic intercity,2020,1073.0,39
+IE,Domestic intercity,2021,1264.0,41
+IE,Domestic intercity,2022,1143.0,40
+IE,Domestic intercity,2023,1262.0,48
+IE,Domestic intercity,2024,1278.0,41
+IE,Domestic intercity,2025,1391.0,39
+IL,Domestic intercity,1998,1079.0,30
+IL,Domestic intercity,1999,1178.0,35
+IL,Domestic intercity,2000,1171.0,34
+IL,Domestic intercity,2001,1219.0,36
+IL,Domestic intercity,2002,1359.0,37
+IL,Domestic intercity,2003,1409.0,36
+IL,Domestic intercity,2004,1552.0,44
+IL,Domestic intercity,2005,1484.0,36
+IL,Domestic intercity,2006,1638.0,39
+IL,Domestic intercity,2007,1621.0,38
+IL,Domestic intercity,2008,1622.0,39
+IL,Domestic intercity,2009,1765.0,44
+IL,Domestic intercity,2010,1735.0,41
+IL,Domestic intercity,2011,1703.0,45
+IL,Domestic intercity,2012,1900.0,41
+IL,Domestic intercity,2013,2071.0,44
+IL,Domestic intercity,2014,2144.0,39
+IL,Domestic intercity,2015,2409.0,45
+IL,Domestic intercity,2016,2440.0,43
+IL,Domestic intercity,2017,2649.0,46
+IL,Domestic intercity,2018,2739.0,43
+IL,Domestic intercity,2019,2669.0,44
+IL,Domestic intercity,2020,3032.0,47
+IL,Domestic intercity,2021,3258.0,44
+IL,Domestic intercity,2022,2994.0,43
+IL,Domestic intercity,2023,3266.0,48
+IL,Domestic intercity,2024,3113.0,44
+IL,Domestic intercity,2025,3392.0,44
+IN,Domestic intercity,1998,2459.0,175
+IN,Domestic intercity,1999,2552.0,188
+IN,Domestic intercity,2000,2862.0,177
+IN,Domestic intercity,2001,3240.0,197
+IN,Domestic intercity,2002,3828.0,199
+IN,Domestic intercity,2003,3960.0,204
+IN,Domestic intercity,2004,4404.0,217
+IN,Domestic intercity,2005,5258.0,226
+IN,Domestic intercity,2006,6106.0,253
+IN,Domestic intercity,2007,6973.0,266
+IN,Domestic intercity,2008,7805.0,274
+IN,Domestic intercity,2009,9080.0,288
+IN,Domestic intercity,2010,11468.0,309
+IN,Domestic intercity,2011,14298.0,325
+IN,Domestic intercity,2012,17589.0,334
+IN,Domestic intercity,2013,21490.0,348
+IN,Domestic intercity,2014,25557.0,353
+IN,Domestic intercity,2015,28761.0,359
+IN,Domestic intercity,2016,33421.0,365
+IN,Domestic intercity,2017,39054.0,367
+IN,Domestic intercity,2018,43656.0,377
+IN,Domestic intercity,2019,46512.0,375
+IN,Domestic intercity,2020,56528.0,391
+IN,Domestic intercity,2021,61953.0,399
+IN,Domestic intercity,2022,60629.0,400
+IN,Domestic intercity,2023,82611.0,404
+IN,Domestic intercity,2024,99476.0,415
+IN,Domestic intercity,2025,115300.0,399
+IR,Domestic intercity,1998,39.0,13
+IR,Domestic intercity,1999,45.0,16
+IR,Domestic intercity,2000,64.0,18
+IR,Domestic intercity,2001,118.0,28
+IR,Domestic intercity,2002,159.0,30
+IR,Domestic intercity,2003,188.0,34
+IR,Domestic intercity,2004,287.0,44
+IR,Domestic intercity,2005,464.0,56
+IR,Domestic intercity,2006,647.0,59
+IR,Domestic intercity,2007,940.0,58
+IR,Domestic intercity,2008,1350.0,80
+IR,Domestic intercity,2009,1765.0,83
+IR,Domestic intercity,2010,2406.0,97
+IR,Domestic intercity,2011,3645.0,104
+IR,Domestic intercity,2012,4602.0,103
+IR,Domestic intercity,2013,5591.0,108
+IR,Domestic intercity,2014,6707.0,108
+IR,Domestic intercity,2015,8153.0,106
+IR,Domestic intercity,2016,9225.0,106
+IR,Domestic intercity,2017,9952.0,111
+IR,Domestic intercity,2018,10761.0,110
+IR,Domestic intercity,2019,11331.0,110
+IR,Domestic intercity,2020,12197.0,113
+IR,Domestic intercity,2021,12150.0,111
+IR,Domestic intercity,2022,10268.0,112
+IR,Domestic intercity,2023,11293.0,110
+IR,Domestic intercity,2024,11026.0,110
+IR,Domestic intercity,2025,11914.0,114
+IS,Domestic intercity,1998,10.0,2
+IS,Domestic intercity,1999,5.0,3
+IS,Domestic intercity,2000,11.0,5
+IS,Domestic intercity,2001,9.0,3
+IS,Domestic intercity,2002,11.0,4
+IS,Domestic intercity,2003,10.0,5
+IS,Domestic intercity,2004,18.0,8
+IS,Domestic intercity,2005,14.0,5
+IS,Domestic intercity,2006,23.0,8
+IS,Domestic intercity,2007,18.0,5
+IS,Domestic intercity,2008,18.0,6
+IS,Domestic intercity,2009,19.0,5
+IS,Domestic intercity,2010,21.0,6
+IS,Domestic intercity,2011,20.0,6
+IS,Domestic intercity,2012,20.0,5
+IS,Domestic intercity,2013,22.0,5
+IS,Domestic intercity,2014,24.0,5
+IS,Domestic intercity,2015,33.0,7
+IS,Domestic intercity,2016,35.0,6
+IS,Domestic intercity,2017,32.0,7
+IS,Domestic intercity,2018,34.0,6
+IS,Domestic intercity,2019,39.0,7
+IS,Domestic intercity,2020,43.0,7
+IS,Domestic intercity,2021,42.0,7
+IS,Domestic intercity,2022,43.0,7
+IS,Domestic intercity,2023,58.0,8
+IS,Domestic intercity,2024,48.0,8
+IS,Domestic intercity,2025,65.0,7
+IT,Domestic intercity,1998,7690.0,194
+IT,Domestic intercity,1999,8034.0,184
+IT,Domestic intercity,2000,8702.0,186
+IT,Domestic intercity,2001,8895.0,194
+IT,Domestic intercity,2002,9887.0,197
+IT,Domestic intercity,2003,10412.0,205
+IT,Domestic intercity,2004,10808.0,202
+IT,Domestic intercity,2005,11173.0,221
+IT,Domestic intercity,2006,11782.0,217
+IT,Domestic intercity,2007,11918.0,219
+IT,Domestic intercity,2008,12541.0,226
+IT,Domestic intercity,2009,12773.0,223
+IT,Domestic intercity,2010,12717.0,223
+IT,Domestic intercity,2011,12883.0,238
+IT,Domestic intercity,2012,13503.0,235
+IT,Domestic intercity,2013,14500.0,245
+IT,Domestic intercity,2014,14846.0,247
+IT,Domestic intercity,2015,15907.0,248
+IT,Domestic intercity,2016,15825.0,240
+IT,Domestic intercity,2017,16642.0,243
+IT,Domestic intercity,2018,17011.0,253
+IT,Domestic intercity,2019,18106.0,258
+IT,Domestic intercity,2020,21003.0,250
+IT,Domestic intercity,2021,20384.0,251
+IT,Domestic intercity,2022,19475.0,252
+IT,Domestic intercity,2023,22726.0,255
+IT,Domestic intercity,2024,23676.0,271
+IT,Domestic intercity,2025,26304.0,268
+JO,Domestic intercity,1998,6.0,3
+JO,Domestic intercity,1999,9.0,5
+JO,Domestic intercity,2000,11.0,5
+JO,Domestic intercity,2001,22.0,7
+JO,Domestic intercity,2002,23.0,3
+JO,Domestic intercity,2003,20.0,6
+JO,Domestic intercity,2004,22.0,7
+JO,Domestic intercity,2005,26.0,5
+JO,Domestic intercity,2006,35.0,7
+JO,Domestic intercity,2007,47.0,10
+JO,Domestic intercity,2008,44.0,10
+JO,Domestic intercity,2009,52.0,9
+JO,Domestic intercity,2010,62.0,10
+JO,Domestic intercity,2011,64.0,11
+JO,Domestic intercity,2012,82.0,11
+JO,Domestic intercity,2013,89.0,10
+JO,Domestic intercity,2014,98.0,12
+JO,Domestic intercity,2015,97.0,11
+JO,Domestic intercity,2016,113.0,10
+JO,Domestic intercity,2017,129.0,12
+JO,Domestic intercity,2018,131.0,12
+JO,Domestic intercity,2019,173.0,12
+JO,Domestic intercity,2020,220.0,13
+JO,Domestic intercity,2021,221.0,12
+JO,Domestic intercity,2022,263.0,14
+JO,Domestic intercity,2023,321.0,13
+JO,Domestic intercity,2024,434.0,12
+JO,Domestic intercity,2025,532.0,13
+JP,Domestic intercity,1998,28515.0,326
+JP,Domestic intercity,1999,28671.0,329
+JP,Domestic intercity,2000,30496.0,331
+JP,Domestic intercity,2001,30455.0,346
+JP,Domestic intercity,2002,35514.0,346
+JP,Domestic intercity,2003,34794.0,339
+JP,Domestic intercity,2004,35330.0,349
+JP,Domestic intercity,2005,36686.0,358
+JP,Domestic intercity,2006,37185.0,351
+JP,Domestic intercity,2007,36327.0,355
+JP,Domestic intercity,2008,36441.0,357
+JP,Domestic intercity,2009,36917.0,356
+JP,Domestic intercity,2010,37038.0,372
+JP,Domestic intercity,2011,38023.0,358
+JP,Domestic intercity,2012,38690.0,373
+JP,Domestic intercity,2013,39040.0,375
+JP,Domestic intercity,2014,39415.0,385
+JP,Domestic intercity,2015,39906.0,379
+JP,Domestic intercity,2016,39769.0,377
+JP,Domestic intercity,2017,40807.0,381
+JP,Domestic intercity,2018,40305.0,396
+JP,Domestic intercity,2019,40409.0,393
+JP,Domestic intercity,2020,40913.0,402
+JP,Domestic intercity,2021,40246.0,402
+JP,Domestic intercity,2022,39003.0,391
+JP,Domestic intercity,2023,42742.0,379
+JP,Domestic intercity,2024,46480.0,382
+JP,Domestic intercity,2025,52884.0,385
+KE,Domestic intercity,1998,5.0,4
+KE,Domestic intercity,1999,8.0,6
+KE,Domestic intercity,2000,7.0,4
+KE,Domestic intercity,2001,18.0,6
+KE,Domestic intercity,2002,32.0,6
+KE,Domestic intercity,2003,44.0,8
+KE,Domestic intercity,2004,47.0,6
+KE,Domestic intercity,2005,43.0,6
+KE,Domestic intercity,2006,52.0,7
+KE,Domestic intercity,2007,60.0,7
+KE,Domestic intercity,2008,73.0,11
+KE,Domestic intercity,2009,64.0,8
+KE,Domestic intercity,2010,86.0,11
+KE,Domestic intercity,2011,54.0,12
+KE,Domestic intercity,2012,88.0,17
+KE,Domestic intercity,2013,103.0,19
+KE,Domestic intercity,2014,142.0,23
+KE,Domestic intercity,2015,156.0,20
+KE,Domestic intercity,2016,201.0,26
+KE,Domestic intercity,2017,245.0,27
+KE,Domestic intercity,2018,247.0,27
+KE,Domestic intercity,2019,321.0,29
+KE,Domestic intercity,2020,390.0,27
+KE,Domestic intercity,2021,421.0,30
+KE,Domestic intercity,2022,399.0,31
+KE,Domestic intercity,2023,485.0,32
+KE,Domestic intercity,2024,480.0,30
+KE,Domestic intercity,2025,561.0,33
+KR,Domestic intercity,1998,1804.0,43
+KR,Domestic intercity,1999,2320.0,54
+KR,Domestic intercity,2000,2790.0,50
+KR,Domestic intercity,2001,3508.0,52
+KR,Domestic intercity,2002,4996.0,56
+KR,Domestic intercity,2003,5619.0,60
+KR,Domestic intercity,2004,6288.0,62
+KR,Domestic intercity,2005,7335.0,62
+KR,Domestic intercity,2006,8651.0,61
+KR,Domestic intercity,2007,9600.0,65
+KR,Domestic intercity,2008,10490.0,64
+KR,Domestic intercity,2009,11686.0,68
+KR,Domestic intercity,2010,12814.0,71
+KR,Domestic intercity,2011,14276.0,65
+KR,Domestic intercity,2012,16086.0,70
+KR,Domestic intercity,2013,17297.0,68
+KR,Domestic intercity,2014,18059.0,71
+KR,Domestic intercity,2015,17905.0,72
+KR,Domestic intercity,2016,18120.0,70
+KR,Domestic intercity,2017,17829.0,71
+KR,Domestic intercity,2018,17834.0,70
+KR,Domestic intercity,2019,18385.0,71
+KR,Domestic intercity,2020,18562.0,71
+KR,Domestic intercity,2021,18583.0,71
+KR,Domestic intercity,2022,17550.0,71
+KR,Domestic intercity,2023,20864.0,74
+KR,Domestic intercity,2024,22912.0,74
+KR,Domestic intercity,2025,26752.0,75
+LK,Domestic intercity,1998,6.0,4
+LK,Domestic intercity,1999,6.0,3
+LK,Domestic intercity,2000,3.0,2
+LK,Domestic intercity,2001,8.0,6
+LK,Domestic intercity,2002,15.0,7
+LK,Domestic intercity,2003,11.0,5
+LK,Domestic intercity,2004,10.0,5
+LK,Domestic intercity,2005,18.0,6
+LK,Domestic intercity,2006,14.0,6
+LK,Domestic intercity,2007,24.0,8
+LK,Domestic intercity,2008,25.0,7
+LK,Domestic intercity,2009,39.0,10
+LK,Domestic intercity,2010,61.0,12
+LK,Domestic intercity,2011,76.0,17
+LK,Domestic intercity,2012,98.0,16
+LK,Domestic intercity,2013,67.0,13
+LK,Domestic intercity,2014,107.0,17
+LK,Domestic intercity,2015,135.0,17
+LK,Domestic intercity,2016,144.0,18
+LK,Domestic intercity,2017,168.0,16
+LK,Domestic intercity,2018,212.0,19
+LK,Domestic intercity,2019,250.0,20
+LK,Domestic intercity,2020,294.0,21
+LK,Domestic intercity,2021,387.0,23
+LK,Domestic intercity,2022,355.0,19
+LK,Domestic intercity,2023,512.0,20
+LK,Domestic intercity,2024,546.0,21
+LK,Domestic intercity,2025,614.0,22
+LT,Domestic intercity,1998,6.0,2
+LT,Domestic intercity,1999,11.0,3
+LT,Domestic intercity,2000,5.0,2
+LT,Domestic intercity,2001,8.0,3
+LT,Domestic intercity,2002,15.0,4
+LT,Domestic intercity,2003,12.0,3
+LT,Domestic intercity,2004,21.0,3
+LT,Domestic intercity,2005,29.0,3
+LT,Domestic intercity,2006,28.0,5
+LT,Domestic intercity,2007,28.0,4
+LT,Domestic intercity,2008,38.0,4
+LT,Domestic intercity,2009,58.0,5
+LT,Domestic intercity,2010,56.0,5
+LT,Domestic intercity,2011,69.0,5
+LT,Domestic intercity,2012,67.0,5
+LT,Domestic intercity,2013,85.0,6
+LT,Domestic intercity,2014,106.0,5
+LT,Domestic intercity,2015,125.0,6
+LT,Domestic intercity,2016,126.0,6
+LT,Domestic intercity,2017,127.0,6
+LT,Domestic intercity,2018,186.0,7
+LT,Domestic intercity,2019,179.0,7
+LT,Domestic intercity,2020,161.0,5
+LT,Domestic intercity,2021,149.0,4
+LT,Domestic intercity,2022,132.0,7
+LT,Domestic intercity,2023,145.0,7
+LT,Domestic intercity,2024,128.0,6
+LT,Domestic intercity,2025,142.0,7
+MA,Domestic intercity,1998,30.0,11
+MA,Domestic intercity,1999,38.0,12
+MA,Domestic intercity,2000,45.0,12
+MA,Domestic intercity,2001,70.0,12
+MA,Domestic intercity,2002,74.0,13
+MA,Domestic intercity,2003,73.0,14
+MA,Domestic intercity,2004,98.0,13
+MA,Domestic intercity,2005,126.0,16
+MA,Domestic intercity,2006,144.0,13
+MA,Domestic intercity,2007,162.0,15
+MA,Domestic intercity,2008,182.0,14
+MA,Domestic intercity,2009,265.0,17
+MA,Domestic intercity,2010,270.0,17
+MA,Domestic intercity,2011,377.0,16
+MA,Domestic intercity,2012,403.0,17
+MA,Domestic intercity,2013,450.0,17
+MA,Domestic intercity,2014,595.0,16
+MA,Domestic intercity,2015,633.0,17
+MA,Domestic intercity,2016,763.0,18
+MA,Domestic intercity,2017,840.0,16
+MA,Domestic intercity,2018,886.0,18
+MA,Domestic intercity,2019,999.0,17
+MA,Domestic intercity,2020,1300.0,17
+MA,Domestic intercity,2021,1335.0,17
+MA,Domestic intercity,2022,1288.0,17
+MA,Domestic intercity,2023,1660.0,18
+MA,Domestic intercity,2024,1859.0,17
+MA,Domestic intercity,2025,2142.0,18
+MT,Domestic intercity,1998,3.0,3
+MT,Domestic intercity,1999,5.0,2
+MT,Domestic intercity,2000,4.0,2
+MT,Domestic intercity,2001,5.0,4
+MT,Domestic intercity,2002,8.0,4
+MT,Domestic intercity,2003,8.0,5
+MT,Domestic intercity,2004,6.0,3
+MT,Domestic intercity,2005,7.0,3
+MT,Domestic intercity,2006,5.0,3
+MT,Domestic intercity,2007,8.0,3
+MT,Domestic intercity,2008,14.0,4
+MT,Domestic intercity,2009,10.0,2
+MT,Domestic intercity,2010,6.0,4
+MT,Domestic intercity,2011,15.0,4
+MT,Domestic intercity,2012,14.0,6
+MT,Domestic intercity,2013,7.0,3
+MT,Domestic intercity,2014,14.0,6
+MT,Domestic intercity,2015,15.0,7
+MT,Domestic intercity,2016,17.0,5
+MT,Domestic intercity,2017,18.0,5
+MT,Domestic intercity,2018,19.0,8
+MT,Domestic intercity,2019,16.0,4
+MT,Domestic intercity,2020,33.0,7
+MT,Domestic intercity,2021,25.0,4
+MT,Domestic intercity,2022,28.0,7
+MT,Domestic intercity,2023,30.0,6
+MT,Domestic intercity,2024,24.0,5
+MT,Domestic intercity,2025,31.0,6
+MW,Domestic intercity,1998,7.0,3
+MW,Domestic intercity,1999,5.0,3
+MW,Domestic intercity,2000,9.0,3
+MW,Domestic intercity,2001,10.0,4
+MW,Domestic intercity,2002,10.0,4
+MW,Domestic intercity,2003,9.0,2
+MW,Domestic intercity,2004,17.0,4
+MW,Domestic intercity,2005,17.0,3
+MW,Domestic intercity,2006,12.0,3
+MW,Domestic intercity,2007,17.0,3
+MW,Domestic intercity,2008,16.0,5
+MW,Domestic intercity,2009,23.0,4
+MW,Domestic intercity,2010,22.0,4
+MW,Domestic intercity,2011,19.0,3
+MW,Domestic intercity,2012,28.0,3
+MW,Domestic intercity,2013,43.0,4
+MW,Domestic intercity,2014,46.0,4
+MW,Domestic intercity,2015,44.0,4
+MW,Domestic intercity,2016,35.0,5
+MW,Domestic intercity,2017,56.0,6
+MW,Domestic intercity,2018,56.0,5
+MW,Domestic intercity,2019,58.0,5
+MW,Domestic intercity,2020,70.0,6
+MW,Domestic intercity,2021,83.0,7
+MW,Domestic intercity,2022,151.0,5
+MW,Domestic intercity,2023,139.0,6
+MW,Domestic intercity,2024,110.0,7
+MW,Domestic intercity,2025,120.0,5
+MX,Domestic intercity,1998,562.0,50
+MX,Domestic intercity,1999,618.0,58
+MX,Domestic intercity,2000,684.0,58
+MX,Domestic intercity,2001,711.0,57
+MX,Domestic intercity,2002,853.0,57
+MX,Domestic intercity,2003,1006.0,66
+MX,Domestic intercity,2004,1146.0,63
+MX,Domestic intercity,2005,1218.0,71
+MX,Domestic intercity,2006,1398.0,79
+MX,Domestic intercity,2007,1507.0,78
+MX,Domestic intercity,2008,1689.0,80
+MX,Domestic intercity,2009,1847.0,79
+MX,Domestic intercity,2010,2004.0,83
+MX,Domestic intercity,2011,2167.0,87
+MX,Domestic intercity,2012,2460.0,84
+MX,Domestic intercity,2013,2605.0,85
+MX,Domestic intercity,2014,2864.0,93
+MX,Domestic intercity,2015,3103.0,97
+MX,Domestic intercity,2016,3531.0,92
+MX,Domestic intercity,2017,3842.0,93
+MX,Domestic intercity,2018,4370.0,106
+MX,Domestic intercity,2019,4582.0,104
+MX,Domestic intercity,2020,4851.0,99
+MX,Domestic intercity,2021,4858.0,108
+MX,Domestic intercity,2022,4914.0,105
+MX,Domestic intercity,2023,5773.0,105
+MX,Domestic intercity,2024,5943.0,111
+MX,Domestic intercity,2025,6885.0,116
+MY,Domestic intercity,1998,54.0,11
+MY,Domestic intercity,1999,41.0,12
+MY,Domestic intercity,2000,56.0,14
+MY,Domestic intercity,2001,67.0,15
+MY,Domestic intercity,2002,120.0,19
+MY,Domestic intercity,2003,150.0,19
+MY,Domestic intercity,2004,183.0,22
+MY,Domestic intercity,2005,253.0,22
+MY,Domestic intercity,2006,332.0,24
+MY,Domestic intercity,2007,398.0,26
+MY,Domestic intercity,2008,540.0,27
+MY,Domestic intercity,2009,694.0,26
+MY,Domestic intercity,2010,938.0,29
+MY,Domestic intercity,2011,1159.0,28
+MY,Domestic intercity,2012,1454.0,32
+MY,Domestic intercity,2013,1663.0,31
+MY,Domestic intercity,2014,1916.0,30
+MY,Domestic intercity,2015,2046.0,33
+MY,Domestic intercity,2016,2256.0,35
+MY,Domestic intercity,2017,2575.0,36
+MY,Domestic intercity,2018,2965.0,36
+MY,Domestic intercity,2019,3176.0,35
+MY,Domestic intercity,2020,3459.0,35
+MY,Domestic intercity,2021,3962.0,37
+MY,Domestic intercity,2022,3832.0,36
+MY,Domestic intercity,2023,4522.0,36
+MY,Domestic intercity,2024,4673.0,38
+MY,Domestic intercity,2025,5127.0,37
+NG,Domestic intercity,1998,78.0,27
+NG,Domestic intercity,1999,94.0,28
+NG,Domestic intercity,2000,110.0,30
+NG,Domestic intercity,2001,109.0,35
+NG,Domestic intercity,2002,195.0,38
+NG,Domestic intercity,2003,208.0,38
+NG,Domestic intercity,2004,284.0,41
+NG,Domestic intercity,2005,299.0,42
+NG,Domestic intercity,2006,377.0,47
+NG,Domestic intercity,2007,354.0,45
+NG,Domestic intercity,2008,416.0,49
+NG,Domestic intercity,2009,502.0,56
+NG,Domestic intercity,2010,704.0,61
+NG,Domestic intercity,2011,754.0,64
+NG,Domestic intercity,2012,868.0,73
+NG,Domestic intercity,2013,1108.0,71
+NG,Domestic intercity,2014,1468.0,81
+NG,Domestic intercity,2015,1591.0,80
+NG,Domestic intercity,2016,1845.0,82
+NG,Domestic intercity,2017,2090.0,86
+NG,Domestic intercity,2018,2423.0,91
+NG,Domestic intercity,2019,2865.0,93
+NG,Domestic intercity,2020,3900.0,92
+NG,Domestic intercity,2021,4036.0,91
+NG,Domestic intercity,2022,3675.0,92
+NG,Domestic intercity,2023,5248.0,94
+NG,Domestic intercity,2024,5805.0,100
+NG,Domestic intercity,2025,6717.0,97
+NL,Domestic intercity,1998,2300.0,79
+NL,Domestic intercity,1999,2349.0,88
+NL,Domestic intercity,2000,2507.0,81
+NL,Domestic intercity,2001,2620.0,82
+NL,Domestic intercity,2002,2742.0,80
+NL,Domestic intercity,2003,2878.0,88
+NL,Domestic intercity,2004,3026.0,88
+NL,Domestic intercity,2005,3246.0,90
+NL,Domestic intercity,2006,3378.0,98
+NL,Domestic intercity,2007,3564.0,94
+NL,Domestic intercity,2008,3807.0,100
+NL,Domestic intercity,2009,4000.0,110
+NL,Domestic intercity,2010,4188.0,102
+NL,Domestic intercity,2011,4322.0,109
+NL,Domestic intercity,2012,4455.0,112
+NL,Domestic intercity,2013,4589.0,110
+NL,Domestic intercity,2014,4626.0,123
+NL,Domestic intercity,2015,4993.0,117
+NL,Domestic intercity,2016,5155.0,121
+NL,Domestic intercity,2017,5337.0,116
+NL,Domestic intercity,2018,5479.0,114
+NL,Domestic intercity,2019,5674.0,117
+NL,Domestic intercity,2020,6059.0,127
+NL,Domestic intercity,2021,6219.0,121
+NL,Domestic intercity,2022,5875.0,114
+NL,Domestic intercity,2023,6376.0,120
+NL,Domestic intercity,2024,6308.0,129
+NL,Domestic intercity,2025,6584.0,124
+NO,Domestic intercity,1998,415.0,31
+NO,Domestic intercity,1999,409.0,35
+NO,Domestic intercity,2000,451.0,44
+NO,Domestic intercity,2001,478.0,41
+NO,Domestic intercity,2002,531.0,40
+NO,Domestic intercity,2003,539.0,53
+NO,Domestic intercity,2004,641.0,47
+NO,Domestic intercity,2005,777.0,44
+NO,Domestic intercity,2006,722.0,46
+NO,Domestic intercity,2007,762.0,59
+NO,Domestic intercity,2008,871.0,55
+NO,Domestic intercity,2009,939.0,61
+NO,Domestic intercity,2010,1038.0,54
+NO,Domestic intercity,2011,1044.0,57
+NO,Domestic intercity,2012,1053.0,59
+NO,Domestic intercity,2013,1082.0,73
+NO,Domestic intercity,2014,1145.0,65
+NO,Domestic intercity,2015,1179.0,58
+NO,Domestic intercity,2016,1475.0,63
+NO,Domestic intercity,2017,1463.0,67
+NO,Domestic intercity,2018,1415.0,68
+NO,Domestic intercity,2019,1514.0,73
+NO,Domestic intercity,2020,1568.0,71
+NO,Domestic intercity,2021,1503.0,62
+NO,Domestic intercity,2022,1486.0,65
+NO,Domestic intercity,2023,1635.0,64
+NO,Domestic intercity,2024,1658.0,72
+NO,Domestic intercity,2025,1815.0,79
+NZ,Domestic intercity,1998,241.0,14
+NZ,Domestic intercity,1999,280.0,15
+NZ,Domestic intercity,2000,300.0,15
+NZ,Domestic intercity,2001,288.0,15
+NZ,Domestic intercity,2002,328.0,14
+NZ,Domestic intercity,2003,347.0,18
+NZ,Domestic intercity,2004,375.0,16
+NZ,Domestic intercity,2005,391.0,14
+NZ,Domestic intercity,2006,428.0,18
+NZ,Domestic intercity,2007,496.0,18
+NZ,Domestic intercity,2008,520.0,17
+NZ,Domestic intercity,2009,512.0,19
+NZ,Domestic intercity,2010,488.0,19
+NZ,Domestic intercity,2011,509.0,18
+NZ,Domestic intercity,2012,502.0,20
+NZ,Domestic intercity,2013,539.0,18
+NZ,Domestic intercity,2014,620.0,20
+NZ,Domestic intercity,2015,632.0,23
+NZ,Domestic intercity,2016,703.0,23
+NZ,Domestic intercity,2017,678.0,20
+NZ,Domestic intercity,2018,742.0,21
+NZ,Domestic intercity,2019,792.0,21
+NZ,Domestic intercity,2020,818.0,21
+NZ,Domestic intercity,2021,822.0,23
+NZ,Domestic intercity,2022,815.0,24
+NZ,Domestic intercity,2023,845.0,24
+NZ,Domestic intercity,2024,886.0,24
+NZ,Domestic intercity,2025,1008.0,25
+PH,Domestic intercity,1998,16.0,7
+PH,Domestic intercity,1999,24.0,6
+PH,Domestic intercity,2000,15.0,6
+PH,Domestic intercity,2001,14.0,9
+PH,Domestic intercity,2002,13.0,6
+PH,Domestic intercity,2003,29.0,8
+PH,Domestic intercity,2004,25.0,7
+PH,Domestic intercity,2005,20.0,8
+PH,Domestic intercity,2006,47.0,11
+PH,Domestic intercity,2007,44.0,11
+PH,Domestic intercity,2008,42.0,10
+PH,Domestic intercity,2009,60.0,18
+PH,Domestic intercity,2010,49.0,15
+PH,Domestic intercity,2011,64.0,16
+PH,Domestic intercity,2012,90.0,24
+PH,Domestic intercity,2013,119.0,23
+PH,Domestic intercity,2014,117.0,23
+PH,Domestic intercity,2015,167.0,33
+PH,Domestic intercity,2016,173.0,36
+PH,Domestic intercity,2017,171.0,37
+PH,Domestic intercity,2018,207.0,44
+PH,Domestic intercity,2019,294.0,52
+PH,Domestic intercity,2020,356.0,69
+PH,Domestic intercity,2021,435.0,67
+PH,Domestic intercity,2022,520.0,82
+PH,Domestic intercity,2023,686.0,78
+PH,Domestic intercity,2024,730.0,81
+PH,Domestic intercity,2025,950.0,88
+PK,Domestic intercity,1998,36.0,10
+PK,Domestic intercity,1999,36.0,10
+PK,Domestic intercity,2000,69.0,15
+PK,Domestic intercity,2001,52.0,12
+PK,Domestic intercity,2002,72.0,12
+PK,Domestic intercity,2003,70.0,11
+PK,Domestic intercity,2004,81.0,12
+PK,Domestic intercity,2005,130.0,19
+PK,Domestic intercity,2006,191.0,19
+PK,Domestic intercity,2007,244.0,16
+PK,Domestic intercity,2008,283.0,26
+PK,Domestic intercity,2009,415.0,25
+PK,Domestic intercity,2010,484.0,26
+PK,Domestic intercity,2011,651.0,32
+PK,Domestic intercity,2012,767.0,33
+PK,Domestic intercity,2013,1019.0,37
+PK,Domestic intercity,2014,1310.0,37
+PK,Domestic intercity,2015,1595.0,38
+PK,Domestic intercity,2016,2040.0,39
+PK,Domestic intercity,2017,2568.0,41
+PK,Domestic intercity,2018,3143.0,42
+PK,Domestic intercity,2019,3706.0,43
+PK,Domestic intercity,2020,4821.0,46
+PK,Domestic intercity,2021,6226.0,50
+PK,Domestic intercity,2022,6909.0,49
+PK,Domestic intercity,2023,8021.0,51
+PK,Domestic intercity,2024,8974.0,50
+PK,Domestic intercity,2025,11502.0,48
+PL,Domestic intercity,1998,1347.0,51
+PL,Domestic intercity,1999,1309.0,51
+PL,Domestic intercity,2000,1553.0,51
+PL,Domestic intercity,2001,1639.0,54
+PL,Domestic intercity,2002,1807.0,57
+PL,Domestic intercity,2003,2197.0,56
+PL,Domestic intercity,2004,2464.0,62
+PL,Domestic intercity,2005,2735.0,64
+PL,Domestic intercity,2006,2586.0,65
+PL,Domestic intercity,2007,2759.0,65
+PL,Domestic intercity,2008,2673.0,68
+PL,Domestic intercity,2009,2891.0,79
+PL,Domestic intercity,2010,3036.0,82
+PL,Domestic intercity,2011,3424.0,80
+PL,Domestic intercity,2012,3816.0,93
+PL,Domestic intercity,2013,4642.0,103
+PL,Domestic intercity,2014,4884.0,93
+PL,Domestic intercity,2015,5352.0,102
+PL,Domestic intercity,2016,5452.0,104
+PL,Domestic intercity,2017,5751.0,106
+PL,Domestic intercity,2018,5999.0,111
+PL,Domestic intercity,2019,5716.0,113
+PL,Domestic intercity,2020,5534.0,113
+PL,Domestic intercity,2021,5325.0,114
+PL,Domestic intercity,2022,4667.0,108
+PL,Domestic intercity,2023,5630.0,108
+PL,Domestic intercity,2024,5049.0,114
+PL,Domestic intercity,2025,5836.0,136
+PR,Domestic intercity,1998,39.0,7
+PR,Domestic intercity,1999,29.0,7
+PR,Domestic intercity,2000,27.0,6
+PR,Domestic intercity,2001,29.0,6
+PR,Domestic intercity,2002,32.0,5
+PR,Domestic intercity,2003,38.0,5
+PR,Domestic intercity,2004,29.0,8
+PR,Domestic intercity,2005,41.0,9
+PR,Domestic intercity,2006,54.0,9
+PR,Domestic intercity,2007,60.0,8
+PR,Domestic intercity,2008,62.0,9
+PR,Domestic intercity,2009,59.0,12
+PR,Domestic intercity,2010,73.0,11
+PR,Domestic intercity,2011,52.0,9
+PR,Domestic intercity,2012,61.0,10
+PR,Domestic intercity,2013,74.0,12
+PR,Domestic intercity,2014,59.0,10
+PR,Domestic intercity,2015,87.0,11
+PR,Domestic intercity,2016,80.0,11
+PR,Domestic intercity,2017,84.0,13
+PR,Domestic intercity,2018,78.0,11
+PR,Domestic intercity,2019,89.0,12
+PR,Domestic intercity,2020,85.0,12
+PR,Domestic intercity,2021,93.0,13
+PR,Domestic intercity,2022,77.0,9
+PR,Domestic intercity,2023,111.0,14
+PR,Domestic intercity,2024,98.0,12
+PR,Domestic intercity,2025,114.0,12
+PT,Domestic intercity,1998,246.0,26
+PT,Domestic intercity,1999,321.0,28
+PT,Domestic intercity,2000,323.0,28
+PT,Domestic intercity,2001,345.0,32
+PT,Domestic intercity,2002,414.0,32
+PT,Domestic intercity,2003,522.0,31
+PT,Domestic intercity,2004,607.0,35
+PT,Domestic intercity,2005,720.0,44
+PT,Domestic intercity,2006,811.0,37
+PT,Domestic intercity,2007,1000.0,41
+PT,Domestic intercity,2008,1162.0,46
+PT,Domestic intercity,2009,1339.0,47
+PT,Domestic intercity,2010,1539.0,50
+PT,Domestic intercity,2011,1868.0,55
+PT,Domestic intercity,2012,2174.0,67
+PT,Domestic intercity,2013,2458.0,68
+PT,Domestic intercity,2014,2778.0,69
+PT,Domestic intercity,2015,2935.0,64
+PT,Domestic intercity,2016,3072.0,66
+PT,Domestic intercity,2017,3222.0,69
+PT,Domestic intercity,2018,3293.0,67
+PT,Domestic intercity,2019,3833.0,71
+PT,Domestic intercity,2020,4028.0,74
+PT,Domestic intercity,2021,4153.0,72
+PT,Domestic intercity,2022,4199.0,73
+PT,Domestic intercity,2023,4914.0,76
+PT,Domestic intercity,2024,5316.0,80
+PT,Domestic intercity,2025,5941.0,77
+RO,Domestic intercity,1998,115.0,10
+RO,Domestic intercity,1999,77.0,9
+RO,Domestic intercity,2000,106.0,14
+RO,Domestic intercity,2001,98.0,13
+RO,Domestic intercity,2002,111.0,12
+RO,Domestic intercity,2003,138.0,17
+RO,Domestic intercity,2004,157.0,16
+RO,Domestic intercity,2005,176.0,19
+RO,Domestic intercity,2006,177.0,15
+RO,Domestic intercity,2007,253.0,23
+RO,Domestic intercity,2008,315.0,21
+RO,Domestic intercity,2009,312.0,23
+RO,Domestic intercity,2010,429.0,24
+RO,Domestic intercity,2011,562.0,24
+RO,Domestic intercity,2012,554.0,28
+RO,Domestic intercity,2013,684.0,25
+RO,Domestic intercity,2014,700.0,28
+RO,Domestic intercity,2015,817.0,30
+RO,Domestic intercity,2016,841.0,28
+RO,Domestic intercity,2017,921.0,29
+RO,Domestic intercity,2018,853.0,29
+RO,Domestic intercity,2019,987.0,29
+RO,Domestic intercity,2020,967.0,29
+RO,Domestic intercity,2021,1076.0,30
+RO,Domestic intercity,2022,1027.0,26
+RO,Domestic intercity,2023,1191.0,27
+RO,Domestic intercity,2024,1222.0,27
+RO,Domestic intercity,2025,1390.0,29
+RS,Domestic intercity,1998,54.0,5
+RS,Domestic intercity,1999,54.0,7
+RS,Domestic intercity,2000,49.0,6
+RS,Domestic intercity,2001,40.0,7
+RS,Domestic intercity,2002,100.0,7
+RS,Domestic intercity,2003,102.0,7
+RS,Domestic intercity,2004,122.0,6
+RS,Domestic intercity,2005,142.0,8
+RS,Domestic intercity,2006,175.0,6
+RS,Domestic intercity,2007,225.0,9
+RS,Domestic intercity,2008,236.0,9
+RS,Domestic intercity,2009,298.0,11
+RS,Domestic intercity,2010,333.0,11
+RS,Domestic intercity,2011,402.0,11
+RS,Domestic intercity,2012,380.0,11
+RS,Domestic intercity,2013,407.0,10
+RS,Domestic intercity,2014,463.0,11
+RS,Domestic intercity,2015,481.0,10
+RS,Domestic intercity,2016,536.0,11
+RS,Domestic intercity,2017,594.0,11
+RS,Domestic intercity,2018,600.0,10
+RS,Domestic intercity,2019,599.0,12
+RS,Domestic intercity,2020,602.0,11
+RS,Domestic intercity,2021,553.0,12
+RS,Domestic intercity,2022,582.0,12
+RS,Domestic intercity,2023,643.0,13
+RS,Domestic intercity,2024,624.0,13
+RS,Domestic intercity,2025,682.0,11
+RU,Domestic intercity,1998,2605.0,103
+RU,Domestic intercity,1999,2670.0,98
+RU,Domestic intercity,2000,3388.0,105
+RU,Domestic intercity,2001,3927.0,108
+RU,Domestic intercity,2002,4087.0,110
+RU,Domestic intercity,2003,3988.0,113
+RU,Domestic intercity,2004,4024.0,114
+RU,Domestic intercity,2005,4240.0,116
+RU,Domestic intercity,2006,4816.0,123
+RU,Domestic intercity,2007,5182.0,124
+RU,Domestic intercity,2008,6851.0,132
+RU,Domestic intercity,2009,6982.0,124
+RU,Domestic intercity,2010,7167.0,131
+RU,Domestic intercity,2011,7452.0,127
+RU,Domestic intercity,2012,7584.0,137
+RU,Domestic intercity,2013,8292.0,137
+RU,Domestic intercity,2014,9350.0,145
+RU,Domestic intercity,2015,10647.0,145
+RU,Domestic intercity,2016,10532.0,150
+RU,Domestic intercity,2017,10657.0,157
+RU,Domestic intercity,2018,12122.0,158
+RU,Domestic intercity,2019,14487.0,162
+RU,Domestic intercity,2020,16026.0,167
+RU,Domestic intercity,2021,16639.0,166
+RU,Domestic intercity,2022,14241.0,163
+RU,Domestic intercity,2023,16339.0,160
+RU,Domestic intercity,2024,15788.0,162
+RU,Domestic intercity,2025,14154.0,164
+SA,Domestic intercity,1998,53.0,9
+SA,Domestic intercity,1999,54.0,14
+SA,Domestic intercity,2000,65.0,8
+SA,Domestic intercity,2001,68.0,12
+SA,Domestic intercity,2002,78.0,16
+SA,Domestic intercity,2003,70.0,11
+SA,Domestic intercity,2004,72.0,13
+SA,Domestic intercity,2005,65.0,14
+SA,Domestic intercity,2006,81.0,17
+SA,Domestic intercity,2007,89.0,14
+SA,Domestic intercity,2008,108.0,14
+SA,Domestic intercity,2009,119.0,18
+SA,Domestic intercity,2010,170.0,18
+SA,Domestic intercity,2011,174.0,20
+SA,Domestic intercity,2012,229.0,20
+SA,Domestic intercity,2013,231.0,22
+SA,Domestic intercity,2014,299.0,22
+SA,Domestic intercity,2015,375.0,23
+SA,Domestic intercity,2016,384.0,24
+SA,Domestic intercity,2017,481.0,25
+SA,Domestic intercity,2018,593.0,25
+SA,Domestic intercity,2019,761.0,25
+SA,Domestic intercity,2020,1142.0,25
+SA,Domestic intercity,2021,1447.0,25
+SA,Domestic intercity,2022,1702.0,26
+SA,Domestic intercity,2023,2656.0,26
+SA,Domestic intercity,2024,3355.0,26
+SA,Domestic intercity,2025,3811.0,26
+SE,Domestic intercity,1998,1741.0,50
+SE,Domestic intercity,1999,1845.0,53
+SE,Domestic intercity,2000,1929.0,62
+SE,Domestic intercity,2001,2058.0,52
+SE,Domestic intercity,2002,2345.0,51
+SE,Domestic intercity,2003,2361.0,57
+SE,Domestic intercity,2004,2414.0,59
+SE,Domestic intercity,2005,2517.0,59
+SE,Domestic intercity,2006,2446.0,60
+SE,Domestic intercity,2007,2358.0,61
+SE,Domestic intercity,2008,2542.0,69
+SE,Domestic intercity,2009,2644.0,64
+SE,Domestic intercity,2010,2659.0,67
+SE,Domestic intercity,2011,2736.0,64
+SE,Domestic intercity,2012,2757.0,64
+SE,Domestic intercity,2013,2738.0,65
+SE,Domestic intercity,2014,2921.0,65
+SE,Domestic intercity,2015,2922.0,64
+SE,Domestic intercity,2016,2889.0,67
+SE,Domestic intercity,2017,2989.0,70
+SE,Domestic intercity,2018,2953.0,72
+SE,Domestic intercity,2019,3099.0,73
+SE,Domestic intercity,2020,3117.0,70
+SE,Domestic intercity,2021,2988.0,66
+SE,Domestic intercity,2022,2752.0,63
+SE,Domestic intercity,2023,3132.0,67
+SE,Domestic intercity,2024,3317.0,70
+SE,Domestic intercity,2025,3531.0,73
+SI,Domestic intercity,1998,22.0,8
+SI,Domestic intercity,1999,32.0,7
+SI,Domestic intercity,2000,14.0,5
+SI,Domestic intercity,2001,31.0,12
+SI,Domestic intercity,2002,66.0,11
+SI,Domestic intercity,2003,72.0,19
+SI,Domestic intercity,2004,97.0,15
+SI,Domestic intercity,2005,77.0,14
+SI,Domestic intercity,2006,88.0,15
+SI,Domestic intercity,2007,77.0,12
+SI,Domestic intercity,2008,94.0,23
+SI,Domestic intercity,2009,111.0,15
+SI,Domestic intercity,2010,126.0,21
+SI,Domestic intercity,2011,146.0,18
+SI,Domestic intercity,2012,162.0,20
+SI,Domestic intercity,2013,154.0,23
+SI,Domestic intercity,2014,199.0,24
+SI,Domestic intercity,2015,184.0,23
+SI,Domestic intercity,2016,205.0,27
+SI,Domestic intercity,2017,211.0,27
+SI,Domestic intercity,2018,208.0,22
+SI,Domestic intercity,2019,228.0,18
+SI,Domestic intercity,2020,218.0,22
+SI,Domestic intercity,2021,269.0,22
+SI,Domestic intercity,2022,298.0,28
+SI,Domestic intercity,2023,266.0,26
+SI,Domestic intercity,2024,271.0,25
+SI,Domestic intercity,2025,300.0,33
+SK,Domestic intercity,1998,67.0,9
+SK,Domestic intercity,1999,67.0,8
+SK,Domestic intercity,2000,65.0,12
+SK,Domestic intercity,2001,76.0,8
+SK,Domestic intercity,2002,76.0,13
+SK,Domestic intercity,2003,100.0,12
+SK,Domestic intercity,2004,91.0,13
+SK,Domestic intercity,2005,77.0,11
+SK,Domestic intercity,2006,129.0,14
+SK,Domestic intercity,2007,139.0,12
+SK,Domestic intercity,2008,158.0,18
+SK,Domestic intercity,2009,186.0,14
+SK,Domestic intercity,2010,201.0,14
+SK,Domestic intercity,2011,201.0,16
+SK,Domestic intercity,2012,235.0,19
+SK,Domestic intercity,2013,267.0,18
+SK,Domestic intercity,2014,325.0,17
+SK,Domestic intercity,2015,331.0,21
+SK,Domestic intercity,2016,368.0,19
+SK,Domestic intercity,2017,358.0,19
+SK,Domestic intercity,2018,387.0,19
+SK,Domestic intercity,2019,404.0,22
+SK,Domestic intercity,2020,425.0,18
+SK,Domestic intercity,2021,373.0,18
+SK,Domestic intercity,2022,361.0,18
+SK,Domestic intercity,2023,387.0,20
+SK,Domestic intercity,2024,399.0,21
+SK,Domestic intercity,2025,401.0,20
+TH,Domestic intercity,1998,39.0,11
+TH,Domestic intercity,1999,49.0,8
+TH,Domestic intercity,2000,56.0,14
+TH,Domestic intercity,2001,63.0,16
+TH,Domestic intercity,2002,82.0,11
+TH,Domestic intercity,2003,106.0,18
+TH,Domestic intercity,2004,136.0,23
+TH,Domestic intercity,2005,136.0,20
+TH,Domestic intercity,2006,216.0,26
+TH,Domestic intercity,2007,224.0,28
+TH,Domestic intercity,2008,316.0,31
+TH,Domestic intercity,2009,366.0,32
+TH,Domestic intercity,2010,431.0,33
+TH,Domestic intercity,2011,532.0,34
+TH,Domestic intercity,2012,600.0,42
+TH,Domestic intercity,2013,711.0,41
+TH,Domestic intercity,2014,770.0,48
+TH,Domestic intercity,2015,866.0,49
+TH,Domestic intercity,2016,919.0,49
+TH,Domestic intercity,2017,1009.0,50
+TH,Domestic intercity,2018,1127.0,53
+TH,Domestic intercity,2019,1205.0,53
+TH,Domestic intercity,2020,1284.0,53
+TH,Domestic intercity,2021,1579.0,53
+TH,Domestic intercity,2022,1490.0,53
+TH,Domestic intercity,2023,1764.0,55
+TH,Domestic intercity,2024,1672.0,52
+TH,Domestic intercity,2025,1838.0,56
+TN,Domestic intercity,1998,15.0,8
+TN,Domestic intercity,1999,18.0,10
+TN,Domestic intercity,2000,32.0,8
+TN,Domestic intercity,2001,44.0,10
+TN,Domestic intercity,2002,58.0,11
+TN,Domestic intercity,2003,96.0,12
+TN,Domestic intercity,2004,144.0,11
+TN,Domestic intercity,2005,186.0,12
+TN,Domestic intercity,2006,212.0,14
+TN,Domestic intercity,2007,261.0,11
+TN,Domestic intercity,2008,281.0,15
+TN,Domestic intercity,2009,322.0,13
+TN,Domestic intercity,2010,381.0,13
+TN,Domestic intercity,2011,490.0,16
+TN,Domestic intercity,2012,528.0,15
+TN,Domestic intercity,2013,570.0,17
+TN,Domestic intercity,2014,685.0,16
+TN,Domestic intercity,2015,831.0,16
+TN,Domestic intercity,2016,972.0,17
+TN,Domestic intercity,2017,971.0,17
+TN,Domestic intercity,2018,1047.0,16
+TN,Domestic intercity,2019,1083.0,16
+TN,Domestic intercity,2020,1101.0,17
+TN,Domestic intercity,2021,1310.0,17
+TN,Domestic intercity,2022,1165.0,17
+TN,Domestic intercity,2023,1413.0,15
+TN,Domestic intercity,2024,1555.0,16
+TN,Domestic intercity,2025,1628.0,17
+TR,Domestic intercity,1998,410.0,40
+TR,Domestic intercity,1999,434.0,45
+TR,Domestic intercity,2000,614.0,41
+TR,Domestic intercity,2001,734.0,48
+TR,Domestic intercity,2002,1002.0,50
+TR,Domestic intercity,2003,1234.0,52
+TR,Domestic intercity,2004,1450.0,59
+TR,Domestic intercity,2005,1684.0,60
+TR,Domestic intercity,2006,1891.0,68
+TR,Domestic intercity,2007,2246.0,77
+TR,Domestic intercity,2008,2409.0,84
+TR,Domestic intercity,2009,2776.0,88
+TR,Domestic intercity,2010,3191.0,97
+TR,Domestic intercity,2011,4049.0,94
+TR,Domestic intercity,2012,4716.0,97
+TR,Domestic intercity,2013,5780.0,100
+TR,Domestic intercity,2014,6937.0,101
+TR,Domestic intercity,2015,7771.0,102
+TR,Domestic intercity,2016,8540.0,101
+TR,Domestic intercity,2017,9195.0,103
+TR,Domestic intercity,2018,10771.0,100
+TR,Domestic intercity,2019,11820.0,102
+TR,Domestic intercity,2020,13060.0,102
+TR,Domestic intercity,2021,13958.0,102
+TR,Domestic intercity,2022,12533.0,102
+TR,Domestic intercity,2023,14471.0,100
+TR,Domestic intercity,2024,13831.0,102
+TR,Domestic intercity,2025,15576.0,104
+TZ,Domestic intercity,1998,3.0,3
+TZ,Domestic intercity,1999,5.0,3
+TZ,Domestic intercity,2000,11.0,3
+TZ,Domestic intercity,2001,15.0,6
+TZ,Domestic intercity,2002,20.0,6
+TZ,Domestic intercity,2003,13.0,4
+TZ,Domestic intercity,2004,24.0,6
+TZ,Domestic intercity,2005,36.0,8
+TZ,Domestic intercity,2006,35.0,8
+TZ,Domestic intercity,2007,38.0,10
+TZ,Domestic intercity,2008,61.0,9
+TZ,Domestic intercity,2009,52.0,10
+TZ,Domestic intercity,2010,39.0,9
+TZ,Domestic intercity,2011,38.0,9
+TZ,Domestic intercity,2012,44.0,12
+TZ,Domestic intercity,2013,46.0,10
+TZ,Domestic intercity,2014,73.0,10
+TZ,Domestic intercity,2015,80.0,11
+TZ,Domestic intercity,2016,78.0,10
+TZ,Domestic intercity,2017,112.0,14
+TZ,Domestic intercity,2018,131.0,11
+TZ,Domestic intercity,2019,147.0,13
+TZ,Domestic intercity,2020,202.0,14
+TZ,Domestic intercity,2021,223.0,13
+TZ,Domestic intercity,2022,208.0,11
+TZ,Domestic intercity,2023,329.0,11
+TZ,Domestic intercity,2024,415.0,14
+TZ,Domestic intercity,2025,489.0,14
+UA,Domestic intercity,1998,242.0,20
+UA,Domestic intercity,1999,267.0,22
+UA,Domestic intercity,2000,339.0,20
+UA,Domestic intercity,2001,377.0,24
+UA,Domestic intercity,2002,484.0,29
+UA,Domestic intercity,2003,455.0,27
+UA,Domestic intercity,2004,436.0,27
+UA,Domestic intercity,2005,466.0,22
+UA,Domestic intercity,2006,442.0,27
+UA,Domestic intercity,2007,553.0,26
+UA,Domestic intercity,2008,532.0,26
+UA,Domestic intercity,2009,560.0,33
+UA,Domestic intercity,2010,581.0,32
+UA,Domestic intercity,2011,628.0,34
+UA,Domestic intercity,2012,620.0,30
+UA,Domestic intercity,2013,726.0,33
+UA,Domestic intercity,2014,748.0,37
+UA,Domestic intercity,2015,786.0,39
+UA,Domestic intercity,2016,968.0,39
+UA,Domestic intercity,2017,1137.0,44
+UA,Domestic intercity,2018,1418.0,48
+UA,Domestic intercity,2019,2058.0,50
+UA,Domestic intercity,2020,2501.0,47
+UA,Domestic intercity,2021,2911.0,48
+UA,Domestic intercity,2022,2551.0,47
+UA,Domestic intercity,2023,3521.0,52
+UA,Domestic intercity,2024,3346.0,50
+UA,Domestic intercity,2025,2733.0,49
+UG,Domestic intercity,1998,7.0,3
+UG,Domestic intercity,1999,8.0,5
+UG,Domestic intercity,2000,3.0,2
+UG,Domestic intercity,2001,9.0,5
+UG,Domestic intercity,2002,16.0,6
+UG,Domestic intercity,2003,17.0,6
+UG,Domestic intercity,2004,33.0,6
+UG,Domestic intercity,2005,35.0,8
+UG,Domestic intercity,2006,37.0,8
+UG,Domestic intercity,2007,18.0,6
+UG,Domestic intercity,2008,32.0,6
+UG,Domestic intercity,2009,54.0,10
+UG,Domestic intercity,2010,51.0,7
+UG,Domestic intercity,2011,27.0,7
+UG,Domestic intercity,2012,43.0,9
+UG,Domestic intercity,2013,36.0,9
+UG,Domestic intercity,2014,44.0,10
+UG,Domestic intercity,2015,52.0,10
+UG,Domestic intercity,2016,80.0,16
+UG,Domestic intercity,2017,83.0,14
+UG,Domestic intercity,2018,95.0,17
+UG,Domestic intercity,2019,106.0,13
+UG,Domestic intercity,2020,174.0,17
+UG,Domestic intercity,2021,199.0,18
+UG,Domestic intercity,2022,202.0,19
+UG,Domestic intercity,2023,258.0,18
+UG,Domestic intercity,2024,305.0,20
+UG,Domestic intercity,2025,381.0,25
+US,Domestic intercity,1998,95308.0,1988
+US,Domestic intercity,1999,96732.0,1997
+US,Domestic intercity,2000,99627.0,2021
+US,Domestic intercity,2001,101050.0,2029
+US,Domestic intercity,2002,119920.0,2119
+US,Domestic intercity,2003,120929.0,2126
+US,Domestic intercity,2004,120865.0,2200
+US,Domestic intercity,2005,130954.0,2190
+US,Domestic intercity,2006,133467.0,2244
+US,Domestic intercity,2007,133746.0,2258
+US,Domestic intercity,2008,138985.0,2239
+US,Domestic intercity,2009,142496.0,2314
+US,Domestic intercity,2010,146958.0,2290
+US,Domestic intercity,2011,151629.0,2314
+US,Domestic intercity,2012,157653.0,2328
+US,Domestic intercity,2013,163451.0,2356
+US,Domestic intercity,2014,170933.0,2403
+US,Domestic intercity,2015,177398.0,2407
+US,Domestic intercity,2016,181031.0,2439
+US,Domestic intercity,2017,186649.0,2489
+US,Domestic intercity,2018,192244.0,2459
+US,Domestic intercity,2019,200650.0,2476
+US,Domestic intercity,2020,217666.0,2514
+US,Domestic intercity,2021,205860.0,2481
+US,Domestic intercity,2022,192570.0,2467
+US,Domestic intercity,2023,222152.0,2516
+US,Domestic intercity,2024,229112.0,2528
+US,Domestic intercity,2025,245781.0,2693
+VE,Domestic intercity,1998,41.0,7
+VE,Domestic intercity,1999,43.0,8
+VE,Domestic intercity,2000,51.0,9
+VE,Domestic intercity,2001,41.0,8
+VE,Domestic intercity,2002,70.0,10
+VE,Domestic intercity,2003,76.0,10
+VE,Domestic intercity,2004,93.0,10
+VE,Domestic intercity,2005,98.0,11
+VE,Domestic intercity,2006,110.0,16
+VE,Domestic intercity,2007,117.0,14
+VE,Domestic intercity,2008,124.0,13
+VE,Domestic intercity,2009,175.0,14
+VE,Domestic intercity,2010,156.0,14
+VE,Domestic intercity,2011,146.0,13
+VE,Domestic intercity,2012,148.0,14
+VE,Domestic intercity,2013,134.0,13
+VE,Domestic intercity,2014,119.0,13
+VE,Domestic intercity,2015,107.0,12
+VE,Domestic intercity,2016,123.0,17
+VE,Domestic intercity,2017,106.0,13
+VE,Domestic intercity,2018,80.0,11
+VE,Domestic intercity,2019,79.0,11
+VE,Domestic intercity,2020,87.0,13
+VE,Domestic intercity,2021,89.0,13
+VE,Domestic intercity,2022,76.0,16
+VE,Domestic intercity,2023,80.0,12
+VE,Domestic intercity,2024,80.0,14
+VE,Domestic intercity,2025,67.0,12
+VN,Domestic intercity,1998,4.0,2
+VN,Domestic intercity,1999,7.0,5
+VN,Domestic intercity,2000,12.0,4
+VN,Domestic intercity,2001,8.0,3
+VN,Domestic intercity,2002,13.0,6
+VN,Domestic intercity,2003,22.0,8
+VN,Domestic intercity,2004,14.0,5
+VN,Domestic intercity,2005,28.0,9
+VN,Domestic intercity,2006,30.0,5
+VN,Domestic intercity,2007,38.0,8
+VN,Domestic intercity,2008,39.0,9
+VN,Domestic intercity,2009,57.0,12
+VN,Domestic intercity,2010,60.0,14
+VN,Domestic intercity,2011,106.0,18
+VN,Domestic intercity,2012,138.0,19
+VN,Domestic intercity,2013,166.0,14
+VN,Domestic intercity,2014,234.0,17
+VN,Domestic intercity,2015,262.0,19
+VN,Domestic intercity,2016,395.0,23
+VN,Domestic intercity,2017,508.0,27
+VN,Domestic intercity,2018,685.0,28
+VN,Domestic intercity,2019,995.0,31
+VN,Domestic intercity,2020,1347.0,32
+VN,Domestic intercity,2021,1746.0,31
+VN,Domestic intercity,2022,1984.0,31
+VN,Domestic intercity,2023,2743.0,33
+VN,Domestic intercity,2024,3421.0,35
+VN,Domestic intercity,2025,4705.0,35
+ZA,Domestic intercity,1998,319.0,21
+ZA,Domestic intercity,1999,361.0,22
+ZA,Domestic intercity,2000,329.0,16
+ZA,Domestic intercity,2001,408.0,24
+ZA,Domestic intercity,2002,470.0,23
+ZA,Domestic intercity,2003,467.0,26
+ZA,Domestic intercity,2004,593.0,23
+ZA,Domestic intercity,2005,624.0,25
+ZA,Domestic intercity,2006,703.0,22
+ZA,Domestic intercity,2007,642.0,23
+ZA,Domestic intercity,2008,828.0,24
+ZA,Domestic intercity,2009,929.0,27
+ZA,Domestic intercity,2010,1048.0,25
+ZA,Domestic intercity,2011,1165.0,24
+ZA,Domestic intercity,2012,1199.0,29
+ZA,Domestic intercity,2013,1332.0,31
+ZA,Domestic intercity,2014,1628.0,33
+ZA,Domestic intercity,2015,1694.0,30
+ZA,Domestic intercity,2016,1787.0,31
+ZA,Domestic intercity,2017,1743.0,30
+ZA,Domestic intercity,2018,1820.0,33
+ZA,Domestic intercity,2019,2065.0,31
+ZA,Domestic intercity,2020,2262.0,32
+ZA,Domestic intercity,2021,2278.0,36
+ZA,Domestic intercity,2022,2261.0,32
+ZA,Domestic intercity,2023,2561.0,37
+ZA,Domestic intercity,2024,2754.0,32
+ZA,Domestic intercity,2025,3025.0,40

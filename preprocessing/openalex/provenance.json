@@ -1,0 +1,127 @@
+[
+  {
+    "path": "preprocessing/openalex/s00_preprocess_openalex_snapshot.py",
+    "source": "OpenAlex/s00_preprocess_openalex_snapshot.py",
+    "sha256": "4205ee482d74af47368b730ba628afe0b32ef1a119d83e07fc56cf640a371717"
+  },
+  {
+    "path": "preprocessing/openalex/s01_export_openalex_entities.py",
+    "source": "OpenAlex/s01_export_openalex_entities.py",
+    "sha256": "42dc5d3269c9ee2016dbb79b02a693a1076518eecb863f92710b6313e6844e88"
+  },
+  {
+    "path": "preprocessing/openalex/s04_extract_schema_sample.py",
+    "source": "OpenAlex/s04_extract_schema_sample.py",
+    "sha256": "708253ee726cdb3a5e1d9d221366838e7477e02a5b0490cc78e47dc35093f577"
+  },
+  {
+    "path": "preprocessing/openalex/s10_extract_works_author_mobility.py",
+    "source": "OpenAlex/s10_extract_works_author_mobility.py",
+    "sha256": "8518cd5f80e76ccfb2b4c6a48591fd68c3f9dbf06608b15ac9dbe26a1dd8c844"
+  },
+  {
+    "path": "preprocessing/openalex/s21_dedupe_works_mobility.sh",
+    "source": "OpenAlex/s21_dedupe_works_mobility.sh",
+    "sha256": "31e2b5db6e9f78a4827268e5b8f9b974951411e22eb683c9c62c019fa6be9f5e"
+  },
+  {
+    "path": "preprocessing/openalex/s22_build_author_year_locations.py",
+    "source": "OpenAlex/s22_build_author_year_locations.py",
+    "sha256": "c1424539ce293a45f87d9379d25046d80e2db5baa90a4350c880f05e638ed617"
+  },
+  {
+    "path": "preprocessing/openalex/s23_build_mobility_duckdb.py",
+    "source": "OpenAlex/s23_build_mobility_duckdb.py",
+    "sha256": "78b9eaadd03306e2cf02625db82b52ccceedd64568b771cf6ce147ce7f425c4d"
+  },
+  {
+    "path": "preprocessing/openalex/s30_aggregate_discipline_tables.py",
+    "source": "OpenAlex/s30_aggregate_discipline_tables.py",
+    "sha256": "c54e07765f524967e0da288c2eba7f0357530ee99fd213bf2092d75b194a2255"
+  },
+  {
+    "path": "preprocessing/openalex/s31_aggregate_author_year.py",
+    "source": "OpenAlex/s31_aggregate_author_year.py",
+    "sha256": "6d0b57b0d180da44b6febf56d6d714e02b88317c3fcb005611b40cd9cb4b5f9a"
+  },
+  {
+    "path": "preprocessing/openalex/s32_aggregate_author_mobility.py",
+    "source": "OpenAlex/s32_aggregate_author_mobility.py",
+    "sha256": "7ba6165fe6818ed1bc944db22eafce1bb04bae2dfea079fb19371ee88a97c8a2"
+  },
+  {
+    "path": "preprocessing/openalex/s33_aggregate_field_subfield.py",
+    "source": "OpenAlex/s33_aggregate_field_subfield.py",
+    "sha256": "4a4dcc0b1348aeb65fbfa5dc7a1a93ac3b0b7dc489b77a296b7782aef278ed18"
+  },
+  {
+    "path": "preprocessing/openalex/s40_count_stock.py",
+    "source": "OpenAlex/s40_count_stock.py",
+    "sha256": "9b4abf3fb390a678bf20ff686b4e887757ce0bde77ae4f9058b1775bafb1bab9"
+  },
+  {
+    "path": "preprocessing/openalex/s41_count_flow.py",
+    "source": "OpenAlex/s41_count_flow.py",
+    "sha256": "87345aa58c9cefcfd475e3aab67d13492419103f06fa7ce756cbe9562dadedd0"
+  },
+  {
+    "path": "preprocessing/openalex/s50_clean_mobility.py",
+    "source": "OpenAlex/s50_clean_mobility.py",
+    "sha256": "bff94e2ae198c4014943f53344e5e7bd2e75b2721ff80879d057288bb7e10285"
+  },
+  {
+    "path": "preprocessing/openalex/s51_clean_stock.py",
+    "source": "OpenAlex/s51_clean_stock.py",
+    "sha256": "8978d2db6ec2de8646740bd304088550a3dba931e768c819a49d69e0f34b2205"
+  },
+  {
+    "path": "preprocessing/openalex/s52_clean_flow.py",
+    "source": "OpenAlex/s52_clean_flow.py",
+    "sha256": "566a56f1df65d38ffc6090f51ffc748c507e3e2f029341d2d8d8bc3b94b60097"
+  },
+  {
+    "path": "preprocessing/openalex/s53_clean_city_regions.py",
+    "source": "OpenAlex/s53_clean_city_regions.py",
+    "sha256": "cfd4b1be8f0d7eddc140681163cd3ba404fd5c89f536b4eb989f2f93d170c64f"
+  },
+  {
+    "path": "preprocessing/openalex/OPENALEX_MOBILITY_PIPELINE.md",
+    "source": "OpenAlex/OPENALEX_MOBILITY_PIPELINE.md",
+    "sha256": "6c32e5ba673ba4b72e385b7165a1ebdf5320e8e2ae734d17e2a3f640cd144c69"
+  },
+  {
+    "path": "preprocessing/openalex/OPENALEX_DATA_CLEANING_AND_MOBILITY_METHODS.md",
+    "source": "OpenAlex/OPENALEX_DATA_CLEANING_AND_MOBILITY_METHODS.md",
+    "sha256": "0f867281562bf447d71e3d0dd122ba1de6ae4301d984d09f8fd7716c19add137"
+  },
+  {
+    "path": "preprocessing/openalex/OPENALEX_FIELDS_USED_REPORT.md",
+    "source": "OpenAlex/OPENALEX_FIELDS_USED_REPORT.md",
+    "sha256": "5b4403472929f00473be843c2827ac318308761f0c6045d0f7c085ca8f8ee036"
+  },
+  {
+    "path": "preprocessing/openalex/OPENALEX_STORAGE_AND_TOOLCHAIN_REPORT.md",
+    "source": "OpenAlex/OPENALEX_STORAGE_AND_TOOLCHAIN_REPORT.md",
+    "sha256": "436d62244dc06652946e60775e6fd50f8872319bfa78e01102b789cdd3fdbe81"
+  },
+  {
+    "path": "preprocessing/openalex/s20_dedupe_author_entity_mobility.py",
+    "source": "OpenAlex/s20_dedupe_author_entity_mobility.py",
+    "sha256": "421095aac3e2425693253391f306b54cf47f85c2ea2e45c563e56cd8b50733a6"
+  },
+  {
+    "path": "preprocessing/openalex/s24_build_impact_tiers_from_refs.py",
+    "source": "OpenAlex/s24_build_impact_tiers_from_refs.py",
+    "sha256": "b49b45f2eaf2e245b78f7be5bb44c84a369f68fddcaa550de35395f297e9ad6e"
+  },
+  {
+    "path": "preprocessing/openalex/s26_build_career_annual_cscore.py",
+    "source": "OpenAlex/s26_build_career_annual_cscore.py",
+    "sha256": "38dcb8145f8a4d055877613802d2148bd0b6d56e15d121b3fc0dde7e9cfaa368"
+  },
+  {
+    "path": "preprocessing/openalex/s27_build_tiered_flow.py",
+    "source": "OpenAlex/s27_build_tiered_flow.py",
+    "sha256": "c0668923edab5f62ad5b0dfa749992f85dabffd2beea110a81f7034524889321"
+  }
+]

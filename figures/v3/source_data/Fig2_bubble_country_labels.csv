@@ -1,0 +1,153 @@
+﻿panel,country,country_name,label,label_type,font_size_pt,label_width_pt,label_height_pt,available_disk_radius_pt,labelled
+c,US,United States,US,ISO2,8.5,12.24,8.5,9.465538698512063,True
+c,GB,United Kingdom,GB,ISO2,8.5,12.282499939203262,8.5,8.856333176117893,True
+c,IN,India,IN,ISO2,8.0,8.0,8.0,8.575547098402138,True
+c,CN,China,CN,ISO2,8.5,12.96,8.5,8.523571771582608,True
+c,CA,Canada,CA,ISO2,8.0,11.111999988555908,8.0,8.471300281863241,True
+c,AU,Australia,AU,ISO2,8.0,11.111999988555908,8.0,8.418727508060853,True
+c,FR,France,FR,ISO2,8.0,10.8,8.0,8.39232649859704,True
+c,DE,Germany,DE,ISO2,8.5,12.24,8.5,8.312656870735482,True
+c,IT,Italy,IT,ISO2,8.0,7.2,8.0,8.205315790508223,True
+c,ES,Spain,ES,ISO2,8.0,10.67199993133545,8.0,8.178276595202195,True
+c,ID,Indonesia,ID,ISO2,8.0,8.0,8.0,8.12394822328785,True
+c,CH,Switzerland,CH,ISO2,8.0,11.552000045776367,8.0,8.069281347019214,True
+c,JP,Japan,JP,ISO2,8.5,10.08,8.5,8.041818975349624,True
+c,BR,Brazil,BR,ISO2,8.0,11.111999988555908,8.0,8.041818975349624,True
+c,PK,Pakistan,PK,ISO2,8.0,10.67199993133545,8.0,7.8470975246046155,True
+c,NG,Nigeria,NG,ISO2,8.0,12.24,8.0,7.733797821376909,True
+c,RU,Russia,RU,ISO2,8.0,11.552000045776367,8.0,7.61894585039753,True
+c,BE,Belgium,BE,ISO2,8.0,10.67199993133545,8.0,7.531748905467479,True
+c,NL,Netherlands,NL,ISO2,8.0,10.223999977111816,8.0,7.473097619483559,True
+c,NO,Norway,NO,ISO2,7.5,11.25,7.5,7.384317930662888,True
+c,TR,Turkey,TR,ISO2,8.0,10.8,8.0,7.354505887482487,True
+c,KR,South Korea,KR,ISO2,8.0,11.111999988555908,8.0,7.324582396245736,True
+c,PL,Poland,PL,ISO2,8.0,9.783999919891357,8.0,7.234130520851625,True
+c,PT,Portugal,PT,ISO2,8.0,10.223999977111816,8.0,7.142628808376276,True
+c,EG,Egypt,EG,ISO2,7.5,10.83749994635582,7.5,7.081026033372094,True
+c,MX,Mexico,MX,ISO2,7.5,11.25,7.5,7.081026033372094,True
+c,ZA,South Africa,ZA,ISO2,8.0,10.223999977111816,8.0,7.081026033372094,True
+c,AE,United Arab Emirates,AE,ISO2,8.0,10.67199993133545,8.0,7.050039832393572,True
+c,DK,Denmark,DK,ISO2,7.5,10.417499989271164,7.5,7.050039832393572,True
+c,IE,Ireland,IE,ISO2,8.0,7.559999942779541,8.0,7.050039832393572,True
+c,SE,Sweden,SE,ISO2,8.0,10.67199993133545,8.0,7.050039832393572,True
+c,BD,Bangladesh,BD,ISO2,7.5,10.417499989271164,7.5,6.987690305582493,True
+c,CZ,Czechia,CZ,ISO2,7.5,9.997500032186508,7.5,6.987690305582493,True
+c,IL,Israel,IL,ISO2,8.0,6.671999931335449,8.0,6.956323888433846,True
+c,MY,Malaysia,,too_small,,,,6.956323888433846,False
+c,SA,Saudi Arabia,SA,ISO2,7.5,10.08,7.5,6.893199777236484,True
+c,VN,Vietnam,VN,ISO2,7.5,10.417499989271164,7.5,6.861438795002668,True
+c,CO,Colombia,,too_small,,,,6.79751049375644,False
+c,IR,Iran,IR,ISO2,8.0,8.0,8.0,6.79751049375644,True
+c,PH,Philippines,PH,ISO2,7.5,10.417499989271164,7.5,6.79751049375644,True
+c,AT,Austria,AT,ISO2,7.5,9.584999978542328,7.5,6.733028669736659,True
+c,MA,Morocco,,too_small,,,,6.733028669736659,False
+c,FI,Finland,FI,ISO2,8.0,7.2,8.0,6.667978690983914,True
+c,RO,Romania,,too_small,,,,6.536112418323065,False
+c,AR,Argentina,,too_small,,,,6.502766009072823,False
+c,UA,Ukraine,,too_small,,,,6.502766009072823,False
+c,NZ,New Zealand,,too_small,,,,6.469263407988087,False
+c,UG,Uganda,,too_small,,,,6.469263407988087,False
+c,TH,Thailand,,too_small,,,,6.367796032062337,False
+c,GR,Greece,,too_small,,,,6.299328092065523,False
+c,HU,Hungary,,too_small,,,,6.299328092065523,False
+c,KE,Kenya,,too_small,,,,6.299328092065523,False
+c,CL,Chile,,too_small,,,,6.230178828686956,False
+c,SI,Slovenia,SI,ISO2,8.0,7.559999942779541,8.0,6.230178828686956,True
+c,GH,Ghana,,too_small,,,,6.160327488326342,False
+c,BG,Bulgaria,,too_small,,,,6.089752241870212,False
+c,DZ,Algeria,,too_small,,,,6.054186018717346,False
+c,SK,Slovakia,,too_small,,,,6.018430105004905,False
+c,TN,Tunisia,,too_small,,,,6.018430105004905,False
+c,TZ,Tanzania,,too_small,,,,6.018430105004905,False
+c,LK,Sri Lanka,,too_small,,,,5.909993120472572,False
+c,RS,Serbia,,too_small,,,,5.909993120472572,False
+c,CM,Cameroon,,too_small,,,,5.457021241316792,False
+c,JO,Jordan,,too_small,,,,5.457021241316792,False
+c,HR,Croatia,,too_small,,,,5.338427015269221,False
+c,LT,Lithuania,,too_small,,,,5.258041799170634,False
+c,CR,Costa Rica,,too_small,,,,5.093897410977126,False
+c,PR,Puerto Rico,,too_small,,,,5.01004039308651,False
+c,EE,Estonia,,too_small,,,,4.924922155054011,False
+c,MW,Malawi,,too_small,,,,4.838484018237935,False
+c,BY,Belarus,,too_small,,,,4.7947503808920215,False
+c,CU,Cuba,,too_small,,,,4.661389308414095,False
+c,AM,Armenia,,too_small,,,,4.616185173093152,False
+c,MT,Malta,,too_small,,,,4.616185173093152,False
+c,IS,Iceland,,too_small,,,,4.478182519432972,False
+c,VE,Venezuela,,too_small,,,,4.288183423051461,False
+d,US,United States,US,ISO2,8.5,12.24,8.5,35.23395520928393,True
+d,DE,Germany,DE,ISO2,8.5,12.24,8.5,15.522449078649354,True
+d,GB,United Kingdom,GB,ISO2,8.5,12.282499939203262,8.5,14.578355212933559,True
+d,IN,India,IN,ISO2,8.0,8.0,8.0,13.162381879442389,True
+d,JP,Japan,JP,ISO2,8.5,10.08,8.5,12.917895624168702,True
+d,FR,France,FR,ISO2,8.0,10.8,8.0,12.917895624168702,True
+d,CN,China,CN,ISO2,8.5,12.96,8.5,12.249466565088914,True
+d,IT,Italy,IT,ISO2,8.0,7.2,8.0,10.670080786173358,True
+d,BR,Brazil,BR,ISO2,8.0,11.111999988555908,8.0,9.768256791233549,True
+d,ES,Spain,ES,ISO2,8.0,10.67199993133545,8.0,8.678629036346067,True
+d,RU,Russia,RU,ISO2,8.0,11.552000045776367,8.0,8.205315790508486,True
+d,ID,Indonesia,ID,ISO2,8.0,8.0,8.0,7.986632265171037,True
+d,CA,Canada,CA,ISO2,8.0,11.111999988555908,8.0,7.9310906455609995,True
+d,PL,Poland,PL,ISO2,8.0,9.783999919891357,8.0,7.414019761831224,True
+d,CH,Switzerland,CH,ISO2,7.5,10.830000042915344,7.5,7.23413052085186,True
+d,NL,Netherlands,NL,ISO2,8.0,10.223999977111816,8.0,7.0500398323938,True
+d,MX,Mexico,,too_small,,,,6.797510493756661,False
+d,IR,Iran,IR,ISO2,8.0,8.0,8.0,6.733028669736878,True
+d,TR,Turkey,,too_small,,,,6.401780715242232,False
+d,NG,Nigeria,,too_small,,,,6.160327488326544,False
+d,PH,Philippines,,too_small,,,,5.836694807387746,False
+d,CZ,Czechia,,too_small,,,,5.5348208266978585,False
+d,NO,Norway,,too_small,,,,5.496044138315811,False
+d,PT,Portugal,,too_small,,,,5.417747385452632,False
+d,BE,Belgium,,too_small,,,,5.3782176657315395,False
+d,KR,South Korea,,too_small,,,,5.338427015269399,False
+d,SE,Sweden,,too_small,,,,5.25804179917081,False
+d,AU,Australia,,too_small,,,,4.794750380892183,False
+d,DK,Denmark,,too_small,,,,4.524592356973534,False
+d,TH,Thailand,,too_small,,,,4.524592356973534,False
+d,AR,Argentina,,too_small,,,,4.384079432841776,False
+d,AT,Austria,,too_small,,,,4.336361963188304,False
+d,DZ,Algeria,,too_small,,,,4.1903879290035,False
+d,UA,Ukraine,,too_small,,,,4.1903879290035,False
+d,GR,Greece,,too_small,,,,4.1407416122155185,False
+d,PK,Pakistan,,too_small,,,,4.1407416122155185,False
+d,CO,Colombia,,too_small,,,,3.936785885791441,False
+d,IL,Israel,,too_small,,,,3.936785885791441,False
+d,ZA,South Africa,,too_small,,,,3.7233287469818452,False
+d,IE,Ireland,,too_small,,,,3.668316132585519,False
+d,MY,Malaysia,,too_small,,,,3.556132903807184,False
+d,VN,Vietnam,,too_small,,,,3.4408744527338615,False
+d,FI,Finland,,too_small,,,,3.382009880915612,False
+d,HU,Hungary,,too_small,,,,3.322273098815297,False
+d,KE,Kenya,,too_small,,,,3.322273098815297,False
+d,SI,Slovenia,,too_small,,,,3.322273098815297,False
+d,RO,Romania,,too_small,,,,3.073755246878331,False
+d,SA,Saudi Arabia,,too_small,,,,2.8758903576211163,False
+d,EG,Egypt,,too_small,,,,2.8074199492882146,False
+d,NZ,New Zealand,,too_small,,,,2.8074199492882146,False
+d,UG,Uganda,,too_small,,,,2.8074199492882146,False
+d,CL,Chile,,too_small,,,,2.7375658809101666,False
+d,LK,Sri Lanka,,too_small,,,,2.593347403693873,False
+d,HR,Croatia,,too_small,,,,2.518777725372725,False
+d,SK,Slovakia,,too_small,,,,2.4424104133489295,False
+d,GH,Ghana,,too_small,,,,2.36410883286577,False
+d,MA,Morocco,,too_small,,,,2.283718109861615,False
+d,BG,Bulgaria,,too_small,,,,2.201061528606593,False
+d,TN,Tunisia,,too_small,,,,2.201061528606593,False
+d,VE,Venezuela,,too_small,,,,2.201061528606593,False
+d,BD,Bangladesh,,too_small,,,,2.1159359594305718,False
+d,TZ,Tanzania,,too_small,,,,1.937296178486767,False
+d,JO,Jordan,,too_small,,,,1.8431809815941524,False
+d,CU,Cuba,,too_small,,,,1.7453708061077595,False
+d,PR,Puerto Rico,,too_small,,,,1.7453708061077595,False
+d,RS,Serbia,,too_small,,,,1.6433929428957206,False
+d,BY,Belarus,,too_small,,,,1.5366643734909227,False
+d,CR,Costa Rica,,too_small,,,,1.5366643734909227,False
+d,CM,Cameroon,,too_small,,,,1.424451969572929,False
+d,AE,United Arab Emirates,,too_small,,,,1.1794946727460327,False
+d,IS,Iceland,,too_small,,,,1.1794946727460327,False
+d,LT,Lithuania,,too_small,,,,1.1794946727460327,False
+d,MT,Malta,,too_small,,,,1.0437829404550834,False
+d,MW,Malawi,,too_small,,,,0.8962052066744647,False
+d,AM,Armenia,,too_small,,,,0.7329679797152858,False
+d,EE,Estonia,,too_small,,,,0.5476854030538797,False

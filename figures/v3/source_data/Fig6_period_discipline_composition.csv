@@ -1,0 +1,25 @@
+﻿scale,start_year,end_year,category,fields,denominator_fields,share_percent
+country,1998,2004,Relative concentration,12,26,46.15384615384615
+country,1998,2004,Deconcentration,10,26,38.46153846153846
+country,1998,2004,Mixed changes,4,26,15.384615384615385
+country,2005,2011,Relative concentration,8,26,30.76923076923077
+country,2005,2011,Deconcentration,14,26,53.84615384615385
+country,2005,2011,Mixed changes,4,26,15.384615384615385
+country,2012,2018,Relative concentration,4,26,15.384615384615385
+country,2012,2018,Deconcentration,19,26,73.07692307692308
+country,2012,2018,Mixed changes,3,26,11.538461538461538
+country,2019,2025,Relative concentration,17,26,65.38461538461539
+country,2019,2025,Deconcentration,5,26,19.23076923076923
+country,2019,2025,Mixed changes,4,26,15.384615384615385
+domestic_city,1998,2004,Relative concentration,26,26,100.0
+domestic_city,1998,2004,Deconcentration,0,26,0.0
+domestic_city,1998,2004,Mixed changes,0,26,0.0
+domestic_city,2005,2011,Relative concentration,24,26,92.3076923076923
+domestic_city,2005,2011,Deconcentration,1,26,3.8461538461538463
+domestic_city,2005,2011,Mixed changes,1,26,3.8461538461538463
+domestic_city,2012,2018,Relative concentration,23,26,88.46153846153847
+domestic_city,2012,2018,Deconcentration,3,26,11.538461538461538
+domestic_city,2012,2018,Mixed changes,0,26,0.0
+domestic_city,2019,2025,Relative concentration,20,26,76.92307692307692
+domestic_city,2019,2025,Deconcentration,1,26,3.8461538461538463
+domestic_city,2019,2025,Mixed changes,5,26,19.23076923076923

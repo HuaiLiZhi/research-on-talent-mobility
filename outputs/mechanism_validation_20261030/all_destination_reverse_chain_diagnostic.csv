@@ -1,0 +1,1011 @@
+country,domain,international_entries,preceded_by_domestic_within5
+AR,Health Sciences,5621,417.0
+US,Social Sciences,103394,12614.0
+GB,Health Sciences,85085,12116.0
+IT,Social Sciences,8594,638.0
+AT,Health Sciences,6647,712.0
+ES,Social Sciences,16271,1082.0
+FR,Social Sciences,24267,1908.0
+AU,Physical Sciences,34985,5698.0
+CH,Physical Sciences,25178,3233.0
+SA,Life Sciences,2668,274.0
+PH,Physical Sciences,1041,100.0
+JP,Life Sciences,14625,1613.0
+DE,Health Sciences,36766,4006.0
+PT,Health Sciences,8074,765.0
+BE,Social Sciences,6958,710.0
+NL,Physical Sciences,17381,2166.0
+GH,Social Sciences,820,86.0
+BR,Social Sciences,19594,803.0
+CA,Life Sciences,20639,3627.0
+ID,Social Sciences,5224,230.0
+GR,Health Sciences,4704,490.0
+DK,Health Sciences,6827,621.0
+NC,Life Sciences,85,16.0
+VE,Health Sciences,1288,106.0
+PE,Physical Sciences,1485,116.0
+CN,Health Sciences,69236,6626.0
+IN,Social Sciences,8525,881.0
+IE,Physical Sciences,6095,888.0
+UA,Social Sciences,1312,98.0
+RU,Social Sciences,7963,915.0
+PK,Social Sciences,2844,255.0
+SG,Physical Sciences,13216,3564.0
+CO,Life Sciences,2630,192.0
+GM,Health Sciences,181,17.0
+NZ,Physical Sciences,4756,724.0
+TR,Physical Sciences,5616,488.0
+KR,Life Sciences,9874,1336.0
+AE,Social Sciences,1422,169.0
+PL,Health Sciences,5205,456.0
+HU,Health Sciences,2308,244.0
+MX,Life Sciences,5103,337.0
+VN,Life Sciences,1675,158.0
+MA,Health Sciences,2149,216.0
+EE,Life Sciences,371,55.0
+TH,Health Sciences,2630,304.0
+IL,Physical Sciences,5991,899.0
+FI,Health Sciences,2570,300.0
+BA,Social Sciences,402,27.0
+LK,Social Sciences,487,44.0
+CZ,Physical Sciences,7725,891.0
+ET,Health Sciences,1037,140.0
+CL,Health Sciences,4539,440.0
+SI,Social Sciences,1861,193.0
+BG,Health Sciences,1008,110.0
+IQ,Health Sciences,756,40.0
+NP,Life Sciences,811,145.0
+SE,Social Sciences,4965,476.0
+RE,Social Sciences,160,24.0
+RS,Social Sciences,1558,69.0
+KG,Social Sciences,124,12.0
+NO,Life Sciences,2485,355.0
+OM,Health Sciences,618,51.0
+MR,Life Sciences,16,0.0
+EC,Life Sciences,968,78.0
+SK,Health Sciences,1283,141.0
+MY,Health Sciences,3679,324.0
+NI,Physical Sciences,161,15.0
+TZ,Health Sciences,829,67.0
+RO,Social Sciences,1237,67.0
+GE,Life Sciences,129,9.0
+IR,Life Sciences,2751,153.0
+NG,Social Sciences,1473,100.0
+PR,Health Sciences,853,93.0
+CD,Health Sciences,210,9.0
+BF,Life Sciences,265,20.0
+XK,Health Sciences,199,3.0
+CI,Social Sciences,240,21.0
+EG,Social Sciences,1170,73.0
+CY,Social Sciences,668,65.0
+KH,Health Sciences,530,98.0
+KE,Life Sciences,1119,79.0
+QA,Health Sciences,1654,187.0
+TG,Physical Sciences,42,5.0
+SD,Physical Sciences,389,18.0
+BD,Physical Sciences,4461,530.0
+AM,Health Sciences,251,37.0
+ZA,Life Sciences,2285,263.0
+IS,Social Sciences,202,11.0
+DZ,Life Sciences,621,35.0
+JO,Physical Sciences,1280,103.0
+MK,Physical Sciences,599,40.0
+CR,Physical Sciences,768,67.0
+PA,Life Sciences,371,51.0
+BN,Physical Sciences,211,20.0
+CU,Physical Sciences,1108,49.0
+UZ,Physical Sciences,363,32.0
+PY,Physical Sciences,340,33.0
+SS,Social Sciences,448,79.0
+LV,Physical Sciences,480,42.0
+AO,Health Sciences,145,13.0
+GA,Social Sciences,33,2.0
+JM,Physical Sciences,171,19.0
+LB,Health Sciences,1578,199.0
+CM,Physical Sciences,345,28.0
+TL,Physical Sciences,15,2.0
+CG,Social Sciences,78,15.0
+BH,Life Sciences,74,12.0
+PS,Life Sciences,158,19.0
+MN,Health Sciences,403,59.0
+SN,Physical Sciences,377,51.0
+MZ,Physical Sciences,363,33.0
+BY,Social Sciences,175,15.0
+BS,Health Sciences,39,5.0
+BW,Health Sciences,203,27.0
+TN,Social Sciences,648,54.0
+HR,Life Sciences,618,70.0
+NA,Physical Sciences,129,9.0
+AL,Social Sciences,191,24.0
+MC,Life Sciences,29,7.0
+SV,Life Sciences,66,6.0
+UG,Physical Sciences,265,24.0
+BZ,Health Sciences,23,3.0
+HN,Physical Sciences,66,5.0
+UY,Social Sciences,709,76.0
+LT,Life Sciences,253,15.0
+LU,Health Sciences,490,70.0
+KZ,Health Sciences,359,38.0
+LA,Health Sciences,136,17.0
+ZW,Health Sciences,238,18.0
+ZM,Life Sciences,136,13.0
+GT,Life Sciences,150,16.0
+PG,Social Sciences,63,9.0
+MM,Life Sciences,142,19.0
+ML,Physical Sciences,79,12.0
+LY,Social Sciences,72,3.0
+MD,Health Sciences,129,11.0
+MT,Social Sciences,271,25.0
+GY,Physical Sciences,19,0.0
+GP,Life Sciences,111,14.0
+SJ,Physical Sciences,40,7.0
+GF,Health Sciences,171,31.0
+VG,Social Sciences,31,5.0
+KW,Social Sciences,273,18.0
+AF,Social Sciences,101,14.0
+BB,Life Sciences,23,3.0
+TT,Life Sciences,122,9.0
+GL,Physical Sciences,61,13.0
+FJ,Physical Sciences,150,25.0
+TJ,Social Sciences,79,8.0
+YE,Health Sciences,189,22.0
+MV,Social Sciences,15,1.0
+NE,Physical Sciences,124,13.0
+MQ,Life Sciences,55,7.0
+MG,Physical Sciences,89,11.0
+AZ,Social Sciences,194,13.0
+LS,Health Sciences,18,1.0
+SB,Health Sciences,10,0.0
+MW,Physical Sciences,132,26.0
+BO,Health Sciences,130,12.0
+MU,Health Sciences,37,4.0
+ME,Social Sciences,111,11.0
+RW,Physical Sciences,119,15.0
+PW,Life Sciences,10,1.0
+BT,Health Sciences,40,1.0
+CW,Social Sciences,26,2.0
+TD,Life Sciences,28,0.0
+CF,Social Sciences,7,2.0
+ER,Health Sciences,23,3.0
+HT,Life Sciences,25,3.0
+VC,Social Sciences,4,0.0
+BM,Physical Sciences,50,12.0
+FO,Physical Sciences,38,4.0
+SL,Social Sciences,25,1.0
+AW,Physical Sciences,12,1.0
+GU,Physical Sciences,32,2.0
+SM,Health Sciences,28,3.0
+LI,Social Sciences,56,8.0
+SY,Social Sciences,61,8.0
+DO,Life Sciences,67,11.0
+ST,Social Sciences,81,17.0
+BI,Health Sciences,65,9.0
+TM,Health Sciences,7,0.0
+KP,Health Sciences,18,3.0
+VI,Social Sciences,26,7.0
+LR,Physical Sciences,16,3.0
+SX,Life Sciences,3,3.0
+WS,Health Sciences,6,0.0
+JE,Health Sciences,11,1.0
+SO,Physical Sciences,21,4.0
+BJ,Physical Sciences,25,3.0
+KN,Social Sciences,13,0.0
+GN,Social Sciences,21,1.0
+GD,Life Sciences,65,11.0
+SR,Physical Sciences,17,3.0
+FK,Physical Sciences,23,6.0
+PF,Life Sciences,31,6.0
+CV,Health Sciences,8,1.0
+SZ,Social Sciences,28,2.0
+GI,Life Sciences,5,1.0
+DM,Physical Sciences,7,0.0
+AS,Physical Sciences,8,3.0
+AD,Physical Sciences,15,2.0
+VU,Life Sciences,3,0.0
+AG,Physical Sciences,2,1.0
+VA,Health Sciences,9,2.0
+MS,Social Sciences,7,1.0
+AX,Social Sciences,5,0.0
+GW,Physical Sciences,20,6.0
+MP,Physical Sciences,9,1.0
+IM,Life Sciences,6,3.0
+CH,Unspecified,137,16.0
+NZ,Unspecified,37,5.0
+AU,Unspecified,199,24.0
+SD,Unspecified,9,1.0
+CZ,Unspecified,36,2.0
+IE,Unspecified,129,15.0
+NI,Unspecified,4,0.0
+PH,Unspecified,35,2.0
+TR,Unspecified,41,0.0
+NL,Unspecified,132,9.0
+BD,Unspecified,53,7.0
+IL,Unspecified,32,2.0
+SG,Unspecified,40,6.0
+UG,Unspecified,6,1.0
+CR,Unspecified,5,0.0
+TO,Unspecified,1,
+CM,Unspecified,5,0.0
+LV,Unspecified,6,0.0
+JO,Unspecified,4,0.0
+SO,Unspecified,2,0.0
+MG,Unspecified,2,0.0
+UZ,Unspecified,2,0.0
+PE,Unspecified,18,2.0
+CU,Unspecified,10,1.0
+HN,Unspecified,2,1.0
+KY,Social Sciences,16,2.0
+SC,Life Sciences,5,1.0
+GY,Unspecified,4,0.0
+JM,Unspecified,2,0.0
+BN,Unspecified,2,0.0
+AG,Unspecified,1,1.0
+RW,Unspecified,1,
+TC,Social Sciences,3,1.0
+LC,Physical Sciences,3,1.0
+DJ,Social Sciences,2,0.0
+GW,Unspecified,1,
+TO,Physical Sciences,1,
+MZ,Unspecified,2,
+PY,Unspecified,3,0.0
+MK,Unspecified,3,0.0
+SN,Unspecified,1,0.0
+NU,Social Sciences,1,
+BY,Physical Sciences,1091,110.0
+CH,Social Sciences,8958,1139.0
+BR,Physical Sciences,19942,1297.0
+UA,Physical Sciences,5334,377.0
+BE,Physical Sciences,11038,1487.0
+FR,Physical Sciences,51180,5314.0
+HU,Life Sciences,1904,190.0
+US,Physical Sciences,233336,43620.0
+ZA,Health Sciences,4277,532.0
+CN,Life Sciences,65227,6374.0
+DK,Life Sciences,5287,544.0
+IE,Social Sciences,5921,912.0
+DE,Life Sciences,28059,3245.0
+PK,Physical Sciences,8626,560.0
+IL,Social Sciences,2657,330.0
+UY,Physical Sciences,581,54.0
+ID,Physical Sciences,6238,315.0
+IN,Physical Sciences,39980,3574.0
+RU,Physical Sciences,21919,1603.0
+GH,Physical Sciences,692,83.0
+GB,Life Sciences,39020,5772.0
+ES,Physical Sciences,21533,1970.0
+TR,Social Sciences,3943,215.0
+SA,Health Sciences,5930,541.0
+JP,Health Sciences,21942,1994.0
+MX,Health Sciences,6892,511.0
+AU,Social Sciences,20181,2583.0
+AE,Physical Sciences,2806,358.0
+PH,Social Sciences,1045,114.0
+NZ,Social Sciences,3784,504.0
+IT,Physical Sciences,22197,1882.0
+CA,Health Sciences,41352,6984.0
+VG,Physical Sciences,1931,265.0
+KR,Health Sciences,14302,1678.0
+NO,Health Sciences,4242,640.0
+MK,Social Sciences,758,73.0
+TH,Life Sciences,1801,169.0
+NL,Social Sciences,10589,1140.0
+RO,Physical Sciences,3260,253.0
+MA,Life Sciences,1729,367.0
+SG,Social Sciences,3056,582.0
+TN,Physical Sciences,2716,284.0
+EG,Physical Sciences,6232,317.0
+GR,Life Sciences,1427,106.0
+PT,Life Sciences,3517,348.0
+KE,Health Sciences,1327,134.0
+MY,Life Sciences,2273,194.0
+IQ,Life Sciences,615,41.0
+FI,Life Sciences,2097,244.0
+EE,Health Sciences,633,97.0
+NG,Physical Sciences,2230,120.0
+AT,Life Sciences,4441,562.0
+CM,Social Sciences,318,29.0
+CZ,Social Sciences,3181,313.0
+TJ,Physical Sciences,245,20.0
+SE,Physical Sciences,14103,1896.0
+BI,Life Sciences,47,3.0
+CO,Health Sciences,5850,404.0
+MM,Health Sciences,535,74.0
+HR,Health Sciences,1175,79.0
+VE,Life Sciences,861,61.0
+PL,Life Sciences,3284,308.0
+AO,Life Sciences,49,8.0
+JM,Social Sciences,280,24.0
+CL,Life Sciences,2598,241.0
+PE,Social Sciences,2069,172.0
+AR,Life Sciences,3589,286.0
+SI,Physical Sciences,1275,143.0
+KW,Physical Sciences,784,56.0
+IR,Health Sciences,4921,283.0
+XK,Life Sciences,72,1.0
+PR,Life Sciences,498,69.0
+PA,Health Sciences,467,34.0
+BB,Health Sciences,84,8.0
+VI,Physical Sciences,42,10.0
+GI,Health Sciences,31,6.0
+LU,Life Sciences,349,59.0
+RS,Physical Sciences,2129,120.0
+SK,Life Sciences,1095,126.0
+GE,Health Sciences,228,21.0
+PS,Health Sciences,498,93.0
+CW,Physical Sciences,16,5.0
+BD,Social Sciences,1404,158.0
+CU,Social Sciences,1158,42.0
+DZ,Health Sciences,858,76.0
+BA,Physical Sciences,351,25.0
+ET,Life Sciences,741,56.0
+DO,Health Sciences,143,15.0
+AZ,Physical Sciences,590,55.0
+NP,Health Sciences,1990,272.0
+KY,Physical Sciences,36,10.0
+VN,Health Sciences,2044,246.0
+LI,Physical Sciences,82,5.0
+BH,Health Sciences,371,44.0
+EC,Health Sciences,1231,92.0
+CI,Physical Sciences,252,28.0
+MC,Health Sciences,133,18.0
+BG,Life Sciences,935,132.0
+LY,Physical Sciences,469,14.0
+ZM,Health Sciences,511,71.0
+HT,Health Sciences,77,4.0
+YE,Life Sciences,147,22.0
+CR,Social Sciences,1203,92.0
+MW,Social Sciences,99,16.0
+GD,Health Sciences,294,56.0
+PW,Health Sciences,8,0.0
+GW,Social Sciences,58,8.0
+LK,Physical Sciences,930,94.0
+CG,Physical Sciences,64,11.0
+LB,Life Sciences,447,55.0
+QA,Life Sciences,483,62.0
+BO,Life Sciences,90,9.0
+BF,Health Sciences,362,23.0
+LV,Social Sciences,552,77.0
+BW,Life Sciences,99,14.0
+IS,Physical Sciences,420,49.0
+SV,Health Sciences,161,19.0
+SY,Physical Sciences,206,18.0
+LT,Health Sciences,350,25.0
+KZ,Life Sciences,366,39.0
+TG,Social Sciences,65,13.0
+NE,Social Sciences,100,16.0
+GT,Health Sciences,510,56.0
+SS,Physical Sciences,175,24.0
+GF,Life Sciences,58,14.0
+NI,Social Sciences,288,31.0
+MV,Physical Sciences,83,13.0
+SN,Social Sciences,245,39.0
+PG,Physical Sciences,56,5.0
+TT,Health Sciences,275,25.0
+CY,Physical Sciences,968,118.0
+NC,Health Sciences,103,13.0
+TO,Social Sciences,7,3.0
+FJ,Social Sciences,143,18.0
+UG,Social Sciences,312,20.0
+AM,Life Sciences,172,21.0
+UZ,Social Sciences,84,10.0
+OM,Life Sciences,230,22.0
+NA,Social Sciences,82,9.0
+RE,Physical Sciences,275,47.0
+MN,Life Sciences,276,60.0
+TZ,Life Sciences,389,36.0
+PY,Social Sciences,275,24.0
+HN,Social Sciences,97,12.0
+KG,Physical Sciences,111,6.0
+GA,Physical Sciences,53,7.0
+AL,Physical Sciences,175,20.0
+AF,Physical Sciences,65,7.0
+BS,Life Sciences,18,3.0
+KH,Life Sciences,169,28.0
+JO,Social Sciences,439,16.0
+MD,Life Sciences,84,20.0
+SD,Social Sciences,124,12.0
+BN,Social Sciences,189,24.0
+SX,Health Sciences,22,3.0
+GL,Social Sciences,21,3.0
+ML,Social Sciences,165,25.0
+MT,Physical Sciences,220,29.0
+MQ,Health Sciences,194,30.0
+LA,Life Sciences,99,6.0
+MR,Health Sciences,50,3.0
+ST,Physical Sciences,18,3.0
+ME,Physical Sciences,146,30.0
+RW,Social Sciences,88,13.0
+SL,Physical Sciences,13,4.0
+ZW,Life Sciences,158,17.0
+LC,Social Sciences,6,0.0
+MZ,Social Sciences,314,23.0
+AW,Social Sciences,14,2.0
+MS,Physical Sciences,18,3.0
+GY,Social Sciences,15,2.0
+MG,Social Sciences,63,8.0
+SO,Social Sciences,72,12.0
+GP,Health Sciences,217,24.0
+FM,Health Sciences,6,2.0
+LS,Life Sciences,7,1.0
+TL,Social Sciences,20,4.0
+GU,Social Sciences,42,5.0
+TD,Health Sciences,37,3.0
+AG,Social Sciences,16,1.0
+SR,Social Sciences,11,0.0
+LR,Social Sciences,22,1.0
+BT,Life Sciences,39,1.0
+KN,Physical Sciences,19,3.0
+IM,Health Sciences,32,3.0
+AS,Social Sciences,14,1.0
+CF,Physical Sciences,14,3.0
+GM,Life Sciences,39,4.0
+KP,Life Sciences,4,3.0
+ER,Life Sciences,10,1.0
+CD,Life Sciences,89,3.0
+WS,Life Sciences,16,2.0
+AX,Physical Sciences,5,0.0
+SC,Health Sciences,11,2.0
+JE,Life Sciences,6,1.0
+PF,Health Sciences,40,4.0
+BM,Social Sciences,5,0.0
+VU,Health Sciences,11,2.0
+AD,Social Sciences,9,2.0
+MU,Life Sciences,20,1.0
+FK,Social Sciences,1,
+DM,Social Sciences,11,4.0
+DJ,Physical Sciences,21,3.0
+FO,Social Sciences,11,0.0
+SZ,Physical Sciences,26,4.0
+NU,Physical Sciences,1,0.0
+CV,Life Sciences,13,1.0
+SM,Life Sciences,9,1.0
+MP,Social Sciences,5,2.0
+BJ,Social Sciences,9,0.0
+GQ,Social Sciences,3,0.0
+TC,Physical Sciences,1,
+US,Unspecified,2571,308.0
+RU,Unspecified,154,23.0
+IN,Unspecified,523,43.0
+FR,Unspecified,266,34.0
+BR,Unspecified,218,17.0
+IT,Unspecified,128,13.0
+RS,Unspecified,12,1.0
+SE,Unspecified,54,8.0
+LK,Unspecified,11,1.0
+AZ,Unspecified,2,
+UA,Unspecified,50,4.0
+NG,Unspecified,33,2.0
+CG,Unspecified,1,0.0
+ES,Unspecified,160,11.0
+ME,Unspecified,5,0.0
+CY,Unspecified,5,1.0
+AE,Unspecified,12,2.0
+PK,Unspecified,57,3.0
+RO,Unspecified,20,1.0
+BE,Unspecified,80,10.0
+SI,Unspecified,17,1.0
+EG,Unspecified,30,1.0
+ID,Unspecified,38,3.0
+KW,Unspecified,1,
+GH,Unspecified,15,0.0
+IS,Unspecified,2,0.0
+BA,Unspecified,5,0.0
+LY,Unspecified,4,
+CI,Unspecified,3,1.0
+AL,Unspecified,1,0.0
+TN,Unspecified,7,0.0
+SY,Unspecified,3,0.0
+SS,Unspecified,9,2.0
+RE,Unspecified,1,0.0
+GN,Physical Sciences,11,1.0
+SB,Life Sciences,2,0.0
+VA,Life Sciences,4,0.0
+BZ,Life Sciences,12,1.0
+SJ,Social Sciences,2,1.0
+NU,Unspecified,1,
+AF,Unspecified,2,0.0
+TM,Life Sciences,3,1.0
+SZ,Unspecified,1,
+MV,Unspecified,1,1.0
+LI,Unspecified,1,1.0
+BY,Unspecified,1,
+KI,Social Sciences,1,0.0
+CW,Unspecified,1,0.0
+UY,Unspecified,2,1.0
+MT,Unspecified,2,0.0
+US,Health Sciences,220753,34996.0
+CA,Physical Sciences,40693,7193.0
+BR,Health Sciences,20877,1335.0
+CL,Social Sciences,4335,326.0
+GB,Social Sciences,51066,6076.0
+ES,Health Sciences,25727,1970.0
+JP,Physical Sciences,34754,4711.0
+CO,Physical Sciences,5079,391.0
+FR,Health Sciences,30123,3172.0
+CN,Social Sciences,23678,1972.0
+RU,Health Sciences,8870,639.0
+EG,Health Sciences,6761,384.0
+TH,Social Sciences,1206,126.0
+ID,Health Sciences,2569,141.0
+RS,Health Sciences,2510,210.0
+IT,Health Sciences,21524,1476.0
+SA,Physical Sciences,8125,984.0
+AT,Social Sciences,4678,531.0
+DE,Social Sciences,22481,2051.0
+NO,Physical Sciences,8357,1197.0
+RO,Health Sciences,2254,160.0
+AU,Life Sciences,15207,2326.0
+CY,Health Sciences,742,115.0
+SG,Life Sciences,4024,845.0
+PK,Health Sciences,6996,715.0
+CH,Life Sciences,11623,1929.0
+HR,Physical Sciences,1224,78.0
+DK,Social Sciences,6541,335.0
+NP,Physical Sciences,1502,305.0
+NL,Life Sciences,8594,1037.0
+ZA,Physical Sciences,4477,497.0
+KR,Physical Sciences,24971,3351.0
+IL,Life Sciences,3365,503.0
+DZ,Physical Sciences,2917,257.0
+GP,Physical Sciences,144,27.0
+TR,Life Sciences,2598,157.0
+PH,Life Sciences,841,130.0
+EC,Physical Sciences,1802,150.0
+NI,Life Sciences,185,22.0
+PY,Life Sciences,261,11.0
+PL,Social Sciences,4510,260.0
+IN,Health Sciences,31242,3666.0
+LT,Physical Sciences,617,39.0
+UY,Health Sciences,1256,114.0
+PT,Social Sciences,6466,596.0
+SE,Health Sciences,8529,996.0
+GE,Physical Sciences,321,10.0
+CZ,Life Sciences,3555,509.0
+MX,Physical Sciences,10698,946.0
+BE,Health Sciences,10740,1445.0
+MY,Social Sciences,3499,271.0
+CM,Life Sciences,341,20.0
+AR,Social Sciences,5447,329.0
+RW,Life Sciences,100,9.0
+IR,Physical Sciences,7708,495.0
+AE,Health Sciences,1483,187.0
+VE,Social Sciences,1200,82.0
+FI,Social Sciences,2670,232.0
+PR,Social Sciences,812,92.0
+EE,Physical Sciences,644,64.0
+HU,Social Sciences,2141,174.0
+VN,Physical Sciences,4704,452.0
+KE,Physical Sciences,970,93.0
+ZM,Physical Sciences,163,23.0
+PF,Physical Sciences,121,27.0
+LB,Social Sciences,470,54.0
+CW,Health Sciences,150,33.0
+AL,Health Sciences,214,23.0
+KZ,Social Sciences,737,88.0
+CU,Life Sciences,1330,68.0
+IE,Life Sciences,3278,474.0
+SI,Health Sciences,738,54.0
+BD,Life Sciences,2561,176.0
+MA,Social Sciences,878,102.0
+NC,Physical Sciences,195,32.0
+GR,Social Sciences,1662,141.0
+BI,Social Sciences,243,38.0
+MT,Health Sciences,335,46.0
+LK,Health Sciences,741,85.0
+GA,Health Sciences,197,37.0
+UA,Health Sciences,1518,131.0
+DO,Physical Sciences,82,14.0
+MD,Social Sciences,116,11.0
+AF,Health Sciences,134,29.0
+NZ,Life Sciences,2988,446.0
+IQ,Social Sciences,299,30.0
+SK,Social Sciences,1212,108.0
+IS,Health Sciences,389,26.0
+LU,Social Sciences,737,101.0
+TN,Health Sciences,2210,151.0
+KW,Health Sciences,856,106.0
+PE,Life Sciences,1240,104.0
+NG,Health Sciences,2359,156.0
+BG,Social Sciences,768,87.0
+TJ,Health Sciences,67,7.0
+PG,Health Sciences,105,10.0
+LI,Health Sciences,37,8.0
+PS,Physical Sciences,359,31.0
+PA,Physical Sciences,381,46.0
+YE,Social Sciences,202,31.0
+ET,Social Sciences,469,45.0
+XK,Social Sciences,160,4.0
+ZW,Social Sciences,261,10.0
+ME,Health Sciences,112,16.0
+BO,Social Sciences,185,10.0
+VG,Health Sciences,23,5.0
+ST,Health Sciences,172,34.0
+SD,Life Sciences,332,9.0
+AO,Social Sciences,120,9.0
+SL,Health Sciences,154,20.0
+UG,Life Sciences,361,30.0
+RE,Health Sciences,190,46.0
+NE,Life Sciences,265,49.0
+CI,Health Sciences,430,16.0
+MN,Social Sciences,667,123.0
+GN,Health Sciences,188,9.0
+CG,Health Sciences,153,7.0
+QA,Social Sciences,782,88.0
+FO,Life Sciences,26,3.0
+CR,Life Sciences,594,50.0
+MZ,Life Sciences,161,20.0
+BA,Health Sciences,444,32.0
+GH,Health Sciences,742,55.0
+JO,Life Sciences,337,28.0
+BH,Physical Sciences,178,12.0
+MM,Physical Sciences,208,22.0
+MV,Health Sciences,80,19.0
+TZ,Social Sciences,378,37.0
+BS,Social Sciences,77,4.0
+OM,Social Sciences,336,33.0
+SS,Health Sciences,434,120.0
+LV,Life Sciences,243,23.0
+MU,Social Sciences,54,3.0
+BY,Health Sciences,639,89.0
+MC,Physical Sciences,66,9.0
+SN,Life Sciences,309,36.0
+NA,Life Sciences,47,1.0
+AZ,Health Sciences,120,13.0
+LR,Life Sciences,18,1.0
+AM,Social Sciences,126,12.0
+BM,Life Sciences,6,0.0
+TG,Life Sciences,79,5.0
+KG,Health Sciences,73,4.0
+TM,Social Sciences,36,3.0
+HN,Life Sciences,202,12.0
+BN,Life Sciences,58,10.0
+GF,Social Sciences,39,6.0
+SY,Health Sciences,165,14.0
+CD,Social Sciences,87,13.0
+ML,Life Sciences,275,24.0
+BW,Social Sciences,156,14.0
+UZ,Life Sciences,126,21.0
+KY,Health Sciences,40,7.0
+GT,Physical Sciences,186,23.0
+MR,Physical Sciences,26,0.0
+SV,Physical Sciences,97,7.0
+FJ,Life Sciences,100,23.0
+MK,Life Sciences,208,10.0
+LY,Health Sciences,210,13.0
+HT,Physical Sciences,12,3.0
+KN,Health Sciences,89,25.0
+MW,Life Sciences,116,12.0
+MG,Life Sciences,144,14.0
+AG,Life Sciences,20,1.0
+LA,Social Sciences,65,7.0
+SC,Physical Sciences,32,3.0
+BB,Physical Sciences,43,5.0
+BF,Physical Sciences,159,18.0
+AD,Life Sciences,2,1.0
+JM,Life Sciences,117,12.0
+GW,Life Sciences,31,5.0
+BJ,Life Sciences,42,1.0
+TT,Physical Sciences,235,16.0
+VC,Health Sciences,15,1.0
+KH,Social Sciences,198,25.0
+SZ,Health Sciences,21,1.0
+SM,Social Sciences,10,1.0
+MQ,Physical Sciences,36,8.0
+VA,Social Sciences,30,2.0
+PW,Physical Sciences,8,1.0
+DM,Life Sciences,13,1.0
+TD,Physical Sciences,23,2.0
+IM,Physical Sciences,15,1.0
+CF,Health Sciences,44,5.0
+GM,Social Sciences,17,1.0
+GY,Life Sciences,13,2.0
+ER,Social Sciences,6,1.0
+SR,Life Sciences,14,0.0
+LS,Social Sciences,28,2.0
+CV,Social Sciences,40,5.0
+GI,Physical Sciences,7,1.0
+WS,Social Sciences,18,1.0
+MS,Health Sciences,13,2.0
+BZ,Social Sciences,18,3.0
+GD,Physical Sciences,20,4.0
+DJ,Health Sciences,29,5.0
+GL,Life Sciences,15,2.0
+AW,Life Sciences,7,2.0
+FM,Physical Sciences,11,1.0
+TL,Life Sciences,9,0.0
+VU,Physical Sciences,7,0.0
+FK,Life Sciences,9,2.0
+VI,Health Sciences,11,2.0
+AS,Life Sciences,13,1.0
+SJ,Life Sciences,4,0.0
+GU,Life Sciences,14,2.0
+KP,Social Sciences,8,1.0
+BT,Social Sciences,22,2.0
+MX,Unspecified,71,4.0
+CA,Unspecified,343,58.0
+JP,Unspecified,196,19.0
+KR,Unspecified,76,14.0
+LT,Unspecified,47,5.0
+GP,Unspecified,1,
+CO,Unspecified,35,2.0
+ZA,Unspecified,32,4.0
+HR,Unspecified,22,1.0
+VN,Unspecified,14,0.0
+EE,Unspecified,19,2.0
+BH,Unspecified,1,0.0
+IR,Unspecified,19,1.0
+SA,Unspecified,40,2.0
+NO,Unspecified,78,6.0
+KE,Unspecified,19,2.0
+BF,Unspecified,6,0.0
+PS,Unspecified,4,
+EC,Unspecified,5,0.0
+DZ,Unspecified,14,3.0
+GT,Unspecified,3,1.0
+IM,Unspecified,2,0.0
+ZM,Unspecified,2,0.0
+SO,Life Sciences,13,5.0
+SX,Physical Sciences,2,1.0
+MP,Life Sciences,3,1.0
+LC,Life Sciences,3,1.0
+NP,Unspecified,12,0.0
+SB,Social Sciences,4,0.0
+JE,Social Sciences,2,1.0
+PA,Unspecified,1,
+TT,Unspecified,1,
+BB,Unspecified,1,0.0
+UY,Life Sciences,655,58.0
+GB,Physical Sciences,72124,10875.0
+CN,Physical Sciences,165867,12109.0
+IN,Life Sciences,17040,1821.0
+FR,Life Sciences,22311,2389.0
+US,Life Sciences,136825,25371.0
+DE,Physical Sciences,67758,8236.0
+SE,Life Sciences,6760,982.0
+HU,Physical Sciences,2804,258.0
+CA,Social Sciences,22279,3304.0
+BA,Life Sciences,190,10.0
+ID,Life Sciences,2900,137.0
+NG,Life Sciences,1561,113.0
+ES,Life Sciences,11871,1061.0
+IT,Life Sciences,10056,860.0
+BR,Life Sciences,12460,692.0
+IQ,Physical Sciences,2328,102.0
+MY,Physical Sciences,8819,609.0
+EG,Life Sciences,4381,201.0
+AR,Physical Sciences,4361,304.0
+MZ,Health Sciences,343,36.0
+NL,Health Sciences,14648,1557.0
+AU,Health Sciences,34409,5347.0
+MX,Social Sciences,8334,734.0
+CO,Social Sciences,5589,305.0
+UA,Life Sciences,1174,116.0
+MA,Physical Sciences,2736,323.0
+RU,Life Sciences,5594,468.0
+TH,Physical Sciences,3036,239.0
+IR,Social Sciences,3064,169.0
+JP,Social Sciences,6034,774.0
+IE,Health Sciences,8406,1175.0
+IL,Health Sciences,6486,1135.0
+PE,Health Sciences,2348,177.0
+BD,Health Sciences,3224,296.0
+NO,Social Sciences,3729,400.0
+VN,Social Sciences,1185,176.0
+NZ,Health Sciences,5372,742.0
+TR,Health Sciences,7726,348.0
+MN,Physical Sciences,1258,412.0
+KR,Social Sciences,4890,684.0
+AT,Physical Sciences,12385,1372.0
+SG,Health Sciences,6418,1062.0
+PT,Physical Sciences,7316,723.0
+PL,Physical Sciences,8546,799.0
+AE,Life Sciences,595,92.0
+TT,Social Sciences,221,12.0
+SK,Physical Sciences,3055,330.0
+PK,Life Sciences,3549,274.0
+CH,Health Sciences,19068,2944.0
+ZA,Social Sciences,4370,385.0
+KE,Social Sciences,791,70.0
+BE,Life Sciences,5784,748.0
+PH,Health Sciences,1325,252.0
+CZ,Health Sciences,4254,528.0
+SA,Social Sciences,1573,144.0
+CU,Health Sciences,2946,88.0
+LK,Life Sciences,493,50.0
+DK,Physical Sciences,8233,906.0
+FI,Physical Sciences,5163,610.0
+CL,Physical Sciences,4919,534.0
+MW,Health Sciences,434,57.0
+ET,Physical Sciences,704,92.0
+HR,Social Sciences,1292,56.0
+TN,Life Sciences,935,81.0
+BF,Social Sciences,88,5.0
+RS,Life Sciences,1041,64.0
+CY,Life Sciences,322,35.0
+BG,Physical Sciences,1970,246.0
+GH,Life Sciences,507,32.0
+CR,Health Sciences,1438,79.0
+PY,Health Sciences,747,55.0
+SV,Social Sciences,216,12.0
+KH,Physical Sciences,337,62.0
+DZ,Social Sciences,1169,154.0
+EE,Social Sciences,613,50.0
+RW,Health Sciences,252,19.0
+OM,Physical Sciences,703,72.0
+ZW,Physical Sciences,418,42.0
+VE,Physical Sciences,1283,86.0
+LU,Physical Sciences,1234,187.0
+UG,Health Sciences,1092,98.0
+EC,Social Sciences,1825,110.0
+CI,Life Sciences,359,30.0
+JO,Health Sciences,788,75.0
+KG,Life Sciences,38,5.0
+MK,Health Sciences,465,22.0
+GR,Physical Sciences,4513,320.0
+KZ,Physical Sciences,1159,124.0
+LT,Social Sciences,450,38.0
+PA,Social Sciences,236,26.0
+GT,Social Sciences,313,32.0
+MG,Health Sciences,189,22.0
+PR,Physical Sciences,954,128.0
+LV,Health Sciences,242,17.0
+RO,Life Sciences,1218,73.0
+YE,Physical Sciences,1033,241.0
+BI,Physical Sciences,158,35.0
+SY,Life Sciences,188,17.0
+PG,Life Sciences,74,13.0
+JM,Health Sciences,348,40.0
+BH,Social Sciences,165,12.0
+BY,Life Sciences,354,53.0
+SD,Health Sciences,503,33.0
+NA,Health Sciences,62,2.0
+AM,Physical Sciences,3527,246.0
+QA,Physical Sciences,1468,169.0
+MM,Social Sciences,165,22.0
+AZ,Life Sciences,131,19.0
+DO,Social Sciences,159,12.0
+GM,Physical Sciences,21,1.0
+AL,Life Sciences,84,4.0
+RE,Life Sciences,205,34.0
+BJ,Health Sciences,39,3.0
+MT,Life Sciences,79,8.0
+HN,Health Sciences,104,14.0
+SN,Health Sciences,677,42.0
+GI,Social Sciences,16,5.0
+CM,Health Sciences,511,55.0
+LB,Physical Sciences,1136,175.0
+TL,Health Sciences,23,3.0
+MD,Physical Sciences,218,26.0
+MU,Physical Sciences,66,15.0
+ME,Life Sciences,74,4.0
+ML,Health Sciences,563,34.0
+TZ,Physical Sciences,568,78.0
+SI,Life Sciences,386,28.0
+MQ,Social Sciences,66,4.0
+NP,Social Sciences,443,67.0
+BW,Physical Sciences,237,31.0
+BS,Physical Sciences,52,7.0
+GA,Life Sciences,88,8.0
+XK,Physical Sciences,148,6.0
+TG,Health Sciences,142,10.0
+TD,Social Sciences,66,6.0
+IS,Life Sciences,208,23.0
+KW,Life Sciences,159,15.0
+CG,Life Sciences,77,17.0
+FJ,Health Sciences,111,24.0
+AO,Physical Sciences,80,13.0
+PS,Social Sciences,169,16.0
+CW,Life Sciences,19,5.0
+MC,Social Sciences,34,2.0
+LA,Physical Sciences,94,5.0
+ZM,Social Sciences,155,16.0
+GF,Physical Sciences,84,22.0
+BB,Social Sciences,94,8.0
+TJ,Life Sciences,102,5.0
+KP,Physical Sciences,50,4.0
+NI,Health Sciences,178,17.0
+GN,Life Sciences,30,1.0
+SR,Health Sciences,21,1.0
+NE,Health Sciences,154,18.0
+SS,Life Sciences,110,18.0
+PF,Social Sciences,52,8.0
+BT,Physical Sciences,41,1.0
+TO,Health Sciences,22,5.0
+BZ,Physical Sciences,25,2.0
+GP,Social Sciences,98,9.0
+BN,Health Sciences,107,13.0
+UZ,Health Sciences,126,9.0
+SO,Health Sciences,62,11.0
+CD,Physical Sciences,84,10.0
+LY,Life Sciences,143,9.0
+AW,Health Sciences,26,2.0
+MV,Life Sciences,19,3.0
+TM,Physical Sciences,13,2.0
+SC,Social Sciences,8,2.0
+GL,Health Sciences,27,2.0
+KN,Life Sciences,67,12.0
+BO,Physical Sciences,143,7.0
+LR,Health Sciences,88,10.0
+KY,Life Sciences,13,3.0
+AG,Health Sciences,77,12.0
+PW,Social Sciences,7,1.0
+SL,Life Sciences,23,3.0
+JE,Physical Sciences,26,2.0
+GE,Social Sciences,105,4.0
+IM,Social Sciences,12,1.0
+AS,Health Sciences,39,10.0
+LC,Health Sciences,18,1.0
+NC,Social Sciences,70,6.0
+CV,Physical Sciences,31,4.0
+LS,Physical Sciences,12,1.0
+FO,Health Sciences,11,1.0
+GD,Social Sciences,39,5.0
+DM,Health Sciences,41,2.0
+ST,Life Sciences,31,10.0
+ER,Physical Sciences,15,3.0
+AF,Life Sciences,41,2.0
+VI,Life Sciences,18,1.0
+FM,Social Sciences,8,0.0
+DJ,Life Sciences,13,3.0
+VA,Physical Sciences,12,1.0
+GY,Health Sciences,32,5.0
+HT,Social Sciences,53,8.0
+GW,Health Sciences,38,3.0
+VU,Social Sciences,10,1.0
+AD,Health Sciences,18,7.0
+LI,Life Sciences,11,0.0
+CF,Life Sciences,21,4.0
+GQ,Health Sciences,8,0.0
+WS,Physical Sciences,6,0.0
+GU,Health Sciences,9,1.0
+SM,Physical Sciences,13,2.0
+SZ,Life Sciences,10,1.0
+DE,Unspecified,789,67.0
+GB,Unspecified,921,140.0
+CN,Unspecified,266,23.0
+AT,Unspecified,167,28.0
+PT,Unspecified,51,6.0
+AR,Unspecified,33,1.0
+ZW,Unspecified,3,0.0
+QA,Unspecified,2,0.0
+CL,Unspecified,29,3.0
+MA,Unspecified,12,1.0
+TZ,Unspecified,7,0.0
+KH,Unspecified,4,0.0
+HU,Unspecified,36,5.0
+IQ,Unspecified,15,1.0
+FI,Unspecified,16,2.0
+GR,Unspecified,21,0.0
+TH,Unspecified,16,2.0
+MY,Unspecified,47,8.0
+DK,Unspecified,58,5.0
+KZ,Unspecified,11,3.0
+PR,Unspecified,6,1.0
+AM,Unspecified,2,0.0
+PL,Unspecified,68,8.0
+YE,Unspecified,2,1.0
+LU,Unspecified,7,1.0
+ET,Unspecified,12,1.0
+BG,Unspecified,17,2.0
+MD,Unspecified,3,
+SK,Unspecified,14,1.0
+BO,Unspecified,3,1.0
+VG,Life Sciences,3,0.0
+MR,Social Sciences,3,0.0
+LB,Unspecified,3,0.0
+MP,Health Sciences,7,1.0
+MS,Life Sciences,2,1.0
+SX,Social Sciences,3,0.0
+BM,Health Sciences,3,0.0
+ER,Unspecified,1,
+OM,Unspecified,2,1.0
+VE,Unspecified,3,0.0
+AX,Life Sciences,1,
+SJ,Health Sciences,1,
+TC,Life Sciences,1,1.0
+VC,Life Sciences,1,
+BW,Unspecified,3,1.0
+SB,Physical Sciences,1,
+MN,Unspecified,1,0.0
+BS,Unspecified,1,1.0
+BI,Unspecified,1,

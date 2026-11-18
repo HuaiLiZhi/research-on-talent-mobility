@@ -1,0 +1,30 @@
+{
+  "annual_rows": 1824,
+  "country_sample": 76,
+  "baseline_and_actual_series_unchanged": true,
+  "full_model_recomputed": true,
+  "dimensions_mm": [
+    180,
+    148
+  ],
+  "layout": "a/b above; square c at lower left; annual d/e stacked at lower right",
+  "full_model": "Saved joint specification with9 international variables plus7 reference predictors; no new fitting or test-based selection.",
+  "geometry_audit": "PASS",
+  "collision_audit": "PASS;0fail,0warn",
+  "glyph_floor_pt": 7.5,
+  "visual_review": "All panels inspected at180mm. Complete b labels fit; c group legend is above its grid; d/e share x ranges, edges and model-colour meanings. Annual curves use actual yearly totals, unchanged recorded pools and no display offsets.",
+  "published": [
+    {
+      "name": "Fig6.pdf",
+      "sha256": "ace8ab81bbe6f9cb761a7b228311fda370ca3dc3978a95999b5e1ef72fa3da18"
+    },
+    {
+      "name": "Fig6.svg",
+      "sha256": "1fce5ff20535d26a75969c9e49ef6833731512f4a1bc5f2a83e56b442cbc211f"
+    },
+    {
+      "name": "Fig6.png",
+      "sha256": "c82d262b16af3e72feb2e61951eb93581f16cf02b5da0f45064c10fc4cbbf171"
+    }
+  ]
+}

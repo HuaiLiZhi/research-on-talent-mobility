@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-30",
+  "status": "Exploratory plan saved before this logical-distance comparison.",
+  "units": "City-city-period flow aggregates. No personal trajectories read or synthesized.",
+  "periods": "Seven four-year periods1998-2025; lag one period; train2002-2013,validate2014-2017,test2018-2025.",
+  "samples": "Manuscript76 destination countries. International uses existing top100 foreign-origin exact-distance risk sets; domestic top50 origin cities per country selected from1998-2013 only. Candidate destinations have positive lagged verified stock and coordinates. Zero-flow pairs remain; domestic self pairs removed.",
+  "distances": {
+    "disciplinary": "One minus cosine of lagged26-field city activity-count vectors from independent aggregated stock CSV. Counts can overlap; do not label totals unique people.",
+    "functional": "One minus cosine of TF-IDF weighted city international partner-country count vectors. Both inbound and outbound events define partner-country contexts. Built from preceding-period aggregate international OD.",
+    "latent": "32-dimensional TruncatedSVD of the same preceding-period TF-IDF partner matrix; cosine distance. Fixed rank and seed; no rank search. This is a functional embedding of aggregate profiles, not the trajectory word2vec algorithm."
+  },
+  "missing": "All models include identical missing-profile indicators. Missing vector similarity is set0 (distance1).",
+  "comparisons": "Geography baseline versus replacing geography with logical distances; adding field/partner/latent distances; adding distances beyond destination inflow AND direct OD history.",
+  "primary_metric": "Country-level paired conditional Poisson deviance reduction on held-out periods; country bootstrap4000. CPC secondary. All candidates and total choice-group counts held identical within comparisons.",
+  "fitting": "Each country has equal total training weight; observed source-city/destination-country/period totals conditioned on.",
+  "secondary": "32D latent partner embedding; all models reported. Pointwise bootstrap intervals, descriptive paired-country signs with Holm-adjusted two-sided binomial tests within split.",
+  "limits": [
+    "Past mobility-derived distance is predictive network information; not independent evidence of causal cultural or institutional mechanisms.",
+    "No same-year inversion of the target flow as distance.",
+    "No actual language, coauthorship, citation or prestige distances tested.",
+    "Conditional allocation cannot identify effect on national total inflows."
+  ],
+  "manuscript_modified": false
+}

@@ -1,0 +1,157 @@
+﻿field,basis,category,numerator,denominator,share_percent
+Agricultural and Biological Sciences,countries,Relative concentration,53,58,91.37931034482759
+Agricultural and Biological Sciences,countries,Deconcentration,2,58,3.4482758620689653
+Agricultural and Biological Sciences,countries,Mixed changes,3,58,5.172413793103448
+Agricultural and Biological Sciences,flow,Relative concentration,618945.0,821412.0,75.35134621846284
+Agricultural and Biological Sciences,flow,Deconcentration,79932.0,821412.0,9.731048487239047
+Agricultural and Biological Sciences,flow,Mixed changes,122535.0,821412.0,14.917605294298111
+Arts and Humanities,countries,Relative concentration,27,27,100.0
+Arts and Humanities,countries,Deconcentration,0,27,0.0
+Arts and Humanities,countries,Mixed changes,0,27,0.0
+Arts and Humanities,flow,Relative concentration,183937.0,183937.0,100.0
+Arts and Humanities,flow,Deconcentration,0,183937.0,0.0
+Arts and Humanities,flow,Mixed changes,0,183937.0,0.0
+"Biochemistry, Genetics and Molecular Biology",countries,Relative concentration,43,44,97.72727272727273
+"Biochemistry, Genetics and Molecular Biology",countries,Deconcentration,0,44,0.0
+"Biochemistry, Genetics and Molecular Biology",countries,Mixed changes,1,44,2.272727272727273
+"Biochemistry, Genetics and Molecular Biology",flow,Relative concentration,1473813.0,1473947.0,99.99090876401932
+"Biochemistry, Genetics and Molecular Biology",flow,Deconcentration,0,1473947.0,0.0
+"Biochemistry, Genetics and Molecular Biology",flow,Mixed changes,134.0,1473947.0,0.00909123598066959
+"Business, Management and Accounting",countries,Relative concentration,28,28,100.0
+"Business, Management and Accounting",countries,Deconcentration,0,28,0.0
+"Business, Management and Accounting",countries,Mixed changes,0,28,0.0
+"Business, Management and Accounting",flow,Relative concentration,167585.0,167585.0,100.0
+"Business, Management and Accounting",flow,Deconcentration,0,167585.0,0.0
+"Business, Management and Accounting",flow,Mixed changes,0,167585.0,0.0
+Chemical Engineering,countries,Relative concentration,16,16,100.0
+Chemical Engineering,countries,Deconcentration,0,16,0.0
+Chemical Engineering,countries,Mixed changes,0,16,0.0
+Chemical Engineering,flow,Relative concentration,25130.0,25130.0,100.0
+Chemical Engineering,flow,Deconcentration,0,25130.0,0.0
+Chemical Engineering,flow,Mixed changes,0,25130.0,0.0
+Chemistry,countries,Relative concentration,32,42,76.19047619047619
+Chemistry,countries,Deconcentration,9,42,21.428571428571427
+Chemistry,countries,Mixed changes,1,42,2.380952380952381
+Chemistry,flow,Relative concentration,306776.0,345073.0,88.90176861127935
+Chemistry,flow,Deconcentration,24002.0,345073.0,6.955629678357913
+Chemistry,flow,Mixed changes,14295.0,345073.0,4.142601710362735
+Computer Science,countries,Relative concentration,39,40,97.5
+Computer Science,countries,Deconcentration,1,40,2.5
+Computer Science,countries,Mixed changes,0,40,0.0
+Computer Science,flow,Relative concentration,901183.0,903906.0,99.69875186136612
+Computer Science,flow,Deconcentration,2723.0,903906.0,0.3012481386338845
+Computer Science,flow,Mixed changes,0,903906.0,0.0
+Decision Sciences,countries,Relative concentration,22,22,100.0
+Decision Sciences,countries,Deconcentration,0,22,0.0
+Decision Sciences,countries,Mixed changes,0,22,0.0
+Decision Sciences,flow,Relative concentration,48474.0,48474.0,100.0
+Decision Sciences,flow,Deconcentration,0,48474.0,0.0
+Decision Sciences,flow,Mixed changes,0,48474.0,0.0
+Dentistry,countries,Relative concentration,18,20,90.0
+Dentistry,countries,Deconcentration,1,20,5.0
+Dentistry,countries,Mixed changes,1,20,5.0
+Dentistry,flow,Relative concentration,58021.0,59140.0,98.10787960771052
+Dentistry,flow,Deconcentration,296.0,59140.0,0.5005072708826513
+Dentistry,flow,Mixed changes,823.0,59140.0,1.3916131214068312
+Earth and Planetary Sciences,countries,Relative concentration,32,35,91.42857142857143
+Earth and Planetary Sciences,countries,Deconcentration,0,35,0.0
+Earth and Planetary Sciences,countries,Mixed changes,3,35,8.571428571428571
+Earth and Planetary Sciences,flow,Relative concentration,269979.0,295313.0,91.42130553006471
+Earth and Planetary Sciences,flow,Deconcentration,0,295313.0,0.0
+Earth and Planetary Sciences,flow,Mixed changes,25334.0,295313.0,8.57869446993529
+"Economics, Econometrics and Finance",countries,Relative concentration,31,31,100.0
+"Economics, Econometrics and Finance",countries,Deconcentration,0,31,0.0
+"Economics, Econometrics and Finance",countries,Mixed changes,0,31,0.0
+"Economics, Econometrics and Finance",flow,Relative concentration,147311.0,147311.0,100.0
+"Economics, Econometrics and Finance",flow,Deconcentration,0,147311.0,0.0
+"Economics, Econometrics and Finance",flow,Mixed changes,0,147311.0,0.0
+Energy,countries,Relative concentration,16,16,100.0
+Energy,countries,Deconcentration,0,16,0.0
+Energy,countries,Mixed changes,0,16,0.0
+Energy,flow,Relative concentration,75055.0,75055.0,100.0
+Energy,flow,Deconcentration,0,75055.0,0.0
+Energy,flow,Mixed changes,0,75055.0,0.0
+Engineering,countries,Relative concentration,52,55,94.54545454545455
+Engineering,countries,Deconcentration,2,55,3.6363636363636362
+Engineering,countries,Mixed changes,1,55,1.8181818181818181
+Engineering,flow,Relative concentration,2784247.0,2847992.0,97.76175635324819
+Engineering,flow,Deconcentration,6590.0,2847992.0,0.2313910994132006
+Engineering,flow,Mixed changes,57155.0,2847992.0,2.006852547338616
+Environmental Science,countries,Relative concentration,48,48,100.0
+Environmental Science,countries,Deconcentration,0,48,0.0
+Environmental Science,countries,Mixed changes,0,48,0.0
+Environmental Science,flow,Relative concentration,789297.0,789297.0,100.0
+Environmental Science,flow,Deconcentration,0,789297.0,0.0
+Environmental Science,flow,Mixed changes,0,789297.0,0.0
+Health Professions,countries,Relative concentration,25,25,100.0
+Health Professions,countries,Deconcentration,0,25,0.0
+Health Professions,countries,Mixed changes,0,25,0.0
+Health Professions,flow,Relative concentration,170561.0,170561.0,100.0
+Health Professions,flow,Deconcentration,0,170561.0,0.0
+Health Professions,flow,Mixed changes,0,170561.0,0.0
+Immunology and Microbiology,countries,Relative concentration,29,30,96.66666666666667
+Immunology and Microbiology,countries,Deconcentration,0,30,0.0
+Immunology and Microbiology,countries,Mixed changes,1,30,3.3333333333333335
+Immunology and Microbiology,flow,Relative concentration,151027.0,151906.0,99.4213526786302
+Immunology and Microbiology,flow,Deconcentration,0,151906.0,0.0
+Immunology and Microbiology,flow,Mixed changes,879.0,151906.0,0.5786473213697945
+Materials Science,countries,Relative concentration,43,47,91.48936170212765
+Materials Science,countries,Deconcentration,0,47,0.0
+Materials Science,countries,Mixed changes,4,47,8.51063829787234
+Materials Science,flow,Relative concentration,592783.0,639656.0,92.67215503333041
+Materials Science,flow,Deconcentration,0,639656.0,0.0
+Materials Science,flow,Mixed changes,46873.0,639656.0,7.327844966669585
+Mathematics,countries,Relative concentration,32,34,94.11764705882354
+Mathematics,countries,Deconcentration,1,34,2.9411764705882355
+Mathematics,countries,Mixed changes,1,34,2.9411764705882355
+Mathematics,flow,Relative concentration,113586.0,119907.0,94.72841452125397
+Mathematics,flow,Deconcentration,1532.0,119907.0,1.2776568507259793
+Mathematics,flow,Mixed changes,4789.0,119907.0,3.9939286280200488
+Medicine,countries,Relative concentration,60,68,88.23529411764706
+Medicine,countries,Deconcentration,2,68,2.9411764705882355
+Medicine,countries,Mixed changes,6,68,8.823529411764707
+Medicine,flow,Relative concentration,5253807.0,6233463.0,84.28392051095835
+Medicine,flow,Deconcentration,43070.0,6233463.0,0.690948193644528
+Medicine,flow,Mixed changes,936586.0,6233463.0,15.025131295397117
+Neuroscience,countries,Relative concentration,29,30,96.66666666666667
+Neuroscience,countries,Deconcentration,0,30,0.0
+Neuroscience,countries,Mixed changes,1,30,3.3333333333333335
+Neuroscience,flow,Relative concentration,256026.0,273013.0,93.77795196565731
+Neuroscience,flow,Deconcentration,0,273013.0,0.0
+Neuroscience,flow,Mixed changes,16987.0,273013.0,6.222048034342687
+Nursing,countries,Relative concentration,17,18,94.44444444444444
+Nursing,countries,Deconcentration,1,18,5.555555555555555
+Nursing,countries,Mixed changes,0,18,0.0
+Nursing,flow,Relative concentration,29611.0,29905.0,99.01688680822605
+Nursing,flow,Deconcentration,294.0,29905.0,0.9831131917739508
+Nursing,flow,Mixed changes,0,29905.0,0.0
+"Pharmacology, Toxicology and Pharmaceutics",countries,Relative concentration,16,17,94.11764705882354
+"Pharmacology, Toxicology and Pharmaceutics",countries,Deconcentration,1,17,5.882352941176471
+"Pharmacology, Toxicology and Pharmaceutics",countries,Mixed changes,0,17,0.0
+"Pharmacology, Toxicology and Pharmaceutics",flow,Relative concentration,29446.0,29563.0,99.60423502350912
+"Pharmacology, Toxicology and Pharmaceutics",flow,Deconcentration,117.0,29563.0,0.3957649764908839
+"Pharmacology, Toxicology and Pharmaceutics",flow,Mixed changes,0,29563.0,0.0
+Physics and Astronomy,countries,Relative concentration,39,43,90.69767441860465
+Physics and Astronomy,countries,Deconcentration,1,43,2.3255813953488373
+Physics and Astronomy,countries,Mixed changes,3,43,6.976744186046512
+Physics and Astronomy,flow,Relative concentration,592420.0,652119.0,90.84538251454106
+Physics and Astronomy,flow,Deconcentration,3881.0,652119.0,0.5951367771833055
+Physics and Astronomy,flow,Mixed changes,55818.0,652119.0,8.559480708275636
+Psychology,countries,Relative concentration,31,31,100.0
+Psychology,countries,Deconcentration,0,31,0.0
+Psychology,countries,Mixed changes,0,31,0.0
+Psychology,flow,Relative concentration,286454.0,286454.0,100.0
+Psychology,flow,Deconcentration,0,286454.0,0.0
+Psychology,flow,Mixed changes,0,286454.0,0.0
+Social Sciences,countries,Relative concentration,45,45,100.0
+Social Sciences,countries,Deconcentration,0,45,0.0
+Social Sciences,countries,Mixed changes,0,45,0.0
+Social Sciences,flow,Relative concentration,973193.0,973193.0,100.0
+Social Sciences,flow,Deconcentration,0,973193.0,0.0
+Social Sciences,flow,Mixed changes,0,973193.0,0.0
+Veterinary,countries,Relative concentration,13,14,92.85714285714286
+Veterinary,countries,Deconcentration,1,14,7.142857142857143
+Veterinary,countries,Mixed changes,0,14,0.0
+Veterinary,flow,Relative concentration,13020.0,13187.0,98.73360127398195
+Veterinary,flow,Deconcentration,167.0,13187.0,1.266398726018048
+Veterinary,flow,Mixed changes,0,13187.0,0.0

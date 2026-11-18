@@ -1,0 +1,181 @@
+{
+  "figure_checks": [
+    {
+      "figure": 2,
+      "source": {
+        "ready": true,
+        "strict": false,
+        "counts": {
+          "PASS": 20,
+          "WARN": 1,
+          "FAIL": 0
+        }
+      },
+      "minimum_glyph_pt": 8.0,
+      "collision": {
+        "fail": 0,
+        "warn": 3,
+        "contained_fill_overlays": 23,
+        "contained_image_overlays": 0
+      }
+    },
+    {
+      "figure": 3,
+      "source": {
+        "ready": true,
+        "strict": false,
+        "counts": {
+          "PASS": 18,
+          "WARN": 3,
+          "FAIL": 0
+        }
+      },
+      "minimum_glyph_pt": 7.5,
+      "collision": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 7,
+        "contained_image_overlays": 0
+      }
+    },
+    {
+      "figure": 4,
+      "source": {
+        "ready": true,
+        "strict": false,
+        "counts": {
+          "PASS": 17,
+          "WARN": 4,
+          "FAIL": 0
+        }
+      },
+      "minimum_glyph_pt": 6.0,
+      "collision": {
+        "fail": 0,
+        "warn": 3,
+        "contained_fill_overlays": 53,
+        "contained_image_overlays": 0
+      }
+    },
+    {
+      "figure": 5,
+      "source": {
+        "ready": true,
+        "strict": false,
+        "counts": {
+          "PASS": 17,
+          "WARN": 4,
+          "FAIL": 0
+        }
+      },
+      "minimum_glyph_pt": 8.0,
+      "collision": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 0,
+        "contained_image_overlays": 0
+      }
+    },
+    {
+      "figure": 6,
+      "source": {
+        "ready": true,
+        "strict": false,
+        "counts": {
+          "PASS": 20,
+          "WARN": 1,
+          "FAIL": 0
+        }
+      },
+      "minimum_glyph_pt": 5.95,
+      "collision": {
+        "fail": 0,
+        "warn": 0,
+        "contained_fill_overlays": 15,
+        "contained_image_overlays": 0
+      }
+    }
+  ],
+  "published": [
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig2.pdf",
+      "sha256": "11b9d92a5d874d32c81852cd3fb99967f61207e6ce10dd44b6d171ebc4906196",
+      "bytes": 105470
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig2.svg",
+      "sha256": "1a0cc174f1d86a3686b207c300955f61dd50e0da858fb26d88e02178d1cbb517",
+      "bytes": 394033
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig2.png",
+      "sha256": "c974d95e023926b37a875bc886e2d555b558911326767a288541f84252538630",
+      "bytes": 835816
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig3.pdf",
+      "sha256": "807abbfbfef0bfa303f48f1adbee2cfbcd99d3b79a890e1a8f5ad464d54e7237",
+      "bytes": 14095
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig3.svg",
+      "sha256": "f4b216cad629052ee604f65369b2d360e3935ed1a0a413406160565ad6fa61fa",
+      "bytes": 77970
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig3.png",
+      "sha256": "8d9868317bbf7df8d4e80dfa1c2d1ba5dba829469ba5b9219aabffffce10176f",
+      "bytes": 510230
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig4.pdf",
+      "sha256": "415829b66d44d23512ed08a933a70a9f6d625e624ab0a1d42a6fbc1d3f9d1120",
+      "bytes": 35436
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig4.svg",
+      "sha256": "1956e495c18ed55ca39fbda0cdccf1779192a54d20503590b4d9ceb37617daa7",
+      "bytes": 120131
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig4.png",
+      "sha256": "11395d53d27256f6fa8f95e75bbea109fe588ca23c9c4c29fa28d7200e473a2e",
+      "bytes": 688966
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig5.pdf",
+      "sha256": "de4b21f146fc053470ce203415b8afdf8627a2b6c1bfcbb17eeda159e7471d1c",
+      "bytes": 29901
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig5.svg",
+      "sha256": "296aec046f040fc15c291916cbcdc30e9168333e0c05650f58cd8934fe849a6a",
+      "bytes": 165781
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig5.png",
+      "sha256": "56564812f824ec2bd3013a182f5fd763eba3990f0a3e4860a33c855f1c5b604b",
+      "bytes": 806060
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig6.pdf",
+      "sha256": "696b8868341b80652c2df0ad619faa1219b852261b80d24c26a85c2a050444d4",
+      "bytes": 60810
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig6.svg",
+      "sha256": "155599527bd852af611cd4d47e7e52edae7745da2936c65da5263a28193ac310",
+      "bytes": 85932
+    },
+    {
+      "file": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/paper_final/figures/Fig6.png",
+      "sha256": "358ba3cea991bf3464c4037397d2fafebe5594f2ce68a37e20423f1019e3eae4",
+      "bytes": 609491
+    }
+  ],
+  "missing_refs": [],
+  "results_words_excluding_captions": 2416,
+  "before_archive": "D:/社会物理学论文/code/research-on-talent-mobility/outputs/results_network_revision_20261030/before",
+  "new_section5": "Conditional aggregate allocation information; no causal concentration mechanism established.",
+  "materially_changed_result": "Fixed foreign-city correspondence was not necessary for the allocation gain. Finite-event comparisons did not increase median concentration. Equal-event-volume sensitivity reduced domestic joint-concentration classifications from 63 to 18."
+}

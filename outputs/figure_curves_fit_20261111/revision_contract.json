@@ -1,0 +1,23 @@
+{
+  "backend": "Python / Matplotlib",
+  "Fig2b": {
+    "claim": "Compare the annual international deconcentration trajectories in two independent databases.",
+    "archetype": "quantitative grid",
+    "metric": "HHI, source-specific 1998=100",
+    "countries": 147,
+    "years": [
+      1998,
+      2023
+    ],
+    "annual_values_per_source": 26,
+    "styles": "BRIDGE black solid; Scopus grey dashed; no T-group colours",
+    "preservation": "Gini annual curves retained in Supplementary FigS2; index-dependent pace statement remains."
+  },
+  "Fig4b": {
+    "claim": "Describe association between new-city count share and flow share across all 76 countries in 2025.",
+    "fit": "Unweighted OLS with intercept, all observed country pairs; no uncertainty interval claimed",
+    "median_cross": "Two separate marginal medians, 50.0% and 8.7%; not a country and not a fitted point",
+    "styles": "Grey country points, black OLS line, grey dashed equality line, black median cross"
+  },
+  "unchanged": "Other main panels, all country observations, group membership and existing supplementary coverage panels."
+}
